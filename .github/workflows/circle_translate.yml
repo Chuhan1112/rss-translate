@@ -35,7 +35,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: ls_show
         run: |
-          python main2.py
+          python main.py
           python .github/cron_random.py
           ls -al rss/
           
