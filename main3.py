@@ -76,7 +76,7 @@ class GoogleTran:
         # tt = self.GT.translate(content,target=self.target,source=self.source)
         # print("tt.translatedText: %s;   source:%s",tt.translatedText,content)
         try:
-            # print('f 仅翻译内容至中文，直接返回翻译结果，不要添加任何额外信息，保持原文格式，所有HTML标签不变：{tt}'.format(tt=content))
+            # print('req：{tt}'.format(tt=content))
             response = client.chat.completions.create(
                 # model='alibaba/Qwen1.5-110B-Chat',
                 model=MODEL,
@@ -84,14 +84,14 @@ class GoogleTran:
                     # {'role': 'user', 'content': 'f 翻译这段文字并直接返回翻译结果,不要改动格式：： {tt}'.format(tt=tt.translatedText)}
                     {
                         "role": "user",
-                        "content": "f 翻译下列内容至中文，直接返回翻译结果，不要添加任何额外信息; 对于内容中保持原文格式、所有HTML标签不变、保留链接和图片样式,段落之间使用<p></p>,确保返回格式符合html规范：\n {tt}".format(
+                        "content": "翻译下列内容至中文，直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式,存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码：\n {tt}".format(
                             tt=content
                         ),
                     }
                 ],
                 stream=False,
             )
-            print("res:", response.choices[0].message.content)
+            # print("res:", response.choices[0].message.content)
             return response.choices[0].message.content
             # return tt.translatedText
         except:
@@ -102,15 +102,20 @@ class GoogleTran:
         if len(self.d.entries) < max:
             max = len(self.d.entries)
         for entry in self.d.entries[:max]:
+            if not entry.title:
+                continue
             one = Item(
                 title=remove_p_tags(self.tr(entry.title)),
                 link=entry.link,
                 description=self.tr(entry.summary),
+                # description=entry.summary,
                 guid=Guid(entry.link),
                 pubDate=getTime(entry),
             )
             item_list += [one]
         feed = self.d.feed
+        if not feed.title:
+            return ""
         newfeed = Feed(
             title=remove_p_tags(self.tr(feed.title)),
             link=feed.link,
