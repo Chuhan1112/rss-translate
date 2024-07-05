@@ -5,8 +5,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   # 每月26号4点4分 #
   schedule:
-   - cron: '39 5 * * *'
-   - cron: '58 14 * * *'
+   - cron: '40 7 * * *'
+   - cron: '45 23 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -34,8 +34,11 @@ jobs:
           pip install beautifulsoup4 pygtrans feedparser rfeed
       # Runs a set of commands using the runners shell
       - name: ls_show
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          MODEL: "Qwen/Qwen2-7B-Instruct"
         run: |
-          python main2.py
+          python main3.py
           python .github/cron_random.py
           ls -al rss/
           
