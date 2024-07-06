@@ -28,11 +28,11 @@ client = OpenAI(
 MODEL = os.getenv('MODEL') #"Qwen/Qwen2-7B-Instruct"
 
 
-def remove_p_tags(text):
-    # 使用正则表达式替换 <p> 和 </p> 标签
-    cleaned_text = re.sub(r"</?p>", "", text)
-    return cleaned_text
-
+    
+def remove_html_tags(text):
+    # 使用正则表达式去除 HTML 标签
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
 
 def get_md5_value(src):
     _m = hashlib.md5()
@@ -105,7 +105,7 @@ class GoogleTran:
             if not entry.title:
                 continue
             one = Item(
-                title=remove_p_tags(self.tr(entry.title)),
+                title=remove_html_tags(self.tr(remove_html_tags(entry.title))),
                 link=entry.link,
                 description=self.tr(entry.summary),
                 # description=entry.summary,
@@ -117,7 +117,7 @@ class GoogleTran:
         if not feed.title:
             return ""
         newfeed = Feed(
-            title=remove_p_tags(self.tr(feed.title)),
+            title=remove_html_tags(self.tr(remove_html_tags(feed.title))),
             link=feed.link,
             description=self.tr(getSubtitle(feed)),
             lastBuildDate=getTime(feed),
