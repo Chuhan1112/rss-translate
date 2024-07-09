@@ -105,7 +105,8 @@ class GoogleTran:
             if not entry.title:
                 continue
             one = Item(
-                title=remove_html_tags(self.tr(remove_html_tags(entry.title))),
+                # title=remove_html_tags(self.tr(remove_html_tags(entry.title))),
+                title= self.GT.translate(entry.title,target=self.target,source=self.source).translatedText,
                 link=entry.link,
                 description=self.tr(entry.summary),
                 # description=entry.summary,
@@ -117,7 +118,8 @@ class GoogleTran:
         if not feed.title:
             return ""
         newfeed = Feed(
-            title=remove_html_tags(self.tr(remove_html_tags(feed.title))),
+            # title=remove_html_tags(self.tr(remove_html_tags(feed.title))),
+            title=self.GT.translate(feed.title,target=self.target,source=self.source).translatedText,
             link=feed.link,
             description=self.tr(getSubtitle(feed)),
             lastBuildDate=getTime(feed),
