@@ -67,14 +67,15 @@ class GoogleTran:
 
         self.d = feedparser.parse(url)
         self.GT = Translate()
-
-    def tr(self, content):
+    def tr(self,content):
+        if not content:
+            return content
+        return self.GT.translate(content,target=self.target,source=self.source).translatedText
+    def gpt_tr(self, content):
         if not content:
             return content
         if self.source == "proxy":  # 代理
             return content
-        # tt = self.GT.translate(content,target=self.target,source=self.source)
-        # print("tt.translatedText: %s;   source:%s",tt.translatedText,content)
         try:
             # print('req：{tt}'.format(tt=content))
             response = client.chat.completions.create(
@@ -84,7 +85,7 @@ class GoogleTran:
                     # {'role': 'user', 'content': 'f 翻译这段文字并直接返回翻译结果,不要改动格式：： {tt}'.format(tt=tt.translatedText)}
                     {
                         "role": "user",
-                        "content": "翻译下列内容至中文，直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式,存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码：\n {tt}".format(
+                        "content": "翻译下列内容至中文，直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式,存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码,强调,翻译为中文：\n {tt}".format(
                             tt=content
                         ),
                     }
@@ -106,9 +107,9 @@ class GoogleTran:
                 continue
             one = Item(
                 # title=remove_html_tags(self.tr(remove_html_tags(entry.title))),
-                title= self.GT.translate(entry.title,target=self.target,source=self.source).translatedText,
+                title= self.tr(entry.title),
                 link=entry.link,
-                description=self.tr(entry.summary),
+                description=self.gpt_tr(entry.summary),
                 # description=entry.summary,
                 guid=Guid(entry.link),
                 pubDate=getTime(entry),
@@ -119,9 +120,9 @@ class GoogleTran:
             return ""
         newfeed = Feed(
             # title=remove_html_tags(self.tr(remove_html_tags(feed.title))),
-            title=self.GT.translate(feed.title,target=self.target,source=self.source).translatedText,
+            title=self.tr(feed.title),
             link=feed.link,
-            description=self.tr(getSubtitle(feed)),
+            description=self.gpt_tr(getSubtitle(feed)),
             lastBuildDate=getTime(feed),
             items=item_list,
         )
