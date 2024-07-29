@@ -1,200 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 29 Jul 2024 02:31:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>亚洲股市反弹，希望美国和英国的鸽派前景</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-29/</link><description>&lt;p&gt;亚洲股市在本周充斥着财报数据和三场央行会议的情况下反弹。这可能会看见美国和英国正式开启宽松政策的序幕，而日本则可能上调借款成本以迈向“正常化”。&lt;/p&gt;&lt;p&gt;中东风暴的担忧令油价轻微上升。在以色列占领的戈兰高地的一次火箭袭击后，以美两国指控黎巴嫩武装组织哈马斯是幕后策划者，导致中东地区的紧张局势上升。油市对此持怂恿态度。&lt;/p&gt;&lt;p&gt;本周需要关注的数据包括7月份的美国就业报告、美国和全球制造行业的紧要调研，以及欧元区国内生产总值和通胀数据。美国财长即将发布今年季度债券发行量的计划，而中国的重要政治局会议也可能释放进一步刺激经济力度的信息。&lt;/p&gt;&lt;p&gt;在6月份温和的通货膨胀报告之后，市场预测联邦储备将在本周三的政策会议上为9月份的降息工作提供铺垫，银色金融会在未来的会议上开启一次25个基点的常规下降，并甚至暗示有一成二的机会实现50个基点的下降。转会市场对于此结果已经定价得相当充分。&lt;/p&gt;&lt;p&gt;“联邦储备委员会预计会保持稳定态势，但可能对声明进行修订，暗示在下一次9月份会议上添加一次降息将变得更加可能，”美国高盛的分析师在一份通稿中说到。他们现在的预测风险还略微偏向于基层计划每季度降一次息这个选项，而且它实际所预测的概率并未达到市场的想象水平。&lt;/p&gt;&lt;p&gt;日本银行在本周三进行会议，并且市场认为有70%的可能性，它会提升利率至0.2%或是0.3%这个区间的高端。而还有机会它会采取更高力度的15个基点的提升。&lt;/p&gt;&lt;p&gt;投资者们对英国银行在周四的会议是否会进一步宽松还持有怀疑态度。届时有可能会出现一次五成一的概率降低其政策利率至5%，而市场对此已有五成的概率去考虑到这一降息可能性。&lt;/p&gt;&lt;p&gt;日本可能提升借贷成本的预期对其股价造成了拖累，特别是对东证股价指数的拖累。本周一早间，该指数出现约2.2%的反弹，收复了上一交易日在美国市场收盘上涨的成果。&lt;/p&gt;&lt;p&gt;亚太区除了日本之外的股票市场整体指数在上一周猛跌2%之后，在周一反弹0.4%。&lt;/p&gt;&lt;p&gt;中国蓝筹股下跌0.9%，尽管上一交易日受到降息打击却没有足够的支持。欧元斯托克50指数期货上升0.6%、富时指数期货上升0.5%、S&amp;amp;P 500指数期货添加0.4%，而纳斯达克指数期货上涨0.6%。&lt;/p&gt;&lt;p&gt;本周将有约40%的标普500指数市值持有公司发布其财报，其中包括微软、苹果、亚马逊和Facebook母公司Meta等科技热点。&lt;/p&gt;&lt;p&gt;高期望值也带来了对这些巨型企业市值可能遭遇的“抵抗力”的关注。研究与交易中心Pepperstone的首席研究员Chris Weston表示：“一些相关个体企业的交易市场在报告当日预测了大量的变动，这意味着可能会在某一股票层面产生累积性冲击，在该行业内的多个投资决策中产生可能的波动性。”在微软这个大股票中，期权交易市场预测了高至4.7%或低至4.7%的变化率，所以可能会在市场上掀起热潮。&lt;/p&gt;&lt;p&gt;汇率市场上，美元在上周低至151.93日元后稍有上升至154.15日元。欧元在1.0855处保持其价值，对比上周支撑于1.0825。&lt;/p&gt;&lt;p&gt;在商品市场上，黄金逐渐提升至每盎司2,398美元，得益于可能的鸽派联邦储备动向。在中东风暴信息影响下油价在早期上涨，之后又恢复了之前的混合态势，对中国的市场需求依旧存在顾虑。&lt;/p&gt;&lt;p&gt;Brent油价上涨4美分至每桶81.17美元，而美国原油价格下降7美分至每桶77.09美元。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 29 Jul 2024 04:16:16 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>四国外长在东京举行会议，讨论海事安全、网络安全等问题</title><link>https://www.reuters.com/world/asia-pacific/quad-foreign-ministers-meet-tokyo-talks-maritime-security-cyber-2024-07-29/</link><description>&lt;h1&gt;外长会议聚焦海洋安全与提升网络防御能力&lt;/h1&gt;
+&lt;p&gt;由澳大利亚、印度、日本和美国组成的四方集团（Quad）于本周一在东京举行会谈，会中将着重于海洋安全及建设网络防御措施的相关讨论。澳大利亚的彭妮·翁、印度的苏布拉曼扬·贾士喀尔、日本的由子·加米贾瓦和美国的安东尼·布林肯均出席了此次会谈。&lt;/p&gt;
+&lt;p&gt;此会谈紧随周日在东京与华盛顿之间召开的安全讨论，双方盟友一致认为中国是面对该区域的“最大战略挑战”。&lt;/p&gt;
+&lt;p&gt;翁女士在开幕致辞时强调：“我们深知我们的区域以及世界正在经历重塑的过程。我们皆认识本区域数十年来所面临的最为严峻的情势。”&lt;/p&gt;
+&lt;p&gt;由子·加米贾瓦在她的致辞中指出，大家相聚讨论的目的是增强网络防御能力，并提供海洋安全的培训机会，为印度洋-太平洋地区的繁荣与发展提供保障。&lt;/p&gt;
+&lt;p&gt;美国在上周宣布了在日本进行重大军事指挥部重组的计划，以深化与盟友部队的协调合作，并采取多项措施应对所谓的变动安全环境。美国政府和日本均指出来自中国的各种威胁，包括在中国东部和南部海域进行日益挑衅性的海军活动。&lt;/p&gt;
+&lt;p&gt;布林肯在对Quad团队的开幕致辞中又提及：“尽管面临着诸如加沙、乌克兰、南苏丹等冲突的问题，几乎无可避免地引起了大众的高度关注，但我们并未忘记，也决不含糊地关注着我们共同所分享的区域。”&lt;/p&gt;
+&lt;p&gt;会谈结束后，布林肯与奥斯汀将前往菲律宾进行安全会谈，作为拜登政府策略上的一环，以应对日益进取的中国挑战。&lt;/p&gt;
+&lt;p&gt;此外，美国国务院新闻声明表示，布林肯与中国的同袍王毅在老挝进行会面，重申了华盛顿及其盟友对于维持“自由、开放的印度洋-太平洋”区域的共同观点。&lt;/p&gt;
+
+&lt;p class="center"&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MIFLM7H7VVJJLMPAROZ34N6Q3E.jpg" alt="美国国务卿布林肯、澳大利亚外交部长翁、印度外交部长贾士喀尔及日本外交部长加米贾瓦出席东京的四方集团部长级会议" /&gt;&lt;/p&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BZ4BN3TO4RKMRCCZ2X3INJKW7I.jpg" alt="美国国务卿布林肯、澳大利亚外交部长翁、印度外交部长贾士喀尔及日本外交部长加米贾瓦出席东京的会议" /&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IS7LOWKSCFMJVFZW7ZL2ITNONQ.jpg" alt="美国国务卿布林肯和印度外交部长贾士喀尔出席东京的会议" /&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3OOFX3FEEFO3PG4Q6NBJTFQ7NE.jpg" alt="美国国务卿布林肯、澳大利亚外交部长翁、印度外交部长贾士喀尔及日本外交部长加米贾瓦出席东京的会议" /&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LKK5DYUTRBLTDI4VQVGI6UYTYQ.jpg" alt="美国国务卿布林肯在东京的会议中发表演讲" /&gt;</description><pubDate>Mon, 29 Jul 2024 02:18:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/quad-foreign-ministers-meet-tokyo-talks-maritime-security-cyber-2024-07-29/</guid></item><item><title>中东紧张局势暴露脆弱情绪，日元上涨</title><link>https://www.reuters.com/markets/currencies/yen-eases-nikkei-jumps-central-bank-meetings-loom-2024-07-29/</link><description>&lt;p&gt;在周一，日元汇率显现强劲走势，逆转了之前的下跌趋势。中东地区局势的加剧引发了对日本货币安全避险需求的强烈反弹。&lt;/p&gt;&lt;p&gt;特拉维夫正在考虑对在叙&lt;*Golan Height*&gt;戈兰高地发生的致命火箭袭击的回应。以色列和美国都将此次袭击归咎于黎巴嫩武装组织真主党。 &lt;/p&gt;&lt;p&gt;市场的反应揭示了投资者情绪的脆弱性，这受上周快速科技股抛售的影响。这促使日元于周四达到过去12周以来对美元的最强汇率水平。&lt;/p&gt;&lt;p&gt;美元兑日元汇率在当天早些时候下跌至0.17%至153.51日元，在初始过程中最多下跌了0.35%。然而，全球股市在周日反弹之后，于周一在亚洲地区延续了上涨趋势，其中日本的耐克指数（.N225）相比上涨超过2%。&lt;/p&gt;&lt;p&gt;自5月3日以来，美元兑日元汇率首次低至151.945，当天结束了近期下滑2.4%的走势，这是其自四月底以来的最低表现水平。&lt;/p&gt;&lt;p&gt;在得知以色列的最新消息后，“此次反弹似乎已经停滞”，棒银公司（Barclays）在东京的外币和固定利率策略师千田慎一说，“而市场的情绪仍然脆弱。”&lt;/p&gt;&lt;p&gt;然而，尽管如此，“美国股市仍是决定市场的关键。” 千田慎一在补充道。市场的动向是由美国股市引领的，我们需要观察美国股市是否能保持稳定。&lt;/p&gt;&lt;p&gt;本周美国的收益日历中，包括亚马逊（AMZN.O）、苹果（AAPL.O）、面书Meta（META.O）和微软（MSFT.O）在内的重量级公司将发布收益报告，这为此市场提供了深刻的影响。&lt;/p&gt;&lt;p&gt;外币交易商还需要面对日本银行和美国联邦储备系统在本周三的政策决定，随后在之后的一天，英格兰银行也将发布其政策决定。&lt;/p&gt;&lt;p&gt;市场越来越关注有可能在周三升息并明显减少每月国债购买的日本银行的决定。此前，在上个月的一次会议上，日本银行承诺会于此次会议中公布其量化紧缩（Quantitative Tightening）计划。&lt;/p&gt;&lt;p&gt;“如果日本银行没有升息，他们将需要公布一个比预期更为激进的量化紧缩计划以避免美元兑日元的‘传言买入，事实抛售’反应。” IG市场分析师宋特说。&lt;/p&gt;&lt;p&gt;除此之外，市场普遍预测联邦储备系统本周不会改变利率，但计划在9月的下一次会议中裁量性地降低四分之一点。&lt;/p&gt;&lt;p&gt;美元指数（衡量外汇兑日元、欧元、英镑以及六大主要对手货币的汇率）受到打击，下滑至0.19%至104.17。&lt;/p&gt;&lt;p&gt;欧元兑日元汇率下滑至0.15%，为166.53日元，兑美元汇率增长0.12%，为1.0868美元。&lt;/p&gt;&lt;p&gt; 英镑兑日元汇率保持不变，为84.35英镑，距离上周五的高位84.48英镑保持着微小的距离，这是自7月10日以来的最高点。另外，英镑兑美元汇率增长0.14%，为1.2885美元。&lt;/p&gt;&lt;p&gt;市场预测英格兰银行在本周四提出首次降息的机会和可能性几乎等同于概率翻硬币的结果。&lt;/p&gt;&lt;p&gt;此外，在本周，澳大利亚澳元勇于恢复成长趋势，与周五的低点（在本月已经开始的5月初之前）区间$0.6563，相比恢复至65.10美元的水平，距5月初废弃。 &lt;/p&gt;&lt;p&gt;领导加密货币比特币攀升至69,212美元，受到来自美国前任总统唐纳德特朗普的积极评论的支持。特朗普在周六的一场比特币会议上表示，美国必须在这领域中占据主导，否则中国会。&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img alt="东京一家银行的办公员工在楼前行走" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5BQJIBQLF5L25DRPFCB4XSI22M.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;2023年4月7日，一名办公员工在日本东京银行大楼前行走，图为《路透社》档案照/Androniki Christodoulou&lt;/i&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PX2IKTASHBL3VHL6OSHLZKGH4U.jpg" alt="Illustration picture of Japanese yen banknotes"&gt;
+&lt;figcaption style="text-align:center;"&gt;
+&lt;p&gt;&lt;i&gt;这个插图展示了日本货币日元的纸币，拍摄于2022年9月22日。REUTERS/Florence Lo/Illustration/File Photo&lt;/i&gt;&lt;/p&gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 29 Jul 2024 00:47:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-29/</guid></item><item><title>随着日经指数上涨，日元走软，央行会议迫在眉睫</title><link>https://www.reuters.com/markets/currencies/yen-eases-nikkei-jumps-central-bank-meetings-loom-2024-07-29/</link><description>&lt;p&gt;在经历了一周的大幅升值后，日元在星期一稍有回调。美元对日元的升值达到了12周以来的新高，但随着股市回暖，市场对日元作为避险货币的需求减弱。&lt;/p&gt;&lt;p&gt;据观察，长期做空日元的仓位似乎在上周末已经消耗殆尽，但交易员们现在在关注日本和美国本周中央银行的决策，以寻求进一步的方向。&lt;/p&gt;&lt;p&gt;在英镑即将迎来英格兰银行的政策声明之前，英镑本周初并没有明显波动，保持在两周半以来的最低点附近。&lt;/p&gt;&lt;p&gt;在亚洲时段，美元兑日元上涨0.29%至154.24日元。在周四前一度跌至151.945，为5月3日以来的最低点。&lt;/p&gt;&lt;p&gt;上周，美元兑日元下跌了2.36%，创下自4月下旬以来的最差周表现。&lt;/p&gt;&lt;p&gt;星期一，日本的东证股价指数(.N225)较上个交易日上涨了超过2%，涨幅明显。&lt;/p&gt;&lt;p&gt;市场猜测，日本银行可能在周三同时提升利率和显著减少月度债券采购。此前在上个月的会议中，日本银行承诺将在此会议期间阐述其量化紧缩（QT）计划。&lt;/p&gt;&lt;p&gt;“如果日本银行选择不提高利率，那么它需要比预期更加积极地宣布量化紧缩计划，以避免美元/日元出现‘传闻卖出，事实买入’的反应，”市场分析师Tony Sycamore在接受采访时表示。&lt;/p&gt;&lt;p&gt;同时，联邦储备系统虽预计维持利率不变，但预计将在9月份的召开会议上将利率下调25个基点。&lt;/p&gt;&lt;p&gt;如果股市下挫的话，市场对日元的需求会重新浮现。本周的美股议程被领先的公司亚马逊（AMZN.O）、苹果（AAPL.O）、Meta（META.O）和微软（MSFT.O）等所填充。&lt;/p&gt;&lt;p&gt;欧元兑日元上涨了0.25%至167.37日元，并且与美元保持持平，为1.0859。日元兑英镑下跌0.07%至84.32便士，接近昨日的高点84.48便士，为过去两个月的最高点。英镑在美元持续上涨的压力下上涨了0.12%至1.2882美元。&lt;/p&gt;&lt;p&gt;市场对周三的降息概率看法分歧，存在50-50的可能性。&lt;/p&gt;&lt;p&gt;在其他地区，澳大利亚元升值了0.31%至0.6568，从周五0.65105的低点恢复过来，这是自5月初以来的最低点。&lt;/p&gt;&lt;p&gt;比特币价格攀升了2%，达到68,793美元，尽管美国总统候选人唐纳德特朗普的言论在会议上没有明确提及，但他的言论对市场产生了一定的支撑效果。&lt;/p&gt;&lt;p&gt;&lt;figure&gt;&lt;img alt="Illustration picture of Japanese yen banknotes" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PX2IKTASHBL3VHL6OSHLZKGH4U.jpg" /&gt; &lt;/figure&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;本图展示了2022年9月22日日本日元纸币的插图。路透社/Florence Lo/插图/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 01:31:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/yen-eases-nikkei-jumps-central-bank-meetings-loom-2024-07-29/</guid></item><item><title>梅洛尼誓言“重启”意大利与中国的合作</title><link>https://www.reuters.com/world/europe/italys-meloni-vows-relaunch-cooperation-with-china-ansa-2024-07-28/</link><description>&lt;p&gt;意大利总理焦尔吉娅·梅洛尼在周日誓言“重启”与中国之间的合作，签署了为期三年的合作行动计划，这是她自2022年上任以来对北京的首次官方访问。&lt;/p&gt;&lt;p&gt;梅洛尼领导的极右翼政府目前正在进行这一努力，旨在改善与北京之间的贸易关系，罗马此前已经退出了中国主席习近平的旗舰“一带一路”基础设施投资计划。&lt;/p&gt;&lt;p&gt;意大利领导人表示，她的五天访问展示了从开始新阶段、重启双边合作的意愿。这项行动计划旨在尝试新的合作形式，她说。&lt;/p&gt;&lt;p&gt;当天晚些时候，梅洛尼表明，意大利与中国签署的工业合作备忘录包含了电动汽车和可再生能源等战略工业领域。&lt;/p&gt;&lt;p&gt;李强在一份由他的办公室发布的声明中指出了船舶制造、航空航天、新能源、人工智能等产业中双方中小型企业之间的相互友好合作。 &lt;/p&gt;&lt;p&gt;梅洛尼视中国投资为提振意大利疲软经济的方式，并且会与习近平和中国全国人大的领导人赵乐际会面，赵乐际在领导层排名第三。&lt;/p&gt;&lt;p&gt;周日，梅洛尼还出席了一个意大利与中国商业论坛，论坛邀请了包括意大利轮胎制造商倍耐力、能源集团埃尼、防务企业莱奥纳多、酒类生产商和多家意大利奢侈品时尚集团如杜嘉班纳等公司。&lt;/p&gt;&lt;p&gt;论坛提供了“增强双方共同利益的又一信号，平衡我们的商业交流。”她表示。梅洛尼计划在与中方官员会面时提及中国对乌克兰战争的支持及其过剩生产能力。&lt;/p&gt;&lt;p&gt;“中意应该具备双赢思维，加强贸易与投资合作，让合作更加动态和可持续发展。”在论坛开始时，李强通过梅洛尼办公室分享的一段影片表示。&lt;/p&gt;&lt;p&gt;2019年，意大利成为七国集团中唯一加入大规模“一带一路”倡议的国家，但去年在美方的压力下，出于担心北京的经济影响力而决定退出。&lt;/p&gt;&lt;p&gt;梅洛尼政府称该协定并未为意大利带来任何益处。2023年，意大利与中国的贸易价值为668亿欧元（约800亿欧元），几乎完全偏向中国一边。中国是意大利最大的非欧盟贸易伙伴，仅次于美国。&lt;/p&gt;&lt;p&gt;中国媒体表示，这次访问旨在澄清意大利退出“一带一路”的误会，并强调经济联系的重要性。&lt;/p&gt;&lt;p&gt;意大利政府正在与中国汽车制造商进行谈判，作为将另一家主要制造商吸引至该国努力的一部分，除了Stellantis（STLAM.MI）在外。&lt;/p&gt;&lt;p&gt;在商务论坛上，梅洛尼提到，意大利与中国的工业合作备忘录包含了战略性的工业领域，如电动汽车和可再生能源，并呼吁北京与其伙伴共享“新的知识前沿”。&lt;/p&gt;&lt;p&gt;保护地理标志、食品安全、环境和教育都是其他框架协议的重点。&lt;/p&gt;&lt;p&gt;意大利在华直接投资项目总额约为150亿欧元（约160亿欧元），超过1600家意大利企业在华活跃，特别涉及纺织、机械制造、制药、能源和重工业领域。&lt;/p&gt;&lt;p&gt;然而，意大</description><pubDate>Sun, 28 Jul 2024 10:44:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/italys-meloni-vows-relaunch-cooperation-with-china-ansa-2024-07-28/</guid></item><item><title>朝中社称，朝鲜金正恩视察中国边境附近的洪水地区</title><link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-inspects-flooded-areas-near-china-border-kcna-says-2024-07-28/</link><description>&lt;p&gt;朝鲜领导人金正恩在周日视察了与中国接壤的遭洪水淹没地区后，朝中社周一表示，已有5000人受到影响。&lt;/p&gt;&lt;p&gt;报导说，在朝鲜的会宁和附近与中国接壤的地区，周六记录到的暴雨导致5000人被迫隔离。&lt;/p&gt;&lt;p&gt;军方组织了大约10架飞机，每架飞离时间大致半小时，总共执行了大约20次飞行，以救助约4200人在半日内被转移。&lt;/p&gt;&lt;p&gt;金正恩赞扬了军方的救助行动，称此举救了5000人，但他斥责官员们对雨灾、洪水和台风造成的损害的预防措施准备不足。&lt;/p&gt;&lt;p&gt;近几日，朝鲜遭受超强台风盖米带来的大量降雨影响，南中国发生因暴雨引发的山体滑坡导致12人死亡，并在其他地区引发了洪水。&lt;/p&gt; 
-
-&lt;p&gt;下图由路透社发布，展示了朝鲜北部黄海南道的受灾地区。&lt;/p&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 29 Jul 2024 01:31:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/yen-eases-nikkei-jumps-central-bank-meetings-loom-2024-07-29/</guid></item><item><title>法院称碧桂园清算听证会推迟至明年一月</title><link>https://www.reuters.com/markets/asia/country-garden-liquidation-hearing-adjourned-january-next-year-court-says-2024-07-29/</link><description>&lt;p&gt;周一，香港法院将审议关于对广东碧桂园置业有限公司进行清算的请愿案延期至2025年1月20日，此举为陷入困境的中国开发商解除了心头之忧，使其有机会最终完成海外债务重组计划。&lt;/p&gt;
+&lt;p&gt;曾隶属于香港上市企业建滔化工的Ever Credit Limited于今年二月以非偿还205百万美元贷款为由，向上述碧桂园香港上市公司2007.HK提交了破产清算请愿。&lt;/p&gt;
+&lt;p&gt;这家开发商在去年违约了价值110亿美元的海外债券。&lt;/p&gt;
+&lt;p&gt;碧桂园的律师在周一的法庭会议上表示，开发商预计将在九月发布海外债务重组条款文件，并计划于明年初向法院寻求对该安排获批。&lt;/p&gt;
+&lt;p&gt;碧桂园面临的破产请愿审理正值中国当局努力复苏房地产行业之际。该行业在2021年中期陷入前所未有的债务危机，当局近期加大了复苏力度。&lt;/p&gt;
+&lt;p&gt;过去几年，越来越多的开发商违约了海外债务还款义务。&lt;/p&gt;
+&lt;p&gt;目前，许多开发商正面临由债权人提起的清算诉讼，中海地产3377.HK是最新一家面临这一困境的企业。此后，包括行业巨擘中国恒大集团3333.HK在内的少数企业已被要求进行清算。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="朝鲜领导人金正恩在与中国的边境遭洪水淹没地区视察救援工作，该地区受到超强台风盖米带来的大量降雨影响" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B2XTUWX6KJODJMZSHWEGP5NITQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;朝鲜北部黄海南道，2024年7月28日。朝鲜中央通讯社 (KCNA) 通过路透社发布&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;以下图片展示了朝鲜领导人金正恩在朝鲜北部黄海南道视察暴雨引发的洪水救援工作。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="朝鲜领导人金正恩视察朝鲜与中国边境遭超强台风盖米带来的大量降雨影响下的洪水灾区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MK3XZIVYFNMYDMVZCPN7IKFJ74.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;朝鲜领导人金正恩视察朝鲜与中国边境遭超强台风盖米带来的大量降雨影响下的洪水灾区，于2024年7月28日在朝鲜黄海南道发布，朝鲜中央通讯社（KCNA）通过路透社发布&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;请看下图展示朝鲜北部黄海南道遭大片洪水淹没的灾区。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="朝鲜北部黄海南道遭超强台风盖米带来的大量降雨影响的洪水灾区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UXVNRCOKAROSLFXFOOXL6AHFM4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;朝鲜黄海南道遭超强台风盖米带来的大量降雨影响的洪水灾区，2024年7月28日在朝鲜中央通讯社发布的图片展示&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;人们在朝鲜与中国边境遭洪水淹没区域的接机道上行走的图片。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="人们在朝鲜与中国边境遭洪水淹没区域的接机道上行走" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J6NEBGYKDZKETNENX424O3EXE4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;2024年7月28日在朝鲜黄海南道的图片中，朝鲜与中国边境遭超强台风盖米带来的大量降雨影响下的洪水灾区，朝鲜通过中央通讯社（KCNA）向路透社发布的图片展示人们在接机道上行走的情景&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;最后一张图片展示了朝鲜北部黄海南道遭超强台风盖米带来的大量降雨影响下的洪水灾区。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="朝鲜北部黄海南道遭超强台风盖米带来的大量降雨影响下的洪水灾区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HM7DIRTPIVPN5J3I6CKSJXNPWA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;朝鲜黄海南道遭超强台风盖米带来的大量降雨影响下的洪水灾区，在朝鲜通过中央通讯社（KCNA）向路透社发布的图片展示&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;上图展示了朝鲜领导人金正恩指导山脚市建设项目的情况。&lt;/p&gt; 
-&lt;figure&gt;
-&lt;img alt="朝鲜领导人金正恩指导山脚市建设项目" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A5S2FDZSKNKPPFFY5GOMLINBDU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;朝鲜领导人金正恩在朝鲜指导山脚市建设项目，该图片发布于2024年7月14日，朝鲜中央通讯社（KCNA）通过路透社发布的档案照片&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 22:45:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-inspects-flooded-areas-near-china-border-kcna-says-2024-07-28/</guid></item><item><title>早盘买入：希望平静，为更多波动做好准备</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-07-28/</link><description>&lt;p&gt;展望亚洲市场的明天。&lt;/p&gt;&lt;p&gt;在这一周世界市场面临的至关重要的一周中，投资者会密切关注日本银行和美国联邦储备决策过程中亚洲方面的情况。这一周还包括美国就业数据的发布，澳大利亚和韩国的通货膨胀数字，以及全球范围的采购经理指数报告，呈现的背景是上一周市场波动较大的情况下。&lt;/p&gt;&lt;p&gt;在过去的波动性之后，投资者的神经紧绷。担忧风险规避的趋势是否还会持续，或是上一周的卖盘是否为增加风险敞口和实施承担风险交易提供了机会窗口。&lt;/p&gt;&lt;p&gt;得益于广泛的股票抛售导致的金融条件收紧，但这些条件来自于较低的基数——根据高盛所述。本月美国的金融条件是有记录以来第二松的两个月中之一。&lt;/p&gt;&lt;p&gt;新兴市场的金融条件也正在收紧，尽管美国国债收益率和美元下跌，股市、债券和货币的隐含波动性也较高。&lt;/p&gt;&lt;p&gt;周一，对于动物精神回归来说可能太早了，因为决定在周三由日本银行和美国联邦储备发布。不过，在经历了艰难的一周后，大的科技股拖累了股市，周五的反弹也在某种程度上缓解了一些痛苦。&lt;/p&gt;&lt;p&gt;亚洲股市在周五没有出现反弹，由于MSCI亚洲（不含日本）指数跌至近两个月来的最低点。过去两周，指数下跌了5%，在过去的10个交易日中仅有一个交易日出现上涨。&lt;/p&gt;&lt;p&gt;中国的股市在周五有一些反弹，但是并没有阻止连续10周内的第8次下跌。3.7%的跌幅是自1月份以来最大的单周下跌。&lt;/p&gt;&lt;p&gt;但是，中国牛市能够得到一些罕见的好消息的慰藉。官方数据显示，尽管经济疲软，但6月份的工业利润增长速度更快。6月份利润同比增长3.6%，而5月份增长了0.7%，上半年增长幅度提高了到3.5%。&lt;/p&gt;&lt;p&gt;这应该会推动中国经济意外指数，该指数目前徘徊在10个月来的最低水平。&lt;/p&gt;&lt;p&gt;同时，日元在面对可能再高昂10个相对较高点的波动，然后达到4个月高点每美元152点的情况下，日本股市再次成为汇率的奴隶。过去两周，日经指数下跌了10%，日元在上周有所反弹。&lt;/p&gt;&lt;p&gt;日本金融市场预计在周三会有百分之70的概率进行基准点的升息，美国利率期货则表明联邦储备暂停加息几乎成为必然。&lt;/p&gt;&lt;p&gt;美元每日元的汇率能否突破150大关？&lt;/p&gt;&lt;p&gt;周一，亚洲市场日程安排相对轻松，但在接下来的一周内则充满了高阶活动和揭晓。同理于企业日程安排，日本的大规模财报发布也随着一周的进展而展开。&lt;/p&gt;&lt;p&gt;下面是可能影响市场走向的关键发展动态，这些动态对周一来说十分重要：&lt;/p&gt;&lt;p&gt;- 印度尼西亚外国直接投资增长（季度2）&lt;/p&gt;&lt;p&gt;- 美国财报&lt;/p&gt;&lt;p&gt;- 美国国务卿、国防部长与日本同行进行会议&lt;/p&gt;&lt;p&gt;&lt;figure&gt;&lt;img alt="放置在港交所广场外，显示恒生股价指数及股票价格屏幕前的公牛雕像" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DUSI46GGSVKF5JHN3R7XLCCROE.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;i&gt;2023年8月18日，中国香港，香港，放置在港交所广场外，显示恒生股价指数及股票价格屏幕前的公牛雕像。REUTERS/Tyrone Siu/File Photo&lt;/i&gt;&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 21:48:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-07-28/</guid></item><item><title>印度与美国大选竞争者的联系可能不会为两国关系带来多少影响</title><link>https://www.reuters.com/world/india-links-us-election-contenders-may-spell-little-fizz-ties-2024-07-26/</link><description>&lt;p&gt;美国大选部分候选人的印度联系可能对增进关系的意义不大，专家们表示，尤其是在华盛顿两党均支持与南亚国家建立更为紧密的关系以抗衡强硬的中国。&lt;/p&gt;&lt;p&gt;民主党副总统候选人卡玛拉·哈里斯及其丈夫贾德·万斯的夫人乌沙·契库库里·万斯，不得不经常拜访他们的父母出身地，尽管印度人以他们的成功为豪。哈里斯近期在印度祖先村落受人追捧，她出生的父亲的出生地也在该村落。&lt;/p&gt;&lt;p&gt;曾任美国印度大使的哈什·瓦尔丹·申格拉表示，“从印度的角度来看，共和党或民主党都是如此，这种关系享受两党的支持，不应受到影响。”他提到说，“这只会带来益处，而不会产生负面影响。”&lt;/p&gt;&lt;p&gt;一位印度政府官员透露，由于华盛顿两党都看好与新德里的关系，谁胜谁败或谁有印度血统都几乎没有影响。两国领导人拜登和特朗普均寻求拉拢印度，不仅在对抗中国方面，还试图使新德里减少对俄罗斯武器的依赖。&lt;/p&gt;&lt;p&gt;哈里斯和贾德·万斯的夫人乌沙·契库库里·万斯两人均与印度南部有联系。乌沙·契库库里·万斯来自于著名的学术世家。&lt;/p&gt;&lt;p&gt;在哈里斯的母亲出生地，位于泰米尔纳德邦的土耳其斯坦鲁普姆村，她被认为是民间的楷模。民众认为她达到了一段高度，从之前受限的家中，成为美国第一大国的公众人物。&lt;/p&gt;&lt;p&gt;哈里斯五岁时曾访问过这个村落。她回忆说，在家人居住于钦奈的城市海滩边走动的时光。该村位于该村落大约200英里的郊区，居住着大约2000人。&lt;/p&gt;&lt;p&gt;但哈里斯自成为美国副总统后，就没有再回访过该村落。&lt;/p&gt;&lt;p&gt;“村民期待造访、公示或者至少提及村落，但没有发生这种情况”，杂货店老板G. Manikandan说，“但是当她赢得选举，我们会邀请她，并为她安排盛大庆祝和欢迎活动。”&lt;/p&gt;</description><pubDate>Fri, 26 Jul 2024 11:32:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india-links-us-election-contenders-may-spell-little-fizz-ties-2024-07-26/</guid></item><item><title>中国选手谢宇梦想首秀斩获金牌</title><link>https://www.reuters.com/sports/olympics/shooting-chinas-xie-wins-10m-air-pistol-gold-2024-07-28/</link><description>&lt;p&gt;中国选手谢宇周在男子10米气手枪项目上实现了梦幻般的奥运首秀夺冠。&lt;/p&gt;&lt;p&gt;在周六的10米气步枪混合团体赛中，中国取得胜利后，来自沙特鲁尔射击中心的大屏幕又呈现出谢宇周（240.9分）荣获另一个金牌的时刻。他击败了以240分收获银牌的意大利选手费德里科·尼洛·马尔迪尼。&lt;/p&gt;&lt;p&gt;排在第三的帕洛·蒙纳以218.6分拿到铜牌。从排名前三位到其他参赛者之间，已经有明显的差距。&lt;/p&gt;&lt;p&gt;“如果我没能夺冠，这将是我的最大遗憾。”谢宇周在接受记者采访时说道。&lt;/p&gt;&lt;p&gt;“通过竞争入选中国参加奥运会名单是非常困难的，能站在如今这个更高级的舞台上，对我来说至关重要。”&lt;/p&gt;&lt;p&gt;在最终的比赛中，马尔迪尼曾在淘汰环节将差距缩小后，以9.5分的成绩结束却表现平平。而谢宇周最后打出10分，稳笃笃地赢得了金牌，并羞涩地笑了起来，此时站在观众区中的队友们身着抢眼的红白搭配的服装为他欢呼。&lt;/p&gt;&lt;p&gt;“我们都犯了一些错误，但是我们没有任何遗憾。”马尔迪尼说，将队友庞纳提及。&lt;/p&gt;&lt;p&gt;“自决赛一开始，我就有良好的感觉。”庞纳同样谈道，“这确实令人激动，而且非常罕见。因为我们是好友。&lt;/p&gt;&lt;p&gt;“我们首次共同站在领奖台，这是我们最重要的荣誉。”&lt;/p&gt;&lt;p&gt;在女子比赛中，尽管19岁的赵子晴击败了室友金意智赢得金牌，但同样让印度运动员曼努·贝赫卡尔成为了巴黎奥运会上首位获得奖牌的女射手。&lt;/p&gt;&lt;p&gt;赵子晴以243.2分刷新了奥运纪录，金意智则是241.3分。&lt;/p&gt;&lt;p&gt;“我现在还不敢相信我真的戴上了金牌，但也许随着时间推移，我会确信拥有这块金牌。”赛后哭泣的赵子晴如此说道，“这块金牌确实非常沉甸甸的。”
-
-金意智对于自己在职业生涯初期就将其指引的射箭者败下阵来，没有任何问题。那时“就像我的姐姐...当我胜利时，我感到格外高兴。”她说。&lt;/p&gt;&lt;p&gt;贝赫卡尔（221.7分）只得铜牌，但她成为首位在奥运会比赛中获得奖牌的印度女射手。&lt;/p&gt;&lt;p&gt;“我还有三个赛事要参加，我希望印度在这次奥运会上能够以最大的毅力赢得尽可能多的奖牌，不仅是在射箭项目上，其他的运动同样如此。”她在接受记者采访时说。&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 08:19:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/shooting-chinas-xie-wins-10m-air-pistol-gold-2024-07-28/</guid></item><item><title>菲律宾称中国曲解南海协议</title><link>https://www.reuters.com/world/asia-pacific/philippines-says-china-mischaracterised-south-china-sea-resupply-mission-deal-2024-07-28/</link><description>&lt;p&gt;菲律宾外交部上周日指控中国“曲解”了一项允许菲律宾驻扎在南海托管礁的海军舰只不受阻碍补给的安排。&lt;/p&gt;&lt;p&gt;上月，由于持续的争执，两国在补给部署在西摩尔礁的士兵上达成了一项“临时安排”。西摩尔礁是马尼拉在1999年故意搁浅的一艘海军舰只，为的是加强其海上索赔权利。 &lt;/p&gt;&lt;p&gt;菲律宾外交部发言人特雷塞蒂亚·达扎周六表示，日前的补给任务“顺利完成”而中国海警船只“保持相当距离”。 &lt;/p&gt;&lt;p&gt;然而，中国代表团称，中国海警事先被通知了此次行动，并在“现场确认”后放行了船只。&lt;/p&gt;&lt;p&gt;达扎称，周日，中国“曲解”了补给行动是“不幸的”。她表示，“发言人选择歪曲两国之间已经达成的协议，而不是承认双方如何协调以避免误判和误解。”&lt;/p&gt;&lt;p&gt;马尼拉的中国大使馆并未在非办公时间内立即对有关询问作出回应。&lt;/p&gt;&lt;p&gt;关于中菲补充协议的具体细节尚未公开发布，但两国表示该协议旨在缓解该水域的紧张局势。&lt;/p&gt;&lt;p&gt;达扎表示：“菲律宾和中国之间达成的共识是出于善意的，明确规定不会损害各自国家立场。”&lt;/p&gt;&lt;p&gt;“持续传播对已达成协议及执行的错误理解，是不建设性的。”她补充说。&lt;/p&gt;&lt;p&gt;菲律宾南海专项工作小组周日还补充表示，马尼拉并未寻求中国对补给其士兵行动的授权。文中提到的菲律宾补给舰只没有被中国海警拦截和检查。&lt;/p&gt;&lt;p&gt;位于菲律宾专属经济区内，中国声称对西摩尔礁拥有主权。上个月发生了一场与中国海警与菲律宾海军之间的冲突，菲律宾一名海军水手在一次对抗中失去了一个手指.&lt;/p&gt;&lt;p&gt;中国主张几乎整个南海均为其领土，基于历史地图，这一主张遭到2016年国际法庭仲裁的驳斥。 &lt;/p&gt;&lt;figure&gt;&lt;img width="auto" style="display: block; margin: initial auto;" alt="菲律宾的BRP西摩尔礁陷入困境的海军军舰于1999年搁浅，自那以后就成为了争议中的菲律宾军事基地。" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BRP_Sierra_Madre.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;西摩尔礁，2014年3月29日。路透社/埃里克·德·卡斯特罗&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img width="auto" style="display: block; margin: initial auto;" alt="2024年3月5日，中国海警水炮船抵近前往南海西摩尔礁执行补给任务的菲律宾补给舰 Unaizah。" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4B3UZ7Z7MRKGHDRXV2J7Y7DXTI.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年5月4日，中国海警水炮船抵近前往南海西摩尔礁执行补给任务的菲律宾补给舰 Unaizah。路透社/Adrian Portugal/文件图片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 08:29:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-says-china-mischaracterised-south-china-sea-resupply-mission-deal-2024-07-28/</guid></item><item><title>普京警告美国警惕冷战式导弹危机</title><link>https://www.reuters.com/world/putin-warns-united-states-cold-war-style-missile-crisis-2024-07-28/</link><description>&lt;p&gt;俄总统弗拉基米尔·普京周日警告美国，如果华盛顿在美国部署远程导弹，俄罗斯将在足以打击西方国家的范围内对等部署类似的导弹。&lt;/p&gt;&lt;p&gt;美国于7月10日宣布，从2026年起将在德国开始部署远程导弹，作为未来部署发展中的长程导弹的一部分，包括 SM-6、炮舰巡航导弹和发展的高超音速武器，下面可以点击查看&lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/joint-statement-from-united-states-and-germany-on-long-range-fires-deployment-in-germany/#:~:text=The%20United%20States%20will%20begin,these%20capabilities%20in%20the%20future" target="_blank"&gt;相关文件&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;在圣彼得堡举行纪念俄罗斯海军日的活动上，普京向来自俄罗斯、中国、阿尔及利亚与印度的海军士兵演讲时表达了警告称，此举动可能导致与美国进入冷战时期的导弹危机，对此他作出了明确的警告。&lt;/p&gt;&lt;p&gt;“这类导弹，将在未来可能装备核弹头的情况下，击中我们国土目标的飞行时间为大约10分钟，”普京说。&lt;/p&gt;&lt;p&gt;“考虑到美国及其在欧洲及其他世界地区的卫星所采取的行动，我们将采取对等措施来进行部署。&lt;/p&gt;
-勿忘，普京于2022年将他的军队送入乌克兰，此战争在他看来是俄罗斯与西方的大历史性斗争的一部分，他指称苏联1991年解体后，由于一些他认为属于莫斯科影响力的区域被西方正在进行侵略，导致了俄罗斯被羞辱。&lt;/p&gt;
-&lt;p&gt;乌克兰与西方则说，此侵略行为实际上是一场帝国籍地的大掠夺。当下，俄罗斯控制着乌克兰大约18%的土地，包括克里米亚及东部四地区部分。&lt;/p&gt;&lt;p&gt;俄罗斯声称这些土地曾为俄罗斯帝国的一部分，现在再次成为俄罗斯所有，而绝不会放弃。&lt;/p&gt;
-&lt;p&gt;俄罗斯与美国的外交关系的情况比1962年古巴导弹危机时更恶劣。双方都呼吁降级紧张局势，而同时，所有人都在采取举措加剧紧张。&lt;/p&gt;
-&lt;p&gt;普京提到美国是在煽动紧张气氛以及迁移了台风导弹系统到丹麦和菲律宾，并且把美国的计划比作北约1979年在西欧部署潘兴二号发射器的情况。&lt;/p&gt;
-&lt;p&gt;苏联领导层，包括当时的总书记尤里·安德罗波夫，担心潘兴二号部署是美国综计详细计划的一部分，旨在通过打击苏联的政治与军事领导层，从而摧毁苏联。&lt;/p&gt;
-&lt;p&gt;“这种情况使人想起了与美国中程潘兴导弹在欧洲部署相关的冷战事件。&lt;/p&gt;&lt;p&gt;潘兴二号导弹，被设计用于发射可变当量的核弹头，在1983年被部署到了西德。\n
-在1983年，患病的安德罗波夫和克格勃解码了一系列美国的行动以及潘兴二号部署和重大北约事件，作为表现西方意图于苏联发起先发制人攻击的征兆，可以从&lt;a href="https://nsarchive.gwu.edu/briefing-book/aa83/2018-11-05/soviet-side-1983-war-scare" target="_blank"&gt;此链接查看详情&lt;/a&gt;。\n
-&lt;/p&gt;
-&lt;p&gt;普京重申了先前的警告，即俄罗斯可能开始生产中程和短程能够携带核武器的导弹，并在考虑美国将类似导弹带到欧洲和亚洲后再决定部署地点。&lt;/p&gt;
-
-&lt;figure&gt;&lt;img alt="圣彼得堡2024年7月28日俄罗斯海军日游行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/R7N7OHXFONN7BCGOXKHYTK73QE.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;圣彼得堡，2024年7月28日海军日游行。来源：斯putnik/Sergei Savostyanov/Pool via REUTERS&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="2024年7月24日，普京在莫斯科主持讨论谈及被俄罗斯声称在2022年吞并的乌克兰地区社会发展问题的会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7CBATGXGAZNPZLACNSDKDPQWUI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年7月24日，普京在莫斯科主持讨论提及被俄罗斯声称在2022年吞并的乌克兰地区社会经济发展问题的会议。来源：斯putnik/Grigory Sysoyev/Pool via REUTERS文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 09:12:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/putin-warns-united-states-cold-war-style-missile-crisis-2024-07-28/</guid></item><item><title>美国升级驻日军事指挥权，警告中国威胁</title><link>https://www.reuters.com/business/aerospace-defense/us-announce-military-command-revamp-japan-official-says-2024-07-28/</link><description>&lt;p&gt;周日，美国宣布计划对日本的军事指挥结构进行重大改造，以加深与盟友军队的协调，因为两国将中国定为该地区“最大的战略挑战”。&lt;/p&gt;&lt;p&gt;该声明是在东京举行的美国国务卿安东尼·布林肯和国防部长劳埃德·奥斯汀与日本的相应的部长级官员- 以及担任同职的长官依照指示与日方进行安全会谈之后做出的。 日本的部长们是铃木雅子和木原语慎。&lt;/p&gt;&lt;p&gt;"美国将升级美国驻日本军队为一个具有扩展任务和运营责任的联合部队总部。"&lt;/p&gt;&lt;p&gt;奥斯汀在所谓的“2+2”会谈后对记者说，"这是近70年来的美国与日本军事关系最显著的改变之一。“&lt;/p&gt;&lt;p&gt;部长们在联合声明中指出，新的指挥结构将会与东京自己的计划并行执行，该计划旨在到2025年3月建立军队联合指挥架构。&lt;/p&gt;&lt;p&gt;这些改造措施是为了应对美国与日本所说的“不断变化的安全环境”，其中包括从超级大国中国来的各种威胁。&lt;/p&gt;&lt;p&gt;声明谴责了中国在南中国海和东中国海的所谓“挑衅性”行为、与中国和俄罗斯联合军事演习以及核武库快速扩张。&lt;/p&gt;&lt;p&gt;美国与日本的一位部长们表示，中国寻求以牺牲其他国家利益为代价重塑国际秩序。&lt;/p&gt;&lt;p&gt;“这种行为对联盟和整个国际社会表示极大关切，是印太地区及更广区域的最大的战略挑战”。 &lt;/p&gt;&lt;p&gt;中国外交部未立即对此发询评论给路透社。&lt;/p&gt;&lt;p&gt;奥斯汀向记者明确指出，此指挥升级并非出于对中国的威胁，而是反映了盟友希望更紧密、更有效地合作。&lt;/p&gt;&lt;p&gt;日本为美国在亚洲投射军事能力提供基地，驻有约5.4万名美国士兵、数百架美国飞机以及华盛顿部署的战机航母打击群。&lt;/p&gt;&lt;p&gt;受中国日益增长的军事实力和北韩定期的导弹测试影响，日本近年来从几十年后战时代的和平主义中做出了显著转变。去年，它推出了将国防开支增加为GDP 2%的计划。&lt;/p&gt;&lt;p&gt;新的美国在日指挥架构将由一名三星级将军带领，然而奥斯汀表示，美军可能在未来考虑任命四星级的指挥官到日本，岸防在韩国时即已使用此制度。&lt;/p&gt;&lt;p&gt;这是两国首次讨论“延伸威慑”，这个词指的是美国承诺使用核力量来威慑攻击盟友。这是日本敏感的话题，日本一直在推动减少核武扩散，并且历史上曾受到原子弹攻击的国家。&lt;/p&gt;&lt;p&gt;两国讨论了增强延伸威慑以促进区域稳定和制止冲突爆发，政府发布公告他们谈到的细节并不多。日本部长卫田说，“面对日本周边日益严重的核威胁，进一步加强延伸威慑对我来说很重要，我欢迎在这一问题上加深讨论。”&lt;/p&gt;&lt;p&gt;盟国也对俄罗斯从北韩采购弹道导弹供给乌克兰战争及莫斯科向平壤转移大规模毁灭性武器或导弹技术的可能性表示深切关注。&lt;/p&gt;&lt;p&gt;北韩已誓言在战争中有能力“全面摧毁”其敌人，据路透社报道，北韩媒体朝中社近日表示将在朝鲜战争周年纪念日期间公布这一计划。&lt;/p&gt;&lt;p&gt;奥斯汀与金田滨田后又与韩国国防部长宋完植会面，签署了一项协议，期望通过实时共享朝鲜导弹警告数据和联合军演等措施来“正规化”三方合作。&lt;/p&gt;&lt;p&gt;拜顿政府一直推动加强东京与首尔之间的合作，这些紧张关系可以追溯到日本在1910年至1945年对韩国的占领。&lt;/p&gt;&lt;p&gt;"这项备忘录加强了日本、美国和韩国之间的合作，让我们伙伴关系无论国际形势如何变化都坚不可摧。”日本的部长金田滨田对记者说，之后他们进行了三方会议。&lt;/p&gt;&lt;p&gt;美国也希望利用日本产业的力量来缓解由战争改引发的对乌克兰和中东需求给美国武器制造商带来的压力。 日本与美国正在多个领域进行合作，包括导弹共同生产工作、供应链的弹性化和船、飞机修理等。&lt;/p&gt;&lt;p&gt;然而，一个旗舰项目 - 利用日本工厂增加先要防空导弹的生产计划，被滞后的关键部件制造商波音瓶颈所拖延。根据路透社上月的报告，日本工厂因其正处于短缺状况。&lt;/p&gt;&lt;p&gt;在离开东京后，布林肯和奥斯汀将与另一个东盟盟友菲律宾进行安全会谈，以应对越来越激进的中国。&lt;/p&gt;&lt;p&gt;布林肯周六在老.writeFileSync(AL)与中国同行王毅会面，并反复重申华盛顿和盟友想保持“自由、开放的印太地区”，据美国发布的会议总结。&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 03:15:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/us-announce-military-command-revamp-japan-official-says-2024-07-28/</guid></item><item><title>福耀玻璃表示，国土安全部突袭后俄亥俄州工厂不是调查目标</title><link>https://www.reuters.com/business/fuyao-glass-says-ohio-unit-not-target-investigation-after-homeland-security-2024-07-28/</link><description>&lt;p&gt;中国玻璃制造商福耀玻璃工业集团（600660.SS）表示，美国政府机构于7月26日在俄亥俄州对其子公司进行搜查，这是对一家第三方劳动力服务公司的正在进行的一项调查的一部分。&lt;/p&gt;&lt;p&gt;福耀玻璃美国公司并不是此次调查的目标，福耀引述美国当局的话，在上海证券交易所的一份文件中表示。&lt;/p&gt;&lt;p&gt;早些时候的当地媒体报道引用了美国国土安全部调查人员发言人的话称，他们正在对福耀玻璃的子公司以及27个其他位置执行搜查令，这是对“涉嫌金融犯罪和劳工剥削指控”进行的一项调查的一部分。&lt;/p&gt;&lt;p&gt;该公司表示，在搜索期间，其俄亥俄州子公司的生产部分暂停，但货物运输和交付未受影响，目前的运营仍然正常。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="The company logo of Fuyao Glass Industry Group is displayed during a news conference in Hong Kong" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P4WDSBZBZBN27CVHRDM5NBA4YU.jpg" /&gt;
+&lt;img alt="碧桂园天津住宅建设项目工地" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QCXUSWM34JONFNS6WACU23K47I.jpg" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;The company logo of Fuyao Glass Industry Group is displayed during a news conference in Hong Kong, China February 27, 2017. Picture taken February 27, 2017. REUTERS/Bobby Yip/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 08:06:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/fuyao-glass-says-ohio-unit-not-target-investigation-after-homeland-security-2024-07-28/</guid></item><item><title>特朗普誓言要建立比特币“储备”，并援引中国的竞争</title><link>https://www.reuters.com/business/finance/trump-cites-china-competition-vowing-create-bitcoin-stockpile-2024-07-27/</link><description>&lt;p&gt;共和党总统候选人人特朗普在周六的一个比特币会议上表示，美国必须在加密货币领域占据主导地位，否则中国会这么做。这是他为争取加密货币支持者所做的最新举动，这些支持者对中国政府的限制和一些他一度认为是诈骗的加密货币表示了反对。&lt;/p&gt;
-&lt;p&gt;在纳什维尔举行的比特币2024大会中，特朗普把自己定位为支持加密货币的总统候选人，并在十一月五日的总统选举之前表示，他将使美国成为全球的加密货币领导者，并采取比可能的民主党候选人——副总统卡玛拉·哈里斯所采取的更友好监管政策。&lt;/p&gt;
-&lt;p&gt;共和党已承诺为加密货币提供更轻的管制，特朗普也抨击了民主党对这一领域企图实施的管制。&lt;/p&gt;
-&lt;p&gt;"如果我们不拥抱加密货币和比特币技术，中国和其他国家将这样做。他们会占据主导地位，美国不能让中国主导。他们在这一领域取得的进展已经太多了，”特朗普说。&lt;/p&gt;
-&lt;p&gt;中国已经对加密货币进行了打压，并对跨境资金流动实施了严格的控制。然而，那里的人们仍然可以在加密货币交易所进行像比特币一样的代币交易，并且中国的投资者也可以开设海外银行账户购买加密资产。&lt;/p&gt;
-&lt;p&gt;特朗普表示，他会设立一个由总统顾问组成的加密货币顾问委员会，并利用美国政府现在持有的或未来收据的加密货币建立一个国家“储备库”。他补充说，“永远不要出售你的比特币。”如果我当选，美国政府政策将是保留目前持有的或未来收据的所有比特币的100%,"他说。&lt;/p&gt;
-&lt;p&gt;特朗普还表示希望扩大美国企业在比特币开采方面的努力，尽管他在2021年曾将加密货币称作“骗局”。&lt;/p&gt;
-&lt;p&gt;比特币的价格在特朗普的演讲后最初有所缓和，但随后反弹，以最近的报价上升0.94%，至68,182美元。&lt;/p&gt;
-&lt;p&gt;特朗普还重申他已经改变了处罚措施，剥夺了罗恩·奥布里奇的任期。这个进行丝绸之路网站活动的人因创建并经营该网站而被判无期徒刑，该网站允许用户秘密购买和销售毒品和其他非法产品。&lt;/p&gt;
-&lt;p&gt;特朗普表示，奥布里奇的判罚时间“够了”，这句话在场外引起了鼓掌和群众的“释放罗恩”的呼声。&lt;/p&gt;
-&lt;p&gt;全球多个国家，包括美国都表现出对于私人运营的极其波动的数字货币可能会削弱政府对金融和货币体系的控制、增加系统风险、促进金融犯罪以及伤害投资者这一担忧。&lt;/p&gt;
-&lt;p&gt;数字资产倡导者表示，投票周期中加密货币用户正成为支持势力的一部分。虽然还不清楚有多少用户会在选票上优先考虑加密货币而不是其他问题。&lt;/p&gt;
-&lt;p&gt;一些加密货币倡导者支持特朗普，美国任何在创建国家比特币储备方面的举动，可能在他们看来是一个重大举措，旨在使加密货币合法化。&lt;/p&gt;
-&lt;p&gt;全球比特币应用的CEO杰克·马尔勒斯告诉路透社，特朗普提出的建立战略性比特币储备计划是一个“难以置信的信心投票”。&lt;/p&gt;
-&lt;p&gt;与此同时，加密货币高管们对美国国会议长乔·拜登在任下，证券交易委员会的执法行动表示不满。&lt;/p&gt;
-&lt;p&gt;该机构指责几家加密公司，包括币安和Coinbase，在其平台上交易应该被列为证券的数字资产，而这些公司对此予以否认。&lt;/p&gt;
-&lt;p&gt;近30名民主党的国会议员和候选人在周六给民主党全国委员会和哈里斯寄送去信，鼓励他们对数字资产采取“前瞻性的”方法。&lt;/p&gt;
-&lt;p&gt;他们在信中写道：“从选举的角度来看，加密货币和区块链技术对确保选举期间的胜利具有显著影响。”&lt;/p&gt;
+&lt;i&gt;2023年8月18日，中国开发企业碧桂园在中国天津的住宅建设项目工地。 图片来源于Reuters/Tingshu Wang/档案照&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 29 Jul 2024 02:16:46 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/country-garden-liquidation-hearing-adjourned-january-next-year-court-says-2024-07-29/</guid></item><item><title>亚洲股市反弹，希望美国和英国的鸽派前景</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-29/</link><description>&lt;p&gt;亚洲股市在周一大幅反弹，精彩纷呈的一周即将上演，充满了财报发布和三个央行会议的纠葛。美国和英国可能开启宽松政策的门户，而日本则有可能提升借贷成本，迈向“正常性”。&lt;/p&gt;&lt;p&gt;随着以色列-黎巴嫩联合国地雷bezelle特拉皮特登占以色列占领的戈兰高地后火箭袭击的一片紧张局势，中东地区的国家关系忧虑推升了原油价格。美国和以色列都指责这次袭击与黎巴嫩的武装组织伊朗哈马斯有关联。&lt;/p&gt;&lt;p&gt;本周，全球关注的焦点是7月的美国就业报告，此外，美国和全球制造业的关键调查、欧元区国内生产总值与通货膨胀数据也牵动了市场的神经。&lt;/p&gt;&lt;p&gt;美国财长即将宣告本季度计划出售的国债数量，同时，中国的政治局会议可能揭示由上月末意外的降准带来的更多的刺激政策信息。&lt;/p&gt;&lt;p&gt;在温温吞吞的6月份通胀报告之后，市场预期美联储将会在下一次政策会议上为9月降息作铺垫。期货市场清楚地定价了0.25%的降息情况，甚至暗示在12月可能降息50个基点，且预计将有68个基点的降息在圣诞节前执行。&lt;/p&gt;&lt;p&gt;“美国联邦公开市场委员（Fed）参数显示，会议预计将保持稳定，但在声明中暗示上下一次会议9月降息的可能性更为强烈。”高盛的分析师在提要中写道。“我们对美联储路径的风险评估稍微倾向于下侧，但并不像市场定价暗示的那样显著。”&lt;/p&gt;&lt;p&gt;日本银行定将于本周三召开会议，市场预计其加息0.2%，可能有0.1%的可能性加息0.2%，以此形成新的货币政策周期。&lt;/p&gt;&lt;p&gt;英格兰银行周四的一次会议使市场不确定性上升，致使英国利率降低至5%的可能性为51%，市场不确定是否将裸弧度过降低息门槛。&lt;/p&gt;&lt;p&gt;日本潜在的加息成本对于日经指数（.N225）构成了抑制，上周该指数下跌6%，日元强势反弹。在周一早盘，所有利好的经济信息使得该指数反弹了2.2%，并将这股势头从美国股市的强劲中得到延续。&lt;/p&gt;&lt;p&gt;亚洲太平洋地区的指向中国大陆和香港的指数 .MIAPJ0000PUS 记录了0.4%的涨幅，虽然上周整体从高位下滑了2%。&lt;/p&gt;&lt;p&gt;中国的蓝筹股 .CSI300 下滑了0.9%，部分表面上并不受到最近降准的直接影响。&lt;/p&gt;&lt;p&gt;欧元STOXX50期货上涨0.6%，而富时期货上涨0.5%。 S&amp;amp;P 500期货上涨0.4%，纳斯达克期货上涨0.6%，反映过40%的市场权重在本周报告的S&amp;amp;P 500公司中，包括名片上的科技明星微软（MSFT.O）、苹果（AAPL.O）、亚马逊（AMZN.O）和 Facebook 家长策略平台（META.O）等。&lt;/p&gt;&lt;p&gt;市场预料多数说是相当强烈的，任何可能的失望对市值最高的股票良和procitation甚高，可能反映出全行股的水位高度及其波动性。&lt;/p&gt;&lt;p&gt;"基于个别报告活跃日的期权市场价格，经纪公司佩珀斯通提到‘市场可能对各种指标之后，对个别股票可能会产生影响'。\"公司收益报告很少会有米尔科攻击微软后的强烈反应，使用期权市场暗示4.7%的价格变动，周二后的收市可能会出现激烈的竞争状态， \"海洋分析师克里斯·沃思菲尔德补充说。\n“黄金价格随扶的可能鸽派的联邦公开市场委员会而上升0.5%至每盎司2,398美元，市场对降息的预期提升了价格。”&lt;/p&gt;&lt;p&gt;原油价格在中东消息刺激下初期走高，然而持续担忧中国需求的问题让油价走向变得复杂，西得克萨斯中质原油价格下跌7美分达到每桶77.09美元，而布伦特原油价格则上涨4美分，达到每桶81.17美元。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 00:47:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-29/</guid></item><item><title>梅洛尼誓言“重启”意大利与中国的合作</title><link>https://www.reuters.com/world/europe/italys-meloni-vows-relaunch-cooperation-with-china-ansa-2024-07-28/</link><description>&lt;p&gt;意大利总理朱塞佩·唐泽利内奥（Giorgia Meloni）于周日坚定承诺，“重启”与中国之间的合作关系，并在为期三年的行动计划框架内，正式开启了她自上任以来首次对中国官方的国际访问。&lt;/p&gt;&lt;p&gt;唐泽利内奥作为自2022年至今引领着一个倾向于右翼政治的政府的重要人物，她与中共中央政治局常委、国务院总理李强进行了会面，旨在通过提高与北京的贸易关系，改善意大利与中国的合作关系。此前，意大利出于对美压力，鉴于对中国主导的“一带一路”基础设施投资倡议的担忧，已退出了该联盟。&lt;/p&gt;&lt;p&gt;唐泽利内奥强调，其五天的行程象征了“开始一个崭新世纪，重启双边合作”的决心。此行动计划旨在试验和实施新的合作模式。&lt;/p&gt;&lt;p&gt;当天晚些时候，唐泽利内奥宣布，意大利与中国的工业合作备忘录包括电动汽车与可再生能源等行业在内的战略产业。&lt;/p&gt;&lt;p&gt;李强在一份由其办公室发布的声明中表示，双方在船建造、航空航天、新能源、人工智能等领域的中小企业合作具有互利性。&lt;/p&gt;&lt;p&gt;对于视为促进意大利弱化经济增长引擎的中国投资，唐泽利内奥将在与习近平主席及中国最高立法者赵乐际（排名领导层第三）进行的会谈中讨论。在上周日的活动中，作为中意商界论坛的一部分，意大利以及包括普利司通轮胎、埃尼能源集团、莱昂纳多防务集团、葡萄酒生产商以及多个意大利奢侈时尚集团（如杜嘉班纳）在内的企业受邀参与。&lt;/p&gt;&lt;p&gt;唐泽利内奥指出，此论坛旨在“反映共同兴趣，寻找平衡我们利益的方式，增加商业交流”的信号。她预计会就中国产能、为乌克兰冲突中的俄罗斯提供经济支持等事宜与中国官员进行论述。&lt;/p&gt;&lt;p&gt;李强在论坛开幕典礼上发言称，“中国与意大利应当携手共进，加大贸易与投资合作力度，使合作更加活力四射、可持续。”&lt;/p&gt;&lt;p&gt;2019年，意大利成为七国集团中唯一加入大规模“一带一路”倡议的国家，但在美国的压力下，去年因对中国经济影响力的顾虑而退出了该计划。&lt;/p&gt;&lt;p&gt;唐泽利内奥的政府表示，该协议并未惠及意大利，意大利与中国之间的贸易额（2023年为668亿欧元）显然对中国更有利，中国是意大利第二大的非欧盟贸易伙伴。&lt;/p&gt;&lt;p&gt;全国媒体表示，这次访问旨在“澄清一些误解”关于意大利退出“一带一路”，强调经济关系的重要性。&lt;/p&gt;&lt;p&gt;意大利政府正在与中国汽车制造商进行会谈，致力于吸引另一家大型制造商入驻意大利，除了史泰兰迪奥斯公司（STLAM.MI）之外。&lt;/p&gt;&lt;p&gt;唐泽利内奥在商务论坛上阐述，意大利与中国的工业合作备忘录涵盖了电动汽车与可再生能源等战略行业，并吁请北京与其合作伙伴分享“知识的新前沿”。&lt;/p&gt;&lt;p&gt;与会框架协议还聚焦于地理标识保护、食品安全、环境与教育等问题。&lt;/p&gt;&lt;p&gt;意大利在华直接投资总额为150亿欧元，超过1600家意大利企业在华活跃，主要分布在纺织品、机械工程、制药、能源与重工业等领域。&lt;/p&gt;&lt;p&gt;然而，意大利支持欧盟委员会对中国电动车实施最高达37.6%的临时关税决定。对此，中国表示强烈反对，并已经启动了对欧洲品牌白兰地与猪肉的产品调查。&lt;/p&gt;&lt;p&gt;本月G7成员国，包括意大利在内，承诺将持续保护其企业免受它们认为不公正的中国贸易实践的风险。&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 10:44:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/italys-meloni-vows-relaunch-cooperation-with-china-ansa-2024-07-28/</guid></item><item><title>朝中社称，朝鲜金正恩视察中国边境附近的洪水地区</title><link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-inspects-flooded-areas-near-china-border-kcna-says-2024-07-28/</link><description>&lt;p&gt;金正恩朝鲜最高领导人于周日视察了中国边境地区的水灾泛滥区域，受灾人数达到五千人，朝中社于周一报道。&lt;/p&gt;
+&lt;p&gt;在周六，朝鲜平安北道及靠近中国边界的区域遭遇创纪录的暴雨，大约五千人被隔离。&lt;/p&gt;
+&lt;p&gt;军方组织了约十架飞机进行约二十次往返飞行，以营救约四千二百人在不到半天的时间内被救出，朝中社如是说。&lt;/p&gt;
+&lt;p&gt;金正恩赞扬了军方的救援行动，称其拯救了五千人的生命，但他斥责官员们在预防洪水、暴雨及台风造成的损害时准备不足，相对缺乏危机应对措施，朝中社提及此。&lt;/p&gt;
+&lt;p&gt;该区域近来受到热带风暴加美所带来的大量降雨的肆虐，中国南部发生山体滑坡，造成十二人死亡，并引发其他地区的洪水。&lt;/p&gt;
 
+&lt;p&gt;&lt;figure&gt;&lt;img alt="金正恩朝鲜领导人视察中国边境受水灾的受灾地区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B2XTUWX6KJODJMZSHWEGP5NITQ.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;朝鲜北平安平省，2024年7月28日。朝中社发布&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="金正恩朝鲜领导人视察中国边境受水灾的受灾地区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MK3XZIVYFNMYDMVZCPN7IKFJ74.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;朝鲜金正恩朝鲜领导人视察中国边境受受水灾的受灾地区，该地区近期受到热带风暴加美所带来的大量降雨的影响，在平安北道朝鲜，2024年7月28日发布。朝中社发布&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="朝中边境受水灾的受灾区域视图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UXVNRCOKAROSLFXFOOXL6AHFM4.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;朝鲜北平安平省受热带风暴加美所带来的大量降雨影响的受灾区域视图，朝鲜，2024年7月28日发布。朝中社发布&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="在朝鲜边境受水灾的受灾区域，人们行走在跑道上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J6NEBGYKDZKETNENX424O3EXE4.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;朝鲜北平安平省受热带风暴加美所带来的大量降雨影响的受灾区域，在行进中的救援行动中，人们行走在跑道上，朝鲜，2024年7月28日发布。朝中社发布&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="朝鲜边境受水灾的受灾区域视图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HM7DIRTPIVPN5J3I6CKSJXNPWA.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;朝鲜北平安平省受热带风暴加美所带来的大量降雨影响的受灾区域视图，朝鲜，2024年7月28日发布。朝中社发布&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="金正恩朝鲜领导人指导友谊城市建设项目" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A5S2FDZSKNKPPFFY5GOMLINBDU.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;金正恩朝鲜领导人指导友谊城市建设项目朝鲜图片发布，2024年7月14日。朝中社发&lt;/p&gt;
+&lt;p&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 22:45:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-koreas-kim-jong-un-inspects-flooded-areas-near-china-border-kcna-says-2024-07-28/</guid></item><item><title>早盘买入：希望平静，为更多波动做好准备</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-07-28/</link><description>&lt;p&gt;审视明日亚洲市场的整体状况。&lt;/p&gt;&lt;p&gt;于下周一启动，对于全球资本市场至关重要的一周供暖展开，其中涉及日本银行的政策决定及其在&lt;a href="https://www.reuters.com/markets/asia/what-bojs-reduced-bond-buying-will-mean-markets-2024-07-26/"&gt;2024年7月26日&lt;/a&gt;对于市场的影响，以及美国联邦储备的决策于其在&lt;a href="https://www.reuters.com/markets/us/traders-stick-view-that-fed-holds-next-week-cuts-september-2024-07-26/"&gt;7月26日&lt;/a&gt;的决策对于市场可能产生的变动，同时，美国就业数据公布与澳大利亚及韩国的通胀指标显现，以及全球范围内的采购经理指数报告相继出台。&lt;/p&gt;&lt;p&gt;紧随上一周剧变性的波动，投资者的神经绷紧。 }}&gt;
+ Treasury校对/图片新闻
 &lt;figure&gt;
-&lt;img alt="共和党总统提名候选人，前美国总统特朗普在Nashville一家比特币会议辩论时的手势" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MYZTOZLOPVPXLJPIXYMXJLMNNE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;共和党提名候选人和美国前总统特朗普在纳什维尔的比特币2024活动上做手势。强·沃尔姆, 摄影 – REUTERS&lt;/i&gt;&lt;/figcaption&gt;
+  &lt;img alt="Bull statues are placed in front of screens showing the Hang Seng stock index and stock prices outside Exchange Square, in Hong Kong" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DUSI46GGSVKF5JHN3R7XLCCROE.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Bull statues are placed in front of screens showing the Hang Seng stock index and stock prices outside Exchange Square, in Hong Kong, China on August 18, 2023. REUTERS/Tyrone Siu/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 21:48:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-07-28/</guid></item><item><title>印度与美国大选竞争者的联系可能不会为两国关系带来多少影响</title><link>https://www.reuters.com/world/india-links-us-election-contenders-may-spell-little-fizz-ties-2024-07-26/</link><description>&lt;p&gt;专家表示，在美国国内政治各界普遍对深化与这个南亚国家关系的支持环境下，美国大选候选人的印度关联可能对增进双边联系的额外利益影响有限，抗衡咄咄逼人的中国背景下，这种战略意图更为明确。&lt;/p&gt;&lt;p&gt;民主党副国会议员卡玛拉·哈里斯（&lt;a href="https://www.reuters.com/world/us/vp-harris-ancestral-india-village-tracks-her-rising-prospects-us-vote-2024-07-05/"&gt;Kamala Harris&lt;/a&gt;）以及共和党副国会议员唐纳德·特朗普的副竞选搭档乌沙·奇卢库里·文斯（&lt;a href="https://www.reuters.com/world/india/indian-family-usha-vance-wife-trumps-vp-pick-known-academic-prowess-2024-07-18/"&gt;Usha Chilukuri Vance&lt;/a&gt;）所拥有的印度根系，往往未能在他们出生国造访的次数上体现出多少。尽管如此，印度人依旧对这两人的成功表示自豪。&lt;/p&gt;&lt;p&gt;原印度驻美大使哈斯·瓦朗德·辛格拉（Harsh Vardhan Shringla）指出，“无论是在任还是即将执政，在民主党还是共和党，美国与印度之间的这种关系本就享有着跨党派的支持，因此不太可能受候选人的印度血统影响。”他补充道，“这只能会带来正面的影响，而不会造成负面影响。”
+
+根据华盛顿两党对与新德里关系的赞同态度，没人能否定无论选举结果如何，抑或候选人的印度根源如何，双边关系都难以受此撼动。”一位印度政府官员说道，但要求匿名表示。
+
+正义党总统乔·拜登（President Joe Biden）及其前任唐纳德·特朗普（他的前任）都主动寻求吸引印度与其展开战略协作，不仅为了在该地区对抗来自中国的挑战，也旨在让新德里摆脱对俄罗斯设备长期依赖的惯性。&lt;/p&gt;&lt;p&gt;卡玛拉·哈里斯与共和党的副竞选伴侣人物卢莎·文斯（Usha Chilukuri Vance，文斯的妻子）都有着与南部印度州的关联。她的家世仕途当中有学者背景可追溯甚远，为后世所知瞩目。&lt;/p&gt;&lt;p&gt;哈里斯这个拥有足够人选的代理人获得了民主党党的提名，她在她母亲的故乡Tulasendrapuram的居民中成为了她们心中的楷模。&lt;/p&gt;&lt;p&gt;“一直以来不被家庭所忽视的年轻女性能够达到如此高度，成为了世界首位的公众人物，这无疑是她的重大成就。”Tulasendrapuram村的居民 Joel Sudhakar 如是说。&lt;/p&gt;&lt;p&gt;她五岁访问过这个村庄，她回忆起那时爷爷经常带她步行至昌吉市海岸边的城市，此地在数十年后成为了其家族居住地，驱车距离相当大约200英里。然而自从她成为美国总统后，她并未再次造访过此地。&lt;/p&gt;&lt;p&gt;“居民们期盼她的到来、言辞或是对村庄的提及，但诸如此类的事情并不曾发生。”店员G. Manikandan如此说道。&lt;/p&gt;&lt;p&gt;“如果她赢了，咱们定会邀请她归来，为她举办一场盛大聚会和欢迎仪式。”他补充说道。&lt;/p&gt;&lt;figure&gt;
+	&lt;figcaption style="text-align: center;"&gt;
+		&lt;i&gt;
+			一位男士手持带有美国副总统当选人卡玛拉·哈里斯肖像的牌，在位于Tulasendrapuram，即她外祖父的出生与成长地，印度南部的泰米尔纳德州，庆祝她就职典礼的当日。REUTERS/P. Ravikumar/File Photo&lt;/i&gt;
+	&lt;/figcaption&gt;&lt;img alt="VP Harris' ancestral India village tracks her rising prospects in US vote" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TZJCF3SI3NLA5ODESHHLYUZZDY.jpg"&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;img alt="共和党总统提名候选人，前美国总统特朗普在纳什维尔举行的比特币2024大会讲解" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/23QDKU7EGBLRXJGBQPYRAQAKPA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;前美国总统特朗普及共和党总统提名候选人在美国田纳西州纳什维尔的比特币2024大会上。强·沃尔姆, 摄影 – REUTERS&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 23:45:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/trump-cites-china-competition-vowing-create-bitcoin-stockpile-2024-07-27/</guid></item><item><title>朝鲜在朝鲜战争周年纪念日发誓“彻底消灭”敌人</title><link>https://www.reuters.com/world/asia-pacific/north-korea-vows-total-destruction-enemy-korean-war-anniversary-2024-07-28/</link><description>&lt;p&gt;平壤通讯社KCNA周日报导表示，金正恩领导下的朝鲜誓言，一旦接到命令，“完全摧毁”其敌人。&lt;/p&gt;&lt;p&gt;据KCNA报导，周六举行的庆祝朝鲜战争停战71周年会议中，陆军上校李元荣和海军首席司令官俞经松等高级军事官员，在对美国及韩国激增的怨恨之情下，作出这种陈述。&lt;/p&gt;&lt;p&gt;朝鲜和美国自2019年起双边外交关系就没有交流，尽管近期朝鲜的官方媒体表示，他们不期待下一届白宫选举后的局势有所改变。&lt;/p&gt;&lt;p&gt;尽管指责美国和韩国“一心一意寻求引发核战”，但这些军事官员誓言，将加强战争效能，随时准备对敌人发动“压倒性攻击”，并在最高统帅金正恩下令时，“彻底摧毁”他们。&lt;/p&gt;&lt;p&gt;朝鲜于1953年7月27日，与美国及中国签署停战协议，结束了这场为期三年的战争。美国 generals 代表支援南韩的联合国军签署了协议。&lt;/p&gt;&lt;p&gt;朝鲜将7月27日称为“胜利日”，而在南韩则并未举行任何大型纪念活动。&lt;/p&gt;&lt;p&gt;尽管战争以停战而非条约的形式宣告结束，意味着双方仍法律上处于战争状态。&lt;/p&gt;
+	&lt;figcaption style="text-align: center;"&gt;
+		&lt;i&gt;帕维尔·萨加（Mike Segar）在威斯康辛州密尔沃基的Fiserv论坛拍摄，2024年7月17日为共和党全国代表大会进行的第三天，美国副议长候选人、共和党参议员J.D. Vance（R-OH）的夫人乌莎·文斯台上演讲。REUTERS/Mike Segar/File Photo&lt;/i&gt;
+	&lt;/figcaption&gt;&lt;img alt="Day 3 of the Republican National Convention in Milwaukee, Wisconsin" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HGTHJPXLZBI7BKVWKSULPQAN34.jpg"&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 26 Jul 2024 11:32:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india-links-us-election-contenders-may-spell-little-fizz-ties-2024-07-26/</guid></item><item><title>中国选手谢宇梦想首秀斩获金牌</title><link>https://www.reuters.com/sports/olympics/shooting-chinas-xie-wins-10m-air-pistol-gold-2024-07-28/</link><description>&lt;p&gt;中国选手谢育在男子10米气手枪项目上首次参加奥运会即荣获金牌。女子项目上，韩国选手赵妍智以压倒性优势，在与另一位韩国选手的对决中赢得桂冠。&lt;/p&gt;
+
+&lt;p&gt;周六的10米气步枪混合团体赛中，中国摘得首金，周航以出类拔萃的240.9的总成绩，从夏特鲁尔射击中心（ChateaurouxShootingCentre）夺走了这枚金牌，战胜了意大利选手费德里科·尼洛·马尔迪尼（FedericoNiloMaldini），马尔迪尼以240分摘得银牌。&lt;/p&gt;
+
+&lt;p&gt;帕奥·蒙那（PaoloMonna）以218.6分的成绩居于第三，紧随他之后，还有两位竞争者。&lt;/p&gt;
+
+&lt;p&gt;“如果说未能赢得金牌，这将是我人生中最大的遗憾”，谢育对记者这样说。&lt;/p&gt;
+
+&lt;p&gt;“能代表中国参加奥运会，然后能够站在这样一个更高的舞台上，对我来说意义重大。”&lt;/p&gt;
+
+&lt;p&gt;谢育在决赛前的射击得分排名第二，仅与马尔迪尼之间有微薄的差距——0.4分。而马尔迪尼在淘汰赛环节利用这个优势削减了与之前的差距。&lt;/p&gt;
+
+&lt;p&gt;然而，马尔迪尼在最后关键时刻失去了力度，最终以9.5的得分仅取得银牌，令他紧盯着地面，神情懊丧。&lt;/p&gt;
+
+&lt;p&gt;谢育最后以10分收盘，赢得了金牌。他的队友们在看台上，依着鲜红白相间的服装，爆发出了由衷的庆祝。&lt;/p&gt;
+
+&lt;p&gt;“我们俩都有些许失误，但丝毫没有遗憾”，马尔迪尼如是说，其表达的对象应是他的意大利队友帕奥·蒙纳。&lt;/p&gt;
+
+&lt;p&gt;“从决赛一开始，我就有明显的预感这将是一个难忘的时刻，”蒙纳轻声阐述，“这确实情感澎湃而独特，因为我们彼此之间乃为好友。&lt;/p&gt;
+
+&lt;p&gt;“这是我们首次并肩站上领奖台，也必将是最重要的时刻。”&lt;/p&gt;
+
+&lt;p&gt;在女子项目中，19岁的赵妍智击败了训练伙伴金雅子，赢得了金牌，印度选手曼努·巴赫尔也获得了她在巴黎奥运会上的第一枚奖牌。&lt;/p&gt;
+
+&lt;p&gt;赵妍智以243.2的累计得分打破了奥运记录，金雅子以241.3分的成绩紧随其后。&lt;/p&gt;
+
+&lt;p&gt;“我真的很难想象自己这么快就拥有这枚金牌在颈间，但随着时间流逝，我相信自己已经拥有一枚金牌了，”赛后，激动得泪流满面的赵妍智说，“要知道，这枚金牌给了我多少重量。”&lt;/p&gt;
+
+&lt;p&gt;金雅子解释自己没有对落后于一位在她早期职业生涯引导自己的射击者感到任何问题，而是表达了她尴尬被较年轻的搭档超越的欣慰之情：“她就像是我的妹妹...当她赢得冠军时，我喜出望外地高兴起来。”&lt;/p&gt;
+
+&lt;p&gt;巴赫尔以221.7的总分获得季军，成为了首位印度女子射击选手赢得奥运奖牌的选手。&lt;/p&gt;
+
+&lt;p&gt;“我还将参加三场赛事，我希望印度在这一届奥运会上的总体成绩强大至多，不只只在射击领域，而是涵盖所有运动项目。”她在接受记者的采访中说。&lt;/p&gt;
+  
+&lt;figure&gt;
+&lt;img alt="射击 - 男十米气手枪决赛颁奖仪式" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZOLYRZVXAJLJLBQ6NXEGJT4D4A.jpg" /&gt; 
+
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;
+$(L-R)奖银牌得主费德里科·尼洛·马尔迪尼（FedericoNiloMaldini）,金牌得主中国选手谢育（YuXie）,和铜牌得主帕奥·蒙纳（PaoloMonna）在法国多尔斯的射击中心ChateaurouxShootingCentre合影，并夹持夺得各自的奖牌&lt;/i&gt;
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 08:19:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/shooting-chinas-xie-wins-10m-air-pistol-gold-2024-07-28/</guid></item><item><title>菲律宾称中国曲解南海协议</title><link>https://www.reuters.com/world/asia-pacific/philippines-says-china-mischaracterised-south-china-sea-resupply-mission-deal-2024-07-28/</link><description>&lt;p&gt;菲律宾外交部于周日指责中国“曲解”了他们在南沙群岛的未定边界区域允许菲律宾驻扎在搁浅战舰上的军队无阻支援的安排。&lt;/p&gt;
+&lt;p&gt;本月早些时候，由于在有争议的第二泰坦群礁多次冲突，两国在对驻扎在西拉梅德雷海军船上的士兵的支援任务上达成了一个“暂行协议”。菲律宾在1999年故意搁浅的西拉梅德雷号海军船旨在强化其海洋主权主张。&lt;/p&gt;
+&lt;p&gt;菲律宾外交部发言人特蕾西塔·达扎周六表示，当天的支援任务得以顺利进行，当中国的海警船置身于“合理距离”外时并未发生任何事故。&lt;/p&gt;
+&lt;p&gt;然而，中国同方发言人表示，中国海警事先得到了通知，对航班后在“现场确认”的情况下放行了船只。&lt;/p&gt;
+&lt;p&gt;达扎在周日宣布，令人遗憾的是中国“曲解”了支援任务。&lt;/p&gt;
+&lt;p&gt;“相反，发言人选择歪曲已经在菲律宾和中国之间达成的协议，而非认可两国如何在避免误判与误解的前提下处理分歧，”达扎在其声明中说。&lt;/p&gt;
+&lt;p&gt;马尼拉的中国大使馆在工作时间外至今未对请求评论作出回应。&lt;/p&gt;
+&lt;p&gt;双方之间的协定细节并未公开发布，但两国都表示协定目的是缓解水域的紧张局势。&lt;/p&gt;
+&lt;p&gt;“菲律宾与中国之间的理解是在善意中达成的，明确同意这样做不会影响国家立场，”达扎说。&lt;/p&gt;
+&lt;p&gt;她补充说，“持续传播不真实的概念关于面临的协定和其实际实行情况是没有帮助的。”&lt;/p&gt;
+&lt;p&gt;菲律宾南海事务协调委员会在周日独立声明中表示，马尼拉不寻求中国对于支援其军队的许可。&lt;/p&gt;
+&lt;p&gt;“中国海警也未进行登上和检查，”该委员会说。&lt;/p&gt;
+&lt;p&gt;第二泰坦群礁位于菲律宾专属经济区内，中国宣称主权。上个月，由于中国海警与菲律宾海军间的冲突，菲律宾一名海军水手下断了一根手指。&lt;/p&gt;
+&lt;p&gt;基于历史地图，中国宣称几乎整个南海为其领土，这一主张于2016年仲裁庭裁定在国际法上没有基础。&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 08:29:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-says-china-mischaracterised-south-china-sea-resupply-mission-deal-2024-07-28/</guid></item><item><title>普京警告美国警惕冷战式导弹危机</title><link>https://www.reuters.com/world/putin-warns-united-states-cold-war-style-missile-crisis-2024-07-28/</link><description>&lt;p&gt;俄罗斯总统弗拉基米尔·普京于周日对美国发出警告，宣称若美国在德国部署远程导弹，俄罗斯将采取相应回应，部署类似导弹以相互抵近针对西方世界。&lt;/p&gt;
+&lt;p&gt;美国于7月10日宣布，从2026年起将开始在德国部署远程导弹，为长期部署准备，并包括SM-6反舰导弹、Tomahawk巡航导弹以及发展中的高超音速武器。&lt;/p&gt;
+&lt;p&gt;普京在圣彼得堡、曾是帝国时代首都的一处场合，向来自俄罗斯、中国、阿尔及利亚和印度的海军士兵发表演说，以纪念俄罗斯海军日。普京警告美国，其行动可能引发冷战式的导弹危机。&lt;/p&gt;
+&lt;p&gt;“未来若这些地基导弹装备施携带核装填头，抵达我们领土的飞行时间预计约为十分钟”，普京说道。&lt;/p&gt;
+&lt;p&gt;“我们将采取仿效措施，以美国行动作为参考，考虑到美国及其在欧洲以及世界其他地区的卫星行动”。&lt;/p&gt;
+&lt;p&gt;普京能的军政权派遣军队进入乌克兰的行为，他定性为与西方进行的漫长的保史斗争。他指责西方国家在苏联1991年解体后挑衅俄罗斯，反抗他所认为的莫斯科势力区域。&lt;/p&gt;
+&lt;p&gt;乌克兰与西方国家则视为普京进行的帝国式的领土攫取。当前，俄罗斯控制着乌克兰大约18%的领土，包括克里米亚，以及东部乌克兰四个区域的部分地区。&lt;/p&gt;
+&lt;p&gt;俄罗斯声称，这些土地曾属于俄罗斯帝国的一部分，如今又回归俄罗斯，且这些领土永远不容让渡。&lt;/p&gt;
+&lt;p&gt;俄美外交官表示，外交关系的紧张程度甚至超越了古巴导弹危机的激烈状态，双方都敦促缓和危机，然而各自的行动正在推动紧张态势升温。&lt;/p&gt;
+&lt;p&gt;普京称美国激化了局势，将泰丰导弹系统转移至丹麦和菲律宾，并将美国计划与1979年北约部署珀辛发射器至西欧的决定进行了对比。&lt;/p&gt;
+&lt;p&gt;苏联领导层，包括斯大林时代的主掌人尤里·安德罗波夫，担心珀辛发射器部署是美国策划的综合计划的一部分，旨在借导弹摧毁苏联的政治和军事领导层。&lt;/p&gt;
+&lt;p&gt;“此情此景恰似冷战时期的事件，与美国在欧洲部署中间距离导弹相关的部署活动如出一辙”，普京谈到:center align="center" &gt;&lt;figure&gt;&lt;img alt="荣幸出席圣彼得堡海军节游行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/R7N7OHXFONN7BCGOXKHYTK73QE.jpg" /&gt;	 &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年7月28日，圣彼得堡海军节游行现场。图由Sputnik/Sergei Savostyanov/Pool via Reuters提供&lt;/i&gt;&lt;/figcaption&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Jul 2024 09:12:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/putin-warns-united-states-cold-war-style-missile-crisis-2024-07-28/</guid></item><item><title>美国升级驻日军事指挥权，警告中国威胁</title><link>https://www.reuters.com/business/aerospace-defense/us-announce-military-command-revamp-japan-official-says-2024-07-28/</link><description>&lt;p&gt;美国于上周日宣布了一项计划，旨在深化与日本盟友在军事层面的协调，同时将中国视为这一区域“最重大战略挑战”。&lt;/p&gt;&lt;p&gt;该声明是美国国务卿安东尼·布林肯以及防长劳埃德·奥斯汀与日本的同僚，在东京进行的安全会谈后得出的结论，日本同僚包括防卫大臣加藤友美和副防卫大臣近原耕平。&lt;/p&gt;&lt;p&gt;“美国将提升驻日美军，使其成为具备扩容任务和运营责任的联合部队总部。”奥斯汀在所谓的“2+2”会谈结束后接受媒体提问时如是说道。&lt;/p&gt;&lt;p&gt;“这将是自驻日美军成立以来的最大规模改革，亦是过去七十年里日本军事合作与我们的最强 improvements。”&lt;/p&gt;&lt;p&gt;此次四名部长的联合声明中指出，新的指挥结构将与东京计划于2025年3月开始实施的联合指挥体系同步进行。&lt;/p&gt;&lt;p&gt;此调整旨在回应了那个国家称“不断演变的安全环境”，尤其是指出由中国为首的诸多威胁。&lt;/p&gt;&lt;p&gt;声明中指责中国在南海和东中国海的挑衅行为，参加与俄罗斯的联合军事演习，加快核武器武库的扩军，指责中国外交政策试图以牺牲他者利益为代价重塑国际秩序。&lt;/p&gt;&lt;p&gt;中国外交部尚未对路透社的提问做出回应。&lt;/p&gt;&lt;p&gt;奥斯汀强调，此次提升指挥职能不是出于对中国威胁的考量，而是希望同盟国更加紧密有效地合作。&lt;/p&gt;&lt;p&gt;日本为美国在亚洲投射军事力量提供了基地，接待着约54，000名美国军人，数百架美军飞机及其他华盛顿部署的唯一前沿航空母舰打击群。&lt;/p&gt;&lt;p&gt;在响应中国军力增长、以及朝鲜核武器装置定期的导弹试射下，日本在过去几年中从二战后的和平主义态势显著转型。2022年，日本公布了一项计划将国防预算翻番至国内生产总值的2%。&lt;/p&gt;&lt;p&gt;新的美国指挥中心基地将由至少三年级的将军领导，一名美国高级官员透露，而奥斯汀未排除未来任命四位将军级指挥官至日本的可能性，案例如韩国即例。&lt;/p&gt;&lt;p&gt;在首次公开讨论了“延伸威慑”这一话题后，同盟国同意要深化该体系以确保区域稳定并预防冲突爆发，路透社称这段声明内容较少细节。&lt;/p&gt;&lt;p&gt;“鉴于近邻日本面临的愈发严峻的核威胁，对于延伸威慑的进一步强化至关重要。我欢迎此次讨论的持续深入，”日本的加藤友美在会谈开始之际向媒体表示。&lt;/p&gt;&lt;p&gt;双方也表示对俄罗斯从朝鲜采购弹道导弹以辅助其对乌克兰的战争，以及莫斯科向平壤转移大规模毁灭武器或导弹相关技术的问题做了深切的关切。&lt;/p&gt;&lt;p&gt;朝鲜则声明，将在七国集团峰会召开之际誓言在下一年韩国开放对华贸易市场之际，对美国发动全面毁灭攻击。&lt;/p&gt;&lt;p&gt;奥斯汀和近原耕平随后与韩国国防部长金尚熙举行会谈，并签署了一份协议，指称深化三人方面合作，例如实时共享朝鲜导弹警报数据和联合军事演习。&lt;/p&gt;&lt;p&gt;布林肯上周末在老挝与中国外长王毅举行会晤时强调，华盛顿及其伙伴希望保持“自由且开放的印度-太平洋区域”。&lt;/p&gt;&lt;p&gt;美国也试图从日本的产业中获取资源，以缓解冲突在乌克兰和中东地区引发对美国武器生产商的巨大压力。&lt;/p&gt;&lt;p&gt; %&gt;</description><pubDate>Sun, 28 Jul 2024 03:15:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/us-announce-military-command-revamp-japan-official-says-2024-07-28/</guid></item><item><title>福耀玻璃表示，国土安全部突袭后俄亥俄州工厂不是调查目标</title><link>https://www.reuters.com/business/fuyao-glass-says-ohio-unit-not-target-investigation-after-homeland-security-2024-07-28/</link><description>&lt;p&gt;中国玻璃制造商福耀玻璃工业集团&lt;sup&gt;(600660.SS)&lt;/sup&gt;宣布，其美国子公司于7月26日在俄亥俄州遭美国政府机关搜查，这乃是有关第三方劳工服务机构调查工作的部分环节。&lt;/p&gt;
+&lt;p&gt;福耀玻璃美国有限公司被指出并非此次调查的直接目标，此信息据引自公司向上海证券交易所提交的公告。&lt;/p&gt;
+&lt;p&gt;先前，当地的媒体曾经报道，美国国土安全部调查局的官员在其公司的单位及27个其他地点执行搜查行动，以此针对“涉嫌犯罪指控及劳工剥削”进行深入调查。&lt;/p&gt;
+&lt;p&gt;搜查活动在本周五下午结束后，虽然其俄亥俄厂区的一部门产线被暂停，但货运运输与交运并未受到影响，公司目前的运营活动依然维持正常进行。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P4WDSBZBZBN27CVHRDM5NBA4YU.jpg" alt="福耀玻璃工业集团在香港举行的一场新闻发布会上展示的公司商标"&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在2017年2月27日，中国香港，福耀玻璃工业集团于一场新闻发布会期间展示了公司商标。摄于2017年2月27日由路透社/鲍比·伊普提供&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 08:06:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/fuyao-glass-says-ohio-unit-not-target-investigation-after-homeland-security-2024-07-28/</guid></item><item><title>特朗普誓言要建立比特币“储备”，并援引中国的竞争</title><link>https://www.reuters.com/business/finance/trump-cites-china-competition-vowing-create-bitcoin-stockpile-2024-07-27/</link><description>&lt;p&gt;共和党总统候选人唐纳德·特朗普周六在一次比特币大会上表示，美国必须在该领域占据主导地位，否则中国将这样做，这是他近期争取加密货币倡导者支持的最新举措，这些倡导者曾受到中国政府的限制和唐纳德本人的质疑，将其称为“骗局”。&lt;/p&gt;
+
+&lt;p&gt;在纳什维尔举行的比特币 2024 年大会上，特朗普塑造了自己作为亲加密货币候选人的形象，强调在定于11月5日的总统选举之前，他将使美国成为全球加密货币领导国，并且秉持比当前可能赢得民主党提名的副总统卡玛拉·哈里斯更为友好的监管导向。&lt;/p&gt;
+
+&lt;p&gt;共和党已承诺为加密货币制定较为宽松的监管政策，并且特朗普批驳了民主党活动人士对金融市场的干预。&lt;/p&gt;
+
+&lt;p&gt;"如果我们不拥抱加密货币和比特币技术，中国将做出，其他国家也会这样做。它们将占据主导，而我们不能让中国占据主导。他们已经在取得了太大的进展"，特朗普说。&lt;/p&gt;
+
+&lt;p&gt;中国已加强对数字货币的打击，限制跨境资本流动，并且对所有涉及数字货币的交易实行严格控制。然而，尽管中国政府严厉打击，但中国人还是能够在加密货币交易所交易例如比特币之类的数字代币，加上中国政府的投资者也可以开设海外银行账号来购买加密资产。&lt;/p&gt;
+
+&lt;p&gt;特朗普表示计划成立加密货币总统咨询委员会，并制定政策，将美国政府目前持有的或未来收缴的大量数字货币纳入国家加密货币储备。特朗普强调，“永远不要卖出你的比特币。如果我当选，我的政府将会将美国持有或在未来的任何形式下的所有比特币维持在100%的存量”他如是说。&lt;/p&gt;
+
+&lt;p&gt;特朗普还提到希望扩大美国企业对比特币的开采，尽管他曾在2021年将比特币比喻为“骗局”。目前比特币的价格在特朗普的演讲后一度缓和，但随后出现了回升，并在最后被引用为68,182美元时大幅上涨0.94%。&lt;/p&gt;
+
+&lt;p&gt;特朗普还再次重申，他将通融判处迄今为止因创建和运作丝绸之路网站而被判判处终身监禁的Ross Ulbricht的判决，这是一个网站允许用户隐秘地购买和销售非法物品。特朗普说，“Ulbricht的刑期已足够，得到了观众的掌声，并且观众在呼吁‘释放罗斯’。”&lt;/p&gt;
+
+&lt;p&gt;世界各地，包括美国各国都表现出对由私人运营的高波动性且未经政府控制的数字货币引发金融和货币体系衰落、系统风险增加、违法犯罪行为流行以及危害投资者安全的普遍担忧。&lt;/p&gt;
+
+&lt;p&gt;数字货币支持者表示，比特币用户在本次选举周期内正在塑造成为越来越具有影响力的政界力量。然而，目前尚不清楚使用比特币的用户是否将投票权优先考虑于其他选题。&lt;/p&gt;
+
+&lt;p&gt;一些比特币支持者转而支持特朗普。而美国拟将打造国家比特币储备的举动很有可能获得这类支持者的认同，视作对他们持有数字货币的合法性的重大认可。&lt;/p&gt;
+
+&lt;p&gt;是一家全球比特币软件提供商的CEO杰克·马勒斯向路透社表示，特朗普提议的国家加密货币储备计划是“难以置信的自信投票”。&lt;/p&gt;
+
+&lt;p&gt;与此同时，美国前总统拜登政府发起的对包括Coinbase（COIN.O）和币安在内的多家数字货币公司涉及证券的指控谴责再度产生了不满情绪。&lt;/p&gt;
+
+&lt;p&gt;该机构指控上述公司在其平台上提供交易数字资产的服务，这些服务应当登记注册为证券，这些建议最终遭到否认。&lt;/p&gt;
+
+&lt;p&gt;近30位民主党议员、参议员以及潜在候选人在周六致函民主党全国委员会及哈里斯的团队，呼吁他们对加密货币和区块网络采取“前瞻性的”处置方式。他们指出，在选举活动中，区块链技术和数字货币的影响对于选票的获得在上至最高层，下至基层都具有显著作用。&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 23:45:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/trump-cites-china-competition-vowing-create-bitcoin-stockpile-2024-07-27/</guid></item><item><title>朝鲜在朝鲜战争周年纪念日发誓“彻底消灭”敌人</title><link>https://www.reuters.com/world/asia-pacific/north-korea-vows-total-destruction-enemy-korean-war-anniversary-2024-07-28/</link><description>&lt;p&gt;朝鲜领导人金正恩在授意之时决意将其敌人“彻底摧毁”，据朝中社KCNA报道，此消息揭露于周日。&lt;/p&gt;
+&lt;p&gt;参加于周六举行的，旨在庆祝朝鲜战争停战协定71周年纪念活动的高级军事官员，包括陆军中校李元永和海军中校于永松，义无反顾地表达了其对美国与韩国的极度仇恨，一方面他们抛出这一评论。&lt;/p&gt;
+&lt;p&gt;朝鲜与美国之间至今未曾建立外交关系，且有关缓解紧张局势、朝鲜半岛无核化的一系列会谈自从2019年起就已停滞不前。朝鲜的官方媒体近来宣称，这一状态不论谁当选美国总统，均不会有所改观。&lt;/p&gt;
+&lt;p&gt;在这项过程中，军事官员们指责美国与韩国”燃起了核战争的火种”，同时誓言要强化军事效能，“毫无迟疑地准备在任何时候对敌人作出压倒性攻击，并以金正恩尊敬的最高司令官之令下达的指令，彻底消灭它们。”&lt;/p&gt;
+&lt;p&gt;朝鲜与其伙伴美国、中国于1953年7月27日签署了停战协定，结束了一场为期三年的战争。联合国军，代表朝鲜支持韩国的部队，均在同年在军事协议上签署代表迹。&lt;/p&gt;
+&lt;p&gt;朝鲜将7月27日称为“胜利日”，但韩国并未以任何重大事件纪念这一日子。&lt;/p&gt;
+&lt;p&gt;战争在停战协议之下并没有签署条约，这意味着双方都并未从实质意义上终止争斗，仍视为潜在威胁。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="金正恩访问朝鲜平壤的父祖解放战争殉难者公墓" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WAI6DKN2QBKBLA3BBHTSURBGEU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;朝鲜劳动党中央总书记、朝鲜民主主义人民共和国国务委员长金正恩于2024年7月26日，在朝鲜平壤为庆祝朝鲜解放战争胜利71周年参观了父祖解放战争殉难者公墓。由朝鲜中央通讯社（KCNA）通过路透社发布&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="金正恩在朝鲜平壤访问父祖解放战争殉难者公墓" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MV664HHM3JNGLD3DZ7QUZ7L3EM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;朝鲜劳动党中央总书记、朝鲜民主主义人民共和国国务委员长金正恩于2024年7月26日，在朝鲜平壤为庆祝朝鲜解放战争胜利71周年，参观了父祖解放战争殉难者公墓。由朝鲜中央通讯社（KCNA）通过路透社发布&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 00:36:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-korea-vows-total-destruction-enemy-korean-war-anniversary-2024-07-28/</guid></item><item><title>中国羽毛球运动员以连胜开局，但并不容易</title><link>https://www.reuters.com/sports/olympics/badminton-chinas-shuttlers-get-gold-medal-chase-off-bright-start-2024-07-27/</link><description>&lt;p&gt;中国羽毛球队在巴黎奥运会上的第一天竞赛中，表现出色，夺得了全部七场比赛的胜利，但面对法国队和马来西亚队时，遇到了几番艰难挑战。&lt;/p&gt;
+&lt;p&gt;从上午进行的男子和女子单打比赛，到下午进行的女子和混合双打比赛，中国队伍在小组赛中压倒了他们的对手。&lt;/p&gt;
+&lt;p&gt;自1992年羽毛球成为奥运会项目以来，中国获得的47枚奥运奖牌，远远超过印尼和韩国这两个第二和第三多获奖队伍的合计。&lt;/p&gt;
+&lt;p&gt;在一场异常紧张的混合双打比赛中，郑思维和黄雅琼以21-14和23-21击败法国队的德尔福涅·德尔鲁和汤姆·吉克塞尔。观众在终场时，起身为这场令人振奋的比赛给予长时间热烈掌声。&lt;/p&gt;
+&lt;p&gt;然而，每当他们失分，法国队的观众便重复喊出“法军万岁”的口号，期待中国选手失分，有时对法国失误的惋惜之情，从观众的叹息声中明显能感觉得到。&lt;/p&gt;
+&lt;p&gt;在失去某一分后，黄雅琼以一个强力的回击赢得了德尔福涅·德尔鲁的关注，她击中了对手的肩膀，使她显得有些不安。&lt;/p&gt;
+&lt;p&gt;对于这对法国选手的不可预测性，郑思维表示以胜三场的心态来准备比赛是合理的，“我们在部分紧张的比赛中，多次激烈的手势与教练沟通。”&lt;/p&gt;
+&lt;p&gt;奥运会上的首日竞赛以中国女子单打选手何冰娇对阵阿塞拜疆的姬莎·阿扎哈拉开；随后，她的世界双打队友梁伟健和王昌以超越预期的能力击败加拿大组合亚当·东和尼尔·雅克拉，比分是21-5和21-12。&lt;/p&gt;
+&lt;p&gt;中国羽毛球队的另一场接近胜利当属马来西亚的双打选手潘丽盈和墨尔查利亚兰·地纳与中国的郑思维和贾依凡在比赛中奋勇拼搏。比赛的局势在两队之间此起彼伏，最终中国的双打选手以21-17和22-20赢得比赛。&lt;/p&gt;
+&lt;p&gt;印度的世界第五位男子双打组合，受到一些人视其为在巴黎奥运会上夺冠的好机会选手契朗·夏迪和萨特维克·兰卡瑞，以21-17和21-14战胜了世界排名第39位的法国双打组合 Ronan Labar 和卢卡斯·科瓦尔。&lt;/p&gt;
+&lt;p&gt;对于一些人而言，契朗·夏迪和萨特维克·兰卡瑞没有考虑奖牌的获得，他们的态度是：“我们等待白热化的时刻。每位参与者都在承受压力。参赛的每一对人都知道。”&lt;/p&gt;
+&lt;p&gt;在傍晚时段，日本前奥运选手和东京选手、女子单打选手野上麻杜以21-12和21-10的速度击败了缅甸选手沙扎-特瓦司图。&lt;/p&gt;
+&lt;p&gt;卫冕者、丹麦选手亚历克松-奥尔森在27分钟内，以21-8和21-6击败了世界排名第190位的尼泊尔队普尔赖达尔。&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 08:50:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/badminton-chinas-shuttlers-get-gold-medal-chase-off-bright-start-2024-07-27/</guid></item><item><title>德雷塞尔在男子 4x100 米自由接力比赛中夺得更多金牌</title><link>https://www.reuters.com/sports/olympics/swimming-united-states-win-mens-4x100-freestyle-relay-2024-07-27/</link><description>&lt;p&gt;凯莱布·德雷塞尔在周六率领的美国队中重获了他的第八枚奥运金牌，同时这是在美国队为巴黎奥运会赢得的首枚金牌；他指挥美国队再次蝉联了4x100米自由泳接力的冠军。&lt;/p&gt;
+&lt;p&gt;澳大利亚队摘得银牌，意大利队获得铜牌，而中国队遗憾地在第四名无缘奖牌排名。&lt;/p&gt;
+&lt;p&gt;杰克·艾历克西、克里斯·朱利亚诺、亨特·阿姆斯特朗以及德雷塞尔携手合作，在最后决赛中以时长三分钟零9秒28的优势击败了澳大利亚队0.17秒。这场激烈的比拼在喧闹的开赛之夜，于拉德凡赛飞球馆达到了高潮。&lt;/p&gt;
+&lt;p&gt;科特·金和瑞安·海尔在上午的预赛中游泳，但在决赛中被艾历克西和朱利亚诺替换出战。金和海尔同样将荣获金牌。&lt;/p&gt;
+&lt;p&gt;德雷塞尔在2021年东京奥运会上独揽五金，在2016年里约热内卢奥运会上再夺两金。&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img alt="Kim Jong Un visits the Fatherland Liberation War Martyrs Cemetery in Pyongyang" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WAI6DKN2QBKBLA3BBHTSURBGEU.jpg"&gt;
+    &lt;img alt="奥运：游泳" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/77MTZJKHY5LFNFZUFVFVB4ZQ7I.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;2024年7月27日；纳特尔，法国；凯莱布·德雷塞尔（美国）在巴黎2024奥运会夏季运动会的巴黎拉德法兰赛飞球馆男子4 x 100米自由泳接力初步预赛中。强制性信用：罗伯特·舒默—美国体育&lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 20:08:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/swimming-united-states-win-mens-4x100-freestyle-relay-2024-07-27/</guid></item><item><title>布林肯谴责北京在海上“升级行动”，并对台湾表示担忧</title><link>https://www.reuters.com/world/asia-pacific/australias-wong-presses-myanmar-generals-change-tack-ahead-laos-summits-2024-07-27/</link><description>&lt;p&gt;在周六的一次高峰会议上，美国国务卿安东尼·布林肯提出严厉批评，指责中国的“升级和非法活动”在南中国海，而他的俄罗斯同行则表示，华盛顿通过其与韩国友军的朝鲜半岛核威慑计划，在引起焦虑方面发挥了作用。&lt;/p&gt;
+
+&lt;p&gt;布林肯将矛头指向中国，针对其海岸警卫队在南中国海对美国防务条约盟友菲律宾的敌对行动。&lt;/p&gt;
+
+&lt;p&gt;但同时，他赞扬两国在马尼拉成功完成以补给任务后进行的外交行动，该任务是对争议浅滩的哨兵自给自足行动，没有受到中国的干扰。&lt;/p&gt;
+
+&lt;p&gt;布林肯正在以东盟区域论坛为中心的安全领域，与包括俄罗斯、印度、中国、澳大利亚、日本和欧盟在内的重要大国高级外交官一起参加讨论，涵盖包括加沙的影响、乌克兰危机、朝鲜半岛核野心及南中国海紧张局势在内的话题。&lt;/p&gt;
+
+&lt;p&gt;菲律宾在第二托马斯浅滩以一艘搁浅的美军海军船只为基地驻军多年，导致中国长期反感。双方存在悬念，引发地区担忧，以及潜在的美国介入警告的升级。&lt;/p&gt;
+
+&lt;p&gt;本周双方就如何进行那些补给任务达成协议。&lt;/p&gt;
+
+&lt;p&gt;“我们注意到今日对第二托马斯浅滩的成功补给，深感欣慰。”他在老挝举办的亚洲协会外交部部长会议上向东盟集团的外交官们表示。
+
+“我们赞扬并期待这一共识在未来继续。”&lt;/p&gt;
+
+&lt;p&gt;布林肯本周于会议期间与中共外交部长王毅进行了会谈，这是自2023年6月美国总统访问北京后，双方的第六次会面，在捋顺关系方面取得了实质性进展。&lt;/p&gt;
+
+&lt;p&gt;布林肯与王毅讨论了台湾问题，以及北京最近采取的一些挑衅行为，包括在蔡英文总统就职典礼期间虚构的封锁行动，以及来自美国高级国务院官员的陈述。&lt;/p&gt;
+
+&lt;p&gt;他们同意继续推进军事间的联系，该官员补充说道，布林肯还谈及北京对俄罗斯国防工业基础的支持，并警告将采取进一步的美方向对抗中国企业行动，没有从王毅处得到任何承诺。&lt;/p&gt;
+
+&lt;p&gt;王毅告诉布林肯，虽然中美之间的沟通得到保持，但华盛顿并未停止打压遏制北京的行为，甚至加剧了这种行为。&lt;/p&gt;
+
+&lt;p&gt;“现今中美关系面临的挑战日增，形势正处关键时刻，既阻止其进一步衰退，同时寻求达成稳定平衡。”根据外交部发布的官方声明，他说。&lt;/p&gt;
+
+&lt;p&gt;俄罗斯外长拉夫罗夫在会议场边谈及美国总统和韩国联合的韩国半岛核威慑行动准则的问题，这些动作旨在建立一体化威慑，以对抗朝鲜的威胁，但这加剧了地区安全担忧。“我们至今仍无法对这一举动的含义进行解释，但毫无疑问，它引发诸多焦虑和不安情绪。”俄国家运行通讯社引述他说。
+
+“他们正在加紧提升韩半岛气氛的紧张性，军事化其在韩半岛的出现，并具有公然准备发动军事行动的正规训练。”他另据国际通讯社引述所述。&lt;/p&gt;
+
+&lt;p&gt;布林肯先前表示：“我们在每一天都在努力争取在加沙地区建立停战，寻找实现持久和平与安全的道路。”&lt;/p&gt;
+
+&lt;p&gt;此话继印度尼西亚外长梅尔黛·伦那关于寻求可持续和平的急迫性作声明后所言，印度尼西亚是世界上最大的穆斯林多数国家。&lt;/p&gt;
+
+&lt;p&gt;伦那同时也提及国际法应用于所有方面的声明，以此暗指两个国际法庭对以色列加沙攻势所作出的裁决。&lt;/p&gt;
+
+&lt;p&gt;“我们无法继续忽视加沙地区正面临的人道危机。”伦那说。&lt;/p&gt;
+
+&lt;p&gt;这场冲突造成加沙地区至少3.9万多人死亡，据巴勒斯坦卫生当局表示不区分战斗者与平民。&lt;/p&gt;
+
+&lt;p&gt;据以色列官员估计，机动军队在哈马斯和伊斯兰圣战等猛烈攻击下失去了逾万名战斗者，包括1.4万名战斗者被杀死或被捕，总数约为冲突开始时2.5万武装部队的成员，这场战争于10月7日从哈马斯领导的起义军发起攻击以色列开始，造成1200人死亡及250多人被俘，根据以色列的统计。&lt;/p&gt;
+
+&lt;p&gt;澳大利亚外长佩尼·翁唯因敦促缅甸军政权采取不同路径并结束加剧的内战，以促使将领们遵循东盟关于和平进程的承诺。&lt;/p&gt;
+
+&lt;p&gt;这场冲突是缅甸装备精良的军队与一个混乱 alliance（联盟）的民族分离主义团体和武装反抗军对峙。这部分反抗军已取得进展并测试了将领们的治理能力。&lt;/p&gt;
+
+&lt;p&gt;军政权对于和平努力视而不见，以及东盟面临的威胁让他们垒墙堵住话语权，各沟通环节纷纷停滞。&lt;/p&gt;
+
+&lt;p&gt;“我们目睹着不稳定性、不安全感、伤亡、痛苦带来的连锁反应。”翁唯因在记者会上强调，
+
+“我对缅甸政权的信息很清楚：这一切对你们来说和你们人民而言，是无法持续忍受的。”&lt;/p&gt;
+
+&lt;p&gt;估计已经有260万多人因冲突而流离失所。军政权被谴责进行空袭平民区域，并指控他们犯下暴行，但仍予以否认将其视为西方的舆论误导。&lt;/p&gt;
+
+&lt;p&gt;南非发布了周六发布的声明，表达了其坚定的后盾立场与东盟计划，同时谴责针对平民暴力行为的存在，并敦促各方立即结束各自冲突，开启谈话。&lt;/p&gt;
+
+&lt;p&gt;南非也欢迎所有相关方采取仍未明的举动，以降低南中国海紧张局势状态，并防止事故与失误，再次引导关注，让所有相关方停止加重局势升级。&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5OSMQJHRQRITNM2AAGISTYS5F4.jpg" alt="Antony Blinken in Vientiane, Laos, on July 27, 2024. Courtesy of Reuters/Chalinee Thirasupa" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;2024年7月26日，韩国平壤，朝鲜劳动党总书记兼朝鲜民主人民共和国国事总统金正恩在庆祝朝鲜解放战争胜利71周年之际，参观了朝鲜解放战争烈士陵园。KCNA via REUTERS/档案照&lt;/i&gt;
+&amp;amp;lt;i&amp;amp;gt;Antony Blinken, Vientiane, Laos, July 27, 2024. REUTERS/Chalinee Thirasupa&amp;amp;lt;/i&amp;amp;gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Kim Jong Un visits the Fatherland Liberation War Martyrs Cemetery in Pyongyang" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MV664HHM3JNGLD3DZ7QUZ7L3EM.jpg"&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LNCT4KN4KRNQVKHMPXWFZIRDQE.jpg" alt="Australia’s Foreign Minister Penny Wong speaking at the 57th ASEAN Foreign Ministers' Meeting at National Convention Center, Vientiane, Laos, on July 26, 2024. Courtesy of Reuters/Chalinee Thirasupa (File Photo)" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;2024年7月26日，韩国平壤，朝鲜劳动党总书记兼朝鲜民主人民共和国国事总统金正恩在庆祝朝鲜解放战争胜利71周年之际，参观了朝鲜解放战争烈士陵园。KCNA via REUTERS/档案照&lt;/i&gt;
+&amp;amp;lt;i&amp;amp;gt;Australia’s Foreign Minister Penny Wong speaking at the 57th ASEAN Foreign Ministers' Meeting at National Convention Center, in Vientiane, Laos, July 26, 2024. REUTERS/Chalinee Thirasupa/File Photo&amp;amp;lt;/i&amp;amp;gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 28 Jul 2024 00:36:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-korea-vows-total-destruction-enemy-korean-war-anniversary-2024-07-28/</guid></item><item><title>中国羽毛球运动员以连胜开局，但并不容易</title><link>https://www.reuters.com/sports/olympics/badminton-chinas-shuttlers-get-gold-medal-chase-off-bright-start-2024-07-27/</link><description>&lt;p&gt;在周六巴黎奥运会羽毛球比赛首日，中国的羽毛球选手迅速打响了比赛，赢得了全部七场比赛，但在对阵法国和马来西亚时也遇到了几次紧张的时刻。&lt;/p&gt;&lt;p&gt;从上午的男子和女子单打到下午的女子和混合双打，中国选手在小组赛中碾压对手。&lt;/p&gt;&lt;p&gt;自1992年羽毛球成为奥运会项目以来，中国在这一领域共获得了47枚奖牌，超过印尼和韩国（排名第二和第三）所获得奖牌数的总和。&lt;/p&gt;&lt;p&gt;在一场紧张的混合双打比赛中，最后以全场起立鼓掌的方式结束，郑思维和黄雅琼在中国队主场以21-14、23-21战胜了法国的德尔菲娜·德吕和汤姆·吉克。&lt;/p&gt;&lt;p&gt;然而，在每次让对手得分时，现场都响起了“巴黎加油”（Allez les bleus）的呐喊声，观众显然很希望中国队得分，有时甚至能清楚地听到对法国错失的哀鸣。&lt;/p&gt;&lt;p&gt;在丢失了一场比赛后，黄雅琼用一个强烈的回击击打到了德尔菲娜的前臂，使她发抖。&lt;/p&gt;&lt;p&gt;郑思维表示：“我们准备了三场比赛，因为这对法国来说是不可预测的。”&lt;/p&gt;&lt;p&gt;比赛的清晨，中国选手何冰娇以21-8、21-7的成绩在不到半小时内击败了来自阿塞拜疆的Keisha Azzahra，赢得了女子单打比赛。随后，何冰娇的男子双打同胞李维刚和王畅也以21-5、21-12的比分轻松击败了加拿大队的亚当·东和尼尔·雅库拉。&lt;/p&gt;&lt;p&gt;中国其他的接近失误是当马来西亚的Parlly Tan和Muralitharan Thinaah与中国双打选手陈清晨和贾一凡进行了激情对抗的小比赛。他们在比赛前紧追不舍，再以21-17、22-20的成绩获胜。&lt;/p&gt;&lt;p&gt;印度的世界第五名男子双打队伍驰克拉·希提和沙塔维萨基·兰吉雷德，被认为有可能在巴黎奥运会为中国带来金牌，击败了世界第39名法国双打组合Ronan Labar和卢卡斯·科维耶，比分是21-17、21-14。&lt;/p&gt;&lt;p&gt;驰克拉说：“我们对此已经习惯了。”他补充说，他们现在并没有想着奖牌。“压力都在每个人身上，每个人都知道所有参加奥运会的配对选手。”&lt;/p&gt;&lt;p&gt;晚上，雅金·山姆吉·真国一岁的日本女子单打选手隔生于半小时内击败了缪干灯，结果是21-12、21-10击败了缅甸选手。&lt;/p&gt;&lt;p&gt;卫冕金牌得主丹麦的维克多·阿克森，在27分钟内以21-8、21-6击败了世界排名第190名的尼泊尔王子黛尔亚，完成了他的比赛。</description><pubDate>Sat, 27 Jul 2024 08:50:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/badminton-chinas-shuttlers-get-gold-medal-chase-off-bright-start-2024-07-27/</guid></item><item><title>德雷塞尔在男子 4x100 米自由接力比赛中夺得更多金牌</title><link>https://www.reuters.com/sports/olympics/swimming-united-states-win-mens-4x100-freestyle-relay-2024-07-27/</link><description>&lt;p&gt;Caeleb Dressel 收集了他的第八枚职业奥运会金牌，并且在周六的比赛中，他带领美国队连续第二次赢得4x100米自由泳冠军，这是巴黎奥运会的第一枚金牌。&lt;/p&gt;&lt;p&gt;澳大利亚队获得银牌，意大利队获得铜牌，而中国却在第四名的位置错失了奖牌。&lt;/p&gt;&lt;p&gt;杰克·阿莱克西、克里斯·朱利安诺、亨特·阿姆斯特朗以及 Caeleb Dressel 的配合用时三分钟 09.28 秒赢得了比赛。他们的成绩相比于在拉德芳斯竞技场的最后一场激烈的决赛中领先澳大利亚队 1.07 秒。&lt;/p&gt;&lt;p&gt;在早晨的预赛中马特·金和瑞安·赫德出赛，但他们被取代了公演中的位置，更换为阿莱克西和朱利安洛出赛。马特·金和瑞安·赫德也将获得金牌。&lt;/p&gt;&lt;p&gt;Caeleb Dressel 在2021年的东京奥运会中赢得了五枚金牌，并在2016年里约热内卢奥运会上赢得了两枚金牌。&lt;/p&gt; &lt;figure&gt;&lt;img alt="奥运会：游泳" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/77MTZJKHY5LFNFZUFVFVB4ZQ7I.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年7月27日；法国南泰尔；巴黎2024夏季奥运会期间，巴黎拉德芳斯竞技场，男性4x100米自由泳接力预赛，Caeleb Dressel（美国）。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 20:08:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/swimming-united-states-win-mens-4x100-freestyle-relay-2024-07-27/</guid></item><item><title>布林肯谴责北京在海上“升级行动”，并对台湾表示担忧</title><link>https://www.reuters.com/world/asia-pacific/australias-wong-presses-myanmar-generals-change-tack-ahead-laos-summits-2024-07-27/</link><description>&lt;p&gt;美国国务卿安东尼·布林肯（Antony Blinken）在周六的峰会上批评了北京在南海的“升级和非法行动”，而他的俄罗斯同僚表示，华盛顿通过与韩国盟友在朝鲜半岛的核威慑计划，引起焦虑，加剧了局势。&lt;/p&gt;&lt;p&gt;布林肯特别针对中国海岸警卫队对美国防御条约盟友菲律宾在南海的敌对行动。但他也称赞两国在菲律宾完成补给任务后表现出的外交努力，该任务在周六顺利完成，士兵在有争议的礁石上的补给并未受到中国干扰。&lt;/p&gt;&lt;p&gt;布林肯与负责亚洲事务的重要力量如俄罗斯、印度、中国、澳大利亚、日本和欧盟的大使们参加了安全领域的亚信会，讨论了包括杰束、乌克兰和朝鲜在核野心及紧张局势等方面。这是菲律宾在对一艘搁浅的美国海军船只进行补给任务的第二天，成功的将物资运送到有争议的礁石上。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-completes-first-south-china-sea-resupply-mission-since-deal-with-2024-07-27/"&gt;菲律宾&lt;/a&gt;的小规模军队驻扎在被中国长期视为主权的礁岛上，已经引起了中国多年的不满，引发了重复的冲突，引起了地区的战术紧张局势，美国介入的可能性被提了出来。&lt;/p&gt;&lt;p&gt;本周两个国家之间对于如何进行补给任务达成了一致。"我们注意到今天在第二托马斯礁上的补给成功完成，“布林肯向东南亚国家联盟（ASEAN）的外交部长们说，这些部长们在老挝主办了会议。他继续说：“我们欢迎这一行动，并希望并期待它持续下去。” &lt;/p&gt;&lt;p&gt;在会议期间，布林肯与中国外交部长王毅进行了会谈，这是自6月初，在布林肯访问北京、重大经济关系之间的紧张关系缓和以来的第六次会议。土耳其沙滩上的冲突、对精选台湾总统赖清德的空袭忽视以及对北京最近的挑衅行为进行了讨论，包括沙台最近的模拟封锁。&lt;/p&gt;&lt;p&gt;他们同意继续军事间的关系，并讨论了中国对俄罗斯军工基地的支持以及美国对中国的可能行动，但未从王毅处获得承诺。&lt;/p&gt;&lt;p&gt;王毅向布林肯表示，尽管中美之间保持着沟通，但美国未停止遏制并干涉中国，并且反而增加了干涉的力度。 "中美关系的风险仍然在积累，挑战在增加，关系处于关键的停滞和稳定。”
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 04:57:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/australias-wong-presses-myanmar-generals-change-tack-ahead-laos-summits-2024-07-27/</guid></item><item><title>司法部要求法院驳回 TikTok 对打击法律的挑战</title><link>https://www.reuters.com/legal/usdoj-tells-court-reject-tiktok-challenge-crackdown-law-2024-07-27/</link><description>&lt;p&gt;美国司法部于上周五晚上向联邦上诉法院提出请求，旨在维持一项于四月生效的法律，要求中国背景下的字节跳动公司必须在1月19日之前出售TikTok的美国业务资产，否则其将面临禁用的处罚。&lt;/p&gt;
+&lt;p&gt;美国司法部在提交的文件中强调，由于TikTok在中国的控制下有可能对美国的国家安全构成严重威胁。理由是中国可以隐蔽地操纵美国人通过TikTok获取的信息，此类信息均基于其对中国庞大的美国用户数据的访问。&lt;/p&gt;
+&lt;p&gt;美国司法部表示，“TikTok所带来的国家安全风险是真实的。该应用为中华人民共和国操控美国的国家安全提供了两种主要手段：数据收集以及隐蔽的内容操控。”&lt;/p&gt;
+&lt;p&gt;拜登政府请求美国哥伦比亚特区上诉法院拒绝TikTok、其母公司字节跳动以及一群TikTok内容创作者的诉讼请求，这些请求旨在阻止可能将禁止这款被美国1.7亿用户使用的重要应用的法律。&lt;/p&gt;
+&lt;p&gt;TikTok反复否认它会分享美国用户数据给中国，以及它不会操控视频内容。&lt;/p&gt;
+&lt;p&gt;TikTok在其社交媒体平台X上回应美国司法部的申请时指出，“政府从未提出过其指控的真凭实据，包括当美国国会通过这项宪法性法律时。今日，政府再次采取了这前所未有的行动，但却隐藏在秘密信息之后。”&lt;/p&gt;
+&lt;p&gt;美国司法部的提交详细地分析了字节跳动持有TikTok所有权所带来的综合国家安全问题。&lt;/p&gt;
+&lt;p&gt;美国司法部表示，“中华人民共和国的长期地缘政治策略涉及培育和发展能够根据适宜时机部署的资产。”&lt;/p&gt;
+&lt;p&gt;政府承认，缺乏信息证明中华人民共和国获得过美国TikTok用户的数据访问权，但考虑到这种可能性的风险较大。&lt;/p&gt;
+&lt;p&gt;“美国没有义务在外国对手采取特定不利行动之前回应此类威胁。”美国司法部的提交陈述。&lt;/p&gt;
+&lt;p&gt;美国政府向法院提交了包含更广泛安全担忧的机密文件，涉及字节跳动持有TikTok所有权的问题，以及来自联邦调查局、国家情报总监办公室及美国司法部国家安全部门的更广泛申报。&lt;/p&gt;
+&lt;p&gt;字节跳动向美国政府表示，TikTok的源代码拥有20亿行代码，全面审查几乎不可能完成。美国司法部指出，“Oracle预估审查此代码库将花费三年的时间，不包括额外的变动。”&lt;/p&gt;
+&lt;p&gt;该法律由拜登总统于4月24日正式签署，本月最早将于1月19日之前完成字节跳动出售TikTok的交易，否则将面临禁止。白宫希望通过本国所有权的终止来维护国家安全，但同时避免对TikTok的完全禁用。&lt;/p&gt;
+&lt;p&gt;美国司法部驳斥了TikTok关于法律侵害到美国用户使用视频应用程序的言论，即第一修正案赋予言论自由权。其认为该法律着眼于解决国家安全顾虑，并未将焦点置于言论上，并旨在阻止中国利用TikTok来获取敏感的美国个人信息的能力。&lt;/p&gt;
+&lt;p&gt;据美国司法部所指，TikTok用户可以转至如YouTube、Facebook、Instagram、Snapchat及X等其他多款广为人知的平台，作为替代方案。&lt;/p&gt;
+&lt;p&gt;美国司法部指出，TikTok为保护美国用户数据而提出的20亿美元计划不足以解决问题，主要理由在于美国官员对字节跳动的信任以及政府对其能力，或缺乏必要资源去捕捉潜在违反行为的不信任。&lt;/p&gt;
+&lt;p&gt;上诉法院将于9月16日举行法庭辩论，决定TikTok命运的关键问题，即将取决于即将在11月5日的总统选举最后几周进行的判决。&lt;/p&gt;
+&lt;p&gt;共和党总统候选人唐纳德·特朗普加入TikTok并向媒体表示，他永远支持不会对TikTok进行禁止。即将成为民主党提名人的副总统卡玛拉·哈里斯近日亦加入TikTok&lt;/p&gt;
+&lt;p&gt;该法律禁止如苹果（AAPL.O）、谷歌（GOOGL.O）等应用商店向用户提供TikTok服务，也禁止互联网托管服务支持TikTok，除非已完成字节跳动的资产剥离。&lt;/p&gt;
+&lt;p&gt;美国立法者对中国可能获取美国用户数据或利用应用进行间谍活动的担忧，促使国会紧急通过了这项法律，仅在被提交数周后便得到众议院的压倒性支持。&lt;/p&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SIL5CJKGCVOH5HZVDATGDRYDL4.jpg" alt="美国国旗和TikTok应用图标" title=" REUTERS/Dado Ruvic"/&gt;
+&lt;p&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 04:09:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/legal/usdoj-tells-court-reject-tiktok-challenge-crackdown-law-2024-07-27/</guid></item><item><title>布林肯与王讨论台湾和中国对俄罗斯的支持</title><link>https://www.reuters.com/world/blinken-conveys-concern-wang-over-provocative-actions-taiwan-us-official-says-2024-07-27/</link><description>&lt;p&gt;美国国务卿安东尼·布林肯在周六会谈中强调，华盛顿对中国针对台湾及对乌行动的忧虑，并表达了美国对于乌克兰危机中俄罗斯的支持秉持关注的态度，这是与中华人民共和国外长王毅会面对话的核心。&lt;/p&gt;
+&lt;p&gt;此前，布林肯曾要求中国政府减少与菲律宾之间的海域紧张局势，同时在与陪同前往记者的高级美国国务院官员交流中，触及了对台湾与近期中国政府所谓“挑衅性行为”的深入对话。这些行为包括台湾总统赖清德就职期间，中国政府模拟封锁行动。&lt;/p&gt;
+&lt;p&gt;两位高层在老挝举办的区域峰会上进行了时长1小时20分钟的会晤，这是他们自2023年6月布林肯访华重新表明两大经济体紧张关系缓和以来的第六次会议。&lt;/p&gt;
+&lt;p&gt;双方一致同意继续推进两国军事交流与合作的进程，但并未讨论美国暂停与中国进行核军控对话，原因是中国对此表示反对，美国向台湾提供了武器。&lt;/p&gt;
+&lt;p&gt;据国务院官员表示，“在每一轮讨论中，他们最为关切的问题是台湾，他们视之为中国内部事务。”尽管中国政府宣称台湾不可分割的一部分，但这与台湾政府的立场相左。&lt;/p&gt;
+&lt;p&gt;布林肯阐明美国及现代民主党候选人物——拜登和贺锦丽，都坚信美国与中国的稳定关系的重要性，必须维护基于规则的秩序。&lt;/p&gt;
+&lt;p&gt;在会谈中，布林肯同样提及中国对俄罗斯国防工业基础的支持，并发出警告，若中国不限制相关行为，美国将采取更多后续措施。&lt;/p&gt;
+&lt;p&gt;“中国与美国之间关系面临风险的积累与挑战的提升，正处于阻止其下滑和实现稳定的十字路口。”王毅在外交部声明中表示，尽管中美之间沟通渠道开启，但美国加强了遏制和打压中国的努力。&lt;/p&gt;
+&lt;p&gt;此次老挝地区峰会上的对话为双方提供了一个交流平台，虽然两个国家并未确定下一次会议的时间，但它们意识到在维护两大经济体的关系稳定上仍处于关键期。&lt;/p&gt;
+&lt;p&gt;在此次东游过程中，布林肯不仅希望安抚与中国近邻国家，重申美国在亚太地区的承诺，同时也处理与政治不确定性存在国内搭配的议题。他在周六前往越南，并计划在接下来几天与防务部长劳埃德·奥斯汀在日本和菲律宾就安全议题展开对话。&lt;/p&gt;
+&lt;p&gt;布林肯也向王毅提到美国总统拜登和副手乔·哈里斯都认为双方稳定的关系至关重要，并领导基于规则的国际秩序。&lt;/p&gt;
+&lt;p&gt;在会谈中，布林肯也警告，如若中国政府不针对俄罗斯的防御工业基础做出任何限制，美国将采取更多针对相关公司的制裁行动，包括打击为中国制造半导体的产品销售给俄罗斯的中国公司。&lt;/p&gt;
+&lt;p&gt;相关记录显示，美国针对莫斯科采取了制裁措施，并旨在削弱俄罗斯发动对乌克兰战争的军事能力。&lt;/p&gt;
+&lt;p&gt;在会谈中，布林肯还表达了对香港、台湾以及西藏的人权问题的忧虑，并坚持要求中国在用于中国出口的芬太尼前身药物管控上做得更多。&lt;/p&gt;
+&lt;p&gt;在谈及近期由中方媒介的巴勒斯坦内部分裂团体达成的和平协议时，两位高层表达了对协议有效性的不确定，此协议由中国人民调解，但两国官员对其结果持谨慎态度。&lt;/p&gt;
+&lt;p&gt;“我们见证了数次宣布的和解，但它们并未展现出实质性的成果。”国务院官员发表评论时指出。&lt;/p&gt;
 
-卢布韦罗夫在论坛上说，美国在韩国半岛核资产运作方面的指导原则正在增加地区的安全顾虑。"我们甚至连这意味什么都无法解释清楚，但是毫无疑问，这增加了焦虑"，卢布韦罗夫对俄罗斯官方新闻机构RIA说，
-
-&lt;br&gt;美国一直在竭力实现加沙地区的停火，寻求持续的和平与安全。'
-
-
-澳大利亚外交部长佩妮·沃恩呼吁缅甸军方领导者选择不同路径，结束加剧的内战，并且督促军方遵守东盟的和平计划。
-
-缅甸的军事力量正在与由少数民族叛军组成的松散联盟以及壮大的反抗军队作战，此组织已经加强了他们向军方施加压力的能力。然而，在数个月以来，缅甸军方一直在忽视和平努力，而且东盟挫败了其努力，因为所有相关方都拒绝对话。'
-
-美国和部分东盟国家在本月27周六发表的联合声明中强调了他们对东盟和平计划的支持，并谴责了对平民的暴力，呼吁缅甸所有冲突方结束敌对行为，开始对话。'
-
-东盟还欢迎未具名的具体缓解南海紧张局势，防止意外和误判影响冲突的措施，并且敦促所有涉事方停止可能导致争端复杂化的行动。'</description><pubDate>Sat, 27 Jul 2024 04:57:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/australias-wong-presses-myanmar-generals-change-tack-ahead-laos-summits-2024-07-27/</guid></item><item><title>司法部要求法院驳回 TikTok 对打击法律的挑战</title><link>https://www.reuters.com/legal/usdoj-tells-court-reject-tiktok-challenge-crackdown-law-2024-07-27/</link><description>&lt;p&gt;美国司法部在周五晚向联邦上诉法院申请，以维护4月通过的一项法律，要求中国基于的字节跳动在1月19日前出售TikTok的美国资产，否则脸书将面临禁用。&lt;/p&gt;&lt;p&gt;在其记载中，美国司法部主张，在中国管理下，TikTok存在的重大国家安全威胁，因为它获取了美国广泛的个人数据。美国声称中国政府能隐蔽地操纵美国人通过TikTok所消费的信息。&lt;/p&gt;&lt;p&gt;“TikTok造成的真正而紧迫的国家安全威胁是真实存在的。”该部透露，“TikTok有两种主要方式给您美国国民信息安全构成威胁：数据收集和隐蔽内容操纵。”&lt;/p&gt;&lt;p&gt;拜登政府请求美国哥伦比亚特区上诉法院拒绝TikTok、母公司字节跳动以及一批TikTok内容创造者提出的上诉。他们正在寻求阻止可能导致禁用此应用程序的法律。该项应用程序被1.7亿美国人使用。&lt;/p&gt;&lt;p&gt;TikTok一再否认其会向中国分享美国用户的任何数据或操纵视频结果。&lt;/p&gt;&lt;p&gt;TikTok在社交媒体平台X上回应了美国司法部的简述，表示“政府从未提出其指控的实证，包括国会通过这项违宪法律的情况。今天，政府再次采取那些极端的行动，同时又隐藏具有秘密信息。”&lt;/p&gt;&lt;p&gt;司法部的记载揭露了B站收购TikTok的广泛国家安全忧虑。&lt;/p&gt;&lt;p&gt;“中国长期的地缘政治战略涉及开发和提前置备资产，以在有利时机部署。”他们提到。&lt;/p&gt;&lt;p&gt;政府承认在另外的声明中指出它没有证明中国政府已经获取了美国TikTok用户的数据，但表示这种可能性的存在危险性巨大。&lt;/p&gt;&lt;p&gt;“美国不必等待其外国对手采取具体威胁行动，才能对这些威胁作出回应。”记载指出。&lt;/p&gt;&lt;p&gt;政府还向法院提交了一份机密文件，详细列举了B站管理TikTok所存在的额外安全忧虑，以及联邦调查局（FBI）、国家安全总监办公室和司法部国家安全部门所做的更为广阔声明。&lt;/p&gt;&lt;p&gt;字节跳动告诉美国政府，在TikTok的源代码包含了20亿行代码，使得对其进行全面审查变得不可能。 “奥拉克估计这需要三年的时间来审查该部分内容，而且不包括额外的变动。”司法部补充说明。&lt;/p&gt;&lt;p&gt;该法律于4月24日由拜登总统签署，为字节跳动提供了从1月19日为止的时间期限来出售TikTok，否则将面临禁用。白宫认为它的出发点是出于国家安全考量，希望通过去除中国控制来结束它的所有权，而并非是彻底禁用TikTok。&lt;/p&gt;&lt;p&gt;司法部否认了TikTok提出的全部论点，包括这一法律侵犯了美国用户在这段短视频应用上的第一修正案自由权利，因为它回应的是国家安全顾虑而非言说问题，并旨在防止中国政府利用TikTok来获取美国人的敏感个人信息。&lt;/p&gt;&lt;p&gt;TikTok的用户有“多个其他广泛知名平台”，如YouTube、Facebook、Instagram、Snapchat和X，可以选择使用这一步骤进行替换，美国司法部声称。&lt;/p&gt;&lt;p&gt;美国司法部还指出TikTok关于保护美国用户数据价值20亿美元的计划是不够的，声称公司的提议协议部分失控，由于美方官员不相信字节跳动并因为政府对它的“缺乏信心，怀疑它有足够的资源或能力发现违规行为”。&lt;/p&gt;&lt;p&gt;上诉法院将在9月16日听取法律挑战的口头辩论，这将把TikTok的命运问题推向11月5日的大选周。&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 04:09:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/legal/usdoj-tells-court-reject-tiktok-challenge-crackdown-law-2024-07-27/</guid></item><item><title>布林肯与王讨论台湾和中国对俄罗斯的支持</title><link>https://www.reuters.com/world/blinken-conveys-concern-wang-over-provocative-actions-taiwan-us-official-says-2024-07-27/</link><description>&lt;p&gt;美国国务卿安东尼·布林肯在周六会见中国外长王毅时，再次强调了华盛顿对北京对台湾的行动和其支持俄罗斯在乌克兰的战争的关切。&lt;/p&gt;&lt;p&gt;在早些时候批评中国加剧了与菲律宾的海上紧张局势后，布林肯就台湾和北京最近对民主自治岛屿的“挑衅”行动与王毅进行了广泛的讨论，一名美国国务院高级官员表示。这些行动包括在台湾蔡英文总统就职典礼时的模拟封锁。&lt;/p&gt;&lt;p&gt;这名官员还表示，布林肯和王毅同意继续推进两国的军事关系，但未讨论关于核军备控制的对话，这出于中国抗议华盛顿向台湾提供军火的回应。&lt;/p&gt;&lt;p&gt;这名官员表示，“在所有讨论中，台湾是他们最关心的问题，他们认为这是中国的内部问题。”&lt;/p&gt;&lt;p&gt;中国政府认为台湾是中国不可侵犯的领土，而台湾则予以拒绝。&lt;/p&gt;&lt;p&gt;王毅告诉布林肯，台湾属于中国，“不是并且永远不会成为一个国家”，并表示中国政府会反击鼓吹台湾独立的力量的挑衅行为，根据外交部的一份声明。&lt;/p&gt;&lt;p&gt;他说，尽管中美之间的沟通渠道依然开放，但美国却加强了遏制和压制北京的努力。&lt;/p&gt;&lt;p&gt;“中美关系的面临的风险仍在累积，挑战正在上升，关系处于阻止衰退、实现稳定的关键时刻”，王毅说。&lt;/p&gt;&lt;p&gt;两人在老挝举行的区域首脑会议的间隙进行了1小时20分钟的交谈，这是自2023年6月布林肯访问北京以示改善紧张关系以来的第六次会面。双方并未设定下一次会面的时间。&lt;/p&gt;&lt;p&gt;布林肯正在东亚洲进行访问，旨在向与中国关系密切的国家保证美国的承诺，尽管国内政治存在不确定性。他在周六访问了越南，并计划在接下来几天与国防部长劳埃德·奥斯汀在日、菲进行国家安全会谈。&lt;/p&gt;&lt;p&gt;据这名官员透露，布林肯向王毅表示，美国总统乔·拜登和副总统卡玛拉·哈里斯、民主党总统候选人，都相信稳定且基于规则的中美关系的重要性，必须得到维持。&lt;/p&gt;&lt;p&gt;布林肯还提醒中国，如果中国不遏制对俄罗斯国防工业基地的支持，美国将会采取进一步行动。华盛顿已对利用中国公司的半导体卖给莫斯科的目标实施制裁，旨在打击正在对乌克兰进行战争的俄罗斯军队。&lt;/p&gt;&lt;p&gt;但官方表示， “在这一点上，中国没有承诺采取行动”。&lt;/p&gt;&lt;p&gt;布林肯还就美国对香港、台湾和西藏的人权问题以及强调北京需要在从中国出口的芬太尼前体等反毒品方面加强努力表示了关注。&lt;/p&gt;&lt;p&gt;此外，两人讨论了由中国斡旋的最近一场巴勒斯坦政党协议，据悉，在推断该协议能否解决哈马斯和持有政府权力的法塔赫之间长期而激烈的竞争时存在疑虑。负责管理加沙地带的哈马斯，进而引发新一轮流血冲突。&lt;/p&gt;&lt;p&gt;“我们看到此前多次所谓的和解并没有结果”，这名官员补充说。&lt;/p&gt;&lt;figure&gt;&lt;img alt="57th ASEAN Foreign Ministers' Meeting at the National Convention Center in Vientiane" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/56N6DMZA4VJHZLTICL2BCITQG4.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国国务卿安东尼·布林肯在2024年7月27日老挝万象国家会 议中心的第57届东盟外长会议上。REUTERS/Chalinee Thirasupa&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 11:37:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/blinken-conveys-concern-wang-over-provocative-actions-taiwan-us-official-says-2024-07-27/</guid></item><item><title>中国青少年双人组合在巴黎夺得首枚金牌</title><link>https://www.reuters.com/sports/olympics/shooting-chinas-huang-sheng-win-first-gold-paris-games-2024-07-27/</link><description>&lt;p&gt;在周六举行的巴黎奥运会上的10米气步枪混合团体项目中，黄韵铃和盛亮豪这对善于使用社交媒体的17岁搭档为中国射击传统赢得了第一枚金牌。&lt;/p&gt;
-&lt;p&gt;长期以来，在这些游戏中的中国射击运动员比其他任何项目运动员获得金牌的次数都多，这一趋势在剑'orderou射击中心，黄韵铃和盛亮豪的胜利得到了延续。&lt;/p&gt;
-&lt;p&gt;他们在与韩国配对金济贤和朴全俊的激烈挑战中以16比12获胜，确保了在2019年东京引入混合团体项目后，中国成为唯一一个赢得金牌的国家。&lt;/p&gt;
-&lt;p&gt;“当韩国队在追上我们时，我并没有太注意它，因为我首先试图稳定自己。”19岁的盛亮豪告诉媒体。“我只是告诉自己，我需要做我必须做的事情。”&lt;/p&gt;
-&lt;p&gt;亚历山德拉·莱和伊斯兰·萨特波夫为哈萨克斯坦赢得了铜牌，以17比5轻松击败了德国的安娜·扬森和马克西米利安·乌尔布希克队。&lt;/p&gt;
-&lt;p&gt;三年后，当中国的杨倩和杨浩然在东京赢得金牌后，身为卫冕世界冠军的黄韵铃和盛亮豪在资格赛中领先韩国队，宣布他们的意图。&lt;/p&gt;
-&lt;p&gt;尽管他们在第11轮后以14比8的大幅领先称号，金牌争夺赛并非一帆风顺。韩国队进行了激烈的反击，将差距缩小到14比12，但中国队最终取得了胜利。&lt;/p&gt;
-&lt;p&gt;黄韵铃说，当韩国队开始压迫他们时，她感到紧张。“说实话，我相当紧张，尤其是我那些在网络粉丝中很受欢迎的、很可爱的小狗耳环。”这位17岁的说，“但我内心告诉自己专注动作和比赛，获取一些正能量。”&lt;/p&gt;
-&lt;p&gt;黄韵铃和盛亮豪将争取在巴黎再夺一枚金牌，但他们表示混合团体事件的结果不会影响他们的个人气步枪竞赛。&lt;/p&gt;
-&lt;p&gt;韩国队的朴全俊对银牌并没有太大的不满意，“我们无法击败中国的射手，但我们对奖牌感到非常满意。”这位24岁、戴着眼镜的队友金济贤也表示，对于他们在中国对手后结束比赛没有意见。&lt;/p&gt;
-&lt;p&gt;“我尊重这些中国运动员，我认为他们的表现非常棒，赢得了金牌。我个人认为我们获得这枚银牌也做得非常棒。”</description><pubDate>Sat, 27 Jul 2024 09:31:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/shooting-chinas-huang-sheng-win-first-gold-paris-games-2024-07-27/</guid></item><item><title>跳水——中国女子横扫首金</title><link>https://www.reuters.com/sports/olympics/diving-chinese-women-win-first-gold-they-begin-bid-clean-sweep-2024-07-27/</link><description>&lt;p&gt;陈伊文和张亚妮在周六赢得了三米跳板同步跳水赛事，为中国队争夺所有八枚奥运会女子跳水金牌铺开道路。&lt;/p&gt;&lt;p&gt;这是陈伊文和张亚妮两人首次参加奥运会，他们在世界锦标赛上连续赢得三次冠军，以337.68分的成绩完成比赛。&lt;/p&gt;&lt;p&gt;25岁的陈伊文和比她小两岁的张亚妮以倒在“高腿中跳背”开始比赛，在粉丝们的热烈欢呼声中，许多粉丝穿着中国队的夹克，挥舞着国家旗帜。&lt;/p&gt;&lt;p&gt;“今天的比赛我们表现得中规中矩，但我们自己对成绩的要求更高，我们需要继续努力。”张亚妮赢得了第一枚奥运金牌后，显得有些激动，她向媒体如此说道。&lt;/p&gt;&lt;p&gt;美国的莎拉·巴肯和凯西迪·库克在第一轮比赛中得到与陈伊文和张亚妮相同的分数，让她俩有些紧张不已。然而，失去连续裁判后，美国队以314.64分的成绩得到了银牌。&lt;/p&gt;&lt;p&gt;“我认为我们并不是最好的表现，但我们做到了稳定，对此我感到非常自豪。”面带微笑的凯西迪说道，“我对银牌的得奖感到非常满意。”&lt;/p&gt;&lt;p&gt;“跟随中国队感到很大的责任，中国几乎从不失误，他们为比赛设定基调，促使我和莎拉实现五个稳定跳水。”&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 10:00:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/diving-chinese-women-win-first-gold-they-begin-bid-clean-sweep-2024-07-27/</guid></item><item><title>四十年后，前中国乒乓球队友仍在比赛</title><link>https://www.reuters.com/sports/olympics/table-tennis-four-decades-former-chinese-teammates-still-competing-2024-07-27/</link><description>&lt;p&gt;期思和曾志英曾是中国乒乓球队友，但却未能代表出生地国参加奥运会，如今四十年过去，她们在巴黎奥运会为其他国家征战。&lt;/p&gt;
-&lt;p&gt;61岁的尼霞莲参加过第六次奥运会，她是中国乒乓球队夺得两次世界冠军的成员，后来在1980年代末移居卢森堡。"三年前，我在东京结束后，我以为我可以退休了，但我们的国家队非常喜欢我。所以我尝试参加，成功了，"尼霞莲说。 "下一个目标是再赢一场."&lt;/p&gt;
-&lt;p&gt;58岁的曾志英在三十多年前退休后，移居智利。COVID封锁期间，她在俱乐部打球，结识新朋友。她说，在2022年参赛时，她没有任何其他梦想或目标就想简单打球健身。&lt;/p&gt;
-&lt;p&gt;几个月后，肌肉记忆恢复了，但她认为，因为年龄大，奥运会“是一个遥远的梦想”。然而，在网上研究对手时，她发现了很多不到她一半年龄的竞争者，意外地看到曾经的队友 &lt;u&gt;尼霞莲&lt;/u&gt;在国际层面持续活跃。&lt;/p&gt;
-&lt;p&gt;“我在去年开始玩的时候，尼霞莲已经60岁了，”她补充说。“如果她能打，我也可以提高体能并打球。她是我的榜样。”&lt;/p&gt;
-&lt;p&gt;两人分别认为自己长时间的职业生涯得益于年轻时在中国接受的基本技能训练和严格指导下的数百小时重复动作，以确保技能的准确。
-
-中国在乒乓球领域无与伦比的统治力可见一斑，自1988年乒乓球列入夏季奥运会以来，中国赢得了32枚金牌中的37枚，以及115枚奖牌中的60枚。&lt;/p&gt;
-&lt;p&gt;曾在智利以塔尼亚身份生活的曾志英将在首轮面对黎巴嫩的46岁的玛利亚娜·萨哈基安。她很高兴能得到丈夫和两个成人儿子在巴黎的加油声援，并感激接受国给她在这个大赛中的机会。&lt;/p&gt;
-&lt;p&gt;"在中国，你即使有参赛机会也不一定就能获得成功，那里的水平非常高，"她说。&lt;/p&gt;
-&lt;p&gt;尼霞莲改代表另一个国家参加奥运会需要一段时间适应，并拒绝参加1996年的奥运会。"一开始，我并不是想为另一个国家比赛，这不是我的目标，这就是我放弃1996年奥运会的原因."&lt;/p&gt;
-&lt;p&gt;“但当你在那里生活的时间更长，你会与人们产生感情，你理解体育只是体育，与政治或国籍无关，”她说。“这就是我改变的原因。我想帮助团队取得好成绩。这是我的目标。”&lt;/p&gt;
-
-对于出生在美国加州的母亲是中国人的美国选手李诗萌来说（可能在第二轮面对曾志英），二人的长寿参赛生活是很鼓舞人心的。“这绝对是让人难以置信的”，这位28岁的选手这样描述。然而，看着她们，“它给了我希望，总有机会可以走得更远。”</description><pubDate>Sat, 27 Jul 2024 10:52:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/table-tennis-four-decades-former-chinese-teammates-still-competing-2024-07-27/</guid></item><item><title>台风“嘉美”迫使中国东北地区疏散、工厂停工</title><link>https://www.reuters.com/world/china/typhoon-gaemi-forces-evacuation-factory-suspension-northeast-china-2024-07-27/</link><description>&lt;p&gt;新华社周六报道，中国东北部有超过27,000人撤离，数百家工厂被命令暂停生产，原因是台风哈米带去了大量降雨。&lt;/p&gt;&lt;p&gt;哈米于周五袭击了福建省沿海城镇，带来大量降雨和强风，这是今年对华最强的风暴，已经从东南沿海向人口密集的内陆广泛移动。&lt;/p&gt;&lt;p&gt;报道指出，辽宁省有40个水库的水位因强降雨而上升，预计从周一起该地区将经历暴雨。&lt;/p&gt;&lt;p&gt;全省数百家化工和矿业公司已经暂停运营，并且将附近的居民转移到了远离洪水风险的地方，新华社报道。&lt;/p&gt;&lt;p&gt;新华社报道说，这场风暴袭击台湾并加剧了菲律宾的季雨，已经影响了中国福建省的近63万人，其中一半以上的人已经转移到了安全的地方。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="宁德县台风哈米接近时的海浪" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YIYLMSKU7RPTZLRO6W7ZO5ZE6M.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;台风哈米接近时，福建省南沙镇海岸上的海浪在宁德县袭击，中国2024年7月25日。cnsphoto 通过Reuters/文件照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 09:25:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/typhoon-gaemi-forces-evacuation-factory-suspension-northeast-china-2024-07-27/</guid></item><item><title>菲律宾完成与北京达成协议以来首次南海补给任务</title><link>https://www.reuters.com/world/asia-pacific/philippines-completes-first-south-china-sea-resupply-mission-since-deal-with-2024-07-27/</link><description>&lt;p&gt;菲律宾周六完成了对南中国海上争执滩礁部队的补给行程，没有受到阻碍，外交部声明称，这是在与中国的最新安排下进行的首次此类行动，旨在缓解紧张局势。&lt;/p&gt;&lt;p&gt;上周，菲律宾和中国宣布了一个"临时协议"&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-resupply-ship-south-china-sea-shoal-without-us-help-2024-07-21"&gt;"，在长期冲突后，针对一个由菲律宾舰队停泊的海军船只的补给任务。&lt;/a&gt;这些船只之间的一系列碰撞引发了人们对这一地区冲突升级的担忧。&lt;/p&gt;&lt;p&gt;菲律宾故意在1999年将一艘废弃的美国船只停泊在该礁层，企图将其据为己有，并自那以后在上面定期轮换小规模驻军，这激怒了中国，后者在该地区驻有海岸警卫队。&lt;/p&gt;&lt;p&gt;外交部在一份声明中说，周六的行动涉及一艘民用船只，由菲律宾海岸警卫队护送，没有发生任何意外事件。&lt;/p&gt;&lt;p&gt;外交部声明说，中国船只与之保持了一定的距离，并且没有碰撞风险，同时，菲律宾没有事先通知中国，中国也没有尝试检查船只。&lt;/p&gt;&lt;p&gt;中国的海岸警卫队发言人甘玉表示，他们监督了整个过程。&lt;/p&gt;&lt;p&gt;甘玉在一份声明中说：“希望菲律宾能履行承诺，与中国合作，共同管理海上局势。”&lt;/p&gt;&lt;p&gt;美国国务卿安东尼·布林肯在老挝举行的区域峰会上表示，他对此次行动的成功感到满意，并且两国能够达成协议。&lt;/p&gt;&lt;p&gt;“我们对此表示赞赏，并希望并期待在未来继续下去，”他说。&lt;/p&gt;&lt;p&gt;菲律宾和中国都表示，这项协议不会改变它们的领土立场。这个礁层位于菲律宾200海里的专属经济区内，距离中国本土地1300公里，中国称之为仁爱礁。&lt;/p&gt;&lt;p&gt;今年6月，在菲律宾海军人员在南海一艘补给船受到中国海岸警卫队"故意的高速撞击"事件中失去了一个手指，一名菲律宾海军人员受伤。当时，菲律宾描述了这是一次"故意高速撞击"，而中国海岸警卫队则表示，补给船无视了多次警告，被要求离开。&lt;/p&gt;&lt;p&gt;中国声称几乎整个南中国海都是其领土，依据的是历史地图，而2016年的仲裁法庭裁定其没有基于国际法的法律基础。&lt;/p&gt;&lt;div class="figure"&gt;
-&lt;img alt="在前往南中国海第二个托马斯礁补给任务途中，5月4日，中国海岸警卫队向菲律宾补给船Unaizah发射水炮。2024年3月5日，Reuters/Adrian Portugal/File Photo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4B3UZ7Z7MRKGHDRXV2J7Y7DXTI.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在前往南中国海第二个托马斯礁补给任务途中，5月4日，中国海岸警卫队向菲律宾补给船Unaizah发射水炮。2024年3月5日，Reuters/Adrian Portugal/File Photo&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;</description><pubDate>Sat, 27 Jul 2024 05:28:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-completes-first-south-china-sea-resupply-mission-since-deal-with-2024-07-27/</guid></item><item><title>中国外长就美国部署导弹向菲律宾发出警告</title><link>https://www.reuters.com/world/china/chinas-foreign-minister-warns-philippines-over-us-missile-deployment-2024-07-27/</link><description>&lt;p&gt;中华人民共和国的外交部长王毅就美国的中程导弹部署向菲律宾发出了警告，指出这种举动可能会加剧地区的紧张局势，并引发军备竞赛。&lt;/p&gt;
-&lt;p&gt;今年早些时候，美国部署了其Typhon导弹系统到菲律宾，作为联合军事演习的一部分。菲律宾军方官员后来表示，导弹系统在演习期间并未发射，但未详细说明该系统将在菲律宾停留多久。&lt;/p&gt;
-&lt;p&gt;王毅在上周五与中国驻老挝万象的菲律宾外交部长恩里克·马尔戈的一次会谈中表示，中菲关系现在处于十字路口，对话和协商是正确的途径。他们在老挝首都万象集合，为即将到来的两个峰会做准备，即东盟峰会和讨论涉及缅甸危机及南海紧张局势的部长级会议。&lt;/p&gt;
-&lt;p&gt;王毅表示，两国的关系正在面临挑战，因为菲律宾“反复违反双方共识和自己的承诺”。根据外交部的声明中，王毅称“如果菲律宾引入美国的中程导弹系统，它将为地区创造紧张和对抗，引发军备竞赛，这完全不符合菲律宾人民的利益和愿望。”&lt;/p&gt;
-&lt;p&gt;菲律宾军方和外交部对王毅的言论尚未立即作出回应。&lt;/p&gt;
-&lt;p&gt;中国与菲律宾在南海问题上陷入对峙，且争议岛屿水域内菲律宾专属经济区中的主权争议加剧了双方紧张关系。&lt;/p&gt;
-&lt;p&gt;王毅表示，近期中方与菲律宾就向二号托马斯礁运送人道主义物资达成了暂时性的安排，以稳定海上局势，这是对第一次托马斯礁（Ren'ai Jiao）的描述。&lt;/p&gt;
-&lt;p&gt;菲律宾官员周六表示，其船只最近在没有受到阻碍的情况下成功完成了在礁石上的任务。&lt;/p&gt;
+&lt;img alt="2024年老挝全国会议中心里亚第57届东盟外长会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/56N6DMZA4VJHZLTICL2BCITQG4.jpg" style="width:100%" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;国务卿安东尼·布林肯参加2024年在老挝进行的第57届东盟外长会议，该会议在老挝的国家会议中心举行，由来自泰国的Chalinee Thirasupa拍摄&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 11:37:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/blinken-conveys-concern-wang-over-provocative-actions-taiwan-us-official-says-2024-07-27/</guid></item><item><title>中国青少年双人组合在巴黎夺得首枚金牌</title><link>https://www.reuters.com/sports/olympics/shooting-chinas-huang-sheng-win-first-gold-paris-games-2024-07-27/</link><description>&lt;p&gt;精明善用社交媒体的青少年搭档黄玉婷和盛李豪在周六的巴黎奥运会上夺得10米气步枪混合团体赛首金，继承了中国的射击传统。&lt;/p&gt;&lt;p&gt;在连续三届奥运会上，中国射击运动员夺冠次数超越了其他任何运动领域的运动员，这一趋势在巴黎奥运会上继续，黄玉婷和盛李豪在科塔鲁西射击中心则一马当先，摘得金牌。&lt;/p&gt;&lt;p&gt;在16-12的决斗败退韩国组合金姬玄和朴花俊的疯狂反扑后，他们以14-12的微弱优势战胜对手，确保中国成为自东京奥运引入混合团体赛以来，唯一蝉联冠军的国家。&lt;/p&gt;&lt;p&gt;今年19岁的盛李豪向媒体表示：“当韩国队追赶到接近时，我没有过分关注，首先努力稳定自己，我告诉自己必须做好自己的事情。”&lt;/p&gt;&lt;p&gt;“阿拉卡亚和萨塔佩瓦完成了前锋5持仓的铜牌争夺战，随着德国组合安娜·延森和马克斯·乌尔布希在17-5的比赛中完败，这一趋势再次彰显。”&lt;/p&gt;&lt;p&gt;三年前，中国选手杨谦和杨浩然夺得了东京奥运金牌，重演世界冠军黄玉婷和盛李豪在之前的预赛中领先韩国劲敌，预示他们在金牌争夺战中的决心。&lt;/p&gt;&lt;p&gt;尽管以14-8领先后赢得比赛并非易事，但在第11轮之后的领先优势并未倍增。韩国组合金姬玄和朴花俊有强烈的回击努力以14-12紧咬比分，而中国搭档最终还是脱颖而出。&lt;/p&gt;&lt;p&gt;黄玉婷告诉他紧张的记者，在韩国队追上第一名时，内心依然颇为紧张。“说实话，我心里告诉自己要专注于行程与竞赛，汲取正面的能量。”&lt;/p&gt;&lt;p&gt;赢得金牌后，黄玉婷和盛李豪正对巴黎奥运向第二枚金牌冲击，但他们确认混合团体赛的结果不会影响他们未来的单枪比赛。&lt;/p&gt;&lt;p&gt;韩国选手朴花俊表示，他对于银牌可能并不感到不悦。“我们无法战胜中国射手，但能获得奖牌，我们已经相当满意。”&lt;/p&gt;&lt;p&gt;同队队友金姬玄也无异议于他们的中国对手取得胜利。“我尊重中国运动员，他们赢得金牌的确表现卓越。”“我私下也认为我们队员的表现非常出色，获得银牌固然令人欣慰。”&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 09:31:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/shooting-chinas-huang-sheng-win-first-gold-paris-games-2024-07-27/</guid></item><item><title>跳水——中国女子横扫首金</title><link>https://www.reuters.com/sports/olympics/diving-chinese-women-win-first-gold-they-begin-bid-clean-sweep-2024-07-27/</link><description>&lt;p&gt;叶薇与杨雁妮联手为中国队在2024巴黎夏季奥林匹克运动会的第八场女子跳水金角争夺战中奠定了基石，于周六成功摘得三米跳板同步赛桂冠。&lt;/p&gt;
+&lt;p&gt;首次亮相奥运会的叶薇与杨雁妮以占据优势的337.68分完成此次体能与技能的充分展示，此前她们已连续三届赢得世界冠军头衔。&lt;/p&gt;
+&lt;p&gt;正值25岁的叶薇及早已年过二十五岁的杨雁妮，借助一记后跳入水时的立姿翻体，激起现场观众雷动的欢呼，掌声与旗帜争相展现着中国团队的精气神。&lt;/p&gt;
+&lt;p&gt;“虽已表现出正常的水平，但我们对分数有著更高的自我期许，未来我们将坚定不移地继续精进技艺。”获胜后首次赢得奥运会金牌，杨雁妮向记者阐述著份子厚重的激动与沉静。&lt;/p&gt;
+&lt;p&gt;在即时争夺的赛局中，与叶薇杨雁妮同场竞技的美国组合莎拉·巴顿和卡西迪·库克凭借相同的动作程式引起了二者的警觉。然而，继两大裁判以分数平分度过第二轮次挑战之后，美国组合在后续的跳跃中未能达到预期，最终以314.64分的优异成绩获屈银牌。&lt;/p&gt;
+&lt;p&gt;念起脸上的豁然开朗，卡西迪流露出肯定的欣慰，“虽然今日并未达到最佳状态，但我们展现出了坚韧性，这已是身为我心中自豪的成果。” 她进一步指出，银牌的获得为其坚定了信心，毕竟随后比赛的全过程都深深地意识到，与如中国般稳定的选手竞赛的重责。&lt;/p&gt;
+&lt;p&gt;在同步三米跳板竞赛领域中，中国已连续赢得六场奥运会金牌（赛事自2000年引入奥运赛程）。&lt;/p&gt;
+&lt;p&gt;奥林匹克水球体育馆中的观众，座无虚席，他们的热情是此次赛事成为狂欢的重要助推力。许多观众身着象征各自国家的颜色与标志，热情地为赛事中的体态旋转、扑打动作乐此不疲地鼓掌欢呼。&lt;/p&gt;
+&lt;p&gt;曾四次折桂三米跳板项目的郭晶晶作为评审，亲自主导了此场赛事，其亮相于屏幕时亦赢得了现场观众的殷切鼓励与赞赏。&lt;/p&gt;
+&lt;p&gt;以世界第一身份参加比赛的叶薇拒指定与她最亲密无间的友人杨雁妮共同竞技三米单人跳板项目。&lt;/p&gt;
+&lt;p&gt;占据铜牌的耶森·哈珀与斯卡特丽·麦克杰森，成功为代表英国获得本场赛事首枚奥运奖牌。&lt;/p&gt;
+&lt;p&gt;![叶薇杨雁妮](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6SNSLH4QZZPTRFG2RDAECYQUZA.jpg)&lt;/p&gt;
+&lt;p&gt;![叶薇杨雁妮](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GK6SZY5QYFLJZJCHW6YSUUANMI.jpg)&lt;/p&gt;
+&lt;p&gt;![杨雁妮](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/U23HYJC4IZO43FH4GOCLZIUDTA.jpg)&lt;/p&gt;</description><pubDate>Sat, 27 Jul 2024 10:00:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/diving-chinese-women-win-first-gold-they-begin-bid-clean-sweep-2024-07-27/</guid></item><item><title>四十年后，前中国乒乓球队友仍在比赛</title><link>https://www.reuters.com/sports/olympics/table-tennis-four-decades-former-chinese-teammates-still-competing-2024-07-27/</link><description>&lt;p&gt;尼霞莲与曾志英曾经是中国乒乓球队友，却未能代表祖国出生之地参加奥运会。四十年后，她们在巴黎奥运会代表其他国家参赛。&lt;/p&gt;&lt;p&gt;年届六十一岁的尼霞莲参赛奥运会已达六届，于一九八零年代中期移居列支敦士登，当时她为中国斩获两枚世界冠军金牌。&lt;/p&gt;&lt;p&gt;“三年前，我在东京奥运后曾打算退役。但我的国家体育总会热爱我，因此我尝试返岗参赛，如今我实现了目标。”尼霞莲如此说。&lt;/p&gt;&lt;p&gt;“下一步目标是赢得更多的比赛。&lt;/p&gt;&lt;p&gt;五十八岁的曾志英在职业乒乓球生涯退役近三十年后，于柴智期间重启乒乓运动。她在一场在线研究中，发现自己返老还童，但念及年代，奥运会像是远之梦想。&lt;/p&gt;&lt;p&gt;然而，当曾志英在智利北部个人经营家具贸易期间，从事查询赛绩时，几位皆获她年少大半的对手中，突然浮现了一个熟悉的面容，或是她的前队友，彼时仍活跃于国际比赛。&lt;/p&gt;&lt;p&gt;“去年开始玩时，尼霞莲已经六十岁了。”曾志英表示，“既然她能比赛，我亦能完善体能竞赛。她是我的行为榜样。&lt;/p&gt;&lt;p&gt;由于他们两人的长期职业生涯，最终归咎于在年轻时受训期间所习得的扎实基本功，以及在严谨指导下，历经数以百计逐日繁琐重复练习时所能获取的技艺法则。&lt;/p&gt;&lt;p&gt;乒乓球领域向来由中国独领风骚。自一九八八年乒乓球纳入夏季奥运会以来，三十七枚金牌中的三十二枚以及百分十一十五枚奖牌中的六十枚，均由中国夺得。&lt;/p&gt;&lt;p&gt;曾志英在智利的别称狄安娜，其第一轮对决对象是黎巴嫩年届四十六岁的马里亚娜山汗。她期盼能在巴黎比赛时得到丈夫及成年子女现场的应援，并感谢她所采用国家，以提供向世界顶级舞台参赛的绝好机会。&lt;/p&gt;&lt;p&gt;“在中国，即使获得参赛机会，却未必能获取优势，因整体水平如斯之高。”她所述。&lt;/p&gt;&lt;p&gt;对于尼霞莲而言，代表不同国家的比赛给她一些适应期，她舍弃参加一九九六年奥运会的机会并非初衷。&lt;/p&gt;&lt;p&gt;“起初，我并不热衷于为其他国家参赛，那非我目标，所以我舍弃了一九九六年奥运会。”她回应道。&lt;/p&gt;&lt;p&gt;然而，当长期居住当地，对于人民产生情感后，她理解体育仅是体育罢了，与政治、国籍无关。&lt;/p&gt;&lt;p&gt;“因此，我改变了心意，我希冀带领团队取得好成绩。这便是我的目标。&lt;/p&gt;&lt;p&gt;对于美国选手莉莉·章来说，一个出生于加州的中国籍女选手，可能在第二轮面对尼和曾，这对老将的长期职业寿命构成激励。&lt;/p&gt;&lt;p&gt;“这简直是匪夷所思。”这位二十八岁的选手如是说，“即便我自认年纪尚算偏大，看着她们改写预期，我内心深感有希望，争取持久地投身运动。&lt;/p&gt;  
 &lt;figure&gt;
-&lt;img alt="在老挝万象的第57届东盟外长会议上国家会议中心举办的第25届东盟+3外长会议上的中国外交部长王毅" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FKAAY3KYJVMOVAUC7GTJIDYIB4.jpg" /&gt;
+&lt;img alt="国际乒乓球联盟世界团队乒乓球锦标赛2024首尔站决赛" src="https://www.reuters.com/files.rsf/resize/full/750x420/reuters/RFJFGAPMQNMMFAK4NHPYD4RIUA.jpg"/&gt;
 &lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;2024年7月27日，老挝万象，第57届东盟外长会议在国家会议中心召开，第25届东盟+3外长会议讨论，中国外交部长王毅出席。路透社/Chalinee Thirasupa摄&lt;/i&gt;
+&lt;p&gt;乒乓球 - 国际乒乓球联盟世界团队乒乓球锦标赛2024首尔站决赛 - 首尔会展中心，首尔，韩国 - 2024年2月6日 - 列支敦士登的尼霞莲在女子单打小组赛对阵日本的石川佳纯的比赛中施展球技 。REUTERS/Kim Hong-Ji/File Photo&lt;/p&gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 04:02:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-foreign-minister-warns-philippines-over-us-missile-deployment-2024-07-27/</guid></item><item><title>尽管经济步履蹒跚，但6月份中国工业利润仍实现较快增长</title><link>https://www.reuters.com/world/china/chinas-industrial-profits-post-faster-gains-june-despite-faltering-economy-2024-07-27/</link><description>&lt;p&gt;中国6月份工业利润增速加快，国家统计局周六公布的官方数据显示，尽管企业在经济复苏不稳定的历史进程中应对消费者情绪下滑的压力。&lt;/p&gt;
-&lt;p&gt;6月的工业利润同比增长3.6%，5月为增长0.7%，第一季度至第二季度的利润增长为3.5%，超过1到5月增长的3.4%。&lt;/p&gt;
-&lt;p&gt;国家统计局统计师卫宁在一份单独的声明中表示：“相对快速的工业生产增长，加之第二季度以来出厂价格下降显著缓解，推动了企业收入的稳定复苏。”
-他还指出：“同时，我们也应当看到国内有效需求不足限制了企业表现的持续改善，严峻复杂的国际环境增加了企业的经营压力。”&lt;/p&gt;
-&lt;p&gt;6月的强劲数据与经济放缓形成鲜明对比，第二季度经济增长不及预期，消费者部门受就业市场困境和长期房地产下滑拖累表现悲观。&lt;/p&gt;
-&lt;p&gt;超过10家内地上市的酒精饮料公司中约有一半预审的上半年业绩预计会亏损。&lt;/p&gt;
-&lt;p&gt;尽管中美之间贸易战紧张，但两家电缆芯片供应商中际旭创（300308.SZ）和苏州腾飞光电（300394.SZ）依然预计上半年业绩将出现翻倍增长，作为全球人工智能部署的大赢家，这两家公司同时也是美国半导体巨头英伟达（NVDA.O）的供应商。&lt;/p&gt;
-&lt;p&gt;中国正试图提供更大的货币刺激来支撑其脆弱的经济，出乎市场意料，中国央行在7月25日的周一行动中进行了一次未计划的低息贷款操作，而且贷款利率大幅下调。前几天，当局降低了多个基准贷款利率，这是在领导会议明确了其他主要改革后的行动。&lt;/p&gt;
-&lt;p&gt;中国国家规划委员会和财政部在7月25日计划安排约3000亿元人民币的超长期特别国债资金，以加大全国范围内的设备升级以及消费者商品以旧换新的活动。&lt;/p&gt;
-&lt;p&gt;国有企业上半年利润同比增长0.3%，外资企业录得11%的增长，民营企业则上升6.8%，根据国家统计局数据的细分。&lt;/p&gt;
-&lt;p&gt;工业利润数字涵盖年主营业务收入至少2000万元人民币的公司。&lt;/p&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 10:52:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/table-tennis-four-decades-former-chinese-teammates-still-competing-2024-07-27/</guid></item><item><title>台风“嘉美”迫使中国东北地区疏散、工厂停工</title><link>https://www.reuters.com/world/china/typhoon-gaemi-forces-evacuation-factory-suspension-northeast-china-2024-07-27/</link><description>&lt;p&gt;据新华社周六报道，东北中国有超过27,000人被疏散，数百个工厂被下令暂停生产，台风盖米的强降雨天气导致这一情况发生。&lt;/p&gt;&lt;p&gt;盖米在福建设有沿海地区的城镇周五来袭，带来强风雨，成为今年对中华人民共和国影响最强烈并广受瞩目的风暴，其路径从东南海岸区进入人口密度大的内陆地带。&lt;/p&gt;&lt;p&gt;大量降雨导致辽宁省40座水库的水位上升，预计从本周一开始，区域将处于暴雨期间。&lt;/p&gt;&lt;p&gt;整个省份中有数百家化学和采矿业公司已经暂时停止作业，并且附近居民已被移至安全地躲避洪水风险，新华社如是报道。&lt;/p&gt;&lt;p&gt;此强风暴过后在台湾夺走了若干生命数量的生命，并加剧菲律宾的季候雨水情况，已造成福建省几乎63万的人员受到影响，几乎一半的人被转移安置位置，新华社如此报道。&lt;/p&gt;
+
 &lt;figure&gt;
-  &lt;img alt="Workers load steel products for export to a cargo ship at a port in Lianyungang" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GSLHBISGBZPPTPOIYIFDYVALVI.jpg" /&gt;
-  &lt;figcaption style="text-align: center; "&gt;&lt;i&gt;新冠疫情爆发后，戴着口罩的工人在江苏省连云港市的一个港口将钢材产品装运到待装船中&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 02:11:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-industrial-profits-post-faster-gains-june-despite-faltering-economy-2024-07-27/</guid></item><item><title>上半年我国工业利润同比增长3.5%</title><link>https://www.reuters.com/world/china/chinas-h1-industrial-profits-rise-35-yy-2024-07-27/</link><description>&lt;p&gt;截至2024年6月（上半年），中国工业企业利润相比2023年同期增长了3.5%，官方数据显示。&lt;/p&gt;&lt;p&gt;国家统计局（NBS）数据显示，这一增长是继2024年1月至5月增长3.4%之后的。&lt;/p&gt;&lt;p&gt;上述数据涵盖了年主营业务收入至少为2000万元（约275万美元）的企业。&lt;/p&gt;&lt;p&gt;中国2024年第二季度的经济增长远低于预期，最新经济数据表明，国内需求疲软和房地产市场长期低迷导致经济增速放缓。&lt;/p&gt;&lt;p&gt;（1美元=7.2767人民币）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="Employees work at the production line of aluminium rolls at a factory in Zouping" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IZPRUKEZLJLLFM2KWTKIZAARME.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2019年11月23日，山东省邹平市一家工厂内，工人们在生产铝卷的生产线上工作。图/路透社/档案照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 02:02:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-h1-industrial-profits-rise-35-yy-2024-07-27/</guid></item><item><title>耶伦：新兴市场对中国工厂产能过剩表示担忧</title><link>https://www.reuters.com/markets/asia/yellen-emerging-markets-share-concerns-chinas-excess-factory-capacity-2024-07-26/</link><description>&lt;p&gt;美国财长珍妮特·耶伦周五表示，新兴市场，包括一些G20国家，与她对中国过剩工业产能的担忧一致，并应敦促北京改变其经济模式。&lt;/p&gt;&lt;p&gt;节选：&lt;/p&gt;&lt;p&gt;耶伦在接受路透社采访时表示，对中国过度投资工厂并向全球倾销廉价商品的担忧，远远超出了富裕G7民主国家，还涉及东道国巴西在内的国家，巴西已对中国钢铁和电动汽车提高关税。&lt;/p&gt;&lt;p&gt;耶伦指出，中国没有接受其他国家和国际货币基金组织的建议，通过增加消费者支出和服务业需求来提振经济。相反，北京将过多的GDP投入到先进制造业的投资中，导致世界充斥廉价中国制造商品，她补充说，中国现在的经济规模太大，无法通过这种模式增长。&lt;/p&gt;&lt;p&gt;关键语句：&lt;/p&gt;&lt;p&gt;"世界上有许多国家不愿意这么说：‘中国，你想要主导制造业，那么我们所有的制造业行业都应该倒闭，因为你想要成为世界工厂。我们不愿意这样做。’这就是我们的共通点，这应该是一个我们应该传递的信息。"&lt;/p&gt; &lt;figure&gt;&lt;img alt="美国财长珍妮特·耶伦在巴西里约热内卢举行的G20财长会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UKQIARDM2BKP7GPL5HNHPQ6OZU.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年7月26日，美国财长珍妮特·耶伦在巴西里约热内卢参加G20财长会议。REUTERS/Tita Barros/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 26 Jul 2024 23:29:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/yellen-emerging-markets-share-concerns-chinas-excess-factory-capacity-2024-07-26/</guid></item><item><title>朝鲜金正恩呼吁“人民天堂”纪念朝鲜战争“胜利日”</title><link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-calls-peoples-paradise-marking-korean-war-victory-day-2024-07-26/</link><description>&lt;p&gt;朝鲜领导人金正恩表示，在朝鲜人民军成立76周年的韩国战争纪念日上，当前一代的任务是建设一个基于上一代胜利者用鲜血捍卫的意识形态的“人民的天堂”。&lt;/p&gt;&lt;p&gt;据朝中社报道，金正恩在7月27日纪念朝鲜战争的前一天，参观了纪念参加过1950-1953年战争的老兵的纪念碑，其中包括纪念与朝鲜作战的中国人民志愿军士兵的友谊之塔。&lt;/p&gt;&lt;p&gt;1953年7月27日，朝鲜与美国和中国签署停战协议，结束了这场为期三年的战争。UN联合国部队，支持南朝鲜，由美国将军代表签字。&lt;/p&gt;&lt;p&gt;"同志金正恩表示，我们这一代的任务和责任是保护上一代胜利者用鲜血捍卫的意识形态和制度..并为人民建设天堂。"朝中社说。&lt;/p&gt;&lt;p&gt;尽管停战协定画出了大致平分朝鲜半岛及其面积的边界，重建战后平衡，金正恩仍然将7月27日称为“胜利日”。韩国对此日不举办任何大规模活动。&lt;/p&gt;&lt;p&gt;朝鲜在全国各地举行了庆祝活动，包括宴会、革命青年先锋队伍的游行、在首都平壤的主要广场举办的在烟花燃放下出席的群众舞蹈等，朝中社报道。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="朝鮮人民軍成立76周年" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BX4OHB2DBZLWLFFH7LP4USSCE4.jpg" /&gt; 
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年2月9日，朝鲜中央通讯社发布的一张照片显示，朝鲜领导人金正恩在平壤庆祝朝鲜人民军成立76周年之际参观了国防部。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 26 Jul 2024 22:09:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-koreas-kim-calls-peoples-paradise-marking-korean-war-victory-day-2024-07-26/</guid></item><item><title>耶伦表示，全球税收谈判应在经合组织而非联合国进行</title><link>https://www.reuters.com/world/keep-global-tax-negotiations-oecd-not-un-yellen-says-2024-07-26/</link><description>&lt;p&gt;美国财政部部长珍妮特·耶伦在巴西的一场&lt;sup&gt;集团二十&lt;/sup&gt;财政领袖会议侧边场合表示，她反对将全球经济税协议谈判从经济合作与发展组织(OECD)转移到联合国(united nations)，并对此回应了一些发展中国家和非营利团体的意愿。&lt;/p&gt;
-&lt;p&gt;耶伦告诉法新社，她相信经济合作与发展组织(OECD)在过去的三年中，已经引领了对一部包含两部分的&lt;sup&gt;公司税协议&lt;/sup&gt;的谈判，她认为这个组织对这样的会谈更为适合。&lt;/p&gt;
-&lt;p&gt;“我们不希望看到这个转移到联合国”耶伦在里约热内卢这样说。她说：“经济合作与发展组织是一个基于共识的组织，我们已经取得了巨大的进展，而联合国没有技术专长来做这项工作。”&lt;/p&gt;
-&lt;p&gt;为了将谈判转移到联合国(U.N.)，会涉及到很多国家，而其应当采取的多数票制度结构不适合于复杂的税收谈判，这些国家需要在所有选项上达成一致，支持自己的利益。耶伦说：“国家必须前来谈判，并同意这样做。美国是不会仅仅因为联合国多数投票结果而去做的。”&lt;/p&gt;
-&lt;p&gt;然而，巴西作为集团二十会议主席，最初希望以针对全球税法协议的形式，增添一个第三“支柱”，对超富裕个人征收普遍税项。在第一支柱中包含了重新分配征税权利给大型跨国公司，而在第二支柱中包含了对所有大型公司的最低15%企业税率条款。&lt;/p&gt;
-&lt;p&gt;这一努力迅速转向为G20国家一起工作，以确保超富裕人士有效地受到征税，试图平衡国家主权和更多对偷税漏税的合作。&lt;/p&gt;
-&lt;p&gt;在这个过程中，巴西寻求在经济合作与发展组织(OECD)和联合国进行及时税收辩论，并得到了这个行动的参与者提供的信息的理解支持。&lt;/p&gt;
-&lt;p&gt;非营利组织Oxfam呼吁集团二十的国家将OECD的税收会谈与联合国协调起来，说“真正的民主过程”是设置对超富裕人士征税标准所必需的。&lt;/p&gt;
-&lt;p&gt;Oxfam在一份声明中说：“将这个任务委托给经济合作与发展组织（主要是富国俱乐部）将远远不够。”&lt;/p&gt;
-&lt;p&gt;耶伦说，可能有些税收议题适合联合国，但在当前情况下可能不适合。&lt;/p&gt;
-&lt;p&gt;耶伦还表示，在第一支柱税协定的谈判上取得了良好的进展，但在美国要求的转移价格计算方式，也就是“金额B”，的替代方式问题上，印度、中国和澳大利亚仍是美国的阻碍。&lt;/p&gt;
-&lt;p&gt;美国持续坚持这种方法，这会涵盖那些没有被列入基本完成的&lt;multilateral convention&gt;多边条约，用于计算年产值超过200亿美元的最大公司企业本地税务负担。&lt;/p&gt;
-&lt;p&gt;金额B提供了小企业计算转移价格和最终税务负担的一种客观方式，从而为多数主要活动类型的企业大幅减少了昂贵的税务争议。&lt;/p&gt;
-&lt;p&gt;“这是我们必须要的，需要默认金额B”，耶伦说，并补充将继续工作以吸引更多国家参与。&lt;/p&gt;
-&lt;p&gt;她说，印度是一个“绊脚石”，但她认为“我不是很惊奇我们会让中国参与这个并签署。&lt;/p&gt;</description><pubDate>Fri, 26 Jul 2024 18:51:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/keep-global-tax-negotiations-oecd-not-un-yellen-says-2024-07-26/</guid></item><item><title>美国通胀数据提振全球股市，压低美国国债收益率</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-26/</link><description>&lt;p&gt;全球股市指标在四连涨后，于周五首次攀升。在连续大幅抛售后，股市稳定，美国经济数据显示通胀前景有所改善，推动美债收益下降。&lt;/p&gt;&lt;p&gt;美国商务部表示，6月个人消费支出（PCE）价格指数较上月轻微上涨0.1%，与路透社调查经济学家的预测一致，5月该数据未做变动。&lt;/p&gt;&lt;p&gt;6月，PCE价格指数同比上涨2.5%，与5月的上涨2.6%保持在预期水平。&lt;/p&gt;&lt;p&gt;这些数据或许让美联储有机会在9月份开始削减利率，由于市场普遍预期如此。&lt;/p&gt;&lt;p&gt;"近期的趋势正在建立市场对我们在长期达到2%的轨道上的信心，"纽约美银资本市场的利率策略师威尔·哈特曼表示。"这是美联储首选的通胀指标又一个月的良好通胀数据。"&lt;/p&gt;&lt;p&gt;美联储将在7月底的下一次政策会议上作出重大决策。根据CME（芝加哥商品交易所集团）的FedWatch Tool，市场既认为该会议有不到5%的可能性分化经济至少25个基点，但已全面预计在9月份进行削减。&lt;/p&gt;&lt;p&gt;华尔街股市收盘强势上涨，小型股表现最佳，市场继续其近期转为主观的估值公司的趋势。尽管如此，大型股也显示出稳定迹象，纳斯达克指数在连续三天下跌后回升大约1%，当日涨幅超过4%，总跌幅近乎5%。&lt;/p&gt;&lt;p&gt;道琼斯工业指数上涨654.27点，或增长1.64%，达到40,589.34点；标准&amp;amp;普尔500指数上涨59.88点，或增长1.11%，达到5,459.10点；纳斯达克综合指数上涨176.16点，或上涨1.03%，达到17,357.88点。&lt;/p&gt;&lt;p&gt;尽管上涨，但标普500指数本周下跌0.83%。然而，罗素2000指数则在连续三周增长11.51%的情况下连续增长，这是其自2022年8月以来表现最强的三周。&lt;/p&gt;&lt;p&gt;欧洲股市周五收盘上涨，得益于企业收益，结束了连续两天的下跌，但仍整体处于下跌中。&lt;/p&gt;&lt;p&gt;MSCI全球股票指标上涨6.69点，或增长0.84%，至803.47点，但预计第二次连续下滑。&lt;/p&gt;&lt;p&gt;STOXX 600指数收盘上涨0.83%，但本周下降0.27%。欧洲广泛FTSEurofirst 300指数上涨17.10点，或增长0.85%。&lt;/p&gt;&lt;p&gt;美国国债收益在通胀数据公布后下降，10年期国债收益下降6.2个基点至4.194%，连续两天下降，但上周轻微上升。两年期国债收益，通常与利率预期同步，下降5.6个基点至4.3873%，连续五个星期中的第四周下滑。&lt;/p&gt;&lt;p&gt;衡量美元对包括日元和欧元在内的货币篮子的一篮子货币的美元指数下降0.03%，至104.30点，欧元上涨0.1%至1.0855美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reuters.com/markets/currencies/yen-heads-strongest-week-3-months-carry-trades-unwind-2024-07-26"&gt;美元兑日元&lt;/a&gt;也在通胀PCE数据公布后减弱0.1%，至153.78日元，降幅是自5月初以来最大的一周百分比。&lt;/p&gt;&lt;p&gt;市场预计美国联邦储备局会降低利率，而日本央行则可能在接下来几个月开始收紧政策，比如加强对利率的提升以及减少债券购买。此外，日本央行在本月的疑似干预货币行动也支持了日元的汇率。&lt;/p&gt;&lt;p&gt;英镑上涨0.16%至1.2871美元。英国央行也在下周举行政策会议，但在利率行动方面存在不确定性。&lt;/p&gt;&lt;p&gt;美国原油当日结算下跌1.43%，至每桶77.16美元；布伦特原油下跌1.51%，至每桶81.13美元，主要由于对中国经济需求的担忧和希望实现加沙停火的和平解决方案。&lt;/p&gt;</description><pubDate>Fri, 26 Jul 2024 02:45:01 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-07-26/</guid></item></channel></rss>
+&lt;img alt="宁德岸边台风盖米逼近于暴雨催促之下汹涌的海浪" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YIYLMSKU7RPTZLRO6W7ZO5ZE6M.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;宁德市三沙镇，盖米台风逼近于暴雨催促下，海浪岌岌可危，中国福建省，2024年7月25日。cnsphoto via REUTERS/File Photo&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 09:25:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/typhoon-gaemi-forces-evacuation-factory-suspension-northeast-china-2024-07-27/</guid></item><item><title>菲律宾完成与北京达成协议以来首次南海补给任务</title><link>https://www.reuters.com/world/asia-pacific/philippines-completes-first-south-china-sea-resupply-mission-since-deal-with-2024-07-27/</link><description>&lt;p class="lead"&gt;马里亚纳群岛于周六实现了对争议南中国海沙洲地区部队的不间断补给行程，外交部宣布，这是菲律宾与中国在新协议下首次按计划执行的补给任务，旨在缓和紧张局势。&lt;/p&gt;&lt;p&gt;上周，菲律宾与中国就马尼拉向其停泊在第二托马斯沙洲上的军用舰船补给部队一事达成了一个“临时协议”（见链接&lt;em&gt;菲律宾对于南中国海沙洲补给舰船不假外援行动的声明&lt;/em&gt;）。直升机间的频发冲突引发地区关切，有可能触发军事升级。菲律宾采取故意将一艘锈迹斑斑的老旧美国军舰在1999年停泊在该沙洲，旨在实现领土声索，并自那以后，保持了相对短暂的部队轮替境处于此，引起中国的不满，中国政府派遣海警驻扎在这个区域。&lt;/p&gt;&lt;p&gt;此次补给任务由一艘民船执行，菲律宾海警为您提供全程护卫，据外交部声明，其间并无任何不适当的情况发生。&lt;/p&gt;&lt;p&gt;中国政府海警确认全程监督，并指出在避免碰撞风险且无须提前通知之下进行补给。菲律宾参加了在老挝召开的区域峰会，国务卿安东尼·布林肯表示，对服务成功的实现感到满意，两国达成的协定令人感欣慰，并预期该合作有望持续。&lt;/p&gt;&lt;p&gt;菲律宾与中国的双方均强调，此次决议不改变其对于领土的立场。&lt;/p&gt;&lt;p&gt;该沙洲位于菲律宾专属经济区范围，距离中国大陆约1,300公里（约合808英里），中国方面称之为仁爱礁。&lt;/p&gt;&lt;p&gt;在6月份，菲律宾海军一员在一次中国海警“故意，高速冲击行动”（菲律宾方面描述）中手指受伤（见链接&lt;em&gt;菲律宾一海军人员南中国海撞击事件中受伤&lt;/em&gt;）。中国海警坚持声称补给船只受警告后依然坚持在“中国水域”逗留。&lt;/p&gt;&lt;p&gt;中国基于历史地图声称几乎整个南中国海为其领土，这一立场2016年以来遭到国际仲裁庭否定。&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4B3UZ7Z7MRKGHDRXV2J7Y7DXTI.jpg" alt="专用于新闻图像"&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;中国海警于2024年3月5日在前往南中国海沙洲补给船Unaizah途径第二托马斯沙洲时，使用水炮对其开火（此图为2024年5月4日在补给船行动中的图像），REUTERS/Adrian Portugal/File Photo&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 05:28:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-completes-first-south-china-sea-resupply-mission-since-deal-with-2024-07-27/</guid></item><item><title>中国外长就美国部署导弹向菲律宾发出警告</title><link>https://www.reuters.com/world/china/chinas-foreign-minister-warns-philippines-over-us-missile-deployment-2024-07-27/</link><description>&lt;div&gt;
+    &lt;p&gt;中国外交部长王毅向菲律宾发出了警告，针对美国的中程导弹部署，指出此类举措可能加剧地区紧张局势，并引发军备竞赛。&lt;/p&gt;
+    &lt;p&gt;今年早些时候，美国&lt;sup&gt;&lt;a href="https://www.reuters.com/world/chinas-defence-ministry-condemns-us-missile-deployment-philippines-2024-05-30/"&gt;部署&lt;/a&gt;&lt;/sup&gt;了其Typhon导弹系统至菲律宾，作为联合军事演习的一部分。菲律宾军方官员后来说，不在演练中发射，但未提供该国保留导弹的具体时长。&lt;/p&gt;
+    &lt;p&gt;双方关系此刻正面临十字路口，对话与协商乃是正确之道，王毅在老挝万象与菲律宾外长恩里克·马纳洛会面时说，同时万象作为各大国外交部长汇聚地，正预见即将到来的两个峰会。&lt;sup&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/asean-seeks-tackle-myanmar-crisis-south-china-sea-tension-ministers-meet-laos-2024-07-24"&gt;在此&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+    &lt;p&gt;王毅陈述，两国关系面临挑战，缘由是菲律宾“反复违反双方共识及自身允诺”&lt;sup&gt;&lt;a href="https://www.reuters.com/world/Asia-Pacifc.html"&gt;有关信息&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+    &lt;p&gt;“如菲律宾引入美国中程导弹系统，将为区域制造紧张与对抗，触发军备竞赛，并彻底不合菲人民之利益与愿望。”王毅如是说。&lt;/p&gt;
+    &lt;p&gt;菲律宾军方与外交部目前未立即对王毅言论作出回应。&lt;/p&gt;
+    &lt;p&gt;中菲在南海处于对峙状态，北京坚持其在争议水域内马尼拉专属经济区内的诸多潜礁之权益，在过去几次更为紧张。&lt;/p&gt;
+    &lt;p&gt;王毅指近期与菲律宾达成暂时性&lt;sup&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-resupply-ship-south-china-sea-shoal-without-us-help-2024-07-21"&gt;协定&lt;/a&gt;&lt;/sup&gt;，以保持人道救援补给在仁爱礁的运输与补充之稳定，相应地提及第二个托马斯礁。&lt;/p&gt;
+    &lt;p&gt;菲方船只周六成功无阻完成对礁石的最新任务，其外交部如是说。&lt;/p&gt;
+    &lt;figure&gt;
+        &lt;img alt="57th ASEAN Foreign Ministers' Meeting at the National Convention Center in Vientiane" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FKAAY3KYJVMOVAUC7GTJIDYIB4.jpg" /&gt;
+        &lt;figcaption style="text-align: center;"&gt;
+            &lt;i&gt;中国外交部长王毅出席东南亚国家联盟与三个对话伙伴会议之57th ASEAN Foreign Ministers' Meeting，在老挝万象国家会议中心举行，7月27, 2024。
+            &lt;sup&gt;REUTERS/Chalinee Thirasupa&lt;/sup&gt;&lt;/i&gt;
+        &lt;/figcaption&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;</description><pubDate>Sat, 27 Jul 2024 04:02:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-foreign-minister-warns-philippines-over-us-missile-deployment-2024-07-27/</guid></item><item><title>尽管经济步履蹒跚，但6月份中国工业利润仍实现较快增长</title><link>https://www.reuters.com/world/china/chinas-industrial-profits-post-faster-gains-june-despite-faltering-economy-2024-07-27/</link><description>&lt;p&gt;周六公布的数据揭示，中国六月份工业利润呈现增速向好趋势，尽管企业在经济复苏动荡期，同时面临消费者情绪的波动。&lt;/p&gt;
+&lt;p&gt;去年六月的工业利润增长了3.6%，紧接着五月增长了0.7%；上半年的整体利润则增长了3.5%，环比前段的一季度增长3.4%有所加速。&lt;/p&gt;
+&lt;p&gt;国家统计局的统计员宁伟在另外一份声明中强调说：“相当快速的工业生产增长，以及第二季度以后工厂出口价格的显著下降缓解，都促进了产业收入的稳定复苏。”&lt;/p&gt;
+&lt;p&gt;“同时，我们需要注意到，国内需求不足的问题仍限制着企业性能持续改进，严峻复杂的国际环境加重了企业的营运压力。”&lt;/p&gt;
+&lt;p&gt;这些强烈的数据对比了第二季度放缓的经济表现，由于失业问题和房地产市场的持续疲软使得消费领域的心情低迷，以及通常的预测落空。&lt;/p&gt;
+&lt;p&gt;超过十家内地挂牌的酒类企业当中，超过半数企业预测上半年业绩将出现亏损。&lt;/p&gt;
+&lt;p&gt;尽管面临与西方国家贸易紧张的氛围，二只为美国芯片巨头Nvidia（NVDA.O）提供服务的光学收发器公司，中际旭一光电科技（300308.SZ）和苏州腾飞光电通信（300394.SZ）却预报第一季业绩将呈现数倍增长，两者均为全球AI扩张的大赢家。&lt;/p&gt;
+&lt;p&gt;中国正在努力向脆弱的经济提供较重的货币政策刺激，周四意外在较低利率下进行贷款操作出人意料，打破了市场的预期。而仅仅数天前，权威机构降低了多宗基准贷款利率，后续于高层会议规划了其他重大改革。&lt;/p&gt;
+&lt;p&gt;国家发展计划委员会和财政部宣布了在超长期专项国债中，安排约3000亿人民币的基金，旨在推进全国范围的设备升级和消费者商品置换行动。&lt;/p&gt;
+&lt;p&gt;国营企业的上半年利润增长了0.3%，外国企业则增长了11%，私营企业则增长了6.8%，根据国家统计局的数据进行了具体分解。&lt;/p&gt;
+&lt;p&gt;工业利润指标涵盖了年主营业务收入在2000万人民币以上的工业企业。&lt;/p&gt;
+&lt;p&gt;($1 = 7.2767 中国元)&lt;/p&gt;  
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GSLHBISGBZPPTPOIYIFDYVALVI.jpg" alt="在连云港港口，佩戴口罩的工人将钢铁产品装上即将出口的货船。 2020年5月27日，中国江苏 - 中华人民共和国日报/路透社"/&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在连云港港口，佩戴口罩的工人将钢铁产品装上即将出口的货船。 2020年5月27日，中国江苏 - 中华人民共和国日报/路透社&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 02:11:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-industrial-profits-post-faster-gains-june-despite-faltering-economy-2024-07-27/</guid></item><item><title>上半年我国工业利润同比增长3.5%</title><link>https://www.reuters.com/world/china/chinas-h1-industrial-profits-rise-35-yy-2024-07-27/</link><description>&lt;p&gt;中国工业企业在2024年上半年的盈利同比上涨3.5%，针对此数据于周六正式公布。&lt;/p&gt;&lt;p&gt;这一增长趋势紧跟了1月至5月间3.4%的涨幅，这一信息是国家统计局(National Bureau of Statistics)提供的。&lt;/p&gt;&lt;p&gt;此数据涉及到所有主营业务年收入至少达到2000万元人民币的工业企业。&lt;/p&gt;&lt;p&gt;就在上月，最新GDP数据显示，中国2024年第二季度经济扩张明显低于预期，这反映出国内需求疲软以及房地产业的长期衰退。&lt;/p&gt;&lt;p&gt;($1=7.2767人民币)&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IZPRUKEZLJLLFM2KWTKIZAARME.jpg" alt="员工在邹平的一家工厂铝卷生产线工作"&gt;&lt;figcaption style="text-align: center;"&gt;&amp;lt;i&amp;gt;员工正在山东省邹平的一家工厂的铝卷生产线上工作，日期为2019年11月23日。路透社/档案照片&amp;lt;/i&amp;gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 27 Jul 2024 02:02:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-h1-industrial-profits-rise-35-yy-2024-07-27/</guid></item><item><title>耶伦：新兴市场对中国工厂产能过剩表示担忧</title><link>https://www.reuters.com/markets/asia/yellen-emerging-markets-share-concerns-chinas-excess-factory-capacity-2024-07-26/</link><description>&lt;p&gt;美国财政部长珍妮特·耶伦周五在接受访谈时指出，新兴市场国家，包括部分G20成员国，与其分享了对中国过剩工业产能的忧虑，并强调这些国家应共同施压中国政府，促使北京变革其经济模式。&lt;/p&gt;
+&lt;p&gt;摘   选：&lt;/p&gt;
+&lt;p&gt;耶伦告诉路透社，对中国过度投资工厂，并大举布开发达国家的廉价货品的担忧并非局限于富裕的G7民主国家，巴西等G20国家也已提高对中国钢铁及电动汽车的关税，成为这一议题的一部分。&lt;/p&gt;
+&lt;p&gt;耶伦提出，中国未能采纳来自其他国家与国际货币基金组织的建议，以促进其经济复苏的措施在于增加消费者支出与服务需求。&lt;/p&gt;
+&lt;p&gt;然而，中国政府正倾向于将较多国内生产总值用于先进制造业投资，导致世界充斥着廉价的中国商品。其提出，中国现有的经济规模，难以通过维持这样的发展模式获得增长。&lt;/p&gt;
+&lt;p&gt;关键引述：&lt;/p&gt;
+&lt;p&gt;“众多国际社会均不愿赞同中国的制造业意图全面领军，认为此举动将导致全球制造产业遭受重创，继而放弃自身产业，这一观点体现了我们的共同立场。我们需构筑这一信息，一并传达给中国。”耶伦如此描述。&lt;/p&gt;
+&lt;p&gt;插图说明：&lt;/p&gt;
+&lt;p&gt;美国财政部长珍妮特·耶伦于2024年7月在巴西里约热内卢出席G20财长会议的现场照片。此图展示了耶伦在会上的风采。来源：路透社/提塔·巴罗斯/档案照片&lt;/p&gt;</description><pubDate>Fri, 26 Jul 2024 23:29:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/yellen-emerging-markets-share-concerns-chinas-excess-factory-capacity-2024-07-26/</guid></item><item><title>朝鲜金正恩呼吁“人民天堂”纪念朝鲜战争“胜利日”</title><link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-calls-peoples-paradise-marking-korean-war-victory-day-2024-07-26/</link><description>&lt;p&gt;朝鲜领袖金正恩强调，当前世代之神圣使命乃是构建一座“民众乐园”，以此缅怀前辈英雄以鲜血捍卫的信仰理念，恰逢朝鲜战争纪念日。&lt;/p&gt;&lt;p&gt;金正恩于星期五参观了朝鲜战争老兵纪念场所，包括纪念中国人民解放军战士同朝鲜人士并肩作战的友谊塔，据朝鲜国家通讯社朝中社报道。&lt;/p&gt;&lt;p&gt;朝鲜在1953年7月27日正式签署了停战协定与美国与中华人民共和国，意味着为期三年的战火终于停息。当时的美国将领代表联合国军支援南韩签署此协定。&lt;/p&gt;&lt;p&gt;“金正恩同志阐述，此一世代的圣神天职，便是守护前代胜利者以血泪坚守的意识形态与制度，致力于构建民众的乐园。”朝中社报道如是说。&lt;/p&gt;&lt;p&gt;朝鲜将7月27日定为“胜利日”，即便仅是停战协定确保了朝鲜半岛大致均等分为南北，并且在战争中双方均取得重大进展的动态平衡得以恢复。&lt;/p&gt;&lt;p&gt;而在韩国，这一日子并未伴有任何大型庆祝活动。&lt;/p&gt;&lt;p&gt;朝鲜在全国各地举办温馨活动以纪念这一日，包括招待会、革命青年先锋致胜行列以及在首都平壤的主要广场上，齐聚的爱国者在庆祝烟花中进行集体跳舞。&lt;/p&gt;&lt;p&gt;&lt;figure&gt;&lt;img 
+    alt="朝鲜人民军76周年成立纪念庆典” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BX4OHB2DBZLWLFFH7LP4USSCE4.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;
+朝鲜领袖金正恩于2024年2月9日，在平壤庆祝朝鲜人民军成立76周年的场合访问了朝鲜人民军中央本部。朝鲜中央通讯社通过路透社提供此张照片文件。
+&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;</description><pubDate>Fri, 26 Jul 2024 22:09:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-koreas-kim-calls-peoples-paradise-marking-korean-war-victory-day-2024-07-26/</guid></item></channel></rss>
