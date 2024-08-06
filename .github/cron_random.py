@@ -2,7 +2,7 @@
 import random
 
 # 生成一个在上午的小时数和一个在下午的小时数
-h_morning = random.randint(0, 11)
+h_morning = random.randint(7, 11)
 h_afternoon = random.randint(12, 23)
 
 # 分钟数可以固定，也可以随机
