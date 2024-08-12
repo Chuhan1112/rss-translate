@@ -1,427 +1,629 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 12 Aug 2024 10:52:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>美洲 市场祈祷通胀保持良好</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-08-12/</link><description>&lt;p&gt;迈克·多尔记者采访展望了今日美国和全球市场的动态。在过去一周市场波动中几乎未曾受到关注的美国通胀更新内容将在本周期内呈现，这将揭示美国联邦储备系统能否在面对下个月预期的第一轮利率下调时维持政策灵活性。&lt;/p&gt;
-&lt;p&gt;部分原因是上周一东京的假期，世界市场的平静与近期剧烈波动形成鲜明对比，显得几乎无法辨认。&lt;/p&gt;
-&lt;p&gt;尽管标准普尔500指数（.SPX）在经历了多天大规模波动后依然基本持平，市场波动指数（.VIX）的读数已靠近20年的平均水平，这一情况缓解了外界对于美国就业市场的担忧。&lt;/p&gt;
-&lt;p&gt;在劳动力市场忧虑减缓的情况下，公司整体盈利面貌呈现出稳健之势。截至第二季度，标准普尔500指数的年度利润增长接近14%，随着季度报告周期的推进，这一增长表现显得尤为关键。&lt;/p&gt;
-&lt;p&gt;然而，波涛汹涌的劳动力市场与金融市场对美国联邦储备体系的一轮降息预期加大了押注。根据未来的期货定价，市场预期下个月降息幅度将介于0.25%到0.5%之间，年底累积降息幅度约为102基点。&lt;/p&gt;
-&lt;p&gt;美联储能否采取激进的削减措施取决于关键的通胀读数，比如说本周即将公布的数据。生产者价格指数(PPI)数据出乎意料地保持温和，今年7月的年度PPI预计将达到2.3%的低点。&lt;/p&gt;
-&lt;p&gt;月度CPI读数保持在0.2%的温和水平下，核心年度消费者价格指数预测将略微下滑至3.2%，对美联储而言，这一数据接近共识水平应该不会带来恐慌。&lt;/p&gt;
-&lt;p&gt;换句话说，只要通胀数据持续向2%的目标滑动，放慢联邦基金利率的步伐将被视为促进经济活动与就业增长而不致过度紧缩的合理策略。美国联邦储备委员会米歇尔·鲍曼在周六的言论中强调了这一点。&lt;/p&gt;
-&lt;p&gt;鲍曼虽然此前坚持加息的可能性仍存，但是受到最近就业报告的温和影响，移动了有关大幅降息可能性的预期，因而出言表达了对数据“可能夸大了冷却程度”的谨慎。&lt;/p&gt;
-&lt;p&gt;在本周的CPI报告公布之前，纽约联邦储备银行将在周一公布其7月份的消费者通胀预期调查，媒体对该数据的展望显示，3-年和5-年到期的预期中值已经悄然返回至3%以下。&lt;/p&gt;
-&lt;p&gt;近期金融市场似乎也对通胀预期做了降调。通胀导向型的美国国债到期于上周信用度量降至接近美联储2.0%通胀目标的水平，这一数值创下了自2021年初以来的新低。尽管目前这一度量略有回升，但仍停留在2.1%。&lt;/p&gt;
-&lt;p&gt;这对美联储来说或许是一个积极信号。本周初市场的平静开始，带来了收益率的微升，但依然保持在近一个月来未能突破的4.0%的关键水平之下。美元指数（.DXY）显示小幅攀升，欧战指数也相应上涨。&lt;/p&gt;
-&lt;p&gt;美国股市期货指数与欧洲指数体现出相似的走势。中国大陆股市的表现相比稍显逊色，市场关注的焦点主要集中在汇率市场的波动，特别是在过去一周中国政府债券市场的异常动作上。&lt;/p&gt;
-&lt;p&gt;在并购方面，英国电信集团（BT集团）的股价在印度的巴帝企业达成协议，同意购买公司最大股东Altice UK持有的约24.5%股份之后显著上涨，涨幅达到了6.6%。&lt;/p&gt;
-&lt;p&gt;周一即将面对的关键发展因素，应为纽银的通胀期望调查以及美国财政部分期出售3及6个月期债券计划的可能性：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;纽约联邦储备银行的通胀预期调查。&lt;/li&gt;
-&lt;li&gt;美国国债发行3和6个月期债券。&lt;/li&gt;
-&lt;/ul&gt; &lt;figure&gt;
-&lt;img alt="美国通胀进一步趋缓，推动经济复元" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RRAIPUK2A5N6HDMX4BDORT2OUU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;纽约市当地街道上，一名独立理发师在等待客户。这是2023年12月25日在纽约拍摄的照片，由埃杜阿多·穆诺佐提供/路透社文件照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 10:03:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-2024-08-12/</guid></item><item><title>全球股市稳定，日元在美国数据公布前平静下滑</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-12/</link><description>&lt;p&gt;在本周末的周一，欧洲的股市及其美国期货的价格总体保持平稳，日元汇率则有所下跌。这一情况源于日本的假期消除了近期波动的一个主要来源，投资者们则转向关注即将出炉的美国及中国的经济数据。&lt;/p&gt;
-&lt;p&gt;上周一，全球股市遭受重挫，主要受日本股市的猛烈下跌以及美国新增就业人数的疲软助推，不仅如此，市场上热捧的一种针对日元的交易策略旋即被开刀抽撤，进一步推高了下滑态势。&lt;/p&gt;
-&lt;p&gt;然而，由于超预期的强劲美国经济数据稍微缓解了对于全球经济放缓的担忧，股市在全周剩余时间里逐步收复失地，到了上周五大部分损失已被弥补。全欧洲的STOXX 600指数在结束了前一周0.3%的增长后下滑了0.1%，德国的DAX指数以及英国的FTSE 100指数却分别维持平稳与上行0.3%。&lt;/p&gt;
-&lt;p&gt;市场在本周一较为平静，观察到美国七月消费者价格指数数据将公布，数据显示月比通胀或从一个月前的负0.1%上升到0.2%，该经济数据的预测结果。同时，零售销售数据则排档于后一周的公布。有业内人士强调“这种经济预测可谓平稳，说明通胀问题不再是市场关注的焦点。”}&lt;br&gt;
-“现在市场关注的重点转向政策可能 realmuch坚韧过头，过长的时间对劳动力市场的表现影响日渐显著。” &lt;br&gt;
-道琼斯工业指数期货上涨0.1%，周五收市时总体保持平稳，与上周一周初沸战的水平相抵。与此不同，日本日圆进一步贬值，美元升值了0.5%，以147.30日圆购进美元；欧元及英镑则保持原位置。&lt;/p&gt;
-&lt;p&gt;在之前几周，日本货币大幅反弹的投资人士措手不及，被迫反思所谓的“融资交易”模式，该模式下通过高借取日本日元而贷买其他货币进行投资于高收益资产。彭博团队于飞行后的数据展示，苹果亏损基金投入的日圆位置之极速消减，高达近2011年3月以来之数量级别上限，显示俄罗斯并香港房贷与此措施的清除形成对冲。&lt;/p&gt;
-&lt;p&gt;我看到一份周报指出：“本周开端异常平静，赛道相对周四的大幅上、下真是不同。多项数据显示投资者已经进行了大规模的日圆融资卖出策略的退缩，并可能象征市场面临的整体日圆风险渐趋明朗。”&lt;/p&gt;
-&lt;p&gt;在日本的金融服务市场因公众假期歇业、亚市整体情势相对为平稳。并未有中国大陆负责人提及即将公布的零售销售与工业生产能力的数据，这些数据预报了中国经济可能处以低表现，加剧了全球经济增长的担忧。&lt;/p&gt;
-&lt;p&gt;国债10年期短期利率保持平稳，维持于3.947%，其自去年四月份以来最大的增长15bps，标志着全球金融市场借贷成本的最高点。国债利率与市场走势呈反向关系。&lt;/p&gt;
-&lt;p&gt;原油价格稍微上涨，对比于上周3.5%的涨幅，原油价格再次恢复至约$80.08/barrel和$77.43/barrel。&lt;/p&gt;
-
-&lt;p&gt;以色列国防部长尤瓦尔·阿林特在周日与美国国防部长劳埃德·奥斯汀会面，并告诉他伊朗军事筹备打击以色列的迹象，似乎使得大规模袭击的预期加剧。周日，布伦特原油价格微涨0.5%，达到$80.08/barrel，美国轻质原油则上涨0.8%，至$77.43/barrel。&lt;/p&gt;
-
-&lt;p&gt;Via &lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OZFOFCAXLBJZNCP7VWK7WKQQ6A.jpg" alt="The Nasdaq Market site is seen in New York"&gt;：The Nasdaq Market in New York City, U.S., March 26, 2024.
-
-Via &lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CSCJOEAC2ZJYVOXK2ZZDNHOBDQ.jpg" alt="Stock information display in Shanghai"&gt;：Stock information display in the Lujiazui financial district in Shanghai, China, August 6, 2024. &lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 00:24:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-12/</guid></item><item><title>独家：土耳其国防部长表示，土耳其的首要任务是履行北约责任</title><link>https://www.reuters.com/world/middle-east/turkeys-priority-is-fulfilling-nato-responsibilities-defence-minister-says-2024-08-12/</link><description>&lt;p&gt;土耳其矢志不渝履行对北约的责任，其国防部长通过路透社明确表态，尤其是在一些西方盟国对其日趋脱离西方产生担忧的背景下。&lt;/p&gt;&lt;p&gt;上月，土耳其总统埃爾多安宣布土耳其寻求加入上海合作组织（SCO），一个由中俄等国于2001年创立的安全、政治和经济合作组织，此组织旨在抗衡西方联盟。埃爾多安强调土耳其无任何reason不直接成为该组织的常设成员。&lt;/p&gt;&lt;p&gt;国防部长亚瑟·居勒在书面采访中指出，土耳其的北约盟友身份并不妨碍其与上海合作组织发展关系。&lt;/p&gt;&lt;p&gt;“除此之外，我们的首要任务是作为重要盟友，全力确保对北约的责任履行和盟友间团结的巩固。我们应集中注意力，确保北约能够准备就绪，坚决并强大。”他补充表示。&lt;/p&gt;&lt;p&gt;安卡拉对金砖国家集团的关注和与俄罗斯在能源、旅游与国防领域的友好交往引发了西方国家对土耳其联盟倾向变化的担忧。然而，安卡拉多次重申其坚定不移地恪守北约盟友的承诺。&lt;/p&gt;&lt;p&gt;鉴于美国的制裁导致土方被迫自俄罗斯的S-400防御系统购得装备后，而后脱离开F-35战斗机项目，自那时起，土耳其一直在与美方协商，以求从华盛顿购得40架Block-70 F-16战斗机以及79套现代化升级套件。这项协议在土耳其赞同瑞典加入北约后获得批准。&lt;/p&gt;&lt;p&gt;亚瑟·居勒表示，F-16的购得与现代化升级项目正在按照既定进度推进，双方正就具体细节进行密切沟通。&lt;/p&gt;&lt;p&gt;他进一步强调，若最后一架战斗机交付，收入情况将以无障碍进行为前提，对合作存有满足的喜悦。&lt;/p&gt;&lt;p&gt;问及土耳其是否会回归F-35项目时，居勒表示，土方与美方正在就此问题继续会谈。&lt;/p&gt;&lt;p&gt;他继续评论称，土耳其仍然对购得40架Eurofighter Typhoon战斗机暂持兴趣，并与德国、英国、西班牙保持着沟通。目前，对话并未有实质进展，他期望得到盟友的积极回应。&lt;/p&gt;&lt;p&gt;上月，埃爾多安宣布将邀请叙利亚总统巴沙尔·阿萨德进行会谈，讨论恢复 turkey与叙利亚之间的关系，此前两国关系因2011年叙利亚战争而彻底破裂。但阿萨德提出只有在双方共同努力解决关键议题的情况下，才会进行会面，其中最重要的一项为土方军队应从叙利亚北部撤军。&lt;/p&gt;&lt;p&gt;根据亚瑟·居勒的汇报，一旦创造适当条件，两国在部长级层面的会谈可以再次举行。他承诺土耳其将为最终确立全面宪制、民主选举与安全环境的塑造提供支持，而这些过程都以边境安全的全面保障为前提。&lt;/p&gt;&lt;p&gt;他指出，土耳其与伊拉克近期在反恐领域采取的合作措施标志着关系的转折点，双方正继续对在军事活动领域的共同运营中心实施具体的技术设计工作。&lt;/p&gt;&lt;p&gt;居勒进一步强调，伊拉克部分地区涉及从土耳其、卡塔尔、阿联酋四国之间商定成合作发展道路项目的贸易走廊上满布威胁，这强调了地区安全与稳定保护的重要性。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 07:32:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/turkeys-priority-is-fulfilling-nato-responsibilities-defence-minister-says-2024-08-12/</guid></item><item><title>越南新任党总书记将于下周访华</title><link>https://www.reuters.com/world/asia-pacific/vietnams-newly-appointed-party-chief-set-visit-china-next-week-2024-08-12/</link><description>&lt;p&gt;越南最高领导人评论员To Lam将于下周访问中国，这是他自今年8月当选执政共产党中央书记后的首次国外出访，知情官员如实告知《路透社》。&lt;/p&gt;
-&lt;p&gt;此举重申了两国共产党的领导邻邦之间牢固的关系，尽管在南海这个能源丰富的关键商业航道上偶尔会出现边界争端，而中国声称几乎全部航道，这让地区多个国家倍感不适。&lt;/p&gt;
-&lt;p&gt;To Lam，也是该东南亚国家的国家元首，计划于8月18日抵达中国，并在接下来的两天内会见国家主席习近平及其他官员，据两名越南官员和一名驻河内外交官透露，他们拒绝透露姓名，因为这次访问尚未正式宣布。&lt;/p&gt;
-&lt;p&gt;中国和越南外交部均未对询问发表评论。&lt;/p&gt;
-&lt;p&gt;作为自5月成为国家主席以来已经访问过老挝和柬埔寨的继往开来之举，67岁的 Lam 制定了与前人相符的出访方案，在接任共产党党魁后，他与俄罗斯总统弗拉基米尔·普京进行了会面，并在上任后不久即与他通了电话。&lt;/p&gt;
-&lt;p&gt;这是自从他于8月3日专门党魁职务后的第一次国外出行，当时已故统治党领导者Nguyen Phu Trong在两周后离世。&lt;/p&gt;
-&lt;p&gt;我国并无绝对领导者，但已故的Trong通过将权力集中掌握在党魁手中实现了权力的稳定。&lt;/p&gt;
-&lt;p&gt;中国国家主席习近平与美国总统乔·拜登在Lam担任党魁后对他的工作给予了高度评价，对部分投资于区域工业中心的投资人而言，Lam这一高层职位的晋升或许将有助于结束近期导致项目及改革放缓的政治动荡。&lt;/p&gt;
-&lt;p&gt;Lam，作为一位将军和前内政部长，预计在未来几个月内卸任国家主席，当议会于10月例行会期召开时，多名越南和国际官员表示。&lt;/p&gt;
-&lt;p&gt;在此之前，他将参加9月份的联合国大会，作为越南的国家主席，在那次出访中，他还将与美国总统拜登会面。&lt;/p&gt;
-&lt;p&gt;在2026年，当越南议会结束其五年任期时，我国所有最高职位都将再度受到竞争，多名分析师与外交官视Lam为目前最有可能维持党的领导的领导人。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="越南国家主席To Lam出席海防市的总统府的发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reUTERS/MKELOXFXZJNDRKB7E3OSNTTE4Y.jpg" /&gt;
-&lt;figcaption style="text-align:center;"&gt;
-&lt;i&gt;2024年6月20日，越南国家主席To Lam出席了在海防市的越南总统府与未在图中的俄罗斯总统弗拉基米尔·普京的发布会，图片来自REUTERS文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 08:45:56 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/vietnams-newly-appointed-party-chief-set-visit-china-next-week-2024-08-12/</guid></item><item><title>随着机器人出租车的步伐加快，中国的司机和乘客都感到焦虑</title><link>https://www.reuters.com/business/autos-transportation/chinas-drivers-fret-robotaxis-pick-up-pace-passengers-2024-08-08/</link><description>&lt;p&gt;刘益是一位拥有700万注册的网约车司机队伍中的一员，作为中国湖北省武汉的一名36岁居民，在全国多数销售滞销公寓的背景下，他的建筑工程工作放缓，他自今年开始从事兼职出租汽车服务。&lt;/p&gt;
-
-&lt;p&gt;他预计，面对阿波罗GO服务的无人驾驶汽车带来的新竞争情况，武汉的出租车司机们将会面临犹如“每个人都将挨饿”的困境。&lt;/p&gt;
-
-&lt;p&gt;刘益认为代号为百度子公司的阿波罗GO在面对驱动权由全球科技巨头百度所提供的无人驾驶载客汽车的威胁下，所有武汉的现有出租车司机都将陷入竞争困境。&lt;/p&gt;
-
-&lt;p&gt;对于中国工业和信息化部不愿针对此议题与媒体公开评论而选择沉默的态度，无需对此做出回应。&lt;/p&gt;
-
-&lt;p&gt;经济学家和产业专家指出，全球各地的网约车和出租车司机相较于同类领域，首先迎接了人工智能取代人类司机势头的挑战，成千上万的自动驾驶出租车在这里的街面上开始运行。&lt;/p&gt;
-
-&lt;p&gt;虽然自动驾驶技术仍旧正在发展中，中国政府比美国快马加鞭地开始了试运营，对无人驾驶汽车的应用时间提出前瞻而保守的推动方案。&lt;/p&gt;
-
-&lt;p&gt;截至披露的数据，至少19个中国的城市正在运行初步的无人驾驶车辆测试。七个城已于去年通过允许在世界上具备了领先自动化技术的公司亲自统治无人驾驶产品进行试运行，这些公司包括但不限于阿波罗GO、小鹏汽车、自动速、AutoX和上汽集团。&lt;/p&gt;
-
-&lt;p&gt;阿波罗GO在5月宣布本年底他们的无人驾驶汽车部署计划将达到100辆，到2030年则将扩展至100个城市。&lt;/p&gt;
-
-&lt;p&gt;在8月12日发布的一份声明中，阿波罗GO表示与中国推进自动驾驶汽车发展的稳健步伐保持着一致，坚信整个国家的自动驾驶运输系统将经历从人工转变为自动驾驶的“有条不紊且基础完善的管理过程”。&lt;/p&gt;
-
-&lt;p&gt;该公司进一步阐述了无人驾驶汽车将为阿波罗GO带来更多的工作岗位，涉及监控、测试和收集从持续运行的试运营中汲取的大量数据。&lt;/p&gt;
-
-&lt;p&gt;董事会由丰田汽车支持的小鹏汽车在无人驾驶领域已有300辆运营车辆，并计划至2026年间将规模增加至1000辆。其副职领导曾经表达过相信小鹏汽车能够在五年后实现盈亏平衡，从而获得了在经济上能健康发展的可持续前置。&lt;/p&gt;
-
-&lt;p&gt;沃莱汽车（蚂蚁集团的一部分）和苏宁汽车在中国的北京和上海等地分别有运营车辆正在运行。赛迪汽车集团早在2021年底即开始了无人驾驶服务的试运营。&lt;/p&gt;
-
-&lt;p&gt;波士顿咨询集团的一位管理负责人引入了对比美国和中国的自动驾驶汽车行业发展的差异。“在美国，自动驾驶行业的发展进程一直较为保守”，他说道。&lt;/p&gt;
-
-&lt;p&gt;树洞科技集团的道威系统将面临美国的禁止令，被要求禁止使用带有自主专利的无人驾驶车辆参与运输服务，而此决定将对于在2024年生效。&lt;/p&gt;
-
-&lt;p&gt;从武汉地区各控制中心远程可视化监控系统的到来，中国驾驶培训学校机构涓涓流水京津书院从2019年开始就断减elts，几乎四成的师生数量现在稳定在近900人为规模。&lt;/p&gt;
-
-&lt;p&gt;在这期间内，巡视员们能通过车载传感器，虚拟现实的模拟提供精确的数据反馈，一旦执行操作在行进轨道中偏离预计式样时会产生拨号警报。&lt;/p&gt;
-
-&lt;p&gt;省级政府官员通过明确在单项上增加竞争环境下的监管要求，另外通过限制某些关键服务的提供，保证有竞争压力下的司机们能获得保障。&lt;/p&gt;
-
-&lt;p&gt;借助驾驶者们的在线论坛如BBS等高互动流量的社交媒体平台，近来关于无人驾驶应当亏损的程度和负面人力市场影响的关注度显著增加，比如在“无人驾驶将是否导致司机失业”的热词热搜话题。这也开启了对高速公路的安全性与风险可能性的争议。&lt;/p&gt;
-
-&lt;p&gt;因而，虽然如特斯拉FSD之类的自动化驾驶技术可能引起部分司机的担忧，处于两者之下的司机们确实面临着行业动荡的可能性。&lt;/p&gt;
-
-&lt;p&gt;而对于这些人才流失所可能产生的债务与行业阵痛，尽管中国需求更多我们可以鹰隼击群峰的机制来解决类似问题，这些答案无疑应当寻求尽早对外公布，以避免促进民间恐慌或是对社会经济的稳定性造成冲击。&lt;/p&gt;</description><pubDate>Thu, 08 Aug 2024 00:03:15 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/chinas-drivers-fret-robotaxis-pick-up-pace-passengers-2024-08-08/</guid></item><item><title>随着低空经济加速发展，中国试验货运无人机和空中出租车</title><link>https://www.reuters.com/world/china/china-test-flies-biggest-cargo-drone-low-altitude-economy-takes-off-2024-08-12/</link><description>&lt;p&gt;工程师们在上周末启动了中国迄今最大的运输无人机的试飞，在短途飞行的同时，一架直升飞机出租车也登上了即将开放的长达100公里（约62英里）的上海航线，为此地不断扩张的低空经济书写了新的里程碑。&lt;/p&gt;&lt;p&gt;由国家支持的四川腾登科技创新发展公司自主研发的双引擎运输无人机，于上周日在四川省西南部的机场首次启航，完成了一次持续约20分钟的创新型飞行，各大媒体对此进行了报道。&lt;/p&gt;&lt;p&gt;这款由腾登打造的无人机，具有16.1米（约52.8英尺）的翼展和4.6米（约15英尺）的高度，略大于全球最流行的轻型飞机之一，即四座的赛斯纳172。&lt;/p&gt;&lt;p&gt;世界上最大的无人机制造国的制造商们正不断测试更大载重量的能力，与此同时，运输公司也在计划提供由有人驾驶和无人驾驶的空中出租车服务，中国放宽空域限制并提供激励，以构建低空经济。其航空监管机构预设，到2030年低空经济产值将达到2万亿元（约2790亿美元），从2023年起增长四倍。&lt;/p&gt;&lt;p&gt;即将到来的腾登试验飞行，紧随在6月由中国国有企业航空工业集团（AVIC）开发的另一个运输无人机的一次首创性尝试之后，这款AVIC直升机名为HH-100，具有700公斤（约1543磅）的载荷能力和520公里的航程。&lt;/p&gt;&lt;p&gt;AVIC预计，明年将测试其最大的运输无人机TP2000，其运输量可达2吨，飞行距离是HH-100的四倍远。&lt;/p&gt;&lt;p&gt;中国已在使用无人机进行商业递送。&lt;/p&gt;&lt;p&gt;5月份，由顺丰速运整合的货运无人机企业凤凰飞翼，开始利用顺丰开发的榕州90无人机从海南省岛向南方的广东省运送新鲜水果。这一路径使用了顺丰在其母公司SFHolding（代码002352.SZ）下的一家单位联手生产的无人机。&lt;/p&gt;&lt;p&gt;货运无人机承诺缩短递送时间并降低运输成本，中国行业专家指出，同时扩大电信设施缺口的存在物区域的递送，比如在高度繁忙城市中的屋顶空间。&lt;/p&gt;&lt;p&gt;它们也可能用于提供出租车服务。&lt;/p&gt;&lt;p&gt;在4月份，航空部门向基于南方城市广州的无人机制造商亿航控股颁发了自动驾驶载人无人机的生产证书，这一举动标志着针对自主载人无人机的中国首项认证。&lt;/p&gt;&lt;p&gt;今年发布的政府报告中，首次将低空经济指定为一个新经济增长引擎，垂直交通被认为是在乘客和货物运输领域中的“新的生产力”。&lt;/p&gt;&lt;p&gt;上周末，一架载人商业直升机从江苏省昆顺市出发首次到达上海浦东机场，各大媒体有此报道。&lt;/p&gt;&lt;p&gt;这条航线的往返票价最高可达1800元，上海新天航空公司旨在将两地的旅行时间缩短至20分钟，从之前的几个小时大幅缩短。预计每年将有高达3万人使用这条从8月18日开放的航线。&lt;/p&gt;&lt;p&gt;上海旨在将低空航线扩张至长江三角洲的其他城市。&lt;/p&gt;&lt;span style="font-size: 12px;"&gt;(1美元=7.1742人民币)&lt;/span&gt;
-&lt;figure&gt;
-&lt;img alt="一款由四川腾登科技创新发展公司研发的无人货运无人机在资阳市机场进行首飞" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ROA432YITNPVVFBM67EK4VYSPI.jpg"&gt;
-&lt;figcaption class="text-center"&gt;
-这一款由四川腾登科技创新发展公司研发的无人货运无人机在四川省资阳市进行的首飞活动于2024年8月11日举行。中国日报 迪奥瑟灵通过路透社提供&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 03:53:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-test-flies-biggest-cargo-drone-low-altitude-economy-takes-off-2024-08-12/</guid></item><item><title>香港法院驳回媒体大亨黎智英推翻定罪的请求</title><link>https://www.reuters.com/world/china/hong-kong-court-dismisses-bid-by-media-tycoon-jimmy-lai-overturn-conviction-2024-08-12/</link><description>&lt;p&gt;香港的最高法院于本週一一致否决了传媒大亨黎智英以及其他六名促民主运动人士针对2019年未经许可集会的判决上诉。黎智英，76岁，为《苹果日报》的促民主报章的创办人，以及包括资深民主战士李柱铭在内的其他六人曾因在2019年八月组织及参与未经许可的集会而在长期的促民主抗议活动中被判罪名成立。尽管较低一级的法院推翻了其组织未经许可集会的判决，但其参与并未获许可集会的判决仍被维持。&lt;/p&gt;
-&lt;p&gt;与此相应，他们的上诉主要集中于针对基础人性权利保障的定则是否合情合理，这是英国最高法院两项不成文判例所规定的“操作比例”。&lt;/p&gt;
-&lt;p&gt;主审法官邓正霞以及法官罗伯托·里贝洛在重要判例中指出，在香港，是不应遵循这两个英国判决的，因为香港和英国在人权挑战的法律框架间存在显著差异。&lt;/p&gt;
-&lt;p&gt;前英国最高法院院长大卫·内伯格被引见至终审法院（CFA）审理此案，增加了围绕外籍法官是否应持续坐在城市最高法院的讨论，特别是在国家安全部门的镇压之下。&lt;/p&gt;
-&lt;p&gt;两项判决于6个月后的两大英国法官、伦敦科林斯和约翰·萨蒙放弃了其在终审法院（CFA）的职务后发布。萨蒙认定了香港正逐步转变成全体治下的国家，“并对该城市的法治作出了全面而深远的破坏。”&lt;/p&gt;
-&lt;p&gt;内伯格于6月中旬在与路透社的访谈中强调，他将“尽其所能地支持香港的法治”。他表示，复核发现“该议题已被全面且印象深刻的考虑”，并就“被称为“操作比例”的问题提供了核心指导。&lt;/p&gt;
-&lt;p&gt;针对2019年未经许可集会的指控，黎智英和其他四名前立法委员李卓英、67岁，“长毛”梁高文、68岁以及侯莉、70岁因罪被处刑8至18个月，他们后续因其盈利集会之虞所获得的裁定，被判刑通常介于3至6个月之间。包括86岁的李柱铭——香港民主党的创办主席，76岁大律师默瑞·彭格等资深促民主政治家，在被判罪后获 Managed Sentence。&lt;/p&gt;
-&lt;p&gt;签订于二月的国家安保法，经过对于国家的重要性达到一定水平时，以法律手段预防、制止和惩罚恐怖主义活动的期望，而引起广泛讨论；以及为环卫工作提供法律担保的内容。于此次对未获许可集会的指控，基于此法，两人被判五年九个月的重刑，针对其违犯了其报馆总部所签订的租赁合同。&lt;/p&gt;
-&lt;p&gt;据安全局所述，三百零一人被以危害国家安全的活动逮捕，其中有176人和五家公司被起诉。&lt;/p&gt; 
-&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OK4QJVX5ZBND3P74II5X5CSYPY.jpg" alt="苹果日报创办人黎智英抵达位于中国香港的终审法院" /&gt;
-&lt;figcaption style="text-align: center;"&gt;照片说明: 苹果日报的创办人黎智英于2021年2月1日，于位于中国香港的法院里由囚犯车带到终审法院的途中，摄于香港。 图片来自英国雷达。&lt;i&gt;© Reuters/Tyrone Siu/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 02:21:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/hong-kong-court-dismisses-bid-by-media-tycoon-jimmy-lai-overturn-conviction-2024-08-12/</guid></item><item><title>韩国和美国将针对朝鲜导弹和网络威胁举行年度演习</title><link>https://www.reuters.com/world/south-korea-us-stage-annual-drills-over-norths-missile-cyber-threats-2024-08-12/</link><description>&lt;p&gt;韩国与美国将于下周启动年中例行军事演习，旨在增强对朝鲜核武器和网络攻击威胁的应对能力，官员于周一宣布此事。&lt;/p&gt;&lt;p&gt;期间，名为“乌利奇自由盾牌”的军事演习将从8月19日持续至29日，其间朝鲜持续发展其核武器和导弹计划，并不时发射侦察卫星，从而引发了国际关注与忧虑。&lt;/p&gt;&lt;p&gt;两国军方声明指出，此次演习将模拟涉及多个领域的“实际情况”，包括朝鲜导弹威胁、GPS干扰、网络攻击及其他从近期事件中汲取的教训。&lt;/p&gt;&lt;p&gt;韩国联合参谋本部发言人李正俊少校在一次简报会上表示，同盟方将加强阻止和防御大规模毁灭性武器的能力。&lt;/p&gt;&lt;p&gt;李少校还表示，韩国军方会支持与政府主导的乌利奇民防演习，其中包括针对朝鲜核攻击的特设方案。&lt;/p&gt;&lt;p&gt;预计约有1.9万韩国士兵参与此次48轮联合现场训练，内容包含实战操演、实弹射击及两栖操练。&lt;/p&gt;&lt;p&gt;美国驻韩部队发言人戴尔·唐纳徑少校表示，此次演习是印度-太平洋地区规模最大的军事演练之一，将有联合国指挥单位的成员国成员参与。&lt;/p&gt;&lt;p&gt;朝鲜长期以来将军事演习视为加剧紧张局势的手段，并将其视为核战争的预演。&lt;/p&gt;&lt;p&gt;首尔与华盛顿合议称，通过这类军事演练回应朝鲜的威胁，这些演习旨在防御而非引发冲突。&lt;/p&gt;&lt;figure&gt;&lt;img alt="韩国永仁的美国与韩国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFU364X7RJJRRB45IZDYVHKPNU.jpg" style="text-align: center;" /&gt; &lt;figcaption&gt;韩国与美国的国旗并列挂在韩国永仁，2016年8月23日。由肯·斯卡尔摄，美国陆军提供/路透社文件照片&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 06:47:09 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/south-korea-us-stage-annual-drills-over-norths-missile-cyber-threats-2024-08-12/</guid></item><item><title>黄岩岛空难事件后菲律宾敦促中国缓和紧张局势</title><link>https://www.reuters.com/world/asia-pacific/philippines-file-protest-with-china-over-air-force-incident-over-south-china-sea-2024-08-12/</link><description>&lt;p&gt;菲律宾于周一敦促北京倾听呼吁，呼吁应对南中国海的紧张局势，以缓和两国就海军行动后其空军实施的“极其危险”的举动引发关注的情况。双方已就更有效管理海事纠纷达成协议。&lt;/p&gt;
-&lt;p&gt;菲律宾军方报告称，中国政府的两架飞机在周四进行了危险的操作并投掷照明弹于马尼拉空军进行定期巡逻的有争议的黄岩岛航道上空，此举被指责为极其危险。中国政府反驳，声称其行为在法律框架下进行且职业化。&lt;/p&gt;
-&lt;p&gt;菲律宾国防部长吉尔伯托·特里多罗指出，中国空军的行为被认为是预料之中的，“这只是北京对于维护其在南中国海权益及存在的一系列模式之一”，特里多罗对记者说。他要求北京遵循国际法律，并倾听菲律宾及其他国家的呼吁，对自身行动采取忍让。&lt;/p&gt;
-&lt;p&gt;菲律宾国家安全委员会也要求北京停止一切挑衅性与危险举动。&lt;/p&gt;
-&lt;p&gt;中国驻菲律宾大使馆尚未对记者请求置评。周六时，中国人民解放军南部战区司令部表示，这次菲律宾飞机的非法入侵是在多次警告之后发生的。&lt;/p&gt;
-&lt;p&gt;中国对整个南中国海，包括有争议的黄岩岛，提出了几乎是全部的声索，此举激怒了认为自己的经济专属区遭侵入的邻国。&lt;/p&gt;
-&lt;p&gt;中国拒绝了海牙的永久法院于2016年所做的判决，该判决声称中国的声索缺乏国际法律依据。&lt;/p&gt;
-&lt;p&gt;菲律宾总统费迪南德·马科斯·吉尔在周日&lt;sup&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/"&gt;&lt;/a&gt; &lt;/sup&gt;&lt;sup&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/"&gt;&lt;/a&gt; &lt;/sup&gt;强烈谴责了中国的行为，并表示将对此提出抗议。国防部长周一也参与了这一立场。&lt;/p&gt;
-&lt;p&gt;“希望中国遵循国际法律，必要时还得缓和”，特里多罗对记者说，注意到如果“叙述不实”，缓和应成为共同认知与建议，
-“他们坚持其不存在国际支持的立场”，特里多罗说，“他们所依赖的是赤裸裸之力，展现出的仅仅是分歧与操控，”特里多罗表示，
-“我们有权巡逻在专属经济区内的海域。这是我们的权利，”武装部队总参谋长吕梅·布拉沃说。&lt;/p&gt;
-&lt;p&gt;最近一年来，马尼拉与北京的礁岛存在争端，但经过对话与评估，双方于上月下半月达成了一项“临时协议”，旨在为补给菲律宾在相关海域船只的使命提供选择途径，旨在降低紧张局势并管控分歧。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 12 Aug 2024 14:58:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>欧佩克下调石油需求增长预期，凸显10月加息的困境</title><link>https://www.reuters.com/business/energy/opec-cuts-2024-oil-demand-growth-forecast-citing-china-2024-08-12/</link><description>&lt;p&gt;于本日致全球石油需求增长预测作出修正，针对2024年的成长预期，OPEC在其发布的报告中提到，当中特别考虑了对中国市场的预期呈现出较软化的可能，此举反映了宽泛的OPEC+集团在提高产量方面所面临的复杂抉择。&lt;/p&gt;
+&lt;p&gt;在七月二〇二三年更新的预测之后，此系OPEC针对2024年的首次预测修正，其背景源于中国市场需求存在的多重警示信号，柴油消耗量的急剧下滑以及房地产行业的危机，前者导致经济动力减弱，后者则对此产生负面影响。&lt;/p&gt;
+&lt;p&gt;在本月的报告当中，OPEC指出全球石油需求年度增长预估值将由每月一度的报导修改为增加211万桶每天，较上月的预测增长225万桶每天有所下滑。&lt;/p&gt;
+&lt;p&gt;对于2024年的石油需求预测，存在着广泛的分歧，尤其是面对中国市场的不确定性，以及全球能源转型向清洁能源做进阶的节奏差异。OPEC当前仍身处于行业预期的顶端，需完成远超过国际能源署（IEA）的预期来看齐。&lt;/p&gt;
+&lt;p&gt;报告明确指出，“此次修订显示，收到了一季度至二季度实际收到的数据，并结合了对2024年中国石油市场需求增长预期趋于温和的实际考量。”&lt;/p&gt;
+&lt;p&gt;就当前而言，OPEC今年需求增长数值依然高于2019年新冠疫情发生前，全球年度平均增长140万桶每天的历史纪录。同时，预计夏季的旅行需求仍将保持强劲态势。&lt;/p&gt;
+&lt;p&gt;虽且今年夏季初期驾车出行热度相对往年稍显滞后，但交通运输燃料需求预计仍保持稳健状态，鉴于道路与航空交通的活动依然保持健康。&lt;/p&gt;
+&lt;p&gt;在此次发布的报告中，OPEC对2024年度的需求增长预测值调整为178万桶每天，较上月的预期增长185万桶每天有轻微下调，同样在业内预计范围的高估区间。&lt;/p&gt;
+&lt;p&gt;上周石油价格触及年内最低的每桶75美元左右，受到中国需求疲软以及美国出现衰退疑虑的双重冲击。报告出炉后价格保持稳定，在每桶80美元水平上下波动。&lt;/p&gt;
+&lt;p&gt;作为由OPEC及其盟友国家（包含俄罗斯在内）组成的全球最主要的产油国合作组织，OPEC+在过去的三年自2022年晚期以来持续实施石油产量削减政策以提振市场，当前这些削减行动大多将持续直至2025年年末。&lt;/p&gt;
+&lt;p&gt;八月一日，OPEC+发布公告确认，准备工作将于十月伊始着手解除上一轮最显著的部分削减措施，即220万桶每天，前提是需要等待是否因应定期审阅的结果而决定暂停或反转。&lt;/p&gt;
+&lt;p&gt;然而，至关重要的决策必须在接下来的一个月内确定是否开始上述的行动，并在未来几周研究其石油市场的数据情况。据接近OPEC+的消息来源称，此举的核心在于考量中短期的供需平衡。&lt;/p&gt;
+&lt;p&gt;虽然实据表明，OPEC+的总体产油量在七月增加至4090万桶每天，与前月相比上浮11万7千桶每天，但推动增长的因素显示出中东地区，尤其是沙特阿拉伯的产量贡献显著。&lt;/p&gt;
+&lt;p&gt;OPEC的报告预期2024年度联盟（OPEC+）石油需求量，即包含中国、俄罗斯等盟国及伙伴单位在内，预计第四季度达到平均4380万桶每天，理论上为该组织可能实现更高产出需求创造了一定的空间。&lt;/p&gt;
+&lt;p&gt;尽管其他国家的预测相对保守，IEA预期2024年度全球石油需求增长率仅为97万桶每天，在此背景下，中国市场的贡献占比可谓大幅凋落。IEA预计其统计数据将于稍后的星期更新。&lt;/p&gt;
+&lt;p&gt;图片配文：位于奥地利维也纳，显示的是OPEC商标的特写照片，最新日期为2024年5月28日。图片版权归属路透社，由Leonhard Foeger作为档案摄影提供。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 10:46:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/opec-cuts-2024-oil-demand-growth-forecast-citing-china-2024-08-12/</guid></item><item><title>全球股市上涨，而日元在美国数据公布前平静下滑</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-12/</link><description>&lt;p&gt;在本周一，欧洲股市和美国期货市场出现轻微上涨，而日元在近期因日本假期引起的震荡之后下滑。投资者正密切关注中美两国的经济数据。&lt;/p&gt;&lt;p&gt;在过去一周的周一，股市遭遇了大幅下挫，主要因素是日本股市的大幅下跌，以及美国就业数据的疲软，背后更是含蓄的撤销了广泛流行的一款日元交易策略。&lt;/p&gt;&lt;p&gt;然而，美国所展现出的一些超出预期的强劲数据使得市场对全球经济增长放缓的担忧有所舒缓，上周五之前，股市几乎全面恢复了全部损失。&lt;/p&gt;&lt;p&gt;市场本周表现平稳，欧洲STOXX 600指数表现尤为出色，于周一收涨0.2%，结束上周时上浮0.3%。德国DAX股指上涨0.3%，英国FTSE 100股指上涨0.5%。&lt;/p&gt;&lt;p&gt;投资者正关注于周三将要发布美国7月份消费者物价指数的数据，预计月度通胀率将从上月的轻微下降0.1%上升至0.2%，同时也在等待一周后发布的零售销售额数据。&lt;/p&gt;&lt;p&gt;“预期情况相当温和，”州际银行的高级宏观策略师蒂莫西·格拉夫如是说道，“当下，通胀问题已经不再是业务的难点所在。”&lt;/p&gt;&lt;p&gt;“需要注意到的风险，政策确实已维持过度紧缩时间长度过久，而现今劳动力市场出现了明显的体现情况。”&lt;/p&gt;&lt;p&gt;美国S&amp;amp;P 500期货上涨0.2%，磋商数据显示，本周五股市总体收平，与上周一触发的3%跌幅形成鲜明对比。&lt;/p&gt;&lt;p&gt;日元本周走势出现下滑，美元在交易中上涨了0.65%，市价至147.57日元。而愿态指数总的来说变化不大，欧盟欧罗与英国英镑相对稳定。&lt;/p&gt;&lt;p&gt;日本货币市场的大幅上涨，在7月和8月之间导致了投资者的量变过程，迫使他们解散所谓的“借款这一策略”，即以日元借贷美元以及其他货币投资，购买进入利率更高的资产。&lt;/p&gt;&lt;p&gt;="../cftc-lseg-data-say-2024-08-09/"&gt;///周五/// 数据预计将显示,具有杠杆化的基金集团 - 包括对冲基金以及背后的资本管理者-速度最快至自2011年三月，闭合短兑日元的存在。&lt;/p&gt;&lt;p&gt;"本周的开局几乎没有展现出过往那个动荡的局面，" 友利银行的货币策略专家李·哈德曼评论道。&lt;/p&gt;&lt;p&gt;“杠杆基金消除短兑日元位置的迅速减少，为投资者提供了缓解，使得日元借以融资的合同交易更加明朗。&lt;/p&gt;&lt;p&gt;在日本本周假日期间市场关闭，亚洲时段相对稳定，使得超出了日本市场的非日股指数抵触上涨0.41%，在///.MIAPJ0000PUS///报价栏中发布。&lt;/p&gt;&lt;p&gt;中国将在未来一周内公布零售销售与工业产值数据，上述数据显示经济并没有大幅表现出色，而较可能对国际市场产生负面影响，导致一定投资者对于全球经济增长的担忧有所加剧。&lt;/p&gt;&lt;p&gt;整整10年期美国国债收益率上涨1点基，至3.953%，相较于上一星期的上涨情况为15点基，自4月以来的大幅增长，价格与收益率走势呈相反趋势。&lt;/p&gt;&lt;p&gt;石油价格小幅上涨，上周因中东冲突威胁供给问题下跳了3.5%，最终上涨幅度为2%，布伦特原油之上至80.38美元/桶，而美国原油则每股上涨1.1%，达到77.69美元。&lt;/p&gt;&lt;p&gt;阅读Reuters Markets和Finance新闻链接：&lt;/p&gt;&lt;p&gt;https://www.reuters.com/finance/markets&lt;/p&gt;&lt;figure&gt;
+  &lt;img alt="The Nasdaq Market site is seen in New York" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OZFOFCAXLBJZNCP7VWK7WKQQ6A.jpg" /&gt;
+  &lt;figcaption&gt;&lt;p style="text-align: center;"&gt;新纽约证券市场的纳斯达克市场，2024年3月26日.REUTERS/Brendan McDermid拍摄的档案照&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt; Israeli &lt;a href="https://www.reuters.com/world/middle-east/israeli-minister-tells-us-that-large-scale-iranian-attack-expected-axios-reports-2024-08-12/"&gt;国防大臣&lt;/a&gt;约夫·加兰特在上周六通过与美国国防部长劳德·奥斯汀进行了密切会谈，获悉伊朗军队的筹备工作表明，伊朗有计划对以色列实施大规模攻击。&lt;/p&gt;
+&lt;p&gt;Brent原油上涨0.9%，至每桶80.38美元，美国原油上涨1.1%，至每桶77.69美元。&lt;/p&gt;&lt;p&gt;///see news for Reuters Markets and Finance at https://www.reuters.com/finance/markets///&lt;/p&gt;
+&lt;p&gt;&lt;figure style="margin: 1em auto 1em auto"&gt;
+  &lt;img alt="The Nasdaq Market site is seen in New York" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OZFOFCAXLBJZNCP7VWK7WKQQ6A.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;新纽约证券市场的纳斯达克市场，2024年3月26日. REUTERS/Brendan McDermid拍摄的档案照&lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure style="margin: 1em auto 1em auto"&gt;
+  &lt;img alt="Stock information display in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CSCJOEAC2ZJYVOXK2ZZDNHOBDQ.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;在中国上海的卢家寨中沪区金融中心地区，街道上的股票信息提醒在信息界中出现与发布的图示，2024年8月6日.REUTERS/Nicoco Chan拍摄的档案照&lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 00:24:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-08-12/</guid></item><item><title>独家：国防部长称土耳其的首要任务是履行北约责任</title><link>https://www.reuters.com/world/middle-east/turkeys-priority-is-fulfilling-nato-responsibilities-defence-minister-says-2024-08-12/</link><description>&lt;p&gt;土耳其完全致力于履行其对北约的责任，国防部长对路透社表示，尽管一些西方盟友担心安卡拉可能偏移西方国家。&lt;/p&gt;
+&lt;p&gt;上个月，总统雷杰普·塔伊普·埃尔多安表示，土耳其希望成为上海合作组织（SCO）的合作伙伴——该安全、政治和经济集团于2001年由俄罗斯、中国以及中亚国家发起成立，作为对抗西方联盟的砝码。&lt;/p&gt;
+&lt;p&gt;国防部长叶沙·古勒在一封书面采访中表示，土耳其的北约成员身份并不妨碍其发展与 SCO 的关系。&lt;/p&gt;
+&lt;p&gt;“除了这一点，我们的优先重点是作为重要盟友履行我们在北约的职责，加强与盟友的凝聚力。我们的焦点应该是，北约必须做好准备、保持坚定且强大。”他补充道。&lt;/p&gt;
+&lt;p&gt;安卡拉对 BRICS 国家的兴趣以及与俄罗斯在能源、旅游和国防方面的友好关系引发了西方国家的担忧，担心土耳其的结盟可能会进行转向。然而，安卡拉重申其是坚定的北约盟友。&lt;/p&gt;
+&lt;p&gt;鉴于2019年因购买俄罗斯的S-400防御系统而遭到美国制裁并被取消F-35战斗机计划的参与资格，自那以后，安卡拉一直在争取从华盛顿采购40架Block-70 F-16战斗机以及79套现代化打包组件。该交易在土耳其批准瑞典加入北约之后得到了同意。&lt;/p&gt;
+&lt;p&gt;古勒表示，战斗机的采购和现代化工作的进展正在按照设定的日程进行，细节的讨论正在进行中。“我们对F-16采购和现代化的协议感到满意，并希望项目能够在最终交付所有战斗机之际顺利完成，”他说。&lt;/p&gt;
+&lt;p&gt;当被问及土耳其是否希望重返F-35计划时，古勒表示其与华盛顿在这方面的对话仍在继续。&lt;/p&gt;
+&lt;p&gt;他还表示，土耳其对于从德国、英国和西班牙购买40架Eurofighter Typhoon战斗机依然持兴趣，在没有明确进展的前提下，希望获得其盟友的积极回应。&lt;/p&gt;
+&lt;p&gt;上个月，埃尔多安表示他将邀请叙利亚总统巴沙尔·阿萨德讨论恢复两国的缔约关系，安卡拉在2011年叙利亚战争后与叙利亚的关系中发生分歧。&lt;/p&gt;
+&lt;p&gt;阿萨德表示会谈只能基于解决核心问题，包括土耳其军队从叙利亚北部的撤出。&lt;/p&gt;
+&lt;p&gt;古勒表示，如果适宜的情况得到创造，双方在部长级层面再次会面，作为2020年发起并追求地区和解的基石，将是可能的。&lt;/p&gt;
+&lt;p&gt;“我们准备好为构成宪制的通盘接受、举行自由选举以及创造出全面的正常化和安全氛围提供所有可能的支持，直至这些被实施并且我们的边境安全得到充分保证，土耳其才需通过相互协调采取进一步必要的行动。”他回应道，涉及到可能的土耳其撤军的可能性。&lt;/p&gt;
+&lt;p&gt;他提到，土耳其和伊拉克在反恐方面近期采取的举措标志着关系上的“突破”，军事活动的联合操作中心建立的技术工作也在持续进行。&lt;/p&gt;
+&lt;p&gt;他还提到，连接伊拉克、土耳其、卡塔尔和阿联酋的一项为了贸易走廊的开发之路项目中的伊拉克部分，面临出自非法的库尔德工人党（PKK）民兵的威胁，并需要得到保护。&lt;/p&gt;
+&lt;p&gt;古勒进一步表示，土耳其继续采取“平衡且积极”的立场，来促进俄罗斯和乌克兰之间的可能和平，强调停火应成为优先事项。&lt;/p&gt;
+&lt;p&gt;土耳其同两国共扼黑海海域的边界，在俄罗斯两年前入侵以后，已试图与双方保持良好关系，同时向乌克兰提供军事和政治支持，但反对西方对俄罗斯实施制裁。&lt;/p&gt;
+&lt;p&gt;他还提到上个月土耳其派遣海军支持至索马里的决定，后者近年来成为安卡拉关键的盟友，其目标是扩展地区反恐支持，直至莫加迪沙的海上安全。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 07:32:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/turkeys-priority-is-fulfilling-nato-responsibilities-defence-minister-says-2024-08-12/</guid></item><item><title>央行与多头对峙，中国国债市场动荡</title><link>https://www.reuters.com/markets/asia/chinas-bond-market-rattled-central-bank-squares-off-with-bond-bulls-2024-08-12/</link><description>&lt;p&gt;在中国政府债券于周一显著下跌后，数周内的市场动荡影响了央行为防止长期性收益率大幅下挫而进行的强力干预，经济局势的不稳使得上述情况进一步凸显。&lt;/p&gt;
+&lt;p&gt;中国10年期国债期货下降了0.6%，创17个月来最糟糕的一天，相反的，债券收益率（价格反向变动）骤然增加了大约4个基点。&lt;/p&gt;
+&lt;p&gt;然而，在其经济节点权益和减弱的通缩压力以及市场风险厌恶心理持续的背景下，坚定的投资者表示政府债券的牛市还尚未结束。一位债券基金经理说：“依旧积极看好市场”，他并未被中国政府为平息沸腾的国债市场、遏制收益率大幅下挫而采取的空前措施所阻挡。&lt;/p&gt;
+&lt;p&gt;“我们未见到乐观的经济图景……并且在同时，我们还要应对同事的压力以生成回报。”北京的一位经理行而不名，由于该主题的敏感性，他这样陈述。即使那些转向悲观的市场参与者也仅是部分认为。&lt;/p&gt;
+&lt;p&gt;国债期货投资者王红飞认为，以短期机遇为指向，在市场与监管者的激烈斗争中通过快速交易以求赚取利润。中国央行一再警告投资者追求政府债券的同时远离波动的股票市场以及下跌的房地产市场，并且银行减息以应对潜在的市场不稳定的危险。然而，加之现在中国央行将威胁转化为实际行动，遏制债券市场的强势增长，当局在对付投机者和国内股票和货币市场中违禁价格移动的长久战役后选择了关联的作战方法新领域。&lt;/p&gt;
+&lt;p&gt;“中国的金融市场，包括国债市场，在于从上至下的监管规则领导下运行，因而与西方明显不同。”美国经济研究所的经济学家瑞恩·勇克如此说道。随着经济的衰退趋势，《中国官员若维持如此紧密控制的金融市场将面临更大的困难，且很可能需要采取进一步干预，以及可能会传递给中国市场的一种稳定性的信号》，管理机构这样警示。&lt;/p&gt;
+&lt;p&gt;多数行动上第一次行动发生在上周一，面对全球全面性的恐慌现金流奔向这些避险资产如国债的恐慌性情况，中国长期债券触及历史低点。被“国家”银行售卖的10年期及30年期国债大量增加，国债期货跃达到历史高位。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td&gt;政府银行出清国债&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;数据和交易者证实的政府银行出清行为贯穿整周，类比于监管部门以大型银行作为中间人的形式在影响外汇市场的方式&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;周五晚些时候，中国央行宣布将在公开市场操作依次逐渐增加国债的购买和出售。&lt;/p&gt;
+&lt;p&gt;中国人民银行行长潘功胜此前担任中国外币监管最高职位，由此看来，“现在是相同的剧本”，华南地区基金经理如此认为。另外，作为对该债券买家的警告信号，央行当晚止于两天内自2020年起首次不提供公开市场操作，从而随后4个月来最大的一次周性资金流出以支撑收益率。&lt;/p&gt;
+&lt;p&gt;对局面造成进一步打击的是，中国银行监管机构将针对四家所谓的农村商业银行的可疑国债市场操纵行为进行调查，并将把一些不守规矩的金融机构通报给中国人民银行以进行处罚。&lt;/p&gt;
+&lt;p&gt;这些具有寸步难威的措施已经使部分投资者变得谨慎。&lt;/p&gt;
+&lt;p&gt;不仅10年期及30年期国债期货自一个月首次下降的局势稳定化后继续落低，其他意向类债券的市场收益率也遭受严重打击，这样的举动造成了更多投资者的担心。&lt;/p&gt;
+&lt;p&gt;“结合各种因素，垂向中国国债风险时额外保持谨慎会是明智之举”，法国摩根富民警本铃山人气亚洲宏观策略师说道，“尽管由于中国经济增长态势脆弱，中长期内因中国债券抛售规模不太可能显著影响资本市场，但追逐增长，只是不恰当的考量础，”&lt;/p&gt;
+&lt;p&gt;尾约分析员田忆明在他的注释里称，“危机的剑正在落下”，易言之，市场受到这一打击。&lt;/p&gt;
+&lt;p&gt;然而，在所谓“资产荒”的背景中，高水平收益资产的稀缺性“仍然存在偿债优势”，田认为。该城市基金经理指出，只要没有明显的经济增长改善迹象，不应放弃策略，他的方法是“在价格 underside购入债券”。 “战略不是用技术工具来改变方向，你就不能通过调整温度计改变体温”，他陈述道。&lt;/p&gt;
+&lt;p&gt;中国央行的举措将会改变国债价格上涨的步伐，但不会拐向下跌，据该经理所述，“如果持有时长足够长，你仍然能赚钱。”潜在的流动性波动显示，中国央行在给投资者给出审慎思考的警示上确实取得了一定的成效。&lt;/p&gt;
+&lt;p&gt;UBSW财富管理亚洲资产配置的负责人春莱沃警告说，预计从中出现的资金对支持中国债券市场的那一行为将部分抵消中国政府增加债券发行的操作。&lt;/p&gt;
+&lt;p&gt;当前，中国30年国债收益约为2.37%，较一年前的3%低了不少。&lt;/p&gt;
+&lt;p&gt;在未来，如果确实观察到经济局面持续稳定，物价越来越难以回稳时，长远看 即在不久的将来，我们可能看到国债收益率逐渐上升，乃至达到2.5%，这一过程将继续与中国经济活跃度提升和物价回复步伐息息相关。&lt;/p&gt;
+&lt;p&gt;USD 1= CNY 7.1715&lt;/p&gt;
+&lt;p&gt;附图描述：图片于2018年9月28日摄于中国北京的中国人民银行（PBOC）总部。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="Headquarters of the PBOC, the central bank, is pictured in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FL37YLFKNBPZTLBBMTYKOU4XKI.jpg" /&gt; &lt;/figure&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 00:04:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-bond-market-rattled-central-bank-squares-off-with-bond-bulls-2024-08-12/</guid></item><item><title>早盘竞价：市场祈祷通胀保持良好表现</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-08-12/</link><description>&lt;p&gt;迈克·多尔的前瞻视角：审视即将到来的美国内外市场变动&lt;/p&gt;&lt;p&gt;在过去一整周剧烈动荡的金融市场中，美国的通货膨胀更新在此周显得尤为瞩目，它将揭示美国联邦储备在下个月进行初次降息时，究竟还有多少宽容度来满足对高企的预期。&lt;/p&gt;&lt;p&gt;部分由于周一东京时间假日—这一近期市场波动的震中—帮助缓和了全球市场的平静，形成了与上周难以识别的鲜明对比，世界各大市场表现稳定。&lt;/p&gt;&lt;p&gt;随着标普500指数(.SPX)在过去一周基本无波动，尽管经历了大幅度涨跌，在此重要时刻，波动程度指数（VIX）(.VIX)已重新回归，稳定在20左右的历史平均水平。&lt;/p&gt;&lt;p&gt;对于美国劳动力市场的忧虑因每周失业申报数量的下降和整体企业收益的稳健状态而得以安抚，截至第二季度标普500指数年增长率接近14%，随着定期报告季工作接近尾声，总体表现不会令人担忧。&lt;/p&gt;&lt;p&gt;然而，一波紧张的劳动力市场和市场波动却催生了对美联储放松收紧意愿的信任—市场数据表明，期利率可能在下个月下滑至半点或四分之一点区间，并预估年内累积降息102个基点。&lt;/p&gt;&lt;p&gt;联邦储备是否具有足够的信心实施如此操作，部分取决于一周后即将到来的通货膨胀读数。与消费者物价指数(CPI)报告相反的是，周二将首先发布生产者价格通胀报告，预计数据将持续温和，7月的头号年通胀率预计下行至2.3%。&lt;/p&gt;&lt;p&gt;单月CPI读数保持在相对较低的0.2%，在核心通货膨胀自治区，预计年通胀率会略有减缓至3.2%。换言之，若结果如预期无异，自然就能避免美联储过早且过分担忧经济活动和就业率消极发展。&lt;/p&gt;&lt;p&gt;"我们应该注意到，如果接下来的数据表明通货膨胀已持续向我们的2%目标迈进，那么适度地降低联邦债券利率的时机就将合适。这能防止货币政策对经济活动产生过度限制作用。"联邦储备委员会成员米歇尔·鲍曼在周六如是说。&lt;/p&gt;&lt;p&gt;与追求首次加息的坚定立场不同，鲍曼基于7月就业报告仅对巨大利率下降戏码进行了调整，认为该报告可能夸大了冷却程度。&lt;/p&gt;&lt;p&gt;在本周CPI报告到来之前，纽约联邦储备局于周一发布七月的居民预期通胀成果，其中中位数3年和5年的预期当前已降至略低于3%。同样，市场在经历了上几周的动荡后也似乎降低了其通货膨胀预期。&lt;/p&gt;&lt;p&gt;上周嵌入通货膨胀保护国债证券中的十年期“协徙”预期，降至距离联邦储备2.0%通货膨胀目标区间的轴心—接近自2021年初的最低点—尽管目前有所增迁，仍然停留在2.1%。&lt;/p&gt;&lt;p&gt;对美联储来讲似乎是一剂强心针。&lt;/p&gt;&lt;p&gt;一周之始的相对平静，使得国库券收益率小幅攀升，但仍保持在近过去10天迈进的4.0%红线以下。美元指数(.DXY)略有上涨，但美国股市&amp;&lt;br class="markdown_return"&gt;&lt;p&gt;New York Stock futures and European indices are rising.&lt;/p&gt;&lt;p&gt;中国内地股市(.CSI300)不及预期，市场焦点集中在中国政府债券市场一周内的大幅波动上。&lt;/p&gt;&lt;p&gt;&amp;lt;bury-video slot="media-block" type="image" publishetime="2024-08-12" width="60px" height="54px" title="美国通胀放缓为经济带来提振”' src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RRAIPUK2A5N6HDMX4BDORT2OUU.jpg" style="margin-bottom: 10px;"&gt;&amp;lt;br class="markdown_return"&gt;标题：迷你记录影片中心：New York的时间&lt;/p&gt;&lt;p&gt;股票交易，具体内容详情，请访问反驳新闻网站了解。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 10:03:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-2024-08-12/</guid></item><item><title>越南新任党总书记将于下周访华</title><link>https://www.reuters.com/world/asia-pacific/vietnams-newly-appointed-party-chief-set-visit-china-next-week-2024-08-12/</link><description>&lt;p&gt;越南国家核心领袖范明政将于下周对中国进行访问，这是他自今年8月被任命为执政共产党中央委员会总书记以来的首次外访，据三位对此事知情的官员透露，此次访问将确认两个共产党国家之间的紧密联系。&lt;/p&gt;
+&lt;p&gt;越南和中国在能源丰富的南中国海边界争端时有碰撞，尽管如此，它们仍然保持高度发展经济和贸易关系。南中国海是一个关键的商贸通道，中国几乎宣称其全部海域，这引发了该地区国家的不满。&lt;/p&gt;
+&lt;p&gt;范明政亦是东南亚国家越南的国家主席，计划于8月18日抵达中国，并在接下来的两天与习近平主席及其它官员会面，这一消息由两位越南官员与一名驻河内的大使所证实，且他们拒绝以公开身份透露此事，因为此次参观尚未被正式公告。&lt;/p&gt;
+&lt;p&gt;中国与越南的外交部门并未对此次访问请求发表评论。&lt;/p&gt;
+&lt;p&gt;自今年5月当选国家主席以来，范明政已访问了老挝与柬埔寨，遵从以往先例的步伐，近期亦与到访河内的俄罗斯总统普京举行了会谈，并在被任命为党首后，与普京举行了电话会议。&lt;/p&gt;
+&lt;p&gt;此趟访华将成为范明政作为党魁的首次国际行程，他是在上月接替阮富仲之后被任命为党的核心领袖。阮富仲是前任长期任党内高层职务的大佬，实际上掌控了党的权力。&lt;/p&gt;
+&lt;p&gt;习近平主席与美国总统乔·拜登在其党首职位上获得任命后称赞了范明政，部分在工业集群区域内的投资者普遍认为，范明政晋升至党的最高职位可能有助于结束近期的政治动荡，该动荡已放缓了项目与改革的进程。&lt;/p&gt;
+&lt;p&gt;范明政作为一个将军及前内政部长，预料在未来几个月将卸任国家主席之职，可能在他所在国家的国会于10月举行例行会议时予以实现，数位越南及外国官员透露了这一消息。&lt;/p&gt;
+&lt;p&gt;在9月即将举办的联合国全体会议期间，范明政作为越南总统，将此行作为参加联合国全体会议的机会，并在此会议上与美国总统拜登见面。这些官员补充说明，此行中，他会参加一系列的国际活动。&lt;/p&gt;
+&lt;p&gt;越南所有高层岗位的任期将于2026年届满，届时越南国会即将完成其五年任期，届时范明政将被认为是保持党的领导职务的最佳人选之一，许多决策者及外交代表对此抱有强烈期待。&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BCZH2RG7P5N3LMFZHKMFXPJ34U.jpg" alt="菲律宾武装部队总参谋长吕梅·布拉沃少将在发起对部分属于南中国海的西方指挥军区的视察。" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;菲律宾武装部队总参谋长吕梅·布拉沃少将于2023年8月10日，在菲律宾巴拉望普林塞萨港的西方指挥军区举行媒体简报会之际接受媒体采访。REUTERS/Eloisa Lopez/存档照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 03:40:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-file-protest-with-china-over-air-force-incident-over-south-china-sea-2024-08-12/</guid></item><item><title>尽管俄罗斯袭击加剧，乌克兰仍增加粮食出口</title><link>https://www.reuters.com/markets/commodities/ukraine-boosts-grain-exports-despite-intensified-russian-attacks-2024-08-12/</link><description>&lt;p&gt;俄乌冲突之下，乌克兰正加速这个夏季的粮食出口，利用其在黑海地区的军事胜利，以增加出口量，尽管俄罗斯持续对乌克兰的港口发动攻击。&lt;/p&gt;&lt;p&gt;乌克兰是全球小麦和玉米的大型生产国。在2022年俄罗斯入侵之前，乌克兰通过黑海每月出口大约600万吨粮食。&lt;/p&gt;&lt;p&gt;粮食销售是关键的资金来源。尽管全球经济定价疲软，但现金拮据的乌克兰农民别无选择，必须持续推动出口，以筹备下一季的冬季播种季节。&lt;/p&gt;&lt;p&gt;在俄罗斯加剧对关键的黑海出口枢纽敖德萨以及多瑙河主要港口伊兹玛伊尔的攻击背景下，乌克兰在7月将其粮食出口量翻倍，达到420万吨，从同期相比的数据分析机构乌克兰商工交易者联盟提供的信息来看。&lt;/p&gt;&lt;p&gt;尽管如此，乌克兰未通报7月的出口目的地，但去年大部分小麦被出口至西班牙、埃及及印度尼西亚，玉米则主要流向西班牙和中国。&lt;/p&gt;&lt;p&gt;尽管面临战争相关的生产中断导致本季生产下挫，新增小麦与去年丰收后余下的储藏玉米构成的出口潮仍在继续。今年7月，乌克兰通过敖德萨出口了370万吨农产品，多瑙河为56.9万吨，相较去年7月分别出口2.9万吨及207万吨。&lt;/p&gt;&lt;p&gt;乌克兰的其他两个运作中的黑海港口切尔诺莫尔斯克和普里特尼伊在6月和7月向欧洲最繁忙的欧洲大港鹿特丹及西班牙卡特赫纳运输了总计6批玉米。&lt;/p&gt;&lt;p&gt;乌克兰继续向中国、埃及和土耳其出口商品，额外的数据显示。&lt;/p&gt;&lt;p&gt;尽管上月出口销售有所增加，但根据农业咨询机构ASP的预测，2024/25年度的出口量预计会下降，因不利的天气条件及战争的影响。&lt;/p&gt;&lt;p&gt;预计乌克兰的粮食出口量将下降1.45亿吨，触及近十年来的最低水平，大约为3.5亿吨。&lt;/p&gt;&lt;p&gt;乌克兰在联合国支持的黑海谷物出口倡议失效后成功建立了一条运输航道。俄罗斯黑海舰队被迫将几乎全部战力移离被其占领的克里米亚至其他地方。&lt;/p&gt;&lt;p&gt;虽然这一改善的安全形势降低了保险与运输费用，使得海运更具竞争力，乌政府面临的挑战在于确保其可通航的港口能够继续发货。&lt;/p&gt;&lt;p&gt;乌克兰近期持续受到导弹和无人机的攻击，其中主要目标包括敖德萨。&lt;/p&gt;&lt;p&gt;尽管船只目前已大体避免遭到重大损害，政府官员称港口基础设施仍面临威胁。&lt;/p&gt;&lt;p&gt;“俄罗斯非常了解这一点，并瞄准薄弱环节。”乌克兰海上管理局副主管达米特?巴林诺夫说，“他们对准出击精准导弹，故意破坏我们出口和处理的能力。”&lt;/p&gt;&lt;p&gt;巴林诺夫和航运官员表示，俄罗斯避免打击敖德萨等指定乌克兰港口外的国际运输航线，以限制冲突的升级。&lt;/p&gt;&lt;p&gt;乌克兰海军建立了一套指令安全体系，协助船舶进出港口，海军负责人普贝林将军表示。&lt;/p&gt;&lt;p&gt;“乌克兰的防空力量负责保护这些通道和港口。沿岸的所有武器系统，无论防空部队还是导弹系统，都将参与这一行动。”普贝林说。&lt;/p&gt;&lt;p&gt;尽管面临如能源断电等层层挑战冲击港口运营和出口业务，乌克兰还在积极采取措施着力应对。&lt;/p&gt;&lt;p&gt;海洋战争风险及保险专业服务提供商Vessel Protect首席运营官伍思隆安德森指出，尽管俄罗斯的攻击比此前战争期间更为稀少，但仍持续对乌克兰市场构成压力。&lt;/p&gt;&lt;p&gt;“这些攻击持续对乌航运环境构成压力，实现了俄罗斯试图削弱乌克兰充分利用港口潜力产出的目标。”&lt;/p&gt;&lt;p&gt;最近，船只在乌克兰入口航道遭齐射击的风险随新商险规定增加至1.2%，而可行性折扣意味着可能更低的保费，少数情况甚至可达3%。之后，在11月的一次导弹撞击导致Pivdennyi的船舶受损后，超额战争风险保费从数百万元高昂至数万元不等，这些成本随安全形势恶化可能进一步提高。&lt;/p&gt;&lt;p&gt;保险界人士关注并根据近期事件调整其保单。&lt;/p&gt;&lt;p&gt;考虑到俄乌冲突加剧的风险，港口 Однако银行”执行董事马克西姆?杜波维伊补充道，“承保人将基于当前事态和对风险的评判自行决定附加保费。”&lt;/p&gt;&lt;p&gt;自其成立至今，这条黑海上航行通道为2059艘船只运走了5770万吨货物，其中包括3900万吨农产品输送至46个国家。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 05:08:21 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/ukraine-boosts-grain-exports-despite-intensified-russian-attacks-2024-08-12/</guid></item><item><title>早间买盘：市场转向假期情绪</title><link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-08-12/</link><description>&lt;p&gt;当从欧洲至全球市场的日程展望聘请道恩·科尔进行审视时，不禁察觉亚太地区市场迎来了一个难得的宁静局面，日本因举国庆祝山之日而休市，做了一个亟需的假期。一周前，日本的东证股价大幅下跌，犹如山峰下坠，使得全球市场陷于动荡不稳之中。&lt;/p&gt;
-&lt;p&gt;若东京市场开放，期货交易显示，东证的指数或涨幅在400点左右，尽管仍旧未能恢复到上个月席卷市场条规并导致本年度历史最低点前的水平。&lt;/p&gt;
-&lt;p&gt;亚洲其他主要股市整体表现稳健，首当其冲的是台湾股市，全天收盘上涨2%，引领亚洲股市涨幅。而美国股市的期货则呈现出平衡状态，运动趋势小有起伏。&lt;/p&gt;
-&lt;p&gt;美元兑日元汇率出现波动，约在147.00日元附近盘整，以减缓日元流动性的货币需求状态看来暂时有所好转。上周发布的国际货币市场的数据显示，短期美元兑日元净仓位降至11,354点，相较于年初就下降至184,000点。&lt;/p&gt;
-&lt;p&gt;美国国债期货及联邦基金期货显示，投资者对9月利率降低的预期没有太大变动，认为有49%的可能性会做出一次半点减息的决策，与一周前触及100%的几率相比相对平稳。联邦官员对于市场传言的会议间特别减息保持观望，联邦审视委员向他强调了通胀仍旧远超设定目标，并表示若通胀持续走低，利率将逐渐下降。&lt;/p&gt;
-&lt;p&gt;美国在周三公布消费者价格数据，市场预测消费品价格年化核心通胀率会有所降低至3.2%，自2021年4月以来最低。若真的出现这样的数字，意味着美联储可能会发现自己在减息决策上有所滞后。此外，下一周公布的包括沃尔玛和Home Depot的绩效数据，将为提振市场的消费者需求提供线索。而初领失业补偿金的统计报告也有机会引发市场反应，一周前出现的异常下降情况预计会刺激新的关注。&lt;/p&gt;
-&lt;p&gt;在地缘政治层面，中东地区局势持续紧张，如同不稳定的火药桶，以色列国防部长约夫·加尔兰在与美国国防部长劳埃德·奥斯汀谈话时强调伊朗正准备对以色列发起大规模攻击。美国国防部则采取了一项较为罕见的行动，公开报告称奥斯汀指挥部署了核动力导向式导弹潜艇至中东地区。同时也特别提及奥斯汀已经命令亚伯拉罕·林肯打击队加速至该地区的部署进程。&lt;/p&gt;
-&lt;p&gt;对于周一市场将要关注的关键发展：&lt;/p&gt;
-&lt;p&gt;- 德国联邦经济部长罗伯特·哈贝克、RWE集团首席执行官马克尔斯·克雷伯演讲&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="德国股市指标DAX图表在法兰克福证券交易所绘制" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JISQ3BQMORIGLNALQFY7SV4DDE.jpg"/&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;德国股市指标DAX图表在德国法兰克福股票交易所于2024年8月9日绘制。REUTERS/Staff/File Photo&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 04:34:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/europe/global-markets-view-europe-2024-08-12/</guid></item><item><title>朝中社称，朝鲜领导人重新视察洪水地区，提出将人们带回首都的计划</title><link>https://www.reuters.com/world/asia-pacific/north-korean-leader-revisits-flooded-area-offers-plan-bring-people-capital-kcna-2024-08-09/</link><description>&lt;p&gt;朝鲜最高领导人金正恩本周访问了与中国接壤地区的受灾地区之一，旨在支援近期受严重降雨和洪水影响的民众，朝鲜中央通讯社(KCNA)周六发布消息称，金正恩针对此类援助计划到达，其中包括带领大约15400人前往该国首都直至新建住房完成。&lt;/p&gt;
-
-&lt;p&gt;金正恩在周四和周五进行了一次为期两天的访问，针对受灾地区乌义府郡乌义府县，为受影响的民众提供额外支援，据朝鲜中央通讯社报道。&lt;/p&gt;
-
-&lt;p&gt;朝鲜首都新义州及乌义府县的数千户家庭因连日大雨而受灾，据朝鲜该周官方消息宣称。&lt;/p&gt;
-
-&lt;p&gt;在七月底，金正恩参观了受灾区域，并指导救援工作，朝鲜中央通讯社曾透露，当时朝鲜军队组织了约10架飞机进行约每架次约半天时间的救援，共救援了4200人，同时遭遇由气旋风暴盖米引发的强降雨。&lt;/p&gt;
-
-&lt;p&gt;朝鲜中央通讯社表示金正恩针对在朝鲜首都平壤将为老年人、士兵、儿童和母亲提供国家援助，据称可供大约15400人前往平壤，直至建房工作完成。&lt;/p&gt;
-
-&lt;p&gt;金正恩指出灾民重建生活至少需要两到三个月之久，因为这次灾害破坏规模巨大。&lt;/p&gt;
-
-&lt;p&gt;金正恩亦对多个国家及国际组织伸援手表示感谢，愿意提供人道主义支援，并且表示朝鲜将“单独以自己的力量和努力向前”。&lt;/p&gt;
-
-&lt;p&gt;周日，朝鲜宣布俄罗斯总统弗拉基米尔·普京提供人道主义援助给朝鲜。金正恩对此表示感谢，同时表示朝鲜政府已采取措施启动恢复和重建工作，“如果确实需要，将请求提供支援”，朝鲜中央通讯社报道指出。&lt;/p&gt;
-
-&lt;p&gt;该周，朝鲜红十字会表示韩国准备好提供给朝鲜洪水损害的援助物资。&lt;/p&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="朝鲜最高领导人金正恩参观遭受洪灾的乌义府县区域" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GZ36NKZUORM57AKXEULHHRSSAU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩于2024年8月10日在朝鲜平安北道`乌义府县受灾区域访问时与民众见面&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="朝鲜最高领导人金正恩访问受灾区域乌义府县" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TQNNWJDET5PWHPEQ4QOLP5PUNA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩访问乌义府县受灾区域的照片，照片由朝鲜官方朝鲜中央通讯社于2024年8月10日发布&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="在朝鲜受灾的乌义府县，朝鲜最高领导人金正恩与一家人交谈" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RPVRF2UUKVL7RKSQTLUCMQPUN4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩与一家人在朝鲜灾难区域乌义府县的帐篷内交谈的照片，朝鲜中央通讯社于2024年8月10日公布的&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="朝鲜最高领导人金正恩与民众在朝鲜受灾区域乌义府县妇女" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QQCQLHOI3NPWTK2A7FD5B6NRSA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩在朝鲜灾难区域乌义府县访问民众的照片，朝鲜中央通讯社于2024年8月10日提供的&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="朝鲜最高领导人金正恩抵达中国边境受灾地区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W4HS6BTOWRIYTBBLSZLR67FVN4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩和朝鲜总理金铁勋于朝鲜平安北道与中国接壤受灾区域访问的照片，朝鲜中央通讯社未经日期所发于2024年7月31日&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div class="figure"&gt;
-&lt;img alt="朝鲜最高领导人金正恩在朝鲜与中国边境受灾区域" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CTISUKJDU5PIHBKZJLSE33C62E.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;&lt;i&gt;朝鲜最高领导人金正恩在朝鲜与中国边境的受灾区域挥动手势的照片，朝鲜中央通讯社于2024年8月10日提供的&lt;/i&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/div&gt;</description><pubDate>Fri, 09 Aug 2024 23:24:45 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-korean-leader-revisits-flooded-area-offers-plan-bring-people-capital-kcna-2024-08-09/</guid></item><item><title>壳牌与中石油将扩建澳大利亚苏拉特煤层气项目</title><link>https://www.reuters.com/business/energy/shell-invest-phase-2-surat-gas-project-australia-2024-08-12/</link><description>&lt;p&gt;石油巨头壳牌公司(SHEL.L)以及中国的石油巨头中国石油天然气股份有限公司(601857.SS)以联合企业身份的箭能公司(Arrow Energy)，在周一宣布了对昆士兰州苏拉特煤层气项目(SGP)的进一步扩张决定，这一举措遇到来自增强本地能源供应以激励更多投资的舆论推动。&lt;/p&gt;&lt;p&gt;此决定的背景下，企业高管们一直在呼吁政府实施措施以召回由诸多州级干预措施导致减少的数目的投资项目，这些措施旨在控制能源价格与提高国内供给。&lt;/p&gt;&lt;p&gt;澳大利亚能源市场运营商和竞争监管机构已要求石油和天然气公司增加投入以增加供给，作为应对能源市场的日益紧张状态的一部分战略。&lt;/p&gt;&lt;p&gt;该项目的第二阶段发展预计每日将额外提供超过130太焦耳的天然气输出量，联营企业箭能公司在独立声明中这样提及。此项目的第一阶段已完成于2020年，现已投入量产。&lt;/p&gt;&lt;p&gt;壳牌公司并未对第二阶段发展项目的具体成本进行估算，但预期在生产达到峰值时段以及收到第一份天然气时的供给量约为每天22,400桶油当量，并且预计这一扩增举措将在2026年落实。&lt;/p&gt;&lt;p&gt;“在此对家庭、企业及产业愈发需求天然气的时期，苏拉特项目向北发展将稳固箭能在东海岸天然气体生产商中的地位。”箭能公司首席执行官彭正心表示。&lt;/p&gt;&lt;p&gt;箭能公司在包括东海岸在内的地区握有大量的未开发天然气资源，目前正面临供给紧缺和价格上扬的挑战。&lt;/p&gt;  
-&lt;figure&gt;
-&lt;img alt="一处位于英格兰东南伦敦的壳牌加油站的景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OIN7G5FBIFLZNB2D5FYDOU5VHU.jpg" /&gt;
-&lt;p class="figcaption" style="text-align: center;"&gt;国人詹姆斯二月二日在英格兰东南部伦敦拍摄的壳牌加油站景象。/路透社存档照片&lt;/p&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 00:00:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/shell-invest-phase-2-surat-gas-project-australia-2024-08-12/</guid></item><item><title>亚洲足球周</title><link>https://www.reuters.com/sports/soccer/week-asian-football-2024-08-12/</link><description>&lt;p&gt;亚洲足球周刊要点：&lt;/p&gt;
-&lt;p&gt;吴磊本周连场发力，独中四元，帮助上海港足球俱乐部以7-2的巨大优势击败了梅州市客家足球俱乐部，目前以领先同城对手上海申花5分的成绩独占中超积分榜首。&lt;/p&gt;
-&lt;p&gt;吴磊的这波进攻连击使他在本赛季的23场比赛中进球数达到了28个，这个数据远超越其队友加布斯托（Gustavo），加布斯托目前排名射手榜第二位，在面对梅州市客家时亦有进球。&lt;/p&gt;
-&lt;p&gt;上海申花其后从上周败给北京国安的阴霾中走出，5-1战胜了南通智云，其中安德烈路易斯贡献了两球。&lt;/p&gt;
-&lt;p&gt;金潘勋在上个月接替洪明甫成为联赛冠军蔚山现代的新主教练的第一场比赛中，率队以1-0战胜了大邱FC，这是蔚山在临时主教练李 Kyung-soo连败后的首个胜利。其胜利使蔚山排名上升至第三，距离新领头羊刚won FC仅差两分。&lt;/p&gt;
-&lt;p&gt;得益于洪吉城以30分钟的乌龙球为金潘勋带来的首胜，乌山在比赛的最终阶段从落后转变为领先，赛后他们在周五战胜了 Gimcheon Sangmu 以 2-1 的比分获得胜利。&lt;/p&gt;
-&lt;p&gt;本周末的比赛中，甲府风林在日本继续保持领头羊地位，尽管他们在家门口以1-0的比分不敌神奈川贝尔马俱乐部，排名第二的金泽俱乐部以2-1战胜大分俱乐部后距离榜首仅有2点的差距。&lt;/p&gt;
-&lt;p&gt;沙巴尔艾尔·艾哈德亚在沙迦连续四场比赛以1-0击败伊朗的塞帕罕队晋级亚洲冠军联赛精英阶段，将于下周在奇然亚尔中位列对阵卡塔尔的阿尔加拉夫。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 02:21:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/soccer/week-asian-football-2024-08-12/</guid></item><item><title>香港法院推迟中国佳兆业集团清算听证会</title><link>https://www.reuters.com/markets/asia/chinas-kaisa-group-liquidation-hearing-adjourned-by-hong-kong-court-2024-08-12/</link><description>&lt;p&gt;香港法院本周一宣布延期审理针对凯盛集团（代码HK1638）的破产清算申请，推迟至9月9日，此举旨在为陷入困境的中国开发商额外争取时间，以与部分债券持有者达成其债务重组方案的一致意见。&lt;/p&gt;
-&lt;p&gt;位于深圳的开发商，其自2021年末违约后，一直致力于为其120亿美元的离岸债务进行重组工作，至今已有两年之久。&lt;/p&gt;
-&lt;p&gt;凯盛执行顾问LL Tam在法院外表示，公司正在最后整理与债券持有者达成的重组协议文件，预计将在数周内完成。&lt;/p&gt;
-&lt;p&gt;自三月以来，作为主要债券持有者的托管人，以中信企业（Citicorp International）的身份出面作为申请人发起申请，此前一位申请人撤回后，此次法院聆讯中，申请人并未对延期请求提出异议。&lt;/p&gt;
-&lt;p&gt;此次法院需面对的事项涉及未支付于2023年的本金余额达7.5亿美元的债券。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="凯盛控股集团标志在上海凯盛金融中心”上外展示" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UG67QX2X7FM5TN6IHLCESGYKY4.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;2021年12月7日，上海—代表中国上海凯盛金融中心，REUTERS的Aly Song摄影拍摄，凯盛控股集团标志在展示了。&lt;/i&gt;
+    &lt;img alt="越南国家主席范明政在河内国家主席府" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MKELOXFXZJNDRKB7E3OSNTTE4Y.jpg" /&gt;
+    &lt;figcaption style="text-align: center;" &gt;
+        &lt;i&gt;
+            越南国家主席范明政在河内国家主席府，于2024年6月20日与未现身的俄罗斯总统普京举行新闻发布会。MINH HOANG/Pool via REUTERS/File Photo
+        &lt;/i&gt;
     &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 01:49:26 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-kaisa-group-liquidation-hearing-adjourned-by-hong-kong-court-2024-08-12/</guid></item><item><title>央行与债券多头对峙，中国债券市场动荡</title><link>https://www.reuters.com/markets/asia/chinas-bond-market-rattled-central-bank-squares-off-with-bond-bulls-2024-08-12/</link><description>&lt;p&gt;中国债券市场，全世界规模第二的，因中央银行于经济挣扎中大力纠偏以遏制国债收益率下剧所引起的动荡一周后，而紧张不安。&lt;/p&gt;&lt;p&gt;但坚定的投资者仍然看好政府债券的牛市，这归咎于中国&lt;em&gt;&lt;a href="https://www.reuters.com/world/china/chinas-july-factory-activity-shrinks-services-grow-more-slowly-2024-07-31/"&gt;动荡的经济状况&lt;/a&gt;&lt;;/em&gt;，通缩压力以及投资者对风险较高的资产的低需求。&lt;/p&gt;&lt;p&gt;“我们依然热烈看好”，一位债券基金经理如是说，他对中央政府为降低炙热的国债市场而采取前所未有的政策举动保持坚毅，这还旨在制止收益率的剧降，即价格走势的逆向变动。&lt;/p&gt;&lt;p&gt;“我们不预见积极的经济前景已经预先面临对手的压力来产生收益”，依靠匿名化的该位于北京的经理人的说法——由于所谈论主题的高度敏感方面。&lt;/p&gt;&lt;p&gt;即使转向保守的持有者亦表现出半心半意。国债期货投资者王红菲选择短期机遇主义策略，在市场与监管机构的激烈搏斗中快速交易。&lt;/p&gt;&lt;p&gt;在中国投资者追求政府债券而远离波动的股票和处于下跌的房地产市场，以及银行降低存款利率的情况下，央行多次警告可能存在潜在不稳定的资产泡沫风险。&lt;/p&gt;&lt;p&gt;不过，随着中共中央银行将威胁转化为行动以克制债券过分极端化的举动，当局已然开赴了新的战场——在长期连续战争中与市场投机者及国家的股票和货币市场上不受欢迎的价格变动战。&lt;/p&gt;&lt;p&gt;与西方不同，“中国的金融市场，包括债券市场，皆长期受到政府的自上而下的监管”，美国经济研究所的经济学人瑞安·尹克如是说。&lt;/p&gt;&lt;p&gt;随着经济_RANDOM: sputters_BREAK: ，“中国官员如何维持著名受严格管制的金融市场将面临越来越多的困难，更多的干涉措施将会出现，预见到这些行动均可能是营造了阻止其避免的不稳定状况。”&lt;/p&gt;&lt;p&gt;上周初的行动是此次新战役的起始，当时，中国长时间的国债收益率创下了记录低位，这被视为全球炼化的避险信号流入国债。&lt;/p&gt;&lt;p&gt;国家银行在国债期货触及历史性高位后被观察到大规模抛售10年期和30年期国债。&lt;/p&gt;&lt;p&gt;国家银行的大规模倾销——得到数据支持与交易员证实——于整个星期持续，就像当央银行凭借大型银行作为代理机构影响人民币货币市场时发生的一样。&lt;/p&gt;&lt;p&gt;周五晚间，中央银行宣布将会逐步增加在公开市场操作中购入及出售国债的数量。&lt;/p&gt;&lt;p&gt;央行行长潘功胜之前曾为中国的外币监管机构的负责人，因此“看起来像是遵循了同一策略”， 一位位于上海的资产管理经理点评道。&lt;/p&gt;&lt;p&gt;以另一个对购债人的警告信号，央行自2020年起首次于周三停止通过公开市场操作提供现金，这促进了连续四周最大规模的资金撤出，旨在支持收益率的上升。&lt;/p&gt;&lt;p&gt;市场情绪遭到进一步打击，中国银行间的监管组织宣布将调查四家农村商业银行可能的国债市场操控问题，并将报告错位金融机构给中央银行接受惩处。&lt;/p&gt;&lt;p&gt;央行未对此相关请求提供发表评论。&lt;/p&gt;&lt;p&gt;然而，进行迅速行动后，投资者变得谨慎从而采取了更为周全的方式来应对中国风险。在面临长期间债券可能产生的风险时，中国的数月收益率呈现其首次下跌的趋势。&lt;/p&gt;&lt;p&gt;“综合所有因素考虑，谨慎对待中国期限长的债务风险较为审慎”， 意大利兴业银行亚洲宏观经济战略负责人崔永世指出，“长期而言，由于中国经济动能的脆弱，大规模中国债券抛售的可能既可以被预期到，但是追涨中国债市可以获得的收益率则在我们看来并非合适的策略。”&lt;/p&gt;&lt;p&gt;滕一明，民生证券的分析师在其评论中写道，“悬头的利剑正在下落。”&lt;/p&gt;&lt;p&gt;然而，在高级收益资产稀缺，被描述为“资产管理饥荒”的环境下，“债券牛市依然站立”，滕一明说道。&lt;/p&gt;&lt;p&gt;位于上海的资产管理经理强调，在并未获得经济明确改善的迹象前，不应放弃策略，他的策略是“买入下跌”。他说，“你非可以用技术工具改变市场方向，正如你不可调整温度计来改变温度老话一样。”&lt;/p&gt;&lt;p&gt;他认为，虽然中央银行的动作为债券价格的上升节奏带来了转变，但现代的上涨趋势不会因此而改变。“如果你持长则终会盈利。”&lt;/p&gt;&lt;p&gt;然而，上升的波动性显示中央银行已在一定程度上使投资者思考权衡利弊。&lt;/p&gt;&lt;p&gt;瑞银财富管理大中华区资产配置负责人春来吴对此点出，预期的中国债券扶持将由更高的政府债券发行量部分抵消。&lt;/p&gt;&lt;p&gt;当前，中国的30年期国债收益率约为2.37%，仅是与去年初期本金的3%相比。&lt;/p&gt;&lt;p&gt;“长期看，我们可能看到收益率持续走高，或许朝向2.5%，若果中国的经济复苏确实在持续进行且通货膨胀开始回归。”&lt;/p&gt;&lt;p&gt;(1美元 = 7.1715人民币元)&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 00:04:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-bond-market-rattled-central-bank-squares-off-with-bond-bulls-2024-08-12/</guid></item><item><title>早盘买盘：波动性冲击消退，印度 CPI 回升</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-08-11/</link><description>&lt;div&gt;
-&lt;p&gt;展望翌日于亚洲市场的情况。&lt;/p&gt;
-&lt;p&gt;政坛绝非只是漫长的时间跨度。&lt;/p&gt;
-&lt;p&gt;一周前，日元套利交易的大幅逆转与美国大型科技股的滑坡，激发了一波市场动荡，全球股市出现大幅回落，投资者匆忙地寻求美国国债的安全避风港。&lt;/p&gt;
-&lt;p&gt;作为周一亚洲交易周初开的预览，在亚洲市场，那似乎已成为一段遥远的过去，多数资产已收复大多的损失，市场动荡已有所消退，交易员大幅下调了降息预期。&lt;/p&gt;
-&lt;p&gt;现时的问题是这种势头能否持续。部分投资者可能会趁着股票波动性的下降，再度推高高风险资产；另一些投资者则将畏惧市场中任何角落可能出现的余震，尤其是在8月的中期，市场流动性通常较不寻常地稀薄。&lt;/p&gt;
-&lt;p&gt;周一亚洲市场日历较为清淡。印度消费者价格成为当天的主要事件，市场因此受到全球力量的影响。&lt;/p&gt;
-&lt;p&gt;如果真是如此，那么周一市场应保持相对平静。华尔街周五出现上涨，纳斯达克及标准普尔500指数在上周几乎收平。美国国债收益率在周五虽然下挫，但录得数月来的最大单周增长。&lt;/p&gt;
-&lt;p&gt;强于预期的美国经济数据表明对经济衰退的担忧过犹不及，以及美国国债发行的几次不如意，促使收益率升高。这未必是件坏事，考虑到上一周的市场滑落似乎过于剧烈。&lt;/p&gt;
-&lt;p&gt;上一周亚洲市场的反弹表现相当抢眼。在日经平均指数创下历史第二大单日跌幅和第三大24小时震荡记录之后，指数依然收于下挫2.5%的水平。&lt;/p&gt;
-&lt;p&gt;甚至于基准指数的表现更佳，如亚洲剔除日本的MSCI指数及全球指数均保持平稳，新兴市场指数上升0.2%。&lt;/p&gt;
-&lt;p&gt;在汇率方面，周五美国期货市场的数据表明，对冲基金在8月6日该周期减持日元净空头仓位62,000份合约。这一规模实现了自2011年福岛事件以来的最大单周转折，也是自1986年数据记录以来的第三大规模。&lt;/p&gt;
-&lt;p&gt;如果这一数据代表了外汇市场的主要趋势，那么日元套利交易的部分基本已被消除。交易员是否将重新开始日元的短头寸操作，或是转为实施套利交易？&lt;/p&gt;
-&lt;p&gt;印度的通胀数据是亚洲的关键关注点，并在上周，印度储备银行维持关键利率不变后作出了反应，将利率调整为6.5%，摒弃了市场动荡，并关注将通胀率降至4%的中长期目标。&lt;/p&gt;
-&lt;p&gt;共识结果显示，7月的印度年度消费者通胀率将从6月的5.08%降至3.65%。这是连续五年首次低于印度央行的中长期目标。&lt;/p&gt;
-&lt;p&gt;以下是一系列可能为亚洲市场带来额外指引的关键发展：&lt;/p&gt;
-&lt;p&gt;- 印度利率决策&lt;/p&gt;
-&lt;p&gt;- 印度工业产出（六月）&lt;/p&gt;
-&lt;p&gt;- 德国批发价格通胀（七月）&lt;/p&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 08:45:56 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/vietnams-newly-appointed-party-chief-set-visit-china-next-week-2024-08-12/</guid></item><item><title>随着机器人出租车的步伐加快，中国的司机和乘客都感到焦虑</title><link>https://www.reuters.com/business/autos-transportation/chinas-drivers-fret-robotaxis-pick-up-pace-passengers-2024-08-08/</link><description> Liu Yi 被归入中国的七百万名拼车驾驶员行列。他作为一名 36 岁的武汉居民，在全国住宅公寓存量过剩导致建筑工作放缓的背景下，今年选择了兼职批出租车。 
+🚀 分割线
+
+现在，他站在自己的车辆旁，观察着邻居们点召没有驾驶员的出租车，并预测了即将爆发的危机。 "这些都是针对百度Apollo机器出租车 （Apollo Go，Baidu 的子公司）已在武汉为同业司机设计的激烈竞争态势。"每个人都将面临饥饿的威胁，武汉市的司机都应对此有着深切的感悟。
+
+🚀 分割线
+
+中华人民共和国工业和信息部官员拒绝就此事发表评论。 
+
+🚀 分割线
+
+全球协作实力最强或 weak 是拼车及出租车司机首先面临人工智能工作岗位消失威胁的职业群体之一。这一趋势源自中国十万辆以上的机器出租车上路后的出现。经济学家及业界专家均有所论断。
+
+🚀 分割线
+
+虽然自主驾驶技术目前仍处于试验阶段，但中国政府积极地先行一步率先批准了试行测试活动，而美国则在事故发生后常常启动调查并暂停批准行为。
+
+🚀 分割线
+
+官方数据显示，至少有 19 个中国城市正在运营机器出租车和机器人巴士测试，共七个城市批准了至少五个行业领头羊（Apollo Go、Pony.ai、WeRide、AutoX 和 SAIC）无需人类驾驶员监视的测试。
+
+🚀 分割线
+
+Apollo Go 宣布计划在 2024 年年底前在武汉部署 1000 辆机器出租车。2022 年则预计将在2030 年大规模运营 100 个城市。
+
+🚀 分割线
+
+8 月 12 日，Apollo Go 公布出声称中国的自主运输过渡期将是“逐步和受到监管”的路径。"我们的自主车队目前正补充而不是取代现有的运输选项。"
+
+🚀 分割线
+
+Pony.ai 受到日本丰田汽车募集资金支持，其机器人出租车数量现已达到了 300 辆，并计划在 2026 年前增加到 1000 辆。其副执行长透露机器出租车可以在五年内实现可持续盈利，届时它们将会“急剧扩张”。
+
+🚀 分割线
+
+WeRide 是一家开发了自主出租车、小巴士和清洁车的公司。而 AutoX 在电商巨头阿里巴巴集团的支持下，在北京和上海等城市运营。SAIC 机器出租车的运营始于2021 年终。
+
+🚀 分割线
+
+波士顿咨询集团的奥古斯特·韦格施迪尔表示看到了中国推动自主车辆发展的加速度，...美国相对从容，...在机器出租车开发者面前面临更高的审查标准和更高的障碍。
+
+🚀 分割线
+
+美国的唯一一家操作收取费用的无人出租车的公司 Alphabet 的 Waymo 拥有大约 700 辆车辆 在加州圣佛朗西斯科、洛杉矶、菲尼克斯和得克萨斯州奥斯汀运营。这些车辆并未在所有时间都处于服务状态。
+
+🚀 分割线
+
+通用公司支持的 Cruise 在2023 年 4 月重新启动了测试，去年其车辆发生了撞人事件。de 据介绍，Cruise 面临的核心任务是确保安全。  
+
+🚀 分割线
+
+例如 Waymo、Cruise 等公司在美国受到了更多的审查和更高的障碍，在美国每次 AI 在自主车辆领域的发展都受到了比较严格的测试和考察标准。  
+
+🚀 分割线
+
+尽管引起对安全的忧虑，中国机器出租车的舰队正在大量扩张，在获得对推动经济目标的支持下被批准的测试。习近平主席在2023 年states 索要“新生产力”使得各地竞争日趋激烈。
+
+🚀 分割线
+
+去年更是宣布在限定区域下进行测试的北京，广州最近宣布将会对全市范围内的自动驾驶开始试运行。
+
+🚀 分割线
+
+虽然有一些中国公司尝试在美国进行自主车辆测试，但白宫计划规定禁止在2024 年之后引进具有中国开发系统的自动驾驶车辆，这已被以下简称。  
+
+🚀 分割线
+
+波士顿咨询集团韦格施迪尔认为中国发展的自主驾车大陆扩张力度是与中国推动的电动车扩张力度是类似的。如果他们决定推动什么，他们会快步前进。
+
+🚀 分割线
+
+数据显示，拼车运营商在2024 年的注册人员数量已达到 700 万人，比前两年的 400 万大幅增加。在整个经济放缓的背景下，充当最后一层就业保障的拼车服务不容忽视，经济学家担忧机器出租车会带来一系列侧效剪裁反应。
+
+🚀 分割线
+
+在7 月，有关无驾驶员拼车将导致失业的社会媒体报道占据了最高热度的热搜。
+
+🚀 分割线
+
+在武汉，除了 Liu Yi 以外，其他拼车司机对于正在烷类的 Apollo Go 机器作为“愚蠢的萝卜”的评价使用者，“他们造成了交通拥堵”。
+
+🚀 分割线
+
+Liu Yi 对工程师抗拒全自动驾驶系统（预计将于2023年推广的特斯拉）和特斯拉机器的未来野心感到畏惧：“就在我害怕萝卜结束一场危机后，特斯拉来了。”
+
+🚀 分割线
+
+63 岁的武汉司机Wang Guoqiang 把眼中的拼车服务视为低层次职业的工作环。"如果你终结了这个行业发展，那么他们还有什么工作呢？"
+
+🚀 分割线
+
+百度拒绝评论司机的担忧，并回答了关于服务盈利性的问题，经环球下称转引五月份长城高管陈灼有关其平台在未来五年成为“全球首个实现商业盈利”自主驾驶平台。
+
+🚀 分割线
+
+在广州的试验阶段中，Apollo Go 具体每辆机器每年会有 10 万元亏损，Haitong 国际性证券给预计经过机器学习与削减生产成本叠加的低造价模型可达 16 万元。相比之下， 生态探索者 leasing 公司车辆的盈利收益约为每年15 万元。
+
+🚀 分割线
+
+经济学者认为在长期看，机器化工作有助于入口劳动力功率的增加。经济学家唐 Staff 认为在短期，新就业岗位的创造与淘汰旧工作之间需要保持平衡，我们无需急进推动，当前我们已经领先业内外。
+
+🚀 分割线
+
+三家扩大了智能教练数量至约900 人，“东新先锋驾驶学校（代码：603377.ss）”，在自前2021年以来大幅降低至约 900 人的共同工作增员，现通过遥测系统应用的智慧评审来进行主控教师的工作。
+
+💡 分割线
+
+学生们在VR环境中纽整体交通路线和行驶策略，微观分析个人秒级赋权，动态反馈流程和提高自驱动系统的安全性。同时构建智能配套后台各自系统互相展开沟通与大数据的实现革新有利于驾驶技术的真正在线部署与片刻洞察。
+
+💡 分割线
+
+机器职业教育与以往人驱动阿里智驾中心实地考量的实力突破与优化，极大地增强过试驾车辆安全性能与劝导率，为建立互联闭环系统提供借鉴实例。
+
+💡 分割线
+
+该智能教学体系呈推进数据可视化与实现闭环收到广泛推崇，有助于构建aspers 行业与职业逻辑的特征内涵共享，推动行业整体发展和承办能力优化的结果。
+
+💡 分割线</description><pubDate>Thu, 08 Aug 2024 00:03:15 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/chinas-drivers-fret-robotaxis-pick-up-pace-passengers-2024-08-08/</guid></item><item><title>随着低空经济的加速，中国试验货运无人机和空中出租车</title><link>https://www.reuters.com/world/china/china-test-flies-biggest-cargo-drone-low-altitude-economy-takes-off-2024-08-12/</link><description>&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ROA432YITNPVVFBM67EK4VYSPI.jpg" alt="Unmanned cargo aircraft developed by Sichuan Tengden Sci-tech Innovation Co. takes part in a maiden flight at an airport in Zigong" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;在四川省自贡市机场，一辆由中国四川腾登科技发展有限公司研发的无人运输飞机正在进行首次试飞，时间在2024年8月11日，图片由《中国日报》通过路透社提供。&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;最近周末，工程师们指挥了中国迄今为止最大的运输无人机进行一次测试飞行，而不久后，一架直升机型出租车也将在一条即将开通的100公里（约为62英里）到上海的航线上飞行，中国正在扩展其低空经济的新记录。&lt;/p&gt;
+
+&lt;p&gt;由国家资助的四川腾登科技发展有限公司开发的双引擎运输无人机，装载能力达到了2公吨，在四川省西南部于周日首飞，历时约20分钟，据国家媒体的报道。&lt;/p&gt;
+
+&lt;p&gt;这款腾登构建的无人机宽16.1米（约52.8英尺），高4.6米（约15英尺），其大小略大于世界上最受欢迎的小型飞机“四座Cessna 172”，全球领先的无人机生产商正在陆续测试越来越大的承载量，同时交通运输企业正在筹备包含有人操作和无人驾驶的空中出租车服务，随着中国放宽空域管制并给予建立低空经济的激励政策。其航空监管机构预估到2030年，低空经济产业将达到2万亿元（约合2790亿美元），相比于2023年的规模将四倍攀升。&lt;/p&gt;
+
+&lt;p&gt;腾登的这一试验飞行紧随其后的是今年六月份，由国有企业航空工业集团研发的载籍无人机进行的首飞。这款名为HH-100的无人机载重量为700公斤（约1543磅），飞行半径为520公里。&lt;/p&gt;
+
+&lt;p&gt;中国已经在利用无人机进行商业交付。&lt;/p&gt;
+
+&lt;p&gt;今年5月份，成立于物流巨头顺丰速运集团的货运无人机公司顺丰商飞（Phoenix Wings）开始利用顺丰研发的“风洲-90”无人机将海南岛的新鲜水果发往广东地区南部，显示了中国商业无人机领域的知名企业顺丰自行发展的强大实力。&lt;/p&gt;
+
+&lt;p&gt;货运无人机承诺提供更快的配送时间和更经济的运输成本，根据中国行业专家的观点，并扩大了向缺少传统航空设施的订货地点，如人口密集城市中的楼顶空间的配送范围，同时可能在出租车服务上运送乘客。&lt;/p&gt;
+
+&lt;p&gt;今年4月份，由中国南方城市广州的无人机制造商亿航控股集团（EH.O）获得无人机生产授权，其乘客运输无人机在中国首次获得自动驾驶乘客无人机的认证。&lt;/p&gt;
+
+&lt;p&gt;在一份报告中，政府将低空经济首次识别为一种新的增长引擎，其中垂直移动被视为低空经济领域的一个新的生产力力量，涉及乘客和货物运输。&lt;/p&gt;
+
+&lt;p&gt;上周末，一架搭乘有乘客的商用直升机从江苏省昆山市起飞，直达上海浦东机场，据国家媒体消息。&lt;/p&gt;
+
+&lt;p&gt;乘坐该路线单程票价最高可达1800元，旨在将城市间的旅行时间缩短至20分钟，相比以往动辄数小时的旅程。预期每年将有至多3万名乘客利用这一服务，将于8月18日开通运行。&lt;/p&gt;
+
+&lt;p&gt;上海正计划扩展现有航线至长三角地区的其他城市。&lt;/p&gt;
+
+($1=7.1742 Chinese yuan)</description><pubDate>Mon, 12 Aug 2024 03:53:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-test-flies-biggest-cargo-drone-low-altitude-economy-takes-off-2024-08-12/</guid></item><item><title>香港法院驳回媒体大亨黎智英推翻定罪的请求</title><link>https://www.reuters.com/world/china/hong-kong-court-dismisses-bid-by-media-tycoon-jimmy-lai-overturn-conviction-2024-08-12/</link><description>&lt;blockquote&gt;
+&lt;p&gt;
+   香港高等法院在周一一致裁定，传媒大亨黎智英和其他六名亲民主示威者组织和参与2019年无牌集结的定罪不可撤销。本次裁定涉及2019年长达数个月亲民主示威期间在被中国管治的香港城市组织和参与的无牌集结，黎智英，76岁，亲民主报纸《苹果日报》创办人，以及包括资深民主人士李柱铭在内的其他六人被定罪。
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+   尽管较低法院撤销了他们组织无牌集结的定罪，但他们参与未经许可游行的定罪得以维持。这次上诉的焦点在于这一定罪是否与基本人权保障相适宜，这是英国上议院两大非约束性裁决中被称为“操作合理性”的原则。
+&lt;/p&gt;
+
+&lt;p&gt;
+   首席法官陈国权和法官里斯博里法官在主要裁决中表示，英国这两大裁决在香港不宜遵循，考虑到香港和英国的人权挑战法制存在差异。
+&lt;/p&gt;
+
+&lt;p&gt;
+   伦敦前大法官朱尔格，是终审法院的五名法官之一，听审了此案，引发是否应让外籍法官继续担任港督府最高法院的讨论。
+&lt;/p&gt;
+
+&lt;p&gt;
+   在两个月前两名英国法官辞任终审法院法官后，终审法院判决的出台。后者指香港正演变成为一个极权国家，该城市的法制正受到“严重破坏”。
+&lt;/p&gt;
+
+&lt;p&gt;
+   朱尔格在6月中告诉路透社他将留在最高法院“支持香港的法制，尽可能地出力”。他认同主要裁定，并指出“问题已被充分、令人印象深刻地考量”，并“为被称作“操作合理性”的问题提供重要的指引”。
+&lt;/p&gt;
+
+&lt;p&gt;
+   朱尔格加上，香港及英国的宪法差异“在考虑集会权利限制是否适宜方面，并不一定要求不同的方法”，但“如果法庭认定限制或可能不是适宜的，则必须采取不同的方法”。
+&lt;/p&gt;
+
+&lt;p&gt;
+   北京在2020年推出所谓《安全法》之后，对2019年的亲民主示威实施了镇压，并通过了一部新的国家安全法，也被称为“23条”。
+&lt;/p&gt;
+
+&lt;p&gt;
+   对于组织及参与2019年无牌集结的定罪，黎智英以及三名前议员李卓谦，67岁，“长发”卢国强，68岁和侯以游，70岁分别被判处8至18个月监禁。在组织定罪撤销后的审判中，他们的监禁期限被减少至3至6个月。
+&lt;/p&gt;
+
+&lt;p&gt;
+   香港民主党创始人、大律师何志平，86岁，资深亲民主政治人物李家超，72岁则被判处暂缓执行的刑期。
+&lt;/p&gt;
+
+&lt;p&gt;
+   何志平对法庭外的媒体表示：“我们只是想借此机会，感谢我们的法律顾问团队和所有支持我们的人。”
+&lt;/p&gt;
+
+&lt;p&gt;
+   自2020年12月以来，黎智英持续在单独监禁中，面临一项国家安全审判和因侵犯该已关闭报纸总部的租约合约而判刑5年9个月的判决。
+&lt;/p&gt;
+
+&lt;p&gt;
+   根据保安局数据，共301人因危害国家安全的行为或活动被捕。其中176人及5家公司被起诉。
+&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img alt="传媒巨头黎智英，苹果日报创办人，由监狱车辆前往终审法院，香港，中国，2021年2月1日” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OK4QJVX5ZBND3P74II5X5CSYPY.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;传媒巨头黎智英，苹果日报创办人，由监狱车辆前往终审法院，香港，中国，2021年2月1日。REUTERS/Tyrone Siu/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 02:21:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/hong-kong-court-dismisses-bid-by-media-tycoon-jimmy-lai-overturn-conviction-2024-08-12/</guid></item><item><title>韩国和美国将针对朝鲜导弹和网络威胁举行年度演习</title><link>https://www.reuters.com/world/south-korea-us-stage-annual-drills-over-norths-missile-cyber-threats-2024-08-12/</link><description>&lt;p&gt;韩国与美国宣布，将在下周启动一年一度的夏季军事演习，以增强应对朝鲜武器和网络威胁的能力。&lt;/p&gt;&lt;p&gt;以本月29日为期十天的“乌利西自由堡垒”演习将如期进行。这一军事活动正值朝鲜继续发展其核武器和导弹计划，并试图 发射侦察卫星的行动之际。&lt;/p&gt;&lt;p&gt;军演内容将涵盖所有领域的现实威胁，包括朝鲜导弹威胁、GPS信号干扰、网络攻击等，以及从近期事件中汲取的其他教训。两国防务部门在一份声明中指出。&lt;/p&gt;&lt;p&gt;韩国联合参谋本部发言人李承俊在简报会上表示，联盟能够增强其对付大规模毁灭性武器的防御和威慑能力。&lt;/p&gt;&lt;p&gt;韩国军方还将支持政府主导的与军事演习同步进行的民防演习。其中一套演习设想是对朝鲜核攻击的应对场景。&lt;/p&gt;&lt;p&gt;约1.9万名韩国士兵，与去年大致相同，将参与为期48轮的联合野外训练，包括实兵演练、实弹射击和两栖演习。&lt;/p&gt;&lt;p&gt;美国驻韩部队发言人格兰特·唐纳德上校表示，这是印太地区最大规模的年度演习之一，参与者包括联合国指挥下的成员国。&lt;/p&gt;&lt;p&gt;朝鲜出手指责盟友通过军事演习加剧紧张局势，声称这是假想进行核战的排演。&lt;/p&gt;&lt;p&gt;首尔与华盛顿都指出，这些军事演习具有防御性质，是对朝鲜威胁的回应。&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img alt="韩国永宁的韩美旗帜" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFU364X7RJJRRB45IZDYVHKPNU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;2016年8月23日，韩国永宁，韩美两国旗帜并排矗立。此图由美陆军肯·斯卡特摄，授权路透社以文件照片形式发布。&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 06:47:09 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/south-korea-us-stage-annual-drills-over-norths-missile-cyber-threats-2024-08-12/</guid></item><item><title>黄岩岛空难事件后菲律宾敦促中国缓和紧张局势</title><link>https://www.reuters.com/world/asia-pacific/philippines-file-protest-with-china-over-air-force-incident-over-south-china-sea-2024-08-12/</link><description>&lt;p&gt;菲律賓星期一呼吁北京在南海的緊張局勢中降級對抗情緒，並響應其空軍在過去兩國同意加強管理海事爭議之際採取的“十分危險”行動。這包括周四澳洲航空軍飛行進行例行巡邏時，兩架中國飛機執行了危險的操縱，並在飛機路徑上施放了曳光彈。&lt;/p&gt;
+&lt;p&gt;華盛頓聯合國海牙庭準則永ures公逮捕黃的2016年裁決，北京所聲索的權利無基於國際法基礎。中國的駐菲律賓大使館這時未回應oxide的請求。上個星期六（中國軍方）南部軍種部隊稱，菲律賓飛機以非法入侵，縱然有過繼續警告。&lt;/p&gt;
+&lt;p&gt;菲律賓對國際法的遵守以及對中國的響應要求誇示actions應受到中國的雖.to輕微 Feminise. Teodoro對記者表示，“我們應該習慣這種反應。”他還要求中國必須尊重國際法和響應興гар尼亞西亞發展國家Quiz金色的理解，以“穩定”其行為。&lt;/p&gt;
+&lt;p&gt;菲律賓國家安全委員會還呼籲中國“停止各種引發和危險行動”。菲律賓總統費鐸東 Abilities Jr. 認為，星期日當中國的行為被認為非法和魯莽時，受到嚴厲譴責。他的外員事小關小瑞克亞同中國的外務週一的抗議。&lt;/p&gt;
+&lt;p&gt;“我們希望中國能夠营造良好法律國際環境，特別是如果他們的敘述不復此新的意義時，德羅也是如此。ondheim說，“他們將會 DY兑反抗任何見此這的國際力量。”
+&lt;p&gt;菲律賓軍隊最高司令羅梅羅布朗爾則表示，“中國的行動非常危险，但是我們的部隊不會受到強迫，將會繼續在國內經濟領域的巡邏。”布朗爾說，“那是我們的權利。”&lt;/p&gt;
+&lt;p&gt;馬尼拉和北京，一直對去年海上的相斥行为。當現在最新的任務是上個月同時に万吨熱碼原 zhaim linesanch1號。作為雙方同意緩和緊張和管理不同的判決。 &lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img alt="菲律賓軍隊總指揮官羅梅羅布朗尔與西部指揮系統在負責南中國海部分地區的媒體記者會合影" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BCZH2RG7P5N3LMFZHKMFXPJ34U.jpg" style="text-align: center;" /&gt;　　圖 &lt;i&gt;菲律賓軍隊總指揮官羅梅羅布朗尔中國 philosophers 責政聯軍滅，於蘇禮士省，巴蘇安，菲律宾媒体記者會に向上的拍攝時間, mm8/23.&lt;/i&gt;&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 03:40:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-file-protest-with-china-over-air-force-incident-over-south-china-sea-2024-08-12/</guid></item><item><title>尽管俄罗斯袭击加剧，乌克兰仍增加粮食出口</title><link>https://www.reuters.com/markets/commodities/ukraine-boosts-grain-exports-despite-intensified-russian-attacks-2024-08-12/</link><description>&lt;p&gt;乌克兰正竭尽全力在今年夏季大举出口粮食，借助在黑海地区的军事进展提振出口，即便同时面临俄罗斯对乌克兰港口的袭击。&lt;/p&gt;&lt;p&gt;乌克兰是全球粮食作物小麦和玉米的重要生产国，2022年俄罗斯入侵前，乌克兰每月通过黑海出口约600万吨粮食。&lt;/p&gt;&lt;p&gt;粮食销售是关键的收入来源，鉴于全球价格疲软，囊中羞涩的乌克兰农民别无选择，只能继续推动出口，以便为即将到来的冬季播种季节筹措经费。&lt;/p&gt;&lt;p&gt;乌克兰七月份的粮食出口量翻了一番，达到超过420万吨，较去年同期增长显著，尽管俄罗斯对至关重要的黑海出口枢纽敖德萨和多瑙河上的重要港口伊兹梅尔进行了更为频繁的袭击。&lt;/p&gt;&lt;p&gt;尽管这一时期乌克兰战事导致产量下滑，但目前尚无迹象表明乌克兰促动了显著增长的出口趋势能否持续到2024/25整个生产季节。&lt;/p&gt;&lt;p&gt;“我们正尽我们所能确保商人们即使在战时也能感到舒适和便利的氛围，”乌克兰海港局副主管Dmytro Barinov向路透社表示。&lt;/p&gt;&lt;p&gt;这些出口包括本季新种植的小麦以及去年丰收之后的玉米库存。&lt;/p&gt;&lt;p&gt;通过敖德萨港口的第一阶段数据显示，七月份乌克兰对外出口了370万吨农业商品，并通过多瑙河出口了56.9万吨；相比之下，在2023年七月份同样时期的数据是通过敖德萨出口29.1万吨，通过多瑙河出口207万吨。&lt;/p&gt;&lt;p&gt;至七月份，乌克兰通过黑海的常规港口切尔纳克斯基（Chornomorsk）和皮夫迪内伊（Pivdennyi）已经向好望角（Rotterdam）、以及该地区最大的港口西班牙卡特尔纳（Cartagena）出口了60万吨玉米。&lt;/p&gt;&lt;p&gt;甚至那些仅上月销售表现较为强劲的迹象也无法掩盖预计整个2024/25年生产季节乌克兰粮食出口将大幅度下降的总体趋势，这主要是由于不利的气候条件以及战争的持续影响，农经咨询公司ASAP如是指出。&lt;/p&gt;&lt;p&gt;预期乌克兰粮食出口量一年内将下挫1.45亿吨，并有可能触及近十年的新低水位，即3500万吨。&lt;/p&gt;&lt;p&gt;乌克兰在联合国主持的黑海粮食出口倡议瓦解后，成功建立了海上运输走廊，俄罗斯黑海舰队不得不将绝大多数作战准备就绪的舰船从克里米亚移往其他区域。&lt;/p&gt;&lt;p&gt;虽然安全状况有所改善降低了保险费和航运费，使海鲜出口更具竞争力，但基辅的挑战无疑在于确保其具备海运能力的港口可以广泛及时地发货，直至安全获得持续保障。&lt;/p&gt;&lt;p&gt;在近期几周遭到多轮导弹和无人机袭击后，乌克兰海军与海岸警卫队都在对封锁贸易通道外的海上线进行极大关注。&lt;/p&gt;&lt;p&gt;虽然目前各船只到目前为止避免受到重大损害，但乌方官方始终担忧港口基础设施遭到袭击。&lt;/p&gt;&lt;p&gt;“这时的战场对乌俄双方呈现出一种对峙状态，俄方打击方针则是瞄准那些已知的弱点。”Barinov指出，“精心设计的导弹攻击，旨在破坏我们出口与内陆的产品处理能力。”&lt;/p&gt;&lt;p&gt;航运官员表示，俄罗斯对于直接影响到乌克兰港口的日常航路攻击频率显著降低。然而，持续的袭击依然对乌克兰的商船运输环境产生了巨大压力。
+
+乌军为确保船舶得以安全进出各港口制定了操作流程，船长必须遵循特定的安全指令，乌克兰海军首席奥列克西·涅久恰帕（Oleksiy Neizhpapa）向路透社如此描述。&lt;/p&gt;&lt;p&gt;乌克兰防空力量负责覆盖这些航线和港口的防御任务，从空军群到海岸线配备的导弹系统在内的所有部署均参与此行动。&lt;/p&gt;&lt;p&gt;尽管如此，乌克兰依然亟待应对包括能源断电在内的诸多其它问题，这使港口运营和出口环节受到干扰。&lt;/p&gt;&lt;p&gt;船运险服务公司Vessel Protect的Munro Anderson表示，尽管2024年中之后俄罗斯的袭击频率有所降低，但袭击对乌克兰商用运输的影响不可小觑。&lt;/p&gt;&lt;p&gt;近期这个问题对保险商而言依然较为关注，而保费通常会根据与当前事件及其风险评估情况直接进行重新调整。&lt;/p&gt;&lt;p&gt;截至目前，通过这条走廊已有2059艘船向46个国家运输了5.77亿吨货物，其中3.9亿吨为农业产品，第一次操作显示，这一运输途径将乌克兰的国际贸易能力提升到新的水平。&lt;/p&gt;&lt;p&gt;各大保险提供商将基于具体考量选择适用于各批船班的保费水平，并依据事件及风险评估做出自决评估。&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img alt="乌克兰海警在黑海走廊巡逻" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EEWH5YEDNVKNDBMX4OQ57R7BNE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;在 reacted to Russia?&lt;/i&gt;&lt;i&gt;的照片中，一名乌克兰海警制服装备员巡逻黑海，主角为一艘即将通行的货船，背景为一份真实战场照片拍摄于2024年2月7日&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img alt="乌克兰赫尔松州小麦收割" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GE3D25AWXJPGPJF3DLWZGELHSI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;一位在乌克兰赫尔松州受俄罗斯袭击的农田里操作联合收割机，并将搭载小麦的半罐体运出。&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img alt="导弹袭击后奥德萨地区中的被摧毁粮食仓库遗迹" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GRPCO7FIJZL7VHNMTSE7KQGU6A.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;此图展示受损的设施位于乌克兰的波莱瓦克村，俄方导弹在一件事发于乌克兰境内的战役中对奥德萨地区一仓库造成毁灭性打击，拍摄于2023年7月21日。&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 05:08:21 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/ukraine-boosts-grain-exports-despite-intensified-russian-attacks-2024-08-12/</guid></item><item><title>早间买盘：市场转向假期情绪</title><link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-08-12/</link><description>&lt;p&gt;韦恩·科尔对欧洲及全球市场的前瞻&lt;/p&gt;&lt;p&gt;本週亚洲市场展现出极其实惠的平稳开局，日本以遇加的公休日迎接「山岳日」假期，因上周日经指数自山峰下跌，引发了全球市场的剧烈震荡。&lt;/p&gt;&lt;p&gt;假使东京市场能全年运作，期货数据显示，日经指数预计能够提升到较400点高差略呈稳定，然而，它仍未能完全回到上週创纪录暴跌下滑前的位置。&lt;/p&gt;&lt;p&gt;多数亚洲股市现处于更为稳固的状态，涨幅以台湾市场领先，指数跳跃达2%，而美国股市期货则持平未动。&lt;/p&gt;&lt;p&gt;美圆汇率正处于147.00日元附近徘徊，日元掉期交易的风潮现似乎已平息，根据上周最新国际间主要货币市场的动态观察，美圆兑日圆净头寸由前任状态的18,400下降至目前的11,354。&lt;/p&gt;&lt;p&gt;美国国债期货亦保持其平稳态势，同时，联邦基金期货体现着九月份有49%的机率可能进行0.5%的利率下调，此乃较上週一度触及的100%下调率有所下降。&lt;/p&gt;&lt;p&gt;联邦官员们在降低内部谈论中的建议时间，联邦储备银行副行长米歇尔·邦在周末时指出，通胀仍然远高于目标水平，不足以期待即时调整行动；但逐步放松政策的观念获得了肯定的表达，预计如若通膨继续减缓，则利率将相对稳定。&lt;/p&gt;&lt;p&gt;美国消费价格数据的公布（预计周三发布），公司将揭示大致的相关信息，年度核心通胀率预计下降1个百分点至3.2%，这将是自从2021年四月以来最低的水平。如果数据呈现更低的指标则无疑将使市场猜测美联储可能缺乏响应时间，以适应市场调整。&lt;/p&gt;&lt;p&gt;市场突变的可能性考虑：7月零售销售可能的结果超过中性预测值0.3%，而可能落在0.0%至0.9%区间内；此等数据将在週四公布。今年週会的沃尔玛与荷墨罗德的压力完全传递给销售市场。&lt;br /&gt;公家对结果的冲动亦会直接反映在市场运动上，因为上次报道中意外急剧下降的周失业索赔数据。&lt;/p&gt;&lt;p&gt;地缘政治方面，中东仍然是燃点屡次的火药桶。内塔尼亚胡防卫部长今日至美国访问，与国防部长李奥许亚丁奥斯特对话，内容据报可能涉及以色列对于伊朗大型袭击事件的准备。例如，据报道美国国防部选择例外地报道了李奥许亚丁奥斯特命令了核驱动的导弹潜艇在番邦部署，以介入中东地区的紧张局势。&lt;/p&gt;&lt;p&gt;MID东市场的关键事件可能于周一演变的方向：&lt;/p&gt;&lt;p&gt;-德意志经济部长罗伯特·哈克思及RWE集团首席执行官马库斯·克里伯特将作出演讲。&lt;/p&gt;&lt;p&gt; &lt;figure&gt;&lt;img alt="德国精选股指数DAX图表起始於法兰克福证交所，日期8月9日，2024年" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JISQ3BQMORIGLNALQFY7SV4DDE.jpg" /&gt; &lt;/figure&gt; &lt;/p&gt;&lt;p&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;德国精选股指数DAX图表起始於法兰克福证交所，日期8月9日，2024年。不动的工作人员／报导。&lt;/i&gt;&lt;/figcaption&gt;</description><pubDate>Mon, 12 Aug 2024 04:34:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/europe/global-markets-view-europe-2024-08-12/</guid></item><item><title>朝中社称，朝鲜领导人重新视察洪水地区，提出将人们带回首都的计划</title><link>https://www.reuters.com/world/asia-pacific/north-korean-leader-revisits-flooded-area-offers-plan-bring-people-capital-kcna-2024-08-09/</link><description>&lt;p&gt;近期，朝鲜领导人金正恩再次巡视中国边界附近的洪水灾区，旨在援助近期暴雨和洪水袭击的民众，其中包括将大约15,400人搬迁至首都，以重建新居，据朝鲜国家通讯社朝鲜中央通讯社（KCNA）周六报道。&lt;/p&gt;&lt;p&gt;金正恩于周四至周五进行了两次访问，深入乌头县等受灾区域，提供额外援助，KCNA对此有所报道。&lt;/p&gt;&lt;p&gt;据报道，朝鲜的城市新义州与乌头县约有数千户家庭因强降雨遭受洪水灾害损害，朝鲜上上周如此声明。&lt;/p&gt;&lt;p&gt;本月下旬，金正恩访问了遭遇洪水的地区，并在紧急救援工作中指导军事部门组织约10架飞机进行逾20次救人行动，于紧急降雨后大约半天救援4,200人，这一刻据朝鲜中央通讯社报道。&lt;/p&gt;&lt;p&gt;据KCNA报道，金正恩提出的具体援助计划，包括为首都平壤的老年人、士兵、儿童和母亲群体提供国家支持，最终可以搬迁约15,400人至平壤。&lt;/p&gt;&lt;p&gt;金正恩指出，根据损害规模，预计至少需要两到三个月才能使灾民恢复正常生活，一旦房屋建设与修复工作完成。&lt;/p&gt;&lt;p&gt;同时，金正恩对提供援助的国家和国际组织表示感谢，但他表示朝鲜将“以自身的力量和努力持续前行”，此表述引自KCNA发布的报道。&lt;/p&gt;&lt;p&gt;周日，KCNA发布官宣俄罗斯总统弗拉基米尔·普京（Vladimir Putin）向朝鲜提供人道主义援助。金正恩对此表示了感谢，并表示若援助需求必要，他将寻求帮助，如此表述引自KCNA。&lt;/p&gt;&lt;p&gt;上周，朝鲜红十字会（Red Cross）声明韩国已准备好提供援助，以应对近期强降雨导致的灾害损害。&lt;/p&gt;
+
 &lt;div&gt;
+&lt;p&gt;正文中配有多张描述朝鲜领导人金正恩访问洪水灾区的照片，这些照片均源自朝鲜中央新闻社（KCNA）发布的相册。&lt;/p&gt;
+&lt;/div&gt;</description><pubDate>Fri, 09 Aug 2024 23:24:45 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/north-korean-leader-revisits-flooded-area-offers-plan-bring-people-capital-kcna-2024-08-09/</guid></item><item><title>壳牌与中石油将扩建澳大利亚苏拉特煤层气项目</title><link>https://www.reuters.com/business/energy/shell-invest-phase-2-surat-gas-project-australia-2024-08-12/</link><description>&lt;p&gt;壳牌公司(SHEL.L)与中石油(601857.SS)现已决定扩大在昆士兰的Surat煤炭层气田项目（SGP），这一动议得到英国石油及天然气巨擘的支持，正值多方呼吁增投本地能源供给之际。&lt;/p&gt;
+&lt;p&gt;此决定显现于行业高层持续推动政府采取举措吸引因多项州府干预措施旨在控压能源价格与增强本地供应而押后投资之举的重大企业意见收集阶段。&lt;/p&gt;
+&lt;p&gt;澳大利亚能源市场监管机构与竞争监察部门亦已向石油和天然气企业提出要加大投资，以在越发紧张的市场当中提高供应。&lt;/p&gt;
+&lt;p&gt;项目第二阶段开发预计每日能新增超过130太焦的能量输出，合资企业箭能公司，由壳牌及中石油共同组建，于单独声明中作此供给提供的言论揭示。&lt;/p&gt;
+&lt;p&gt;项目第一阶段于2020年开始运作，目前早在生产状态。&lt;/p&gt;
+&lt;p&gt;壳牌对于第二阶段的开发成本未能提供预估，但指出在项目最高生产潜力时，预计每天能产出约22,400桶石油等价值原油，预料首部天然气产出将在2026年实现。&lt;/p&gt;
+&lt;p&gt;“正当能源的迫切需索波及家庭、企业与产业的需求洪峰，SGP北发展对箭能作为东海岸重要天然气生产商的地位展现极巨大的稳固作用，”箭能首席执行官彭郑信(Arrow CEO Zhengxin Peng)对其角色进行阐述。&lt;/p&gt;
+&lt;p&gt;箭能于东海岸持有庞大的未开发天然气储存量，本区域当前正面临供给短缺及价格提升的大背景。&lt;/p&gt;
 &lt;figure&gt;
-&lt;div&gt;
-&lt;img alt="一位女性映照在东京一家经纪公司外面的电子股票报价板上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XFJMBZGHJJJCPE7W65LYYTJZBM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一位女性映照在东京一家经纪公司外面的电子股票报价板上，日本时间2024年8月6日。REUTERS/Willy Kurniawan/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/div&gt;
-&lt;/figure&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description><pubDate>Sun, 11 Aug 2024 21:50:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-08-11/</guid></item><item><title>举重：女子81公斤级以上，中国李娜强势表现摘得第二枚金牌</title><link>https://www.reuters.com/sports/olympics/weightlifting-chinas-li-wins-womens-over-81kg-gold-2024-08-11/</link><description>&lt;p&gt;在中国运动员李文文在巴黎冬奥会上以显著的表演赢得了女子81公斤以上级举重项目的金牌，这是她获得的第二个奥林匹克金质奖章。&lt;/p&gt;&lt;p&gt;作为该最重量级女子项目的卫冕金牌得主，她没有接近打破自己创下的世界纪录335公斤，但她的总成绩309公斤足以使她在巴黎博览会击败了所有的竞争选手。&lt;/p&gt;&lt;p&gt;抓举成绩136公斤让她获得了舒适的领先优势，并在第二尝试的挺举173公斤中确保了金牌。&lt;/p&gt;&lt;p&gt;面临在每举起之前都会闷声的大量中国观众团簇的压力，24岁的李文文在最终取得胜利后，将她的矮小教练提升至空中，并在平台上携他绕行庆祝。&lt;/p&gt;&lt;p&gt;“他就像我的父亲。”李文文在接受记者采访时说，“我现在非常高兴，但事实上我还是非常紧张。我去年受了一些重大的伤害，所以我对于它们仍然感到非常压力。”她补充道。&lt;/p&gt;&lt;p&gt;看来这一项金牌将帮助中国自2008年以来首次在奥运会上获金牌榜首位的李文文，在不限量级中表现出色，并在2020东京奥运会上获得87公斤及以上级别的金牌，并且是同一类别的前世界冠军。&lt;/p&gt;&lt;p&gt;韩国运动员朴慧贞以299公斤的总成绩获得了银牌，而英国选手艾米莉·坎贝尔在以288公斤获得铜牌后显然对自己感到非常满意。&lt;/p&gt;&lt;p&gt;“我今天感到非常开心，进行了准备，理了头发，化了妆，一切都做了。”坎贝尔关于昨天花了大约三个小时的准备，与奥运会标志中的环形在后方制成的英国颜色做的发型说道：“关于今天的发型，昨天我们贴上了环形。”&lt;/p&gt;&lt;p&gt;“我希望我为每个人感到骄傲，我希望英国举重得到它应得的声誉。他们一直支持我，在困难时期也是。我很高兴我能够得到一枚奖牌。”她补充道。&lt;/p&gt;&lt;p&gt;女子81公斤以上级举重项目是法国巴黎奥运会上的一项新分类，国际举重联合会（IWF）在东京奥运会后重组了比赛项目。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 12:27:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/weightlifting-chinas-li-wins-womens-over-81kg-gold-2024-08-11/</guid></item><item><title>外交部长表示，中国支持伊朗捍卫安全</title><link>https://www.reuters.com/world/china-supports-iran-defending-security-says-foreign-minister-2024-08-11/</link><description>&lt;p&gt;中国政府支持伊朗捍卫其“主权、安全与国家尊严”，此信息来自于中国外交部于周日发布的声明，据中国外交部报道，这一立场通过中国外交部长王毅与伊朗代理外交部长阿里·巴赫里·卡尼之间的电话交谈得以表达。&lt;/p&gt;
-&lt;p&gt;在上述电话交谈中，王毅重申了北京对于7月31日哈马斯主席伊塞姆·哈尼耶在德黑兰遇刺事件的谴责，该事件被判断为对伊朗主权的侵犯，并威胁着地区的稳定性。&lt;/p&gt;
-&lt;p&gt;伊朗与巴勒斯坦伊斯兰政团哈马斯都指控以色列为遇刺事件的责任方。&lt;/p&gt;
-&lt;p&gt;以色列对于遇刺事件未公开承认或否认责任，这一举措引发了对于以色列与哈马斯在加沙地带的战争是否会演变为中东地区更广泛冲突的担忧。&lt;/p&gt;
-&lt;p&gt;伊朗已经&lt;sup title="path="https://www.reuters.com/world/middle-east/iran-leaders-order-harshly-punish-israel-will-be-carried-out-guards-deputy-chief-2024-08-09/"&gt;宣誓&lt;/sup&gt;将对遇刺事件作出“严厉的惩罚”，向以色列施压。&lt;/p&gt;
-&lt;p&gt;王毅通过电话表示，伊塞姆·哈尼耶的遇刺行为“直接损害了加沙停火谈判过程，破坏了区域的和平与稳定”，据中国外交部所报道。&lt;/p&gt;
-&lt;p&gt;王毅进一步表明，中国支持伊朗在其法律框架内保卫自身主权、安全与国家尊严，并且在维护区域和平与稳定方面保持与伊朗紧密沟通的态度。&lt;/p&gt;
-&lt;p&gt;伊朗总统马苏德·佩索西在周日的声明中提名阿巴斯·阿拉奇为该国新任外交部长，阿拉奇曾自2013年至2021年担任伊朗核谈判的首席代表。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 11:21:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china-supports-iran-defending-security-says-foreign-minister-2024-08-11/</guid></item><item><title>菲律宾称中国空军的行动“非法”、“鲁莽”</title><link>https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/</link><description>&lt;p&gt;菲律宾总统费迪南德·马科斯（Ferdinand Marcos Jr.）在周日的声明中对两国共同宣称的南海的中国空军行动进行了谴责，将其称为“不正当、非法且鲁莽的行为”。&lt;/p&gt;&lt;p&gt;周六，马尼拉与北京互相指责对方扰乱了各自军方围绕黄岩岛的军事运作，这是2022年马科斯上台以来菲律宾首次因为控诉中国的军用飞机采取危险行动，而非海军或海岸警卫队船只而发出的声明。相反，中国则指责菲律宾非法侵入了其空域。&lt;/p&gt;&lt;p&gt;周六的时候，菲律宾军方谴责了中国军方的“危险且挑衅”的行动。两架中国飞机在同一周平常巡逻期间在黄岩岛区域内向菲律宾飞机投掷了照明弹。&lt;/p&gt;&lt;p&gt;针对菲律宾的这一指责，中国军方的南部战区回应说菲律宾扰乱了其军事训练，指控马尼拉“非法入侵”了中国的领空。&lt;/p&gt;&lt;p&gt;在周日，马科斯呼吁中国在领海与领空领域都应负起责任。&lt;/p&gt;&lt;p&gt;"我们刚刚刚开始寻求平静的水域，就已经令人担忧航空空间可能会出现不稳定状况。" 马科斯在菲律宾通讯办公室在社交平台X上发布的一份声明中说。&lt;/p&gt;&lt;p&gt;截至周日，中国马尼拉大使馆尚未对这一情况作出直接回应。&lt;/p&gt;&lt;p&gt;黄岩岛是亚洲最为争议的海域之一，也是围绕主权与渔业权利争端的热点。&lt;/p&gt;&lt;p&gt;来自马尼拉的智库“国际发展与安全合作基金会”总裁赫谢尔·卡巴尔扎（Chester Cabalza）表示，中国的行动是针对马尼拉参与多国联合演习的“示范性力量展示”，这些演习旨在推广航行与空中飞行的自由。&lt;/p&gt;&lt;p&gt;“如果中国继续在菲律宾的空防领域加剧挑衅行为，我们可能会看到天空中的对抗，就像海上一系列灰色地带战术之后可能发生的那样。”卡巴尔扎说。&lt;/p&gt;&lt;p&gt;中国声称几乎整个南海海域，包括菲律宾、越南、印度尼西亚、马来西亚与文莱等国的部分遭其宣称。&lt;/p&gt;&lt;p&gt;中国否认了2016年海牙常设仲裁法院的判决，该判决认定中国在南海的广泛主张违反了国际法。&lt;/p&gt;
+  &lt;img
+    alt="一张图片描绘了伦敦东南部一座壳牌加油站的LOGO"
+    src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OIN7G5FBIFLZNB2D5FYDOU5VHU.jpg"
+  /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      这张图片展示了位于英国伦敦东南部一家壳牌加油站的LOGO，拍摄日期为2023年2月2日。来源：REUTERS/May James/档案照片
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 00:00:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/shell-invest-phase-2-surat-gas-project-australia-2024-08-12/</guid></item><item><title>亚洲足球周</title><link>https://www.reuters.com/sports/soccer/week-asian-football-2024-08-12/</link><description>&lt;p&gt;本周亚洲足球的要点汇集如下：&lt;/p&gt;&lt;p&gt;吴雷在对阵梅州市客家的中超联赛中独中四元，延续了他在火力端的惊艳状态，帮助上海港口队7比2横扫对手，继续以五分的优势领跑上海同城德比的对手上海申花。&lt;/p&gt;&lt;p&gt;吴雷的进球使他在本赛季23场比赛中的进球总数达到了28个，比队友古斯塔沃多出9球，当前进球榜上以九球的优势位居榜首，古斯塔沃则位列第二，双方在对阵梅州市客家的比赛中均有入球。&lt;/p&gt;&lt;p&gt;上周末，在面对北京国安时遭遇赛季首败后，上海申花团队在对阵南通宙云的比赛中以5比1逆转取胜，安德鲁·路易斯贡献了两个进球。&lt;/p&gt;&lt;p&gt;在周六教练岗位更换后首次上阵的金范国，带领韩国职业联赛卫冕冠军蔚山现代以1比0击败大邱FC，这是球队在本月初主教练更迭后的首场胜利。&lt;/p&gt;&lt;p&gt;在决赛中取得胜利，并让金范国成为首秀赢球的教练后，蔚山从李基龙教练接手以来连续两场的失利中恢复了过来，以战胜败队晋升至联赛第三，此时领先新上位的领头羊钢围足球队仅两分。&lt;/p&gt;&lt;p&gt;昨晚的比赛中，尽管面对在主场以1比0不敌神奈川 ExecutionContext的横山起氛围，日本的马樸别墅队仍凭借积分的盈利保持着榜首的位置，并使联赛第二名的鞆城联队在对阵友利比W竞赛时以2比1落败。&lt;/p&gt;&lt;p&gt;上周，上半场因为赫洛纳的梅开二度，浜田泽维亚在与神奈川洲际之间的比赛中刚刚从主场曝出1比0落败的意外中恢复正常，并且留下了落后Glinho伊瓦塔2比1以及ário大阪的两个进球，才得以将比分反超并缩小在新宣布的首位冠军大坪利野摩尔前两位积分的差距。&lt;/p&gt;&lt;p&gt;在周二在伊斯法罕举行的季后赛中打入四比一的加时赛胜利后，阿联酋的沙巴阿希尔队将面临下周与卡塔尔加尔法的争夺亚洲冠军联赛精英系列最后一席位的战争。&lt;/p&gt;</description><pubDate>Mon, 12 Aug 2024 02:21:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/soccer/week-asian-football-2024-08-12/</guid></item><item><title>香港法院推迟中国佳兆业集团清算听证会</title><link>https://www.reuters.com/markets/asia/chinas-kaisa-group-liquidation-hearing-adjourned-by-hong-kong-court-2024-08-12/</link><description>&lt;p&gt;本周一，香港法庭延期聆讯，针对要求清算凯撒集团(Kaisa Group, 1638.HK)的请愿案，初步定于九月九日审理，以此给予这家深陷困境中的中国开发商更多时间，以与某些债券持有者就其债务重组计划达成协议。&lt;/p&gt;
+&lt;p&gt;位于深圳的开发商在过去两年内，一直在努力调整其规模达120亿美元的离岸债务，直到2021年末的违约事件发生。&lt;/p&gt;
+&lt;p&gt;凯撒集团资深顾问LL Tam在法庭外表示，公司正在着手最终完成与债券持有者之间的重组协议文件，他们期望此项安排在不到一个月内即能完成。&lt;/p&gt;
+&lt;p&gt;公理银行国际，作为大规模债券持有者团的委托人，自三月起开始担任请愿人角色，此前一名请愿人撤回请求。在香港法庭周一的延期请求中，该请愿人并无反对意见。&lt;/p&gt;
+&lt;p&gt;法庭审理的事务涉及2023年未支付本金高达7.5亿美元的债券问题。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="凯撒集团标志位于上海市凯撒金融中心” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UG67QX2X7FM5TN6IHLCESGYKY4.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2021年12月7日，中国政府的上海市凯撒金融中心，凯撒集团的标志位于此。《路透社》/Aly Song摄影&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 12 Aug 2024 01:49:26 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-kaisa-group-liquidation-hearing-adjourned-by-hong-kong-court-2024-08-12/</guid></item><item><title>早盘买盘：波动性冲击消退，印度 CPI 回升</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-08-11/</link><description>&lt;blockquote&gt;
+&lt;h2&gt;审视明日亚洲市场的前景&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+在政治生涯中度过一周如同经历漫长的时期。在距此一周前，巨额的“日元延付款交易”大幅撤退与美国大型科技公司的售卖，引发了全球市场动荡，令投资者纷纷避险，避至美国国债的怀抱。
+&lt;/p&gt;
+
+&lt;p&gt;
+周一在亚洲重启交易时，那些以往记忆已似乎渐行渐远——多数资产已从这些损失中大幅回暖，市场波动性减弱，交易者对于利率削减的预期大幅减少。
+&lt;/p&gt;
+
+&lt;p&gt;
+当前的关键问题在于这种势头能否得到保持。部分投资者将抓住较低的股市波动，再次试图提振高风险资产；而另一部分投资者则对市场任何角落可能出现的余震保持警惕，尤其是在每年颇具特色的八月中旬流动性较弱时期。
+&lt;/p&gt;
+
+&lt;p&gt;
+周一亚洲市场的日程相对轻松，印度消费者价格是主要重点关注的事件，但市场前景竟取决于全球整体的经济态势。
+&lt;/p&gt;
+
+&lt;p&gt;
+若如此，周一市场应相对平稳。美国股市在周五上扬，纳斯达克和标普 500 指数在上周的交易结束时基本平稳。美国政府债券的收益率在周五有所下跌，但录得数月来最大的单周涨幅。
+&lt;/p&gt;
+
+&lt;p&gt;
+美国经济数据强劲，加剧了人们对衰退的担忧，同时，美国国债拍卖表现不佳，推动了收益率升高。某种程度上，或许这种做法若能有所帮助，尤其是考虑到过去一周收益率下降的幅度过激。
+&lt;/p&gt;
+
+&lt;p&gt;
+上周亚洲市场的反弹堪称惊世骇俗：日经指数在经过两天创下记录内第二大跌幅后，在24小时内再次创下历来第三大上涨幅度，最终记录损失2.5%。
+&lt;/p&gt;
+
+&lt;p&gt;
+基准指数表现更为优异——除日本以外的亚洲 MSCI 指数与全球指数 MSCI 500，两者上周交易收盘均持平；而新兴市场指数 MSCI 却上涨了 0.2%。
+&lt;/p&gt;
+
+&lt;p&gt;
+在货币领域，周五美国期货市场的数据显示，对冲基金在上周至8月6日期间削减其日元净空头头寸 6.2万份合约，这是自2011年福岛灾难以来最大的日元多头交易周变动；且是自1986年开始追踪数据以来的第三次最大变动。
+&lt;/p&gt;
+
+&lt;p&gt;
+如若这一状况更具广泛代表性于外汇市场，长线的日元“融资交易”已基本被市场吸收并淡化。那么贸易战者会重新涌入日元市场，而投注其再升值，还是会彻底放弃？
+&lt;/p&gt;
+
+&lt;p&gt;
+印度的利率决定、工业产出数据（6月）以及德国批发价格（7月）都为周一亚洲市场提供指引，成为关键词。
+&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img alt="菲律宾总统马科斯发表第三次全国国情咨文演讲" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XL3NE6QAU5KCRIHYK5V3LXKDYA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-      &lt;i&gt;2024年7月22日，菲律宾首都马尼拉区，菲律宾总统费迪南德·马科斯 Jr.在国会发表其第三次国家国情咨文演讲。ective David/File Photo&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 11 Aug 2024 06:39:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/</guid></item><item><title>迪士尼推出《阿凡达》、《夺宝奇兵》、《魔幻奇幻》和《怪兽电力公司》景点</title><link>https://www.reuters.com/business/disney-expected-announce-plans-its-theme-parks-2024-08-10/</link><description>&lt;p&gt;华特迪士尼公司(disney.DIS.N)执行主席乔许达莫罗于周六在迪士尼粉丝会议上详细阐述了该公司主题公园的宏大增长规划。计划内包含了四艘新的游轮构建以及六个新主题区域的细节。&lt;/p&gt;&lt;p&gt;后续实施方案中预计，在佛罗里达奥兰多的沃尔特迪士尼世界魔法王国增设一个新电影反派主题区域。主题为“复仇者联盟”的加州冒险公园阿纳海姆面积将扩大一倍。迪士尼也会在与Epic 游戏的合作伙伴关系框架内探讨相关细节。&lt;/p&gt;&lt;p&gt;达莫罗提出，“现在是公司发展中前所未有的增长时期。”&lt;/p&gt;&lt;p&gt;在加州冒险的主题为漫威的复仇者基地里即将新增两处游引：《无限防御的复仇者们》和《斯坦飞行实验室》。&lt;/p&gt;&lt;p&gt;加州冒险部足将再增一个《阿凡达》体验区，以科普电影第二部“勇士之水”为背景。&lt;/p&gt;&lt;p&gt;为了庆祝即将到来的安纳海姆迪士尼乐园的70周年，将开启一场基于华特迪士尼的生平打造的灯光动态图动画剧中包含公司创始人实体的人物形象。&lt;/p&gt;&lt;p&gt;迪士尼还公布了未来两年对佛罗里达前进王国部分新热带美洲展朇的两个市集，包含一 Decoder 寻找玛雅神庙的Indiana Jones探险区，以及迪士尼动画电影“Encanto”的影片主角安托尼奥获得魔法礼物之日的新情节的戏剧性表演区。&lt;/p&gt;&lt;p&gt;演员比利·克里斯提在的Pixar电影”幽靈出没”设定的迪士尼的好莱坞主题活动区，设计了一个模拟在懒惰工厂出口处展飞表演，重现影片主角迈克和苏利向观众呈现出这种真实感。&lt;/p&gt;&lt;p&gt;迪士尼的流行汽车系列电影改编的前路主题区域，即将对佛罗里达拉斯雷吉镇的佛兰特兰进行重新改绘，包括两个新增景点，一个将各位游客带至电影虚构的山脉之外的荒野中的丛林速度冒险，另一个设计为迪士尼+系列“芒戴洛人”关于星球大战宇宙中的孤独赏金猎人的新体验。&lt;/p&gt;&lt;p&gt;在华特迪士尼乐园中，受观众反应热烈的一点是，达莫罗声明，迪士尼将建立一个全新开辟的特区以聚焦电视剧《女巫的故事》，包含两个景点，餐饮及购物区，致力于打造观众对剧中反派角色的深度认识。&lt;/p&gt;&lt;p&gt;以上这些宣布反映了公司在未来十年间即将启动600亿美元资本投资计划，投资大幅增长，以提升其在全球名下的十二座主题公园的设施，并增强游轮服务。&lt;/p&gt;&lt;p&gt;迪士尼随此次宣布计划增加四艘海洋游轮，是为了充分利用旅游行业在全球大流行病的期间复苏的时机而做出的战略部署。&lt;/p&gt;&lt;p&gt;该公司当前拥有五艘船舶在运营，此前宣布再向四艘“日本东京”“新加坡”游轮投资，并照此计划在2027年至2031年间完成新建船只的启用。&lt;/p&gt;&lt;p&gt;达莫罗与游戏设计行业的领先者共同亮相，讨论迪士尼和Epic公司的合作关系。迪士尼公司在今年对Epic进行了15亿美元的投资，借此获取了Epic游戏的核心产品——“堡垒之夜”和“虚幻引擎”权益。&lt;/p&gt;&lt;p&gt;迪士尼宣布了未来在线游戏的新角色与故事，包括《女巫的故事》动画以及动画电影《不可思议的巨头》以及 Disney+系列“超级大猎手”等游戏内容。&lt;/p&gt;&lt;p&gt;虽然华特迪士尼公司的娱乐体验相像于主题公园、游轮和消费品构成的部门仍有持续推动市场增长的能力，如电视业务的一些传统挑战和泛视频流媒体业务出现亏损等问题。然而,最近的营业利润中，拥有迪士尼娱乐体验的部门贡献了其60%的收入，这一比例相比十年前增长了30%。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 19:46:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/disney-expected-announce-plans-its-theme-parks-2024-08-10/</guid></item><item><title>花样游泳：中国队领先英国、荷兰夺得双人双人项目金牌</title><link>https://www.reuters.com/sports/olympics/artistic-swimming-china-win-first-gold-duet-event-2024-08-10/</link><description>&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W6A63WP2LZMZFFWIBN2T3IHRGM.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
-&lt;figcaption style="text-align: center; font-size: small;"&gt;
-&lt;i&gt;
-在巴黎奥运会上的水立方中心，来自中国的王氏双胞胎团队在艺术游泳双人技术项目中取得了第一枚金牌，以仅仅微小的九点五分优势，力压三对争夺冠军的姐妹团队。
-&lt;/i&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X2HICB7JVFMINPZRIIYJGVRAN4.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
-&lt;figcaption style="text-align: center; font-size: small;"&gt;
-&lt;i&gt;
-随后在中国的团队艺术游泳项目中，她们在周三成功卫冕。悠久的艺术游泳传统中，俄罗斯曾长期冠领金牌榜首，但如今由于其涉足乌克兰一事，已不在巴黎奥运身。
-&lt;/i&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MIYOOLUKPZOJRDTG26QPK5KTCY.jpg" alt="Artistic Swimming - Duet Victory Ceremony" /&gt;
-&lt;figcaption style="text-align: center; font-size: small;"&gt;
-&lt;i&gt;
-来自荷兰的德·布鲁威姐妹展现出了团队精神，她们在竞赛中虽有胜利，也同时意识到，两名选手结盟便是最坚实的支持。与其它如来自英国的喀特·肖特曼与伊莎贝尔·索普一样，她们同样渴望通过团队表现，激发国内更多年轻追梦人步入艺术游泳的殿堂。
-&lt;/i&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ANQHXRKJWNKYNGWEW4QDA22RHI.jpg" alt="Artistic Swimming - Duet Victory Ceremony" /&gt;
-&lt;figcaption style="text-align: center; font-size: small;"&gt;
-&lt;i&gt;
-冠军团队中国王礼一与王前伊在奖台之上，紧紧拥抱着彼此，也见证了彼此的成功。中国国旗在她们身旁飘扬，表彰了这些东方明珠所获得的荣誉。
-&lt;/i&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MCJWXUHVZFPX5GK7YK3WMZBATU.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
-&lt;figcaption style="text-align: center; font-size: small;"&gt;
-&lt;i&gt;
-在巴黎奥运会艺术游泳的自由泳项目中，来自中国的王礼一与王前伊身着华丽泳装，一跃下水，恰好模拟了那精彩的“凤凰涅槃”主题。两人默契的执行与漂亮的现场表现，赢得了奖牌的肯定。
-&lt;/i&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 19:23:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/artistic-swimming-china-win-first-gold-duet-event-2024-08-10/</guid></item><item><title>乒乓球：中国队女团全胜</title><link>https://www.reuters.com/sports/olympics/table-tennis-chinas-women-win-team-gold-japan-take-silver-2024-08-10/</link><description>&lt;p&gt;在周六于巴黎举行的奥林匹克女子团体赛中，中国延续了其在乒乓球领域的统治地位，实现了全项目的金牌包揽，此番胜果定格了他们在运动项目中的辉煌和荣耀，此前在东京的遗憾失落不再。&lt;/p&gt;&lt;p&gt;自从1988年乒乓球被列为夏季奥运会项目以来，中国已经赢得了42块金牌中的37块。&lt;/p&gt;&lt;p&gt;东京奥运会乒乓球决赛的复刻场面再次在巴黎展开，中国与日本对战，并最终以3-0取得胜果。此次对战相较东京更加激烈，见证了中国乒乓球选手的强大恢复能力。&lt;/p&gt;&lt;p&gt;尽管结果可见，巴黎站的胜利显得尤为来之不易。中国选手陈梦和王曼昱从首战伊始即面临巨大挑战，他们以微弱优势输给了日本组合平野美宇和木原美悠。随后发扬中国乒乓球传统，激战三局并最终逆转局势，闯入决胜局。&lt;/p&gt;&lt;p&gt;日本组合凭借比赛伊始的9-5领先优势，一度占据上风，但陈梦和王曼昱迅速调整了战术，并在10-10的紧要关头完成了逆转。&lt;/p&gt;&lt;p&gt;因手腕伤势影响单打半决赛选手平野美宇表示，她无法尽展全力表现出最佳状态。&lt;/p&gt;&lt;p&gt;在这场令人感动的胜利后，王曼宇深受触动，赛后眼角湿润。陈梦解释这场比赛对二人来说十分艰难，“那种艰难，只有身在球场上的我们能充分感受到。但我们坚信，无论多么艰难，我们都能相互信任。”
-
-王一芝在对阵日本选手石川佳纯的第一局战斗中同样表现出非凡的斗志。石川在某一时刻以7-1领先，但世界第一的中国选手王一芝不顾巨大比分差距，迅速实现逆转至11-11，并最终以13-11的分数取得首局胜利，并以3-0总比分取得了整场比赛的胜利。
-
-在之后的挑战中，来自日本的木原美悠面对王曼昱，赢得首局后采取精确回弹阻止中国队晋级，但最后三局几乎失去了她全部的攻势。
-
-取得胜利之后，中国乒乓球队拿下了在巴黎提供的所有五块金牌——囊括男女单打、混合双打以及男女团体赛。此前，在东京他们错失混合金牌。
-
-早些时候，在韩国队的沈玉斌、金艺慧、李闰混分别击败德国队，获得铜牌后，总计获得了本届奥运会乒乓球项目的第三块奖牌，成功回归领奖台，中间隔了六年的期待。&lt;/p&gt;
-
-&lt;!-- 图片 --&gt;
-&lt;figure&gt;
-    &lt;img alt="Table Tennis - Women's Team Gold Medal Team Match" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DFW5AUTT65OHBFDPKEF72YA32U.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会——乒乓球——女子团体金牌组比赛——南巴黎体育场4，巴黎，法国 - 2024年8月10日 中国队陈梦、王曼宇、孙颖莎和教练在与日本队的比赛结束后庆祝胜利。
-    &lt;i&gt;REUTERS/Kim Hong-Ji&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="Table Tennis - Women's Team Gold Medal Team Match" src="https://cloudfront-us-east-2.images.arcp publishing.com/reuters/VTLLIX52VBPHXBIKSVX4QZZOSA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会——乒乓球——女子团体金牌组比赛——南巴黎体育场4，巴黎，法国 - 2024年8月10日 王曼宇在与中国队的惊艳表现中的对垒日本选手。
-    &lt;i&gt;REUTERS/Kim Hong-Ji&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="Table Tennis - Women's Team Gold Medal Team Match" src="https://cloudfront-us-east-2.images.arcp publishing.com/reuters/VOCIXX5DA FPUDIWOLSUPMWDCZI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会——乒乓球——女子团体金牌组比赛——南巴黎体育场4，巴黎，法国 - 2024年8月10日 日本选手木原美悠与中国对手王曼宇间的激烈对决。
-    &lt;i&gt;REUTERS/Kim Hong-Ji&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="Table Tennis - Women's Team Gold Medal Team Match" src="https://cloudfront-us-east-2.images.arcp publishing.com/reuters/2H7KB2FVEZNULPDOV7TJ37RZ3A.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会——乒乓球——女子团体金牌组比赛——南巴黎体育场4，巴黎，法国 - 2024年8月10日。中国选手小将孙颖莎与日本选手的精彩对决。
-    &lt;i&gt;REUTERS/Kim Hong-Ji&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="Table Tennis - Women's Team Gold Medal Team Match" src="https://cloudfront-us-east-2.images.arcp publishing.com/reuters/XHKCSBKB 5JNC VBLSSEW743 TFHM.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会——乒乓球——女子团体金牌组比赛——南巴黎体育场4，巴黎，法国 - 2024年8月10日 日本选手木原美悠与平野美宇与中国选手陈梦、王曼宇间的激烈对决。
-    &lt;i&gt;REUTERS/Kim Hong-Ji&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 15:33:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/table-tennis-chinas-women-win-team-gold-japan-take-silver-2024-08-10/</guid></item><item><title>跳水：曹勇夺得男子10m跳台冠军 完成中国金包揽</title><link>https://www.reuters.com/sports/olympics/diving-chinas-cao-yuan-wins-mens-10-metre-platform-gold-2024-08-10/</link><description>&lt;p&gt;曹远于周六在巴黎奥运会上，以其顶尖的表现赢得了男子10米高台跳水赛事冠军，自此中国成为历史上首个在单一奥运会上包揽所有潜水项目金牌的国家。&lt;/p&gt;&lt;p&gt;日本选手瑞许藤川荣获银牌，为日本赢得有史以来首枚奥运跳水奖牌。英国选手诺亚威廉姆斯以铜牌最终落下名次，荣获了第三名。时至29岁的第四次是韩国奥运跳跃员，成功捍卫了他在以往的赛程中所拥有的荣誉。&lt;/p&gt;&lt;p&gt;尽管在今天与17岁的腾迈竞争中受到了一定的挑战，但老将曹远仍然发挥出色，通过96.90分、平均评分获各自9.5分的犀利表现，确立了与腾迈在决赛中的巨大优势，最终以总分547.50点落幕。&lt;/p&gt;&lt;p&gt;在目睹了首枚日本奥运跳水奖牌的诞生之后，腾迈对结果的表述显得既欣慰又自责：“我确实意识到了这是一项重大成就。同时我感到非常紧张，甚至有些忐忑不安，压力和紧张导致了我在第三轮中的失误。”&lt;/p&gt;&lt;p&gt;在经过数轮的精进与调整，威廉姆斯以第三名再次赢得了奥运奖牌。对此，他坦然地表示：“尽管其中有一跳失误，但我觉得自己在竞技场中的发挥还算不错，这场胜利让我信心倍增。”&lt;/p&gt;&lt;p&gt;至今，曹远已经在四届奥运会上荣获金牌。这次在巴黎的胜利，让他在中国无人能敌地连续在所有比赛中胜出，成为中国史无前例的杰出运动员一项新的赢家。&lt;/p&gt;&lt;p&gt;除了在东京的单项决赛中成为赢家之外，他在2012年伦敦赛会中的同步跳水10米板中获得传奇荣誉，以及在2016年里约热内卢赛会中的3米架高板单独赛中再次夺得金牌。&lt;/p&gt;&lt;p&gt;“我深感自豪，每次参加奥运会都能获胜。每次夺冠是对我工作成就的极大荣耀。”曹远如此述说着。&lt;/p&gt;&lt;p&gt;曹远在东京所获奖牌中还包括了同步跳水10米装置的银牌和同步3米跳板的铜牌。中国世界冠军杨浩，在半决赛中位居第二，决赛中却连连失误，最终位列最后。&lt;/p&gt; &lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LP3RB4PE6BORLPURB4RNCYTJSI.jpg" alt="Diving - Men's 10m Platform Final" title="巴黎2024奥运会 - 潜水 - 10米高台决赛 - 圣丹尼斯水上中心，法国 - 8月10日。中国选手曹远在比赛中展现。”&gt;&lt;figcaption style="text-align: center;"&gt;“巴黎2024奥运会 - 潜水 - 10米高台决赛 - 圣丹尼斯水上中心，法国 - 8月10日。中国选手曹远在比赛中展示。 ”&lt;i&gt;氏Reuters/Leah Millis&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 14:29:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/diving-chinas-cao-yuan-wins-mens-10-metre-platform-gold-2024-08-10/</guid></item><item><title>艺术体操：中国队夺得团体全能金牌</title><link>https://www.reuters.com/sports/olympics/rhythmic-gymnastics-china-win-group-all-around-gold-2024-08-10/</link><description>&lt;div&gt;
-&lt;p&gt;在长达数十年的比赛中，主导体操艺术团体全能赛的一直是东欧国家，尤其是俄罗斯、白俄罗斯和乌克兰。周六，中国赢得了巴黎2024年奥运会体操艺术团体全能赛的金牌。&lt;/p&gt;
-&lt;p&gt;以以色列（银牌）和意大利（铜牌）为受奖者，赛事在Port de La Chapelle竞技场上展开。这次事件标志着，自从1984年洛杉矶奥运会以来，前苏联国家首次未能占据领奖台。&lt;/p&gt;
-&lt;p&gt;中国以总分69.800分，自比赛初期便领先，凭借36.950分的圈操得分，运动员身穿亮丽的黑色和金色连体服与头饰，以几乎完美的同步动作，完成了难度极大的跳跃和翻滚。&lt;/p&gt;
-&lt;p&gt;中国团队以中国弦乐作为进行花束和球类项目的开场，其中一个场景特别引人注目，他们仿佛在演奏中国古乐器瑟，紧握三个花束，使观众仿佛听到了瑟的声音。&lt;/p&gt;
-&lt;p&gt;经过两分半令人目不转睛的时间，他们完成了旋转、杂技与快速翻转会动作，获得了32.850的分数。&lt;/p&gt;
-&lt;p&gt;“我们想向展示中国文化，”孙丹说，“我们为这一刻等待了很久。”&lt;/p&gt;
-&lt;p&gt;中国的金牌，使得其奥运会金牌总数超过美国，首次在艺术体操项目夺冠。&lt;/p&gt;
-&lt;p&gt;“我很高兴知道我们赢得的金牌数最多，”孙丹补充说。&lt;/p&gt;
-&lt;p&gt;这是以色列首次获得艺术体操团体全能奖杯。在东京奥运会上，林奥·阿什拉姆（Linoy Ashram）创造了历史，她赢得了以色列的第一个奖牌，并在全能项目中获得了金牌。&lt;/p&gt;
-&lt;p&gt;意大利女子身着熠熠闪光、色彩斑斓的黑色、蓝色和绿色连衣裙，头高高抬起，与队伍同步踏出平台，在-&lt;/p&gt;
-&lt;/div&gt;</description><pubDate>Sat, 10 Aug 2024 14:11:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/rhythmic-gymnastics-china-win-group-all-around-gold-2024-08-10/</guid></item><item><title>独家：马恒达寻求批准在陕西成立 30 亿美元合资企业</title><link>https://www.reuters.com/business/autos-transportation/indias-mahindra-seeks-nod-3-bln-shaanxi-jv-sources-say-2024-08-09/</link><description>&lt;p&gt;
-印度汽车制造商马恒达与马多元化集团（&lt;a href="https://www.reuters.com/markets/companies/MAHM.NS" target="_blank"&gt;印度股市代码：MAHM.NS&lt;/a&gt;）与中国的陕西省汽车集团共同决定，设立一家价值30亿美元的合作企业，在印度共建一座汽车制造厂，并正待印度资本实现了总理莫迪家乡古吉拉特邦的审批。&lt;/p&gt;
-&lt;p&gt;
-其中，根据知情细节，预期的制造企业中的股权多部分归属马恒达，两位熟悉内情的来源告诉路透社，且该企业规划布局在莫迪总理家乡所在的古吉拉特邦。&lt;/p&gt;
-&lt;p&gt;
-在相关新闻刊载后，马恒达公司向证券交易所发出了声明：“该报道无事实根据，文中所述内容不尽属实。”&lt;/p&gt;
-&lt;p&gt;
-马恒达股份周五在孟买股票交易所上涨3.1%高点后最终收于2,749.15印度卢比，上涨了总值的2.5%。&lt;/p&gt;
-&lt;p&gt;
-提案中，计划构建一个以出口为导向、综合车辆及其发动机与电池的装配制造基地，来自相关渠道的资讯显示。&lt;/p&gt;
-&lt;p&gt;
-马恒达已向当局申请对中国投资的审批，相关指出表明。&lt;/p&gt;
-&lt;p&gt;
-陕西省公司网站上的联系电话未能得到回复，印度商工部、重工业部与外交部对此未予立即回应，而相关渠道人士则拒绝自身出面，因为根据政策规定不得公开接受媒体采访。&lt;/p&gt;
-&lt;p&gt;
-自2020年开始，鉴于中印边境冲突的背景，任何中国投资进入印度都需经过新德里政府的必要审批。&lt;/p&gt;
-&lt;p&gt;
-数以十亿美元计的投入近年来因额外审查流程而被拖延甚至是取消，涉及比亚迪公司（&lt;a href="https://www.reuters.com/markets/companies/002594.SZ" target="_blank"&gt;深圳证券交易所股价代码：002594.SZ&lt;/a&gt;）、长城汽车集团（&lt;a href="https://www.reuters.com/markets/companies/601633.SS" target="_blank"&gt;上海证券交易所股价代码：601633.SS&lt;/a&gt;）以及上汽集团MG汽车的潜在投资。&lt;/p&gt;
-&lt;p&gt;
-去年中，由比亚迪公司提出的价值10亿美元的提案因涉及安保问题而遭到政府的延迟审批。&lt;/p&gt;
-&lt;p&gt;
-此一投资提案正值印度积极简化对中国投资框架，主要聚焦于如太阳能板与电池制造此类非敏感领域产业的新递增政策，鉴于新德里在相关领域涉足有限。&lt;/p&gt;
-&lt;p&gt;
-印度高层政治官员认识到调整相关针对中国投资的立场，以迎合下降的对外投资额趋势，而印度财政部长尼尔马拉·西塔拉曼最近一次指明她对首席经济顾问瓦纳塔·纳格亚瓦纳偏好中国直接投资的观点持支持态度。&lt;/p&gt;
-&lt;p&gt;
-最近，纳格亚瓦纳表示印度可以吸引来自中国的外资直接投资，以此促进印度出口。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P6JSOLMQ7NLXRFPL3CLZANFAGE.jpg" alt="一名男子站在新德里市中心，身后是大幅显示马恒达Logo的电子屏幕。这是路透社摄影师安努希·法登维斯于2024年2月1日拍摄的照片。” /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-- &lt;i&gt;照片拍摄于印度首都新德里，时间是2024年2月1日。照片由路透社的安努希·法登维斯拍摄。&lt;/i&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XFJMBZGHJJJCPE7W65LYYTJZBM.jpg" alt="日本东京一个证券办事处外的电子股价显示屏反射出一位女性身影" /&gt;
+&lt;figcaption style="text-align: center;" &gt;
+&lt;i&gt;2024年8月6日，日本东京，一个证券办事处外的电子股价显示屏反射出一位女性的身影。/作者摄的/路透社照片&lt;/i&gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 09 Aug 2024 09:39:09 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/indias-mahindra-seeks-nod-3-bln-shaanxi-jv-sources-say-2024-08-09/</guid></item><item><title>举重：中国选手刘翔夺得男子102公斤级金牌</title><link>https://www.reuters.com/sports/olympics/weightlifting-chinas-liu-claims-mens-102kg-category-gold-2024-08-10/</link><description>中国的世界冠军刘欢华在周六巴黎举行的精彩赛事中，以总重量406公斤的成绩赢得102公斤级举重冠军。
+&lt;/figure&gt;</description><pubDate>Sun, 11 Aug 2024 21:50:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-08-11/</guid></item><item><title>举重：女子81公斤级以上，中国李娜强势表现摘得第二枚金牌</title><link>https://www.reuters.com/sports/olympics/weightlifting-chinas-li-wins-womens-over-81kg-gold-2024-08-11/</link><description>&lt;p&gt;
+    于法国巴黎举行的巴黎奥运会上，中国选手李文文（音）成功摘得女子81公斤以上量级举重项目的金牌，这是她赢得的第二枚奥运金牌，展现了极其压倒性的实力，从而荣膺该赛事的冠军。
+&lt;/p&gt;
+&lt;p&gt;
+    掌握邓小运动员争夺本硕座最重成分级别冠军的仍旧是上一届奥运金牌得主，尽管其并未接近打破目前所持的世界纪录335千克，但其总成绩309千克已经足以确保她夺得金牌，遥遥领先其余参赛选手，处于赛场之巅。
+&lt;/p&gt;
+&lt;p&gt;
+    挑选136千克进行抓举，为她赢得了一个稳固的领位置，她在第二次尝试上，以173公斤的成绩锁定站操为完成，举擎着，更为充盈地表达了自己的成就与喜悦。
+&lt;/p&gt;
+&lt;p&gt;
+    对于每次起举前在人群中罕敢只同见的的“嘘声”，站站在24岁的李文文表达了满满沉甸的感谢：“他就像是我的父亲，”回谈及，“如今我非常开心，但那种紧张感仍一直伴我左右。毕竟，人民币年我曾遭受重重伤，至今我仍对此深感压力与忧虑。” 
+&lt;/p&gt;
+&lt;p&gt;
+    在法国巴黎久创大赛的成功助力下，中国旗下下金银牌之至望已望实及实兑现，累计为中国起初选手力写辉煌霸业。其在超量级赛事中屡试锋芒，在东京奥运会上摘取了同一87公斤量级的桂冠，同时也曾荣膺世界冠军，实力非凡。
+&lt;/p&gt;
+&lt;p&gt;
+    本赛事中，韩国选手朴慧贞（音）凭借总成绩299千克收获银牌，而此次展示英武的英国选手埃米莉·坎贝尔（音）以个人举重成绩288千克勇夺铜牌，显得分外喜悦十分。
+&lt;/p&gt;
+&lt;p&gt;
+    “我为准备那一天做了许多，享受了烫发、化妆，整个过程都兴趣盎然。昨天花了一整天的时间专门整理并装饰，今日归来带来奥运五环环绕我”。坎贝尔对于背后的英国元素和奥林匹克大大小小的元素兴奋地分享，“我希冀能让大家对自己和英国举重的既有成绩与潜在价值深感自豪、认可，比赛中当每当再起落我拥有他们全情支持，因此我内心充盈着满足。”
+&lt;/p&gt;
+&lt;p&gt;
+  相较于东京奥运会程的调整，巴黎奥运会对举重项目进行了较大的修改与革新，将其纳入“81公斤以上量级女子组比赛”的新赛事体系内，以此响应和贯彻国际举重联盟（IWF）进行比赛项目协调与优化的工作理念与精神。
+&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="巴黎奥运-女子81公斤以上级别举重-颁奖仪式" height="auto" loading="lazy" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LX5PE3T6HRMBPDHRZ5SKJTLYAI.jpg"/&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;巴黎2024奥运会-巴黎，法国南巴黎体育场6号，2024年8月11日。中国队选手文文李（音）在的庆祝仪式中首次体验奥运奖牌之光。南韩国选手慧贞朴（音）在金银铜牌奖牌中收获第二名（银）；英国选手埃米莉·坎贝尔（音）获得铜牌（第三名），具体内容和细节可见同年同月同日同地的另外多张图片详情。REUTERS/isa贝尔
+    &lt;/i&gt;&lt;figure&gt;&lt;/i&gt;总成绩299KG
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-在抓举部分展现了令人印象深刻的186公斤成绩，但亚美尼亚选手加里克·卡帕彼得安在第三次尝试中匹配了该成绩，给中国选手带来了一定的压力。
-
-但22岁的刘欢华在首次举起时表现强大，成功完成清举举起220公斤。随后他尝试了了额外的8公斤，但由于手臂伸展错误而被视为无效。
-
-刘欢华试图打破他在马来西亚普吉岛四月的世界锦标赛时设定的413公斤总成绩记录，得到了现场观众如雷般的掌声。
-
-尽管他已经竭尽全力，但仍未能确保在举起过程中的杠铃举过头顶，最终将其丢到了地面。
-
-“通常，在抓举部分我总感觉自己是弱者，但这回却全然不同。因此我在清举的准备上感到满意更多。”刘欢华在面对记者时这样说。
-
-“我的表现超出了预期，因为在最终训练时，我最多只能举起180公斤的重量。但现场的氛围和各位观众的鼓励成就了超出我预期的结果，”他补充说道。
-
-“此刻我感到释放和轻松，赛事前我在如何进行上异常紧张。但是我很开心能获得金牌。”他继续说道。
-
-乌兹别克斯坦的阿克巴尔·迪亚佐夫最终凭借404公斤的成绩获得银牌，仅在他首次成功完成清举219公斤时获得积分。
-
-作为中立运动员参加比赛的白俄罗斯选手亚列尼·齐克安苏，则以402公斤的成绩获得铜牌。
-
-在这场比赛中，获得铜牌的亚列尼·齐克安苏说：“这是非常美的一天，受到现场观众的支持。我为了这（最后一次参赛），努力了三年。我一直相信我能获得奖牌。我实现了为我的七个月大儿子提米赢得奖牌的目标。”
-
-利比亚选手艾哈迈德·阿布祖贝在舞台上因体力衰竭而接受医疗处理，但最终在观众热烈的掌声中走出了场地。
-
-巴黎2024奥运会的102公斤男子级别的竞赛是奥运会新设的竞赛类别，马拉松赛前国际举重联合会对于东京奥运会后的赛事程序进行了重组。</description><pubDate>Sat, 10 Aug 2024 13:02:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/weightlifting-chinas-liu-claims-mens-102kg-category-gold-2024-08-10/</guid></item><item><title>菲律宾与中国就南海问题进行贸易指责</title><link>https://www.reuters.com/world/asia-pacific/philippine-military-condemns-china-air-force-dangerous-acts-south-china-sea-2024-08-10/</link><description>&lt;p&gt;菲律宾与中国上周六针对南海争议区域发生的一次航空相遇事件进行了相互指责。&lt;/p&gt;&lt;p&gt;菲律宾军方强烈谴责“危险挑衅行为”，指控中国空军进行了该行为。而中国人民解放军（PLA）则表明，其行为系基于专业的合法原则。&lt;/p&gt;&lt;p&gt;菲律宾首次针对中国空军挑衅行为提出投诉，此事件发生在菲律宾总统费迪南德·马科斯于2022年上任以来太平洋关岛内航舰或海岸警卫队船只防空行动的范围之内。&lt;/p&gt;&lt;p&gt;两架中国空军飞机在菲律宾空军一架在 summarized as 星期四早上执行例行巡逻的菲律宾空中巡逻区域中实施了一场危险机动，发放了传感器。据菲律宾军方声明称，这一行动“危及从事海上安全行动的菲律宾人员的生命”。&lt;/p&gt;&lt;p&gt;菲律宾军方首席罗梅欧韦纳表示，中国飞机干扰了法律飞行操作并违反了航空安全国际法则。&lt;/p&gt;&lt;p&gt;免责声明：“支援于中国警告之下依然坚持非法侵入黄岩岛空域”的菲律宾飞机，拦截和破坏了训练活动。主要中国国际军队于本周六报告称。&lt;/p&gt;&lt;p&gt;中国海空军执行了法律之下识别、追踪、警告和驱逐措施。&lt;/p&gt;&lt;p&gt;解放军提到，“现场操作专业，遵循规范，合法及合理”，呼吁菲律宾停止其干涉和挑衅的行为。&lt;/p&gt;&lt;p&gt;菲律宾渔民经常在黄岩岛往返，位于南海长期以来与中方的航海竞争当中的争议之一。本周政府部门组织了对菲方量南乘礁进行全面随时的军演，而马尼拉当局则将其称为巴士奇岛，中国在2012年夺取且公认的黄岩岛。&lt;/p&gt;&lt;p&gt;中国声称南海的几乎全部海域，一条每年海运贸易超过3万亿美元的通道，包括菲律宾、越南、印尼、马来西亚与汶莱所争执的海域。&lt;/p&gt;&lt;p&gt;中国强烈抵制2016年海牙常设仲裁法院做出的一个裁决，该裁决指出中在南海的凌越性声索无法遵照国际法。&lt;/p&gt;&lt;p&gt;菲律宾在五月份指控中国渔民在南乘礁区域里渔捞活动造成生态环境破坏，采用氰化物渔业、开采大牡蛎类和其他保护物种以及在珊瑚礁留下伤痕。对此，中国声明对其否认。&lt;/p&gt; &lt;figure&gt;
-    &lt;img alt="菲律宾沿海防卫力量南海越航拍摄纪录" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ACABD2DLARLCJIWRQRWGRDZOVI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt; 摄于2023年3月9日的南沙群岛的默宁斯礁，当地称为兰卡杜。这属于争议区域的一大战场。&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 09:26:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippine-military-condemns-china-air-force-dangerous-acts-south-china-sea-2024-08-10/</guid></item><item><title>澳大利亚首次测试先进的SM-6导弹</title><link>https://www.reuters.com/world/asia-pacific/australia-tests-advanced-sm-6-naval-air-defence-missile-first-time-2024-08-10/</link><description>&lt;p&gt;本周六，澳大利亚政府首度宣布，其海军舰船成功试射了雷神公司的(&lt;a href="https://www.reuters.com/markets/companies/RTX.N" target=_blank&gt;RTX.N&lt;/a&gt;) SM-6防空导弹，这是其获取和整合这套空地防御武器系统进入军事库存的重要里程碑。&lt;/p&gt;
-&lt;p&gt;试射行动作为太平洋龙2024联合军事演习的一部分，在美国夏威夷近海由“悉尼号”海军舰船执行，并获得了澳大利亚国防部的正式确认，这一事件被描述为“交易始自2021年首次获准后的关键进展”。 &lt;/p&gt;
-&lt;p&gt;SM-6导弹是美军防空舰队的顶尖核武器之一，尤其擅长拦截弹道导弹，同时也被测试用于打击船只和地面目标，以及进行空中战场景的战斗。&lt;/p&gt;
-&lt;p&gt;澳大利亚国防工业与能力实现委员会部长帕特·康诺指出，“此次测试表明，针对海军加速获取关键性能力的行动在不断提速；确保对手远离我方势力范围并阻止其对我方的军事介入是我们国家安全战略的主要内容。”&lt;/p&gt;
-&lt;p&gt;面对与中国关系的日益紧张，澳大利亚一直在加强其军事能力建设，包括美国资助的军事基地提升计划。&lt;/p&gt;
-&lt;p&gt;扩大舰船的防御范围会使作战对手被迫保持更远的安全距离，并确保皇家澳大利亚海军（RAN）能在冲突中深入敌对海域。&lt;/p&gt;
-&lt;p&gt;上个月，澳大利亚曾为美国的SM-6导弹测试提供了数据收集、通讯和跟踪支持，这些内容是有美国导弹防御局公开的信息证实的。&lt;/p&gt;
-&lt;p&gt;澳大利亚政府并未公开透露其计划从美国采购的导弹数量，但2021年美国政府核销军事出售费用时所公开的成本估计为“国防物品与服务”总计3.5亿美元。&lt;/p&gt;
-&lt;p&gt;这个数字包含的不仅有SM-6导弹，也涵盖澳大利亚海军已使用的较旧型号的SM-2导弹。&lt;/p&gt;
-&lt;p&gt;周六的公告未提及SM-6导弹的具体部署日期，然而表示该导弹将用于英国的“霍巴特号”级驱逐舰上，澳大利亚拥有三艘这样的驱逐舰，每艘舰船最多可携带48枚防空导弹。&lt;/p&gt;
-&lt;p&gt;“SM-6导弹的多功能性，使其成为皇家澳大利亚海军有限导弹防御体系高效补充，同时具备额外的反舰与防空导弹防御能力，以配合海军打击导弹等先进反舰导弹”的测试验证了其战斗力。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 06:35:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/australia-tests-advanced-sm-6-naval-air-defence-missile-first-time-2024-08-10/</guid></item><item><title>美国零售商因担心罢工和混乱而急于节日进口</title><link>https://www.reuters.com/business/retail-consumer/us-retailers-rush-holiday-imports-fearing-strikes-disruptions-2024-08-09/</link><description>&lt;p&gt;当前夏末，零售业内部涌动一股填补美国市场需求的进口高峰期之强烈势头。此举由商家奋力推动，旨在预防可能发生的港口工人罢工，并考虑加沙地带一系列旨在影响运输的无人机与船只爆炸攻击行为，特别是这些攻击在未来缩短的假日消费季到来之际愈发升级。此举也对红海的航运安全构成威胁。&lt;/p&gt;
-&lt;p&gt;七月份的集装箱进口量与运输费用的快速上涨，清晰地指明了一个异乎寻常的高峰期，尽管海洋运输占了世界贸易大约80%的份额，并在今年进入一个较为早期的高峰阶段。业界相信，这成为远洋运输业的一个前兆，在此后不到九月，高峰的栗栗聚集积聚凸显，预示着繁忙的用物流和配送链将要于圣诞节前后呈现高潮。&lt;/p&gt;
-&lt;p&gt;预计七月为美国零售市场的大笔进货阶段，占贸流量的50%，而到八月时，市场仍将表现出极高的活力与流动性。对应的分析预测乃基于对于季节性促销活动的样板理解，同时，美国零售商会遭遇被动的局面，尤其在进口玩具、家居商品以及消费者电子商品的企业倾向于提前定序节庆活动，以此捕捉到每个季节提前出孝的消费者群体。&lt;/p&gt;
-&lt;p&gt;许多运输商已经加速了圣诞商品的订购过程，有的企业甚至将物流货物提前至五月送上远洋航线。首席分析师Peter Sand，在其公司Xeneta的平台上表示，他们已经面临了某些圣诞商品提前运出的需求压力。&lt;/p&gt;
-&lt;p&gt;这一波进口潮主要原因并非源自稳定的消费者支出，而是针对美国港口可能发生的罢工风险，以及今年感恩节逼近出现的购物高峰期，导致了即将到来的高峰季节难以轻松应对，由此更加加剧了对配送运营带来的挑战。供应链解决方案的DesCartes公司系统数据显示，七月份互联网进口的美国已创造历史记录的第三高潮，出口量达到260万箱单位，相比前过增加16.8%，而这部分归因于供应链中国进口额的大幅增长。&lt;/p&gt;
-&lt;p&gt;2024年夏季进口较为强劲的企业如沃尔玛、塔吉特、梅西百货和萨克斯等，中由沃尔玛扮演着关键角色，沃尔玛成为美国最大的进口者。2023年第二季度财报将于8月15日公布。供应链物流的紧张不仅仅落在美国本土港口，而从港口的横向视角，此次罢工事件存在直接威胁。
-
-&lt;p&gt;谈判告atto后，国际长工协会与美国海运联盟之间已达不成共识。在海洋运输管理系统中，Maersk将在佛罗里达与德克萨斯之间的港口展开一项可能的罢工行动。此行动可能加剧了在年底、其他港口地区货物的船主们对北方美国港口的安全考虑。
-
-&lt;p&gt;非合约价作为从全球东方航线向美国西海岸输送密封箱所增涨的系数如在四月末至七月初增长144%，随后此高昂比率迅速降低了17%。相似的风险趋势也出现在运送至美国、东海岸以及北欧和地中海地区的相关航线。Xeneta公司的报告指出，现在应该如何看待现货市场的价格走势，即虽可能出现更大范围的下调，但回调速度难以与初始升幅相秀，只要价格还较基本水平有所提升，这全年对出口商和送货档夜晚商来说都会成为一个痛苦的码头。&lt;/p&gt;
-&lt;p&gt;显著的工业增长推动着美国第一下半年进口总量，这主要归因于近期贸易关税目标和向中国市场及其他国家出口货物的提成风险。美国总统乔·拜登政府正在针对多类中国及其他商品施加大规模的关税，预计将达到数百亿规模。&lt;/p&gt;
-&lt;p&gt;面对竞争关系的挑战，电动车电池与太阳能组件领域成为需求与消费的主要驱动力。拜登政府迄今仍维持前任特朗普政府留下的关税制度，这位共和党领袖在2024年大选中承诺重新引入更多的付款和高额关税，然而据MSN商学部门教授Jason Miller表示，企业对此行动迄今为止反应的匮乏显示了此做法的相对无效性。&lt;/p&gt;
-&lt;p&gt;丹麦航运制造商Maersk公司表示，由于再度到今年十月底前的不稳定性可能影响到市场需求，总统选举行情将对关税产生重大影响。目前的共识是，美国与中国之间将进入更为激烈的交易阶段，无论最终是哪一方上台执政。&lt;/p&gt;
-&lt;/body&gt;
+  &lt;/pre&gt;
 
 &lt;figure&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J2MM6KZPTBLZNPDWX5MH6WQ7AQ.jpg" alt="Pacific Island containers are shown unloading from vessels at the Port of Los Angeles, California"&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;The Port of Los Angeles, California, on November 22, 2021. REUTERS/Mike Blake/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 09 Aug 2024 06:06:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/us-retailers-rush-holiday-imports-fearing-strikes-disruptions-2024-08-09/</guid></item></channel></rss>
+    &lt; img alt="巴黎奥运-女子举重-女子81公斤以上级别" height="auto" loading="lazy" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FSZ2QDNLY5MK7ELCA6QTCZAPRU.jpg"/&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;巴黎2024奥运会-巴黎，法国南巴黎体育场6号，2024年8月11日。文文李（音）中国选手在争夺金牌的比赛中举起了自己的教练。REUTERS/isa贝尔 纯铜分数为288KG
+
+    &lt;/i&gt;&lt;figure&gt;
+
+}
+
+
+  &lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt; img alt="巴黎奥运-女子81公斤以上级别举重" height="auto" loading="lazy" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WZ4GISADRNKMVI6ZCEVTSVIWIQ.jpg"/&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;巴黎2024奥运会-巴黎，法国南巴黎体育场6号，2024年8月11日。文文李（音）中国选手正姿态随着即将完成认证的诗篇。REUTERS/isa贝尔 金
+
+    &lt;/i&gt;&lt;figure&gt;
+
+}
+
+
+  &lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt; img alt="巴黎奥运-女子81公斤以上级别举重" height="auto" loading="lazy" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5C7NP5U6LRM4ZI5G4F2GYIQGAU.jpg"/&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;巴黎2024奥运会-巴黎，法国南巴黎体育场6号，2024年8月11日。文文李（音）中国选手取得胜利后，反应积聚了明显的激动与兴奋。REUTERS/isa贝尔奖
+
+    &lt;/i&gt;&lt;figure&gt;
+
+}
+</description><pubDate>Sun, 11 Aug 2024 12:27:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/weightlifting-chinas-li-wins-womens-over-81kg-gold-2024-08-11/</guid></item><item><title>外交部长表示，中国支持伊朗捍卫安全</title><link>https://www.reuters.com/world/china-supports-iran-defending-security-says-foreign-minister-2024-08-11/</link><description>&lt;p&gt;中國對伊朗在電話中表示支持，在一份中國外交部的發佈声明中，表明中國對伊朗為保護其“主權、安全和國家尊嚴”所採取的措施表示支持。&lt;/p&gt;
+&lt;p&gt;在這次電話會談中， Wang 對伊朗代理外長 Ali Bagheri Kani 遊說，在今年7月31日在德黑蘭針對哈馬斯首席伊斯梅爾·哈尼耶的刺殺案已經遭致中國的譴責，ís认为此案侵犯了伊朗的主權並威脅到了地區穩定。&lt;/p&gt;
+&lt;p&gt;哈馬斯和被伊朗領導階層點名為在加沙地區舉行的多普勒效應事件的加沙部門首席哈尼耶的起義。以色列被暗示是此次刺殺事件的主導方。&lt;/p&gt;
+&lt;p&gt;雖然以色列直到目前為止既沒有承認也沒有否認這一殺害事件的責任， commentary 在這場以色列和哈馬斯在加沙地區的戰爭中，外界還擔心米wyż正可能引發了中東更大範圍的戰爭。&lt;/p&gt;
+&lt;p&gt;伊朗對此向以色列發出了譴責，宣稱將對殺害事件采取“堅決的報復”措施。&lt;/p&gt;
+&lt;p&gt;王 Yi 在與阿裏·巴格里·卡尼，伊朗代理外長的通話中提到，針對哈尼耶的殺害行動已經成為“直接剝奪了加沙中立和平的談判程序，且顛覆了地區的和平與穩定。”在中國外交部的正式公開宣稱中如此表述。&lt;/p&gt;
+&lt;p&gt;王 Yi 幾乎並重申了為保護其主權、安全和國家尊嚴，且助力保持地區和平與穩定，中國將遵循法則支持伊朗實施並參與防衛，並準備隨時與伊朗保持緊密的溝通和聯繫。&lt;/p&gt;
+&lt;p&gt;在前一天，伊朗總統馬蘇德·佩爾遜·尼安提名艾巴德·阿爾爾薑奇奇為國家外長。艾巴德·阿爾爾薑奇奇在2013年至2021年期間擔任伊朗的核談判首席談判代表。&lt;/p&gt;
+&lt;p&gt;圖像附錄：
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3AZRU6BLPNMYPITDZT4MFHFQUU.jpg" /&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;i&gt;2024年7月27日，在老挝萬那灣國民會議中心舉辦的第57屆東盟外長會議上的第14屆東亞峰會外長會議上，中國外長王毅出席當地時間。此圖片由路透社的_chalinee_thirasupa提供。&lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sun, 11 Aug 2024 11:21:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china-supports-iran-defending-security-says-foreign-minister-2024-08-11/</guid></item><item><title>菲律宾称中国空军的行动“非法”、“鲁莽”</title><link>https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/</link><description>&lt;p&gt;菲律宾总统费尔南多·马科斯二世阁下在周日公开斥责了中国空军在受两国共同宣称的南中国海海域所采取的行动，将其描述为“欠缺正当性、违法及轻率之举”。&lt;/p&gt;&lt;p&gt;马尼拉和北京分别在上周末指责彼此在2022年马科斯就任以来、首起中国政府飞机在黄岩岛争端区域引发安全担忧事件中破坏了军事行动的稳定，对比于海军或海岸警卫队船只曾经透露的问题，此次菲律宾是以中国飞机的危险行为提出了抗议。&lt;/p&gt;&lt;p&gt;菲律宾的军方在上周末谴责了该事件的经过——在7月的例行巡逻过程中，两架中国飞机在黄岩岛区域投掷照明弹，直接对菲律宾飞机构成了威胁。&lt;/p&gt;&lt;p&gt;中国南部战区司令部对此回应称，菲律宾的行动干扰了其军事训练，指责马尼拉“非法入侵”了中国领空。&lt;/p&gt;&lt;p&gt;在周一，马科斯呼吁中国采取负责任的行动，无论是在海上还是在空中，都加以平衡。&lt;/p&gt;&lt;p&gt;“我们刚刚开始为和平解决争议铺路，就已经感到一阵不安，尤其是与我们的领空稳定性有关的事态。&lt;/p&gt;&lt;p&gt;"菲律宾总统通讯办公室通过社交媒体平台X发布的声明中这样写道。&lt;/p&gt;&lt;p&gt;上周末，菲律宾驻曼谷大使馆未立即对周一的评论请求作出回应。&lt;/p&gt;&lt;p&gt;这片主权争议区域的黄岩岛充斥着亚洲最具争议的海洋特性，因领土主权和渔业权利的着火点而成为各方关注的焦点。&lt;/p&gt;&lt;p&gt;马尼拉基地的智库“国际合作与发展安全政策协会”主席雪瑟特表示，中国的行动是“针对马尼拉海上活动”的“存在论展示”，特别是菲律宾参与一个多国联合演习活动，旨在促进航行自由和飞越权。
+
+有一天，如果中国持续在菲律宾的航空和防御区域激化对立，我们可能会见到更广泛的领空冲突。
+
+ Manila Nacional大都会的国会议员表示，中国政府“对其连串的灰色地带战术在海上投下慎重的阴影，我们很可能面对空中对抗，这将凸显菲律宾与中国的紧张局势升级”。
+
+中国宣称对整个南中国海拥有几乎完全的领土控制，该海域每周海上商船通路超过3万亿美元，包括菲律宾、越南、印尼、马来西亚及汶莱等国所宣称的部分领土。&lt;/p&gt;&lt;p&gt;中国否认《海牙常设仲裁法院》于2016年的判断，驳斥了其对国际法的声称毫无根基的说法。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 06:39:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-says-actions-china-air-force-illegal-reckless-2024-08-11/</guid></item><item><title>迪士尼推出《阿凡达》、《夺宝奇兵》、《魔幻奇幻》和《怪兽电力公司》景点</title><link>https://www.reuters.com/business/disney-expected-announce-plans-its-theme-parks-2024-08-10/</link><description>&lt;p&gt;著名娱乐巨头Walt Disney&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/companies/DIS.N" target="_blank"&gt;DIS.N&lt;/a&gt;&lt;/sup&gt;的董事长Josh D'Amaro于周六在D23迷友大会(Fan Convention)上，豪气宣布了公司主题公园的激进增长蓝图，具体内容涵盖四艘新的游轮以及六块全新主题区域的规划。&lt;/p&gt;&lt;p&gt;未来规划包括在佛罗里达奥兰多的Walt Disney世足球魔王国里添加全新《迪士尼反派》主题区域，加州阿纳海姆迪士尼加州冒险公园的《复仇者联盟》区域规模将翻倍，以及合作信息透露与《堡垒之夜》创作者Epic Games的品牌联动。&lt;/p&gt;&lt;p&gt;D'Amaro表示道：“这一刻，我们正处在前所未有的奋发新纪元。”&lt;/p&gt;&lt;p&gt;在佛罗里达加州冒险的《复仇者联盟》主题区域将展开两个新活动，分别是《无限战防》与《斯卡特飞行实验室》。而在同属加州冒险区域的部分将设立《阿凡达》体验，主题基于该科幻系列的第二部电影《阿凡达：水之道》。&lt;/p&gt;&lt;p&gt;作为对2024年将在阿纳海姆开幕的迪士尼乐园70周年纪念展示，一场围绕沃尔特·迪士尼创始人由音频-动画人偶呈现的表演将会闪亮登场。&lt;/p&gt;&lt;p&gt;佛罗里达奥兰多迪士尼探险王国旨在新增野生动物园地区到热带美洲扩展工程，其中一条活动是由印度琼斯进行一个对玛雅神庙的探索之旅。另一条活动则是依据《魔发奇境》迪士尼动画电影，描述角色安东尼奥在获得神奇礼物的转折日的幻想故事。热带美洲预定于2027年开园。&lt;/p&gt;&lt;p&gt;演员比利·克里斯卡尔在舞台上揭晓了专门为皮克斯电影《怪物公司》设立的区域在迪士尼电影工作室的部分，被称为迪士尼主题公园术语中的“土地”，该区域设有悬挂式过山车设计，模拟通过笑话工厂的门楼穿越，想像力十足，设计灵感源于电影角色麦克与苏利耶。&lt;/p&gt;&lt;p&gt;《赛车总动员》电影系列将内容新构思为《魔发奇境》迪士尼主题区域在奥兰多迪士尼魔幻王国的再现区，规划有两项活动，一项是将游客带入电影虚构的主要斯基普顿映像中进行探险的野外冒险之旅。建设将从明年年初开始启用。&lt;/p&gt;&lt;p&gt;D'Amaro宣布创建一个全新的专注于迪士尼反派主题区域在奥兰多迪士尼魔幻王国的规划，该地区将会设立两个景点、餐饮及购物场所，这一消息深受现场观众热烈反响。&lt;/p&gt;&lt;p&gt;这系列公布不仅展现了公司未来十年资本投资总额达到600亿美元的大手笔规划，将其在12个公园的主题公园与游轮的体验改善以及游轮容量的提升使其几乎翻倍。&lt;/p&gt;&lt;p&gt;D'Amaro提及道：“这里共享的所有信息都处于活跃阶段规划，图纸已绘制完成，动工尘土飞扬。我要向在场的每一位粉丝强调并非空想，而是已经在运作中。”&lt;/p&gt;&lt;p&gt;在《堡垒之夜》开发公司Epic Games的投资保障下，迪士尼计划增加四艘新的豪华游轮，响应游轮业在COVID-19疫情后复苏的时代，扩大现有五艘游轮队伍以及预定中的四艘，包括一家设于日本东京的游轮和一艘2025年从新加坡发射的游轮。新几艘游轮将在2027年至2031年间投入运营。&lt;/p&gt;&lt;p&gt;D'Amaro携公司的创意领导团队与Epic Games进行了神共创合作，展示了Epic Games旗下《堡垒之夜》和《Unreal Engine》的深度嵌入。迪士尼宣布将加入新角色和故事至在线游戏领域，包括迪士尼反派或《不可思议的特攻队》格里芬英雄和《圣斗士》美达隆系列中的独侠演员安东尼奥。&lt;/p&gt;&lt;p&gt;迪士尼的主题公园成为了稳定盈利引擎，抵消了传统电视业务以及流媒体视频业务亏损产生的影响，尤其是在上季度扭转利润总成，补充公司收入。&lt;/p&gt;&lt;p&gt;经营单位包括公园、邮轮、消费品在内的体验部在最近一个季度贡献了60%的营运利润，相比十年前仅占30%的份额，展现出将增长势头带入下个十年的战略决策。&lt;/p&gt; 
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZTQWY4QZDJNSZOLU3WJNEULDSA.jpg" alt="Disney characters Mickey Mouse and Minnie Mouse greet visitors at Shanghai Disney Resort as the Shanghai Disneyland theme park" /&gt;
+&lt;figcaption&gt;上海迪士尼乐园中，米老鼠和米妮皆致以欢迎热心握手致敬图：&lt;i&gt;上海迪士尼度假区，上海市室震迪士尼主题乐园; &lt;u&gt;REUTERS/Aly Song&lt;/u&gt;&lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7D7EY7EAS5NK5IR43DOK2RIBWM.jpg" alt="Press preview of Tokyo Disneyland new area, set to open to public on September 28, in Urayasu" /&gt;
+&lt;figcaption&gt;接待开幕式为东京迪士尼乐园新区域公园门即将于9月28日公开展出：被称为&lt;a href="https://cloudfront-us-east-2/images.reuters.com/2020/article/4309/YUG01/YUG01TOKYO005PXMXFXXLYYZ.jpg" title="Side view of the 'Beauty and the Beast' castle in a new area." alt=”Side view of the Beauty and the Beast Castle, in a new area set to open on September 28.” src макса&lt;/figcaption&gt;
+&lt;figcaption&gt;侧全景展示了被新建的七海贝类东西方区即将于9月28日展开放映的纪念碑“美女与野兽”城堡内容：&lt;u&gt;REUTERS/Issei Kato&lt;/u&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;  
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6SQ7KDZK25PIJB7UTOU23HYZJA.jpg" alt="Disneyland Paris" /&gt;
+&lt;figcaption&gt;标题为迪士尼巴黎的主题条款形象出现在巴黎梅纳-瓦利特附近：&lt;u&gt;REUTERS/Charles Platiau&lt;/u&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 19:46:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/disney-expected-announce-plans-its-theme-parks-2024-08-10/</guid></item><item><title>花样游泳：中国队领先英国、荷兰夺得双人双人项目金牌</title><link>https://www.reuters.com/sports/olympics/artistic-swimming-china-win-first-gold-duet-event-2024-08-10/</link><description>&lt;p&gt;在中国代表团在周六的巴黎奥运会上，双人艺术游泳项目上，王氏双胞胎摘下了中国首枚金牌。在与三对其他姐妹竞争冠军的激烈角逐中，她们凭借足够的实力守住了金牌宝座。&lt;/p&gt;
+
+&lt;p&gt;中国代表团还在周三的团队艺术游泳项目中夺金，这使中国成为这项运动的新霸主。俄罗斯一直获得了艺术游泳项目中的最多金牌，但在此次因侵乌事件被排除在外后，中国接棒成为主导力量。&lt;/p&gt;
+
+&lt;p&gt;bairro 和荷兰队分别凭借银牌和铜牌成为这两次赛事历史上首次夺奖的队伍。&lt;/p&gt;
+
+&lt;p&gt;王丽仪和王前仪搭档在自由泳套路表演时，以一种戏剧性的开场令人眼前一亮，如同猎豹一般爬向水面边缘，随后潜水入水。她们在周五的技术表演阶段同样主导了赛场，表演中优雅地在水中滑行，并尽情伸展。&lt;/p&gt;
+
+&lt;p&gt;在这场比赛中，王氏姐妹在技术表演后占据金牌位置，但仅以9.5分之微弱优势领先，金牌的归属直到最终分数下达之前都未能完全确定。&lt;/p&gt;
+
+&lt;p&gt;得知夺冠后，王氏姐妹坐在边缘的替补席上，当她们看到最终分数为金牌时，立刻起身跳跃并喜极而泣。&lt;/p&gt;
+
+&lt;p&gt;王前仪表示，作为双胞胎，她们在执行与艺术元素方面能够更好的协同合作。她们一致的身体类型在表演期间得到统一呈现，而姐妹之间的默契帮助她们保持同步。&lt;/p&gt;
+
+&lt;p&gt;对于荷兰队的布鲁杰和诺特捷·德·布鲁尔这对双胞胎姐妹来说，尽管无论比赛结果如何都有彼此的支持意味着一切。&lt;/p&gt;
+
+&lt;p&gt;我明白我不是她唯一可以伤害的那样，”诺特捷开玩笑道。&lt;/p&gt;
+
+&lt;p&gt;英国的凯特·肖特曼和伊莎贝尔·托普赫凭借铜牌，希望能在祖国激励更多的年轻人尝试艺术游泳。&lt;/p&gt;
+
+&lt;p&gt;这对搭档以“凤凰涅槃”为主题进行了表演，旨在描绘艺术游泳运动从此开启新篇章。他们的表演中有麻雀叫声作为开场的两组后空翻入水。水手中以及她们的教练正携手庆祝得知成功获得奖牌的那一刻。&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W6A63WP2LZMZFFWIBN2T3IHRGM.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
+&lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会 -艺术游泳 -双人自由泳套路 -许丹体育中心，圣丹尼斯，法国 - 2024年8月10日。中国失利者王丽仪和王前仪在赢得金牌后庆祝。法新社/冈萨洛·费尔图纳&lt;/figcaption&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X2HICB7JVFMINPZRIIYJGVRAN4.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
+&lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会 -艺术游泳 -双人自由泳套路 -许丹体育中心，圣丹尼斯，法国 - 2024年8月10日。中国金牌获得者王丽仪和王前仪在台阶上与英国银牌获得者凯特·肖特曼和伊莎贝尔·托普赫以及荷兰铜牌获得者布鲁杰和诺特捷·德·布鲁尔合影。陈熠/ pool 法新社&lt;/figcaption&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MIYOOLUKPZOJRDTG26QPK5KTCY.jpg" alt="Artistic Swimming - Duet Victory Ceremony" /&gt;
+&lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会 -艺术游泳 -双人获胜典礼 -许丹体育中心，圣丹尼斯，法国 - 2024年8月10日。金牌获得者中国王丽仪和王前仪在赢得后庆祝。法新社/麦伊-翁&lt;/figcaption&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ANQHXRKJWNKYNGWEW4QDA22RHI.jpg" alt="Artistic Swimming - Duet Victory Ceremony" /&gt;
+&lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会 -艺术游泳 -双人获胜典礼 -许丹体育中心，圣丹尼斯，法国 - 2024年8月10日。金牌获得者中国王丽仪和王前仪手持奖牌和中国国旗合影。法新社/冈萨洛·费尔图纳&lt;/figcaption&gt;
+&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MCJWXUHVZFPX5GK7YK3WMZBATU.jpg" alt="Artistic Swimming - Duet Free Routine" /&gt;
+&lt;figcaption style="text-align: center;"&gt;巴黎2024奥运会 -艺术游泳 -双人自由泳套路 -许丹体育中心，圣丹尼斯，法国 - 2024年8月10日。中国王丽仪和王前仪正在水中表演。法新社/斯蒂芬·韦尔穆特&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 19:23:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/artistic-swimming-china-win-first-gold-duet-event-2024-08-10/</guid></item><item><title>乒乓球：中国队女团全胜</title><link>https://www.reuters.com/sports/olympics/table-tennis-chinas-women-win-team-gold-japan-take-silver-2024-08-10/</link><description>中国在周六的奥运会女乒团体赛事中展示了其在乒乓球领域的霸权地位，成功取得了金牌扫荡，巴黎的赛事为此继续了自1988年乒乓球被列入夏季奥运会以来的钢筋行列，中国已经赢得了42枚奖牌中的37枚。
+
+秉承东京决赛时的对手——日本，并在巴黎这次更是以3比0的绝对优势取得了比赛的胜利，然而与东京的胜利相比，巴黎的这场胜利似乎需要更多的付出和努力，后者甚至在开局阶段面临东京半决赛的困扰。中国陈梦和王曼昱在面对日本队伍时无法完全发挥，但仍然成功从开局的第一局中获得并夺回主动权，与对手打满三局。
+
+最终，陈梦与王曼昱调整战略，在关键节点增加战术灵活性，将比分追平并取胜。自东京世锦赛以来饱受腕伤困扰的日本选手户纯，暗示中国两位选手在关键时刻体现的娴熟技术和坚韧精神，实际上帮助了他们克服了身心上的挑战并最终取得了一场关键的胜利。
+
+中国乒乓球队的苏伊晴霞携带成名技巧在第一局面临来自日本的 Challenge 选手筍洋博，面对一个长达八分半的激烈争夺，直至比分达到13:11的最终详细结果，中国选手最终以3比0战胜对手。
+
+接下来的挑战由日本选手Kaori Hashimoto 对阵王梦雨莉涵汐，获得最终的胜利。日本产能个人选手华时朋（Harimoto）在队伍中凸显了强大的技术和聪明才智，成为队友的强大后盾。
+
+结果，中国选手共同取得了巴黎奥运会的五个奖牌——男子、女子单打，混双以及男女团体赛事的所有金牌 —— 在东京，中国又在混双方面稳定性上的成功被悬着的金牌败给了日本队。至此，金牌强果如期兑现，足以弥补东京黯然收场的情况。
+
+此次女团的胜利，中国再次证明了自己的绝对领导地位，并给日本运动员顶着一些难以克服的健康问题。在赔起来的比赛中，选手们热泪盈眶，实在是显得尤为动人。中国运动员过关斩将，成功摘得了巴黎奥运会乒乓球女子团体赛事的金牌，无疑又在这项传统的中国强势项目展示了自己的实力和毅力。巴黎蝉冠，更显王者风采。哈尔蒙汉队日本则表现出色，球队在巴黎世界表的最后一轮比赛中战胜世界排名第三的德国队，获得了银牌，实现长达16年的回归领奖台荣耀，并在一周前的欧冠杯赛事已成为一段佳话。
+
+于是，中国的金牌日渐高涨，当然也伴随着运动员们的泪水。在与日本队的决斗中，中国女队的精彩表现和坚定毅力，无疑让我们对中国乒乓球的未来充满信心。巴黎的金秋成为了中国乒乓健儿展示自我的舞台，而金牌的抢夺亦未能夺走他们的喜悦与泪水，共同谱写了一场精彩而震撼的争夺之战。</description><pubDate>Sat, 10 Aug 2024 15:33:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/table-tennis-chinas-women-win-team-gold-japan-take-silver-2024-08-10/</guid></item><item><title>跳水：曹勇夺得男子10m跳台冠军 完成中国金包揽</title><link>https://www.reuters.com/sports/olympics/diving-chinas-cao-yuan-wins-mens-10-metre-platform-gold-2024-08-10/</link><description>&lt;p&gt;曹元在周六的巴黎奥运会上赢得了男子10米跳台项目的比赛，为中国队完成了一次金牌包揽，这是自从奥林匹克运动会开始以来，国家首次在单届奥运会上包揽所有跳水类项目的金牌。&lt;/p&gt;
+&lt;p&gt;日本选手田亚博获得银牌，这是日本奥运代表团首次获得跳水类项目的奖牌。英国选手诺亚·怀亚特在最后一轮比赛中发挥出色，以一枚铜牌奖牌坐上了领奖台的第三级。&lt;/p&gt;
+&lt;p&gt;长期征战奥运的中国选手曹元，此次以31岁之龄成功卫冕了自己的冠军宝座，面对17岁的田亚博这种年轻后起之秀的挑战，他将自己在周六比赛中最为出色的表现展现在所有观众面前。前四跳中，他以96.90分的总分和评委平均给出的9.5分高分建立了领先优势。&lt;/p&gt;
+&lt;p&gt;在关键时刻，田亚博在第五跳中出现了严重的失误，被巨大的浪花淹没了，从而导致了他在比赛中的名次下滑。相比之下，曹元以稳扎稳打的表现，在最后完成计分环节时，他已经以547.50分的成绩牢牢把握住了领奖台的最上方。&lt;/p&gt;
+&lt;p&gt;对于能以自家的金牌为目标感到十分骄傲和自豪，曹元表示尽管在今天的比赛中也有不小的压力和紧张情绪，但他成功地稳住了自己的心态，认真对待每一跳，专注于比赛本身是赢得比赛的关键。&lt;/p&gt;
+&lt;p&gt;中国的另一个世界冠军杨浩虽然是在预赛中领先选手，但在决赛阶段一项接一项的表现失常，结束了最后一名的位置。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 14:29:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/diving-chinas-cao-yuan-wins-mens-10-metre-platform-gold-2024-08-10/</guid></item><item><title>艺术体操：中国队夺得团体全能金牌</title><link>https://www.reuters.com/sports/olympics/rhythmic-gymnastics-china-win-group-all-around-gold-2024-08-10/</link><description>&lt;p&gt;中国周六在巴黎帕佩尔夏佩尔竞技场举行的奥林匹克艺术体操团体全能决赛中夺得了金牌，一个几十年以来一直被东欧国家主导的领域，特别是在俄罗斯、白俄罗斯和乌克兰的旗帜下。&lt;/p&gt;
+&lt;p&gt;以色列赢得了银牌，意大利摘得铜牌。自1984年洛杉矶奥运会因为苏联抵制而引起风波以来，这一比赛结果标志着前苏联国家首次不在领奖台上。&lt;/p&gt;
+&lt;p&gt;在全场共获69.800总积分的比赛中，中国队展现出强大的实力。他们在轮子技术评分以36.950的高分领先，参赛选手身着点缀着闪亮的黑色和金色的体操服，头戴髻冠，动作协调近乎完美，完成困难的跳跃和滚动。&lt;/p&gt;
+&lt;p&gt;球队开始轮和球的表演时选用了具有中国传统风格的音乐，一度做出如同用古琴演奏一般的手势，三根轮子分外灵巧。&lt;/p&gt;
+&lt;p&gt;随后的两分半钟内，一系列身姿变化、腾空跳跃和快速旋转，中国队在轮和球的一轮比赛中获得了32.850的高分。&lt;/p&gt;
+&lt;p&gt;“我们希望展示中国文化。”孙丹在接受媒体采访时表示，“我们期盼这一刻已久。&lt;/p&gt;
+&lt;p&gt;中国队的金牌，使其在奥运会上的金牌总数超过美国，成为金牌榜领先者。&lt;/p&gt;
+&lt;p&gt;“得知我们在奥运会上金牌最多，我无比高兴。”孙丹补充道。&lt;/p&gt;
+&lt;p&gt;以色列也在同日赢得了团体全能的首枚奖牌。林奥·阿什拉姆在东京创造了历史，赢得了该国艺术体操的首枚奖牌，冠军属于个人全能比赛。&lt;/p&gt;
+&lt;p&gt;意大利的女子们以笔直的后背、穿着点缀着金属光泽的深蓝、碧绿与黑色的体操服，高昂着头，步入完美同步的领取区，以36.100的分拿到了轮整套动作的高分。在球和穗的环节中，随着意大利作曲家恩尼奥·莫里克内（Ennio Morricone）的“埃斯特斯托拉的辉煌”（“L'estasi dell'oro”）的旋律，她们获得了32.000的分数。意大利四次拿过体操奖牌，其中包括索菲亚·拉法雷利在8月10日比赛的单人全能事件中所获得的铜牌。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="艺术体操 - 团体全能决赛" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DKCTKTYM3JLBBMESPO3WRM6IPE.jpg" /&gt;   
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;2024年巴黎奥运会 - 艺术体操 - 团体全能决赛 - 法国巴黎帕佩尔夏佩尔竞技场，2024年8月10日。中国队庆祝夺得金牌。REUTERS/汉娜·麦凯&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 10 Aug 2024 14:11:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/rhythmic-gymnastics-china-win-group-all-around-gold-2024-08-10/</guid></item><item><title>独家：马恒达寻求批准在陕西成立 30 亿美元合资企业</title><link>https://www.reuters.com/business/autos-transportation/indias-mahindra-seeks-nod-3-bln-shaanxi-jv-sources-say-2024-08-09/</link><description>&lt;p&gt;印度汽车制造商马恒达与中国的陕汽集团达成协议，共同设立一家价值30亿美元的合资企业，在印度建设汽车制造厂，并正在等待新德里的批准，知情人士向《路透社》透露了此消息。&lt;/p&gt;
+&lt;p&gt;知情人士告知，《路透社》了解，拟议的制造合资企业中，马恒达将持有占多数的股权，这项提议计划在印度总理纳伦德拉·莫迪的家乡古吉拉特邦建厂。&lt;/p&gt;
+&lt;p&gt;就在报道发布后，马恒达在股票交易所的声明中表示：“报道内容毫无根据，所涉及的事项并无事实依据。”&lt;/p&gt;
+&lt;p&gt;报道发布当天，马恒达的股票上涨了最多3.1%，最终以每股2749.15印度卢比的价格在孟买股票交易所结算，涨幅为2.5%。&lt;/p&gt;
+&lt;p&gt;该提议包括建立一个面向出口、集汽车装配与发动机和汽车电池于一体的整体制造中心。&lt;/p&gt;
+&lt;p&gt;知情人士透露，马恒达已经向政府申请批准中国的投资。&lt;/p&gt;
+&lt;p&gt;公司官网列出的电话号码未拨通，印方的商务、重工业、外事部门尚未对询问做出回复。&lt;/p&gt;
+&lt;p&gt;知情人士表示，除非经允许与媒体交流，否则他们不宜透露姓名。&lt;/p&gt;
+&lt;p&gt;自2020年以来，印度政府需要审批任何中国的投资，当时新德里在与两邻国之间发生致命边境冲突后收紧了中国的投资限制。&lt;/p&gt;
+&lt;p&gt;多年来，因印度对如比亚迪（BYD）、长城汽车等制造商进行了严格审查，价值数十亿美元的投资计划要么被推迟，要么被取消。&lt;/p&gt;
+&lt;p&gt;去年，比亚迪提出的10亿美元计划被政府暂停，此事因安全担忧传出消息。&lt;/p&gt;
+&lt;p&gt;然而，这一投资计划正处于印度努力放宽对太阳能电池板和电池制造等非敏感领域中中国投资限制时期，后者是新德里在该领域缺乏专长的领域之一。&lt;/p&gt;
+&lt;p&gt;印度高层官员近期表明对对华投资的立场有所调整，因外国投资跌至17年新低。&lt;/p&gt;
+&lt;p&gt;印度财长尼尔玛拉·斯里瓦斯塔瓦上月表示，她支持印度首席经济顾问V·安纳塔纳瓦斯瓦兰的立场，后者最近提出新德里可以通过吸引中国直接投资来促进印度出口。&lt;/p&gt;
+&lt;p&gt;范例图像：
+&lt;figure&gt;
+&lt;img alt="印度新德里的一名男子站在马恒达公司标志的屏幕上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P6JSOLMQ7NLXRFPL3CLZANFAGE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;新德里，2024年2月1日。《路透社》/安努西丽·法达 비스&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 09 Aug 2024 09:39:09 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/indias-mahindra-seeks-nod-3-bln-shaanxi-jv-sources-say-2024-08-09/</guid></item><item><title>举重：中国选手刘翔夺得男子102公斤级金牌</title><link>https://www.reuters.com/sports/olympics/weightlifting-chinas-liu-claims-mens-102kg-category-gold-2024-08-10/</link><description>&lt;p&gt;在中国举重世界冠军柳焕华以总计406公斤的惊人成绩，在周六的巴黎奥运会上夺得102公斤级别的举重桂冠。&lt;/p&gt;
+
+&lt;p&gt;柳焕华在抓举环节展现出卓越技巧，以186公斤的举重成绩奠定了坚实基础，然而，亚美尼亚选手加林·卡帕佩迪安在第三次尝试时也同样成功举起这一重量，对来自中国的选手形成了一定的压力。&lt;/p&gt;
+
+&lt;p&gt;然而，22岁的柳焕华并未在压力下示弱，他在第一次尝试中便以清洁挺举的惊艳表现，举起了220公斤的重量。尽管随后他尝试再次提升8公斤，却因此出现不当的臂展动作而无效。&lt;/p&gt;
+
+&lt;p&gt;柳焕华后继挑战在泰国普吉岛4月世锦赛上创造的世界纪录413公斤，这在巴黎博览会体育馆内获得了观众雷鸣般的掌声。&lt;/p&gt;
+
+&lt;p&gt;尽管每一次试举柳焕华都竭尽全力，却都无法成功将杠铃举至头顶，最终无奈地将其降至地面。&lt;/p&gt;
+
+&lt;p&gt;“说实话，以往在抓举环节我总是认为自己是弱者。然而这次则有所不同，因此我对举重的第二部分（清洁举）准备得更加充分。”面对记者采访时，这位年轻的冠军选手如是说。&lt;/p&gt;
+
+&lt;p&gt;“我的表现远远超出了我的预期，因为在最后的训练中，我只能够举起180公斤。而得益于现场的气氛和在场观众的支持，我才得以实现超出预想的成就。”&lt;/p&gt;
+
+&lt;p&gt;“我心中松了一口气，因为在这次比赛之前，我对它的结果感到异常紧张。但能最终赢得金牌，我感到非常喜悦与欣慰。”他补充道。&lt;/p&gt;
+
+&lt;p&gt;乌兹别克斯坦的阿克巴尔·杜鲁耶夫以404公斤的总成绩获得银牌，尽管他仅在清洁举环节以219公斤获得了首次记录。&lt;/p&gt;
+
+&lt;p&gt;作为中立运动员参赛的白俄罗斯选手雅亨尼·希哈尼斯以402公斤的成绩捧得铜牌。&lt;/p&gt;
+
+&lt;p&gt;“这是一天的美丽表现，来自观众的支持非常出色。为这次比赛我已经准备了三年。我一直相信我自己能够赢得奖牌。为了我的七个月大的儿子蒂莫西，我赢得了奖牌。”这位奖牌得主如是解释。&lt;/p&gt;
+
+&lt;p&gt;利比亚的艾哈迈德·阿布祖巴在舞台上晕倒，随即接受了急救，但他仍能步入观众呼喊的鼓掌声中。&lt;/p&gt;
+
+&lt;p&gt;男子102公斤级是巴黎奥运会新增的竞赛类别，对此，国际举重联合会（IWF）在东京奥运会后调整了其项目设置。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 13:02:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/olympics/weightlifting-chinas-liu-claims-mens-102kg-category-gold-2024-08-10/</guid></item><item><title>菲律宾与中国就南海问题进行贸易指责</title><link>https://www.reuters.com/world/asia-pacific/philippine-military-condemns-china-air-force-dangerous-acts-south-china-sea-2024-08-10/</link><description>&lt;p&gt;菲律宾和中国于周六针对南海争议区域的一次航空先发事件，进行了强烈的指控互换。&lt;/p&gt;&lt;p&gt;菲律宾军方强烈谴责了中国空军的“危险及挑衅行动”，而中国的人民解放军（PLA）则声称其行事秉持专业性和合法性。&lt;/p&gt;&lt;p&gt;这是菲律宾首次对中国的空中行动表示抗议，属于危险行径，而非海军舰船或海岸警卫队执行的任务，这一情况发生在该国总统费迪南德·马科斯于二零二二年上台后。&lt;/p&gt;&lt;p&gt;中国空军的两架航空器执行了危险的机动行为，并在菲律宾空军执行常规巡逻任务至黄岩岛海域的路线上投放了信号弹，据军方的官方声明所述。&lt;/p&gt;&lt;p&gt;菲律宾军方首席执行官洛米欧·布兰纳声称：“上述行动危及了我们人员的安全，正在执行海上安全任务，且范围特定于菲律宾海域内”。克拉声称，中国航空器干扰了正当的飞行作业，并侵犯了航空安全的国际法规。&lt;/p&gt;&lt;p&gt;菲律宾航空器在遭到多次警示后，依然坚持非法侵犯黄岩岛的航空空间，此行为干扰了训练活动，据周六南方战区中国PLA报道。&lt;/p&gt;&lt;p&gt;中国海军与空军根据法律执行了认定、追踪、警报以及驱逐的任务。&lt;/p&gt;&lt;p&gt;中国PLA强调：“现场操作专业，遵循标准，合法有效”，并呼吁菲律宾停止它们所谓的侵害与挑衅行为。&lt;/p&gt;&lt;p&gt;频繁出海的菲律宾渔民经常造访斯卡伯勒礁，这是该地区长期的海洋竞技的两大争议焦点之一，中国于上个星期三，组织了对斯卡伯勒礁的联合军事巡逻行动，据路透社报道。&lt;/p&gt;&lt;p&gt;中国声称几乎整个南海，并且称为其快速通道的约三兆美元年届海运贸易中心的水域，包括菲律宾、越南、印度尼西亚、马来西亚及文莱所宣称的部分。&lt;/p&gt;&lt;p&gt;中国否决海牙永久法院于二零一六年宣布的评估，声称中国扩大的声称不符合国际法规。&lt;/p&gt;&lt;p&gt;同年五月，菲律宾指控中国渔民在斯卡伯勒礁区域进行破坏环境，采用过量使用鱼盐、采集巨型砗磲以及其他受保护的生物，以及来破坏珊瑚礁的行动，当时中国予以否定，据路透社信息表示。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 09:26:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippine-military-condemns-china-air-force-dangerous-acts-south-china-sea-2024-08-10/</guid></item><item><title>澳大利亚首次测试先进的SM-6导弹</title><link>https://www.reuters.com/world/asia-pacific/australia-tests-advanced-sm-6-naval-air-defence-missile-first-time-2024-08-10/</link><description>&lt;p&gt;澳大利亚政府于周六宣布，采用美国雷神公司&lt;sup id="NoteRefernce0" data(documentLocation="r")[1]"(RTX.N)" data-id="refernce"&gt;1&lt;/sup&gt;研发的SM-6导弹首次进行实地试射，导弹从海军战舰发射，这一壮举标志着澳大利亚在其武器库中引入与整合这套备受瞩目的防空武器系统达到了一个重要的里程碑。&lt;/p&gt;&lt;p&gt;该试射活动在夏威夷州附近由HMAS悉尼执行，作为2024年太平洋龙演习的一部分，澳大利亚国防部视其为极具意义的战略节点，该交易于2021年就已获得审批。&lt;/p&gt;&lt;p&gt;美国武装部队的SM-6导弹是其目前最高级别的海军空中防御武器系统，其功能囊括对抗弹道导弹等任务，同时亦已被验证能够对相应船只及地面目标进行打击，以及在空对空场景中生效。&lt;/p&gt;&lt;p&gt;澳大利亚国防工业与能力输送部长帕特·康纳对此表示，“这一举动进一步加速了海军的关键能力获取与强化。”她指出，防御对手在远离范围的挑衅以及阻止企图向澳大利亚投射力量是国家防御战略的核心要义。&lt;/p&gt;&lt;p&gt;面对与中国的紧张局势升级，以及美国提供的疆域内军事基地改善举措等背景，澳大利亚正在努力提升其军事实力。该举措旨在壮大海军战力，即便在冲突状况下，各级水上输送设施或可越界深入挑衅水区。&lt;/p&gt;&lt;p&gt;在今年三月，澳大利亚配合美国进行的另一场SM-6测试，提供数据收集、通讯和追踪服务，依据美国导弹防御局的资料。&lt;/p&gt;&lt;p&gt;澳大利亚政府尚未明确表示计划从美国购入多少支SM-6导弹，而据美国政府2021年审批该外国军事交易的文件，总估计成本为$350亿人民币，涵盖包含SM-6在内的导弹和早期服役的SM-2导弹。&lt;/p&gt;&lt;p&gt;周六宣布中并未详细说明何时启用这些实弹，但指出这些导弹将部署在三艘霍巴特级驱逐舰上，每艘舰能装载48枚防空导弹。&lt;/p&gt;&lt;p&gt;澳大利亚战略政策研究所高级分析员欧恩·格雷厄姆论及SM-6的多功能性能，视为澳大利亚海军有限导弹防御库的一笔极具吸引力的补充，进一步增强防舰及防空打击能力，与海军快速导弹测试的前线武器——该RAN近期展示的先进防舰导弹相互配合。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 06:35:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/australia-tests-advanced-sm-6-naval-air-defence-missile-first-time-2024-08-10/</guid></item></channel></rss>
