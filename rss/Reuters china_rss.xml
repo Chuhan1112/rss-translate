@@ -1,453 +1,711 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Thu, 15 Aug 2024 20:14:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>数据令人放心，美元保持上涨，欧元下滑</title><link>https://www.reuters.com/markets/currencies/dollar-soft-ebbing-us-inflation-sets-stage-rate-cuts-2024-08-15/</link><description>&lt;p&gt;在周四，美元维持着对欧元的升值势头，将区域共同货币拉回了七个月以来的高峰。这是由于美国公布的数据，减轻了经济衰退的风险担忧以及市场对于大规模降息预期的衰减。&lt;/p&gt;
-&lt;p&gt;7月份，美国零售销售额显著高于市场预期的增长，这表明消费需求并未陷入崩溃状态，并可能促使金融市场调整对于下月利率下调50个基点的期望。&lt;/p&gt;
-&lt;p&gt;此外，最新一周，多于预期的美国人并未提交失业救济申请，意味着劳动力市场有序放缓的态势尚在，然而被解雇的工作者在寻觅新就业机会时遭遇了一定的阻力。&lt;/p&gt;
-&lt;p&gt;欧元对于美元的下跌达到0.36%，变为$1.0973，而上一日到达$1.10475，成为今年的最高点，这是市场消化了美国通胀数据的结果。&lt;/p&gt;
-&lt;p&gt;美元指数上升了0.42%，达到了103.03点，并走远了上周触及的八个月低点，即102.15点。&lt;/p&gt;
-&lt;p&gt;金融市场管理团队的法国巴黎资产管理公司的FX投资组合经理彼得·华勒洛佐表示：“今早所发布数据，对于此前市场关于美联储_stealthy于消失而大幅后退，为避免经济衰退而必须提供超级激进的降息行动这一市场叙述产生了反·制作用，市场定价已随之调整，当下的短期美国利率已显著上行。”&lt;/p&gt;
-&lt;p&gt;英镑上涨0.17%，至$1.2849，根据数据理显示，英国经济增长了0.6%于第二季度，与经济学家们的预期相匹配，并在此基础上延续了一季度迅速复苏的0.7%。&lt;/p&gt;
-&lt;p&gt;英镑也对欧元有所增强，而后者跌至了0.53%，变为85.38便士。&lt;/p&gt;
-&lt;p&gt;美国的这些数据发布紧接着周三消费者价格指数的公布——显示在7月份价格适度增长，符合预期，而今年的通货膨胀年率跌破3%，是自2021年初以来的首次。&lt;/p&gt;
-&lt;p&gt;该数据进一步支持了7月份生产者价格仅呈温和增长，从而暗示着通货膨胀趋势呈下行之势，但如今市场预计美联储并不会如其此前所期望的那般激进地执行降息行动。&lt;/p&gt;
-&lt;p&gt;全球经济策略师卡尔·施马托，在Corpay公司任职，表示：“今早的数据悍然粉碎了在美联储于九月份会议中进行0.5%利率下调的所有押注。”&lt;/p&gt;
-&lt;p&gt;“对于美国经济硬着陆的担忧几乎已全部被消除”，他说到，“而美联储官员们被认为正在对于减轻周期的起点采取谨慎响应措施。”&lt;/p&gt;
-&lt;p&gt;目前，CME美联储观察工具预计在下月进行25个基点降息的可能性为74.5%，而50个基点的降息机会为25.5%。市场在一周前，降息选项呈现出均分状态，紧跟在上周的市场恐慌之后。&lt;/p&gt;
-&lt;p&gt;日元的汇率已升至每美元149.13，远离了在本月早些时候市场动荡中达到的七个月高点141.675美元，以及本年7月初触及的38年低点161.96日元。&lt;/p&gt;
-&lt;p&gt;围绕汇率的干预，东京上月早些时候以及本月底突然宣布的日本中央银行的加息举措，令通过流行押注“汇率差异交易”的投资者措手不及，提振了日元的汇率。&lt;/p&gt;
-&lt;p&gt;全球货币市场正经受着巨大的震荡，美元对竞争对手的汇率攀升主要由于利息差异题目，卡尔·施马托回到说：“关于美国例外主义”交易的说法，被夸大了。&lt;/p&gt;
-
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Fri, 16 Aug 2024 06:59:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>中国步履蹒跚的经济增长重振了现金券的讨论</title><link>https://www.reuters.com/world/china/chinas-faltering-growth-revives-cash-vouchers-talk-2024-08-16/</link><description>
+&lt;p&gt;新一轮中国经济数据表现严重不佳，导致北京面临进一步放松财政政策的压力，甚至可能发放购物券以刺激增长，以期实现今年约5%的增长目标。&lt;/p&gt;
+&lt;p&gt;在经历了黯淡的&lt;a href="https://www.reuters.com/markets/asia/chinas-economy-seen-slowing-q2-stimulus-calls-grow-2024-07-14/"&gt;第二季度&lt;/a&gt;后，全球第二大经济体在七月进一步失去了增长动力：新&lt;a href="https://www.reuters.com/markets/asia/chinas-home-price-slump-deepens-july-new-9-year-low-2024-08-15/"&gt;房价下跌&lt;/a&gt;的速度为九年来最快，&lt;a href="https://www.reuters.com/markets/asia/chinas-factory-output-growth-slows-third-straight-month-2024-08-15/"&gt;工业产出&lt;/a&gt;放缓，出口和投资增长下降，失业率上升。&lt;/p&gt;
+&lt;p&gt;其他数据显示虽超出预期，但原因并不乐观。涨幅较大的&lt;a href="https://www.reuters.com/markets/asia/chinas-july-consumer-prices-jump-faster-than-expected-producer-deflation-2024-08-09/"&gt;通货膨胀&lt;/a&gt;归因于恶劣天气而非国内需求增强，进口激增反映了在预期的美国技术限制到来之前，企业对芯片的大量采购，而零售销售的增长得益于2023年的低基数。&lt;/p&gt;
+&lt;p&gt;总的来说，数据描绘出一幅令人担忧的政策制定图景，他们越来越有可能加大刺激力度，除非他们接受增长放缓和消费者、商业信心衰退的螺旋式下跌前景。&lt;/p&gt;
+&lt;p&gt;UBP亚洲高级经济学家卡洛斯·卡萨诺瓦表示：“当前的经济表现尚不及目标，亟需立即执行并具有显著成效的政策干预。”他表示，这可能需要政府将预算赤字扩大到国内生产总值（GDP）的4%，而原计划为3%。&lt;/p&gt;
+&lt;p&gt;一位不愿透露姓名的政策顾问表示，如果增长在夏季不能显示出触底迹象，北京可能在十月决定前移部分明年债券发行额度。&lt;/p&gt;
+&lt;p&gt;这位顾问说：“否则，经济将显得难看，5%的增长目标将无法实现。”但他没有详细说明这些刺激措施何时实施。&lt;/p&gt;
+&lt;p&gt;中国去年十月采取了类似措施，将赤字从3.0%提高至3.8%的GDP，并人为提前了一部分2024年地方政府债务额度，用以投资防洪和其他基础设施建设。&lt;/p&gt;
+&lt;p&gt;可能发生变化的是，如何使用额外资金。&lt;/p&gt;
+&lt;p&gt;在连续数十年的桥梁、道路和铁路投资后，基础设施投资的常用策略正在带来收益逐渐缩小的挑战。与此同时，中国首选的增长动力——&lt;a href="https://www.reuters.com/world/china/chinas-xi-summons-new-productive-forces-old-questions-linger-economy-2024-03-05/"&gt;先进制造业&lt;/a&gt;——正在加剧贸易摩擦，以及对工业&lt;a href="https://www.reuters.com/graphics/CHINA-USA/TRADE/zdvxneaaxvx/"&gt;产能过剩&lt;/a&gt;和工厂门口&lt;a href="https://www.reuters.com/world/china/chinas-tumbling-prices-push-some-exporters-brink-2024-02-04/"&gt;通缩&lt;/a&gt;的担忧。&lt;/p&gt;
+&lt;p&gt;法国兴业银行分析师在最新数据报告中写道：“鉴于其规模，中国经济单靠制造业和出口是无法持续运行的。”&lt;/p&gt;
+&lt;p&gt;“要实现5%的增长目标——如果这仍然是一个目标——政策制定者需要加大对国内需求的扶持力度。”&lt;/p&gt;
+&lt;p&gt;随着消费者收紧钱包，中国电商巨头不得不通过大幅度打折和促销活动来吸引顾客，这压低了整个零售行业的利润率。&lt;/p&gt;
+&lt;p&gt;周四，阿里巴巴集团控股&lt;a href="https://www.reuters.com/business/retail-consumer/chinas-e-commerce-giant-alibaba-misses-first-quarter-revenue-estimates-2024-08-15/"&gt;&lt;a href="https://www.reuters.com/markets/companies/9988.HK" target="_blank"&gt;(9988.HK)&lt;/a&gt;&lt;/a&gt;未能达到市场对营收的预期，因为公司的国内电商销售受谨慎支出影响。&lt;/p&gt;
+&lt;p&gt;七月份的一次高层&lt;a href="https://www.reuters.com/world/china/chinas-leaders-vow-step-up-policy-support-economy-2024-07-30/"&gt;&lt;a href="https://www.reuters.com/world/china/china-needs-more-than-incremental-consumer-stimulus-longer-term-2024-08-01/"&gt;&lt;a href="https://www.reuters.com/world/china/china-needs-more-than-incremental-consumer-stimulus-longer-term-2024-08-01/" target="_blank"&gt;政策会议&lt;/a&gt;&lt;/a&gt;承诺对消费者刺激措施进行增量调整，这被分析师视为官方承认前一套工具效果未达预期。&lt;/p&gt;
+&lt;p&gt;本周，一篇政府媒体的报道重温了在大流行期间在美国和其他地方实施，但在中国受到抵制的一个想法。&lt;/p&gt;
+&lt;p&gt;据国家统计局称，中国日报援引政府背景智库的三位经济学家的话说，政府“应考虑至少提供1万亿人民币（1390亿美元）的额外直接消费者支持——无论是现金还是优惠券。”&lt;/p&gt;
+&lt;p&gt;这笔资金相当于去年GDP的0.8%。&lt;/p&gt;
+&lt;p&gt;文章表示，这样的举措“需要有扩大今年赤字比率或批准额外的特别国债”，清华大学中国经济实践与研究中心主任李稻葵在引用时表示，在十月的国庆假期期间发放消费券是“明智的”。&lt;/p&gt;
+&lt;p&gt;鉴于过去对这一举措的抵制，大多数经济学家对北京是否会实施这样的措施持怀疑态度。在大流行期间，官员们更喜欢支持企业，而让消费者自行应对。&lt;/p&gt;
+&lt;p&gt;澳新银行高级中国策略师邢振鹏表示，这种购物券的影响将是一次性的，只有当受到冲击的&lt;a href="https://www.reuters.com/world/china/china-sees-property-silver-lining-cant-shake-japan-comparisons-2024-06-04/"&gt;&lt;a href="https://www.reuters.com/world/china/china-sees-property-silver-lining-cant-shake-japan-comparisons-2024-06-04/" target="_blank"&gt;房地产市场&lt;/a&gt;&lt;/a&gt;和股市开始复苏时，消费才会实现持续的提振。&lt;/p&gt;
+&lt;p&gt;邢振鹏估计，家庭财产值从6百万万亿元的高点下降了20%-30%，其降幅与中国的年度经济产出相当。&lt;/p&gt;
+&lt;p&gt;邢振鹏说：“人们在收到优惠券的月份会消费。只有房地产和股价的上升才能使消费持续运转。”&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="人们站在北京中央商务区（CBD）CCTV总部和中国尊大厦附近的购物中心" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GNMH7BFZ5NKGVOADFBRBPDDSOA.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年9月7日，中国北京中央商务区（CBD）附近的购物中心，人们站在CCTV总部和中国尊大厦旁。 REUTERS/Tingshu Wang/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 06:22:19 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-faltering-growth-revives-cash-vouchers-talk-2024-08-16/</guid></item><item><title>高层领导人会晤时，中国和越南着眼于加强铁路建设</title><link>https://www.reuters.com/world/asia-pacific/rail-links-high-agenda-china-vietnam-leaders-meeting-2024-08-16/</link><description>
+&lt;p&gt;越南新任领导人阮德良下周将对华进行访问，与习近平主席会面，双方就加强贸易合作展开讨论，据悉铁路互联互通问题高度重视，官员们表示。&lt;/p&gt;&lt;p&gt;无缝铁路连接被视为供应链的关键，随着越来越多的中国制造商因中美贸易摩擦而将部分出口业务迁至越南，这一趋势日益明显。[链接](https://www.reuters.com/markets/asia/chinese-suppliers-race-vietnam-covid-let-up-opens-escape-route-sino-us-trade-war-2023-03-16/)&lt;/p&gt;&lt;p&gt;两国通过两条自中国南部至越南首都河内及北部工业枢纽的铁路相连接，但越南的铁路基础设施历史可追溯至法国殖民时期，其轨距与中国的高速铁路不同，这迫使乘客和货物需在边界处换乘火车。&lt;/p&gt;&lt;p&gt;两国共产主义领导下的邻国之间存在着长期的互不信任，曾在20世纪70年代末发生短暂边界战争，在南海问题上也经常相互冲突，这一情况长期以来阻碍了铁路联接的进展，但近几个月来，经济考虑似乎已取代了安全担忧。&lt;/p&gt;&lt;p&gt;12月，习近平向越南提供了补助金和贷款以帮助升级越南的铁路，两国签署了两项谅解备忘录（MoU）以加强铁路合作。[链接](https://www.reuters.com/world/asia-pacific/xi-visits-china-offers-rail-grants-vietnam-pushes-digital-silk-road-2023-12-11/)&lt;/p&gt;&lt;p&gt;越南外交部长裴清松声明表示，自8月初被任命为党中央委员会主席以来，阮德良此次中国之行重点关注实施已签署的协议，以及“在彼此利益领域实现新的实质性合作成果，特别是在铁路连接等领域。”&lt;/p&gt;&lt;p&gt;根据路透社所获取的摘要，本周中国驻河内大使熊波告诉当地记者，双方正在加快三线计划的实施：升级从老街至海防港市的现有铁路，途经河内，以及从禄新至河内的铁路；并建设一条沿海岸线从芒街至海防港市的新铁路。&lt;/p&gt;&lt;p&gt;越南官员表示，预计在阮德良的中国之行中，将签署包括铁路、其他投资和农产品贸易在内的新协议。&lt;/p&gt;&lt;p&gt;越南国家媒体报道，越南总理范明政在6月访问中国期间请求中国为越南铁路提供资金和技术支持，这被视为政策上的重大转变。&lt;/p&gt;&lt;p&gt;他和高级部长们最近也与中国铁路行业的领先企业高管会面，包括火车制造商CRRC[链接](https://www.reuters.com/markets/companies/601766.SS)和中国 Railway Signal &amp; Communication[链接](https://www.reuters.com/markets/companies/3969.HK)。&lt;/p&gt;&lt;p&gt;河内在2018年越南因计划加强与中国经济联系而爆发抗议活动后，对“一带一路”倡议资金的用途一直含糊其辞。&lt;/p&gt;&lt;p&gt;然而，这并未阻止中国对越南的私人投资[链接](https://www.reuters.com/business/chinas-investments-vietnam-boom-xi-visits-hanoi-us-spending-down-2023-12-08/)蓬勃发展。&lt;/p&gt;&lt;p&gt;越南计划实施一项庞大的国内铁路网络扩建计划，包括一条从河内至胡志明市的1500公里长的高速铁路，预计耗资约700亿美元，这是该国迄今为止最大的基础设施项目。&lt;/p&gt; &lt;figure&gt;&lt;img alt="越南总统阮德良在河内总统府" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GEJMTOCXPZO2TICMSSPKPM6GWM.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;越南总统阮德良与俄罗斯总统普京（未拍照）在河内总统府的新闻发布会上，2024年6月20日，周三。MINH HOANG/Pool via REUTERS/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 05:25:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/rail-links-high-agenda-china-vietnam-leaders-meeting-2024-08-16/</guid></item><item><title>美国数据平息经济衰退担忧美元坚挺</title><link>https://www.reuters.com/markets/currencies/dollar-firm-after-us-data-quells-recession-fears-2024-08-16/</link><description>
+&lt;p&gt;美元周五在美国经济数据强劲的支撑下，盘中一度触及近两周以来的高点，相较于主要货币伙伴的单日涨幅最大，这一走势几乎消除了对衰退的忧虑。&lt;/p&gt;
+&lt;p&gt;得益于周四公债收益率的大幅上涨，以及交易商削减美联储下个月可能被迫采取激进宽松措施押注，美元对日元汇率得到了额外的支撑。&lt;/p&gt;
+&lt;p&gt;对冲风险的货币，如英镑，因经济前景改善而坚挺，推动了股市的上涨。&lt;/p&gt;
+&lt;p&gt;衡量美元对日元、英镑和欧元等六大主要货币指数的美元指数，截至格林尼治标准时间0513，下跌了0.12%，至102.92点，但这继昨日夜间上涨0.41%，为7月18日以来的最大涨幅。&lt;/p&gt;
+&lt;p&gt;美元兑日元回落0.24%，至148.935日元，但仍然接近周四创下149.40日元的高点，这是自8月2日以来的最高水平。在亚洲交易时段，10年期国债收益率小幅下跌超过2个基点，至3.9035%。&lt;/p&gt;
+&lt;p&gt;商务部周四表示，上个月零售销售上涨1.0%，超出预测的0.3%增长。另份数据显示，上周有227,000美国人申请失业救济金，低于预期的235,000人。&lt;/p&gt;
+&lt;p&gt;交易商们确信美联储将在9月18日降低利率，但正在辩论减幅的大小。据CME集团的美联储观察工具显示，目前有25%的概率是一次大幅降息50个基点，较前一天下降了36%。&lt;/p&gt;
+&lt;p&gt;月初公布的异常疲软的月度就业数据将大幅降息的概率提升至71%。&lt;/p&gt;
+&lt;p&gt;Pepperstone研究部负责人Chris Weston表示：“增长前景改善，市场共识再次倾向于‘软着陆’理论。”他指出，150日元兑换1美元将是值得关注的关键水平。&lt;/p&gt;
+&lt;p&gt;“尽管风险始终存在，但在目前的数据流中，几乎没有能够真正扰乱短期情绪的因素。”&lt;/p&gt;
+&lt;p&gt;年初以来，美元兑日元首次下跌至141.675日元，这是由于日本央行对进一步加息的意外鹰派立场与美国经济衰退担忧的加剧，引发了对日元融资的套利交易的激进平仓。&lt;/p&gt;
+&lt;p&gt;日本央行副行长樱井茂之希指出，在市场波动时，央行不会提高利率，这一言论后，市场稍感平静。&lt;/p&gt;
+&lt;p&gt;值得注意的是，交易员们已经开始重新建立这些头寸，周五官方数据显示，截至8月10日的一周内，日本投资者连续12周将最多资金投入长期海外债券，而外国投资者在连续八周净卖出后，首次净买入日本短期债务。在此期间，海外投资者还购买了约35亿美元的日本股票，扭转了连续三周的净卖出局面。&lt;/p&gt;
+&lt;p&gt;与此同时，英镑上涨0.2%，至1.2879美元，加强了一夜之间的0.21%涨势。英国货币因周四公布的稳健GDP数据而获得额外支撑。&lt;/p&gt;
+&lt;p&gt;欧元上涨0.1%，至1.098225美元，前一天下跌了0.36%。&lt;/p&gt;
+&lt;p&gt;对冲风险的澳大利亚美元上涨0.33%，至0.6632美元，前一天上涨了0.2%，此前数据显示就业增长幅度远超预期。&lt;/p&gt;
+&lt;p&gt;新西兰元上涨0.6%，至0.60205美元。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="展示美国美元纸币的插图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DSRVQJ7LWZMTXLGSEYTIL4HFUM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这张插图摄于2022年7月17日。记者/Dado Ruvic/插图/档案照片。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 00:46:07 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-firm-after-us-data-quells-recession-fears-2024-08-16/</guid></item><item><title>随着经济衰退担忧减弱，亚洲股市有望每周上涨</title><link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-08-16/</link><description>
+&lt;p&gt;亚洲股市于周五势将实现周度上涨，而日本上证基准日经指数也正处于其近四年来的最佳周度走势之上，得益于从华尔街传来的乐观风险情绪，同时美元及美国国债收益率总体维持稳定。&lt;/p&gt;&lt;p&gt;在经历了上周的市场动荡之后，本周股市情绪逐渐平复，这得益于大量美国经济数据的公布，它们缓解了世界最大经济体陷入衰退的担忧，并推迟了市场对美国激进降息的预期。&lt;/p&gt;&lt;p&gt;资本经济公司首席市场经济学家联席负责人约纳斯·戈尔特曼表示：“我们认为，8月初美国数据疲软所引发的市场动荡是不成比例的。”&lt;/p&gt;&lt;p&gt;他补充说，这在很大程度上是由于某些市场拥挤的头寸迅速解仓。&lt;/p&gt;&lt;p&gt;“尽管美国经济衰退的风险略有上升，但几乎没有迹象表明更大危机正在酝酿中。”&lt;/p&gt;&lt;p&gt;MSCI亚太（除日本）地区最广泛的股票指数上升了1.3%，预定本周涨幅将超过2%，而美国期货合约亦在华尔街强劲的交易夜结束后继续上涨。&lt;/p&gt;&lt;p&gt;S&amp;P 500期货上涨了0.13%，而纳斯达克期货上涨了0.2%。EUROSTOXX 50期货上涨了0.17%，尽管FTSE期货下跌了0.06%。&lt;/p&gt;&lt;p&gt;强劲的美国零售销售数据和较低的每周失业救济金申请的数量为本周乐观的市场风险情绪提供了进一步的支撑，周二发布的温和通胀报告重申了市场对美国联邦储备即将降息的预期，但预计降息幅度将较为温和。&lt;/p&gt;&lt;p&gt;根据CME联邦观察工具，市场预计美联储下个月降息50个基点的可能性仅为25%，较上周的55%有所下降。&lt;/p&gt;&lt;p&gt;安本标准投资公司亚太除日本地区全球市场策略师大卫·赵表示：“所有数据的总和显示，通货紧缩正在持续，美联储几乎肯定会在9月降息25个基点。”&lt;/p&gt;&lt;p&gt;“但我确实认为，7月份的通胀报告降低了超大量降息的可能性，尽管这从未是既定的目标。”&lt;/p&gt;&lt;p&gt;截至周五，日本尼崎指数几乎上涨了3%，在亚洲其他基准指数表现优异，而中国的沪市A股小幅上涨，香港恒生指数上涨了2.1%。&lt;/p&gt;&lt;p&gt;随着上周因日元融资交易解仓所带来的巨大损失，尼崎指数有望实现约8%的周度上涨，这是自2020年4月以来的最佳表现。&lt;/p&gt;&lt;p&gt;周五的涨幅部分得益于日元的走弱，日元兑美元汇率为148.90，接近上一次的近两周低点149.40，远低于前一周七个月来的高点。&lt;/p&gt;&lt;p&gt;瑞士法郎在上周的避险资金涌入中大幅上涨，最后兑美元交投于0.8712，预计本周将下跌超过0.6%。&lt;/p&gt;&lt;p&gt;其他货币方面，欧元试图突破1.10美元的水平，在对美元走强的背景下挣扎，而美国国债收益率大幅上升。&lt;/p&gt;&lt;p&gt;两年期收益率在近一周内徘徊在最高水平，最后交投于4.0749%，而基准的10年期收益率稳定在3.9035%。&lt;/p&gt;&lt;p&gt;在商品市场，油价周五小幅下跌，但预计将实现周度上涨，随着美国作为世界最大石油消费国的乐观数据出台，减轻了投资者的担忧。&lt;/p&gt;&lt;p&gt;布伦特原油期货下跌了0.35%至每桶80.76美元，而美国西德克萨斯中质原油期货下跌了0.5%至每桶77.78美元。尽管如此，两种原油均预期实现超过1%的周度上涨。&lt;/p&gt;&lt;p&gt;现货金价下跌了0.13%，至每盎司2,452.77美元。&lt;/p&gt; &lt;figure&gt;&lt;img alt="A woman is reflected on an electronic stock quotation board outside a brokerage in Tokyo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PV3QOYUKSVKHXNH64NUWSE2CMU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;A woman is reflected on an electronic stock quotation board outside a brokerage in Tokyo, Japan, August 6, 2024. REUTERS/Willy Kurniawan/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 01:38:13 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-08-16/</guid></item><item><title>诈骗者的目标是在经济不景气的情况下急需就业的中国年轻人</title><link>https://www.reuters.com/world/china/scammers-prey-young-chinese-desperate-jobs-bleak-economy-2024-08-16/</link><description>
+&lt;p&gt;一位中国母亲在电视媒体上公开寻求为其19岁患有智力障碍的儿子伸张正义，因诈骗犯诱使这位绝望的求职者接受乳腺增容手术，该事件引发了社会各界广泛的愤慨。&lt;/p&gt;&lt;p&gt;这位年轻人在武汉市中心的一家美容整形诊所寻求工作机会时，被告知这项手术有助于他通过直播赢得追随者，从而赚取金钱。&lt;/p&gt;&lt;p&gt;该诊所甚至说服他借款30,000元（合4,180美元）来支付手术费用，他的母亲在上星期的一档电视节目中表示。&lt;/p&gt;&lt;p&gt;“为了金钱，人们可以抛弃人性，”中国微博社交媒体平台上的2600多条评论中的一位写道，该评论关于男孩困境的帖子吸引了超过2700万次的观看。&lt;/p&gt;&lt;p&gt;“比野兽还要可恶！”另一位网民评论道。&lt;/p&gt;&lt;p&gt;在电视台和法律人士的帮助下，母亲成功取消了贷款，但胸部手术已经完成。&lt;/p&gt;&lt;p&gt;随着经济的放缓，中国的招聘欺诈、虚假广告和贷款陷阱等现象日益猖獗，至上级法律检察机关去年表示，骗子正将目标对准更具易受骗性的学生和应届毕业生。&lt;/p&gt;&lt;p&gt;今年夏天，共有1179万名学生毕业，作为全球第二大经济体，中国在应对一系列危机，包括贸易战、COVID-19的后遗症、持续的房地产市场危机和谨慎的消费支出等方面疲于应付。&lt;/p&gt;&lt;p&gt;年轻人群中的就业危机可能检验执政的中国共产党的经济领导力，该党多次呼吁人们“听从党的号召”。&lt;/p&gt;&lt;p&gt;今年，习近平主席表示，解决年轻人的就业问题是首要任务，并表达了对他们就业前景的担忧。&lt;/p&gt;&lt;p&gt;去年6月，青年失业率创下了21.3%的历史新高，促使中国暂停发布备受关注的基准失业率，并表示仍在校的学生不应计入失业人数。&lt;/p&gt;&lt;p&gt;无法追踪所有16至24岁之间的求职者，但国家统计局的一名发言人去年表示，其中3300万人正在寻找工作。&lt;/p&gt;&lt;p&gt;国家统计局发言人刘爱华在周四的新闻发布会上说：“就业压力依然存在。”此前数据显示，7月份中国的整体失业率上升至四个月来最高点。&lt;/p&gt;&lt;p&gt;“关键群体在就业方面仍面临压力（的压力）。”&lt;/p&gt;&lt;p&gt;上个月另一起备受瞩目的诈骗事件中，一名大学生寻求送餐兼职时被说服签署了一份为期一年的电动自行车租赁合同。&lt;/p&gt;&lt;p&gt;一名假装是流行送餐服务美团招聘专员的车租赁店工作人员告诉该学生，在开始工作之前他必须租一辆自行车。&lt;/p&gt;&lt;p&gt;几周后，该学生意识到他的收入远低于“数万元”的承诺，而且连月租都无法承担。&lt;/p&gt;&lt;p&gt;“找工作已经很困难，现在我们还必须小心诈骗，”一位微博网友表示。&lt;/p&gt;&lt;p&gt;当局表示，就业前景黯淡已促使一些学生成为骗子。&lt;/p&gt;&lt;p&gt;检察机关表示，2023年头十个月，18岁以下涉嫌电信和互联网诈骗的人数年增长率为68%，该检察机关去年11月表示。&lt;/p&gt;&lt;p&gt;报告还指出，加入诈骗集团的年轻毕业生人数也有所增加。&lt;/p&gt;&lt;p&gt;他的母亲在电视上表示，武汉少年的创伤因再次进行手术移除乳房假体而加剧。&lt;/p&gt;&lt;p&gt;“看到儿子胸下的两道疤痕，我心痛不已，”她补充道。&lt;/p&gt;&lt;p&gt;（美元兑人民币汇率为1:7.1735）&lt;/p&gt; &lt;figure&gt;&lt;img alt="焦点：中国年轻人面临就业不确定性" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5PQLMMTOXZLINL5IPQOZT5SNT4.jpg" /&gt;     &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2016年2月24日，北京郊区一个非官方招聘市场上，一名招聘员手持招聘招牌与年轻男士交谈。路透社/Damir Sagolj/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 05:02:02 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/scammers-prey-young-chinese-desperate-jobs-bleak-economy-2024-08-16/</guid></item><item><title>外长表示中国将支持缅甸民主转型</title><link>https://www.reuters.com/world/asia-pacific/china-will-support-democratic-transition-myanmar-says-foreign-minister-2024-08-16/</link><description>
+&lt;p&gt;我国将支持缅甸实现民主转型，并赞同区域性的解决方案以缓解东南亚国家陷入的持续危机，外交部长王毅于星期五在访问泰国期间发表此言论。&lt;/p&gt;
+&lt;p&gt;王毅在媒体发布会上作出上述评论是在他本周访问 Conflict-ridden country，并与缅甸军政府领导人敏昂莱（Min Aung Hlaing）会晤后。&lt;/p&gt;
+&lt;p&gt;他表示：“我国将继续坚定致力于恢复缅甸的和平与稳定。”&lt;/p&gt;
+&lt;p&gt;据军政府媒体报道，我国承诺提供技术支持及援助，以协助进行人口普查，并随后举行一年内计划举行的选举。&lt;/p&gt;
+&lt;p&gt;自2021年2月起，缅甸陷入动荡，当时军方发动政变罢黜民选政府，骤然终止了这个贫困国家成为真正民主国家的初步努力。&lt;/p&gt;
+&lt;p&gt;王毅在泰国出席区域性会议时表示，我国还支持由东南亚国家联盟（东盟）达成的和平计划，即众所周知的“五点共识”，以解决缅甸危机。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="在万象国家大会中心举行的第57届东盟外长会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BKHW65CKWNIDTPPUYG74YF7Y7I.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;我国外交部长王毅于2024年7月27日参加在老挝万象国家大会中心举行的第14届东亚峰会外长会议第57届东盟外长会议。照片由Chalinee Thirasupa提供，REUTERS。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 04:30:02 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/china-will-support-democratic-transition-myanmar-says-foreign-minister-2024-08-16/</guid></item><item><title>美国议员因担心中国网络攻击而敦促对 WiFi 路由器制造商 TP-Link 进行调查</title><link>https://www.reuters.com/world/us/us-lawmakers-urge-probe-wifi-router-maker-tp-link-over-fears-chinese-cyber-2024-08-15/</link><description>
+&lt;p&gt;两名美国议员要求拜登政府调查中国的TP-Link Technologies Co.及其附属公司，因其广泛使用的WiFi路由器可能带来的国家安全风险，担心这些路由器可能被用于针对美国的网络攻击。&lt;/p&gt;
+&lt;p&gt;共和党众议员约翰·穆尔纳尔和美国民主党众议员拉贾·克里什纳莫伊蒂，作为众议院中国特设委员会的领导者，在周二的一封信中向美国商务部提出了这项调查请求，该信被路透社获得。&lt;/p&gt;
+&lt;p&gt;根据研究公司IDC的数据，专注于消费者市场的TP-Link，是全球单位销售量领先的无线路由器生产商。&lt;/p&gt;
+&lt;p&gt;在呼吁进行调查时，美国立法者指出TP-Link固件的已知漏洞及其路由器被用于针对欧洲国家的政府官员的实例。&lt;/p&gt;
+&lt;p&gt;“……我们要求商务部核实（与中国有联系的SOHO）路由器带来的威胁——尤其是由全球最大制造商TP-Link提供的产品，”信中向商务部长金·拉莫诺德表达。&lt;/p&gt;
+&lt;p&gt;他们将此称为一个“明显的国家安全问题”。&lt;/p&gt;
+&lt;p&gt;商务部表示将通过适当渠道回复信件。中国大使馆表示，希望当局在识别与网络相关的事件时，“能够拥有足够的证据，而不是无端推测和指控”。&lt;/p&gt;
+&lt;p&gt;成立于中国并于深圳注册的TP-Link在一份声明中表示，公司并未在美国销售任何路由器产品，并且其路由器没有网络安全漏洞。&lt;/p&gt;
+&lt;p&gt;这封信标志着日益增长的担忧，即北京可能利用中国产的路由器和其他设备对美国政府和企业进行网络攻击。&lt;/p&gt;
+&lt;p&gt;去年，美国及其盟友和微软披露了一场与中国共产党政府有关联的名为“台风伏尔泰”的网络攻击活动。攻击者通过控制私人拥有的路由器，试图隐藏对美国关键基础设施的后续攻击。&lt;/p&gt;
+&lt;p&gt;然而，大约受影响的绝大多数路由器似乎都来自思科和NetGear，司法部在一月份表示。&lt;/p&gt;
+&lt;p&gt;去年，美国网络安全和基础设施局表示，TP-Link路由器存在一个可以被用来执行远程代码的漏洞。&lt;/p&gt;
+&lt;p&gt;大约在同一时间，美国网络安全公司Check Point报告称，与一个中国赞助的政府支持团体有关的黑客使用恶意固件增加了TP-Link的目标，以针对欧洲的外交事务官员。&lt;/p&gt;
+&lt;p&gt;商务部有权在产品构成国家安全风险的情况下，禁止或限制美国企业与来自中国、俄罗斯、古巴、伊朗、朝鲜和委内瑞拉等“外国敌对国家”的互联网、电信和科技公司之间的交易。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="美元钞票插图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LTL7SFATHBOFHIKBSZLKTIPEKE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;一位于2017年6月22日拍摄的美国美元钞票插图照片odable谨小慎微版权所有&lt;/figcaption&gt;&lt;/figure&gt;
-
+&lt;img alt="美国与中国共产党战略竞争特别委员会在华盛顿国会山举行听证会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SFLEYREHU5O2DIRYNQRJ4XEKIY.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国国会众议员拉贾·克里什纳莫伊蒂（D-IL）在美国与中国共产党战略竞争特别委员会上质询前美国国务卿迈克尔·蓬佩奥和前中央情报局局长、前美国国防部长莱昂·巴内塔，地点在华盛顿的美国国会山，2024年1月30日。 REUTERS/Nathan Howard/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:04:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/us-lawmakers-urge-probe-wifi-router-maker-tp-link-over-fears-chinese-cyber-2024-08-15/</guid></item><item><title>澳大利亚和新西兰表示 AUKUS 协议将在战略挑战中加强安全</title><link>https://www.reuters.com/world/australia-nz-say-aukus-deal-boost-security-amid-strategic-challenges-2024-08-16/</link><description>
+&lt;p&gt;澳大利亚及新西兰领导人于周五表示，澳新美三边防务协议将提升区域安全与稳定，同时两国警告，它们正面临自第二次世界大战以来最为严峻的战略环境。&lt;/p&gt;&lt;p&gt;新西兰并非美国、澳大利亚和英国之间防务协议的一方，但一直致力于探讨在协议“第二支柱”方面的潜在合作，该支柱着重于共享军用技术。&lt;/p&gt;&lt;p&gt;AUKUS协议的“第二支柱”与旨在向澳大利亚提供核动力潜艇的第一支柱相区别。&lt;/p&gt;&lt;p&gt;澳大利亚总理安东尼·艾博恩在与新西兰总理克里斯托弗·卢克森的新闻发布会上表示：“我们秉持着诸多共同价值观和目标，因此，我们将在任何可能的机遇中探讨将新西兰纳入‘第二支柱’之中，实为意料之中。”&lt;/p&gt;&lt;p&gt;美国表示，新西兰参与AUKUS的大门敞开。&lt;/p&gt;&lt;p&gt;此番言论是在美国国务院于周四宣布，澳大利亚、英国和美国现在拥有可媲美的出口管制制度之后发出的，这是促进AUKUS技术共享的重大一步。&lt;/p&gt;&lt;p&gt;卢克森表示，澳大利亚与新西兰之间作为唯一正式的防务盟友的安全关系将保持紧密。&lt;/p&gt;&lt;p&gt;卢克森称：“我们的目标是实现与澳大利亚国防部队的全面兼容性。”两国去年签署了一项协议，旨在提升军事人员的素质和战备能力。&lt;/p&gt;&lt;p&gt;在艾博恩和卢克森在堪培拉会晤之后发布的联合声明中，他们承诺“以前所未有的同步合作确保我们国家的安全与繁荣”。&lt;/p&gt;&lt;p&gt;两位总理表示，他们对“南海的危险、破坏性和挑衅行为”表示严重关切，并强调实现台海两岸和平与稳定的重要性。&lt;/p&gt;&lt;p&gt;两位领导人强调来自网络入侵的威胁，并表示如果黑客攻击威胁到任何一国的领土完整、政治独立或安全，他们将会将黑客攻击视为武装攻击。&lt;/p&gt;   &lt;figure&gt;&lt;img alt="新西兰总理克里斯托弗·卢克森访问澳大利亚" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NPZMTFQT7BL2NKLJT6VOMCAEXI.jpg" /&gt; 	  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;澳大利亚总理安东尼·艾博恩和新西兰总理克里斯托弗·卢克森在澳大利亚堪培拉国会大厦举行的新闻发布会上，2024年8月16日。 REUTERS/Tracey Nearmy&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="新西兰总理克里斯托弗·卢克森访问澳大利亚" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OLCZU5ZDS5ORTCIA5JQYPT2POE.jpg" /&gt; 	  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;新西兰总理克里斯托弗·卢克森和澳大利亚总理安东尼·艾博恩在澳大利亚堪培拉国会大厦举行的新闻发布会上，2024年8月16日。 REUTERS/Tracey Nearmy&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="新西兰总理克里斯托弗·卢克森访问澳大利亚" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WEUGKZWUNBJFVDIDUAT5EW63GI.jpg" /&gt; 	  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;澳大利亚总理安东尼·艾博恩在堪培拉举行的新闻发布会上，与新西兰总理克里斯托弗·卢克森一起面对媒体，2024年8月16日。 REUTERS/Tracey Nearmy&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 02:52:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/australia-nz-say-aukus-deal-boost-security-amid-strategic-challenges-2024-08-16/</guid></item><item><title>中国将对入境人员和货物进行麻疹病毒监测</title><link>https://www.reuters.com/world/china/china-monitor-arrivals-people-goods-mpox-virus-2024-08-16/</link><description>
+&lt;p&gt;中国海关总署于本周五发布声明，称未来六个月内将对输入国的人员和货物进行猴痘病毒的监测，此声明发布于世界卫生组织将猴痘病毒再度宣布为全球公共卫生紧急状态之际。该病毒疫情已经在刚果民主共和国爆发，并蔓延至周边国家。&lt;/p&gt;&lt;p&gt;声明中强调，受猴痘疫情影响的国家的相关人员，若曾与猴痘病患有过接触或出现相关症状，应主动向海关申报。世界卫生组织已将猴痘更名为mpox。&lt;/p&gt;&lt;p&gt;此外，声明还提到，来自猴痘确诊病例所在地区的车辆、容器和货物必须进行消毒处理。&lt;/p&gt;&lt;p&gt;世界卫生组织于周三将mpox再次宣布为全球公共卫生紧急状态，这是继两年前首次宣布后的再次重申。此次疫情爆发于刚果民主共和国，随后扩散至邻近国家。&lt;/p&gt;&lt;p&gt;去年，中国国家卫生健康委员会宣布将mpox列为乙类传染病，允许官员在发生传染病疫情时采取紧急措施，如限制集会、暂停工作和学校或封锁区域。&lt;/p&gt;&lt;p&gt;目前，乙类传染病还包括COVID-19、艾滋病和SARS。mpox可通过密切接触传播，通常症状轻微，但在罕见病例中可能导致死亡。该病毒会导致类似流感症状和全身脓疱性病变。&lt;/p&gt;&lt;figure&gt;&lt;img alt="Beijing Daxing International Airport travelers" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PAPQMGXYBRMY3MSTK66RQJQPRE.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;北京大兴国际机场旅客携行李于2023年4月24日走在机场内。路透社/Tingshu Wang/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 02:22:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-monitor-arrivals-people-goods-mpox-virus-2024-08-16/</guid></item><item><title>TikTok 在法庭上诉中对美国关于中国关系的主张提出异议</title><link>https://www.reuters.com/legal/tiktok-disputes-us-claims-china-ties-court-appeal-2024-08-16/</link><description>
+&lt;p&gt;抖音于周四向一家联邦上诉法院提交声明，称美国司法部对该社交应用与中国关系的陈述存在不实之词，并敦促法院推翻一项要求中国公司字节跳动出售其在美国资产的法律，否则将面临禁令。&lt;/p&gt;&lt;p&gt;已对该法律提起诉讼以寻求推翻的抖音表示，司法部在案件中对事实的陈述存在错误。该部门的律师上个月声称，由于该应用允许中国政府搜集美国人民的数据并秘密操控他们所能看到的内容，该应用构成了国家安全的潜在威胁。&lt;/p&gt;&lt;p&gt;抖音在周四声明中强调，该应用的内容推荐引擎和用户数据存储在美国由甲骨文运营的云端服务器上，同时受美国政策影响的内容审查决策也均在美国作出。&lt;/p&gt;&lt;p&gt;该法律于4月24日由总统乔·拜登签署，赋予字节跳动至1月19日的时间出售抖音或面临禁令。白宫表示，希望基于国家安全考虑结束中国企业的所有权，但不希望禁止抖音。&lt;/p&gt;&lt;p&gt;上诉法院将于9月16日就这一法律挑战举行口头辩论，将抖音的命运问题推向11月5日总统选举的最后一周。&lt;/p&gt;&lt;p&gt;共和党总统候选人唐纳德·特朗普已加入抖音，并在6月表示他永远不会支持对抖音的禁令。&lt;/p&gt;&lt;p&gt;民主党总统候选人、副总统卡马拉·哈里斯于7月加入抖音，并将社交媒体作为其竞选策略的一部分。&lt;/p&gt;&lt;p&gt;抖音在周四辩称，该法律将剥夺该公司的言论自由权利，反驳了司法部关于短视频应用的内容编排决策是“外国人的言论”且不受美国宪法保护的论点。&lt;/p&gt;&lt;p&gt;“根据政府的逻辑，一家重新发布外国出版物内容的美国报纸——例如路透社——将缺乏宪法保护，”该公司表示。&lt;/p&gt;&lt;p&gt;该法律禁止像苹果公司（AAPL.O）和谷歌公司这样的应用商店提供抖音，并禁止互联网托管服务支持抖音，除非字节跳动将其出售。&lt;/p&gt;&lt;p&gt;在美国立法者中对中国可能通过该应用获取美国人数据或进行间谍活动的不安推动下，国会在该法案提出几周后便以压倒性多数通过了这一举措。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="插画展示了美国国旗和抖音标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BJJIZL6AEJPHNJKFJCMGDSXEEE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;此幅于2024年3月20日拍摄的插画中，美国国旗置于抖音标志之上。路透社/Dado Ruvic/插图/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 01:54:05 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/legal/tiktok-disputes-us-claims-china-ties-court-appeal-2024-08-16/</guid></item><item><title>盈利超出预期 京东股价将上涨 6.5%</title><link>https://www.reuters.com/business/retail-consumer/jdcom-shares-set-rise-65-after-earnings-beat-forecasts-2024-08-16/</link><description>
+&lt;p&gt;香港交易所上市的京东集团（9618.HK）股价预期周五将上扬6.5%，此前该集团公布季度利润超出预期，得益于一系列降价措施，吸引了注重成本的消费者涌入其平台。&lt;/p&gt;&lt;p&gt;京东集团在香港的股价预计开盘价为每股105.80港元。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="北京快递员头盔上可见京东Logo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IHISB25HSVJ6DNC6WKF4XS776U.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2014年6月16日，中国北京，一名快递员头盔上可见的京东Logo。图片拍摄于2014年6月16日。图片由路透社Jason Lee提供，文件照片。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 01:26:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/jdcom-shares-set-rise-65-after-earnings-beat-forecasts-2024-08-16/</guid></item><item><title>中国的老年游客可能为旅游公司带来一线希望</title><link>https://www.reuters.com/world/china/chinas-senior-tourists-could-be-silver-lining-travel-firms-2024-08-16/</link><description>
+&lt;p&gt;旅行社正押注，若他们对旅游产品进行适当调整以规避价格激增，并向其目标客群——老年游客团队——提供包括护士在内的医疗保健专业人员以及优惠折扣，中国旅游业有望重返疫情前繁荣的日子。&lt;/p&gt;
+&lt;p&gt;随着中国人口的迅速老龄化，以及许多中产阶级面临职业不确定性及经济增长放缓，所谓的银色旅游正日益兴起，越来越多的退休者在国内外展开旅行，特别是富裕的海滨城市中的老年人。&lt;/p&gt;
+&lt;p&gt;这些长者在过去四十年的震撼经济增长中积累了大量的储蓄，并且他们的年龄比其他退休者年轻，因为女性可在50岁、男性可在60岁退休，离开职场。许多老人没有孙辈，因此他们有更多的空闲时间。&lt;/p&gt;
+&lt;p&gt;如今，国内外旅行社和地方旅游局开始根据这一不断增长的群体需求定制其服务。&lt;/p&gt;
+&lt;p&gt;威赛克巡游公司中国产品开发与市场营销高级副总裁魏汉文表示：“我们开始看到越来越多的老年中国消费者不仅财富殷实，更重要的是，他们乐于投资于高品质的生活方式和个人发展。”&lt;/p&gt;
+&lt;p&gt;谈及一生节俭开支的一代中国人，魏汉文表示：“这是一个消费心态的重大转变。”&lt;/p&gt;
+&lt;p&gt;目前约3亿人年龄在50至60岁之间——几乎等同于美国总人口，预计未来10年内这些人将陆续退休，中国老龄委员会预计到2040年银色旅游将占国内旅游的50%。&lt;/p&gt;
+&lt;p&gt;今年6月，总部位于瑞士的威赛克巡游公司（VIKI.UL）和上海老年大学，一所致力于为老年人提供课程的学校，宣布建立合作伙伴关系，将历史与文化课程与亚洲沿海地区和欧洲河流的行程相结合。&lt;/p&gt;
+&lt;p&gt;威赛克邮轮的船只配备了无障碍电梯、走廊扶手、带大字电视遥控器和便于老年人使用的洗浴设施。一个新的面条吧开放，供应早餐。&lt;/p&gt;
+&lt;p&gt;上海铁路局也于今年开始瞄准老年旅游者，推出了10列长距离观光火车，这些火车行驶在风景优美的线路，针对50至70岁希望体验“地方风俗和文化资源多样性的”乘客。&lt;/p&gt;
+&lt;p&gt;这些火车穿越黄山东部悬崖或丽水梯田，配备了护士并提供医疗保健服务。&lt;/p&gt;
+&lt;p&gt;旅行者陶文表示，配备医疗保健服务让她“感到安心”。这位56岁的退休人员在去年辞职后，便开始在中国和东南亚旅行。&lt;/p&gt;
+&lt;p&gt;陶文表示：“公司需要了解我们的消费习惯与年轻人不同。” “我们重视成本效益。”&lt;/p&gt;
+&lt;p&gt;在中国，酒店连锁希尔顿（HLT.N）为65岁以上人士提供高达6%的优惠折扣，并为他们组织茶艺和健康课程。&lt;/p&gt;
+&lt;p&gt;希尔顿大中华区高级副总裁黄文迪表示：“老年消费浪潮无疑是可见的。”&lt;/p&gt;
+&lt;p&gt;中国旅游学院预测，到明年，活跃的老年旅游者数量将超过1亿人，届时国内银色旅游市场规模将达到1万亿元人民币（1399亿美元）。&lt;/p&gt;
+&lt;p&gt;然而，分析人士表示，薄弱的社会安全网、微薄的养老金以及大城市的健康和老年人护理的不完善可能会降低退休者使用储蓄进行旅游的能力和意愿。&lt;/p&gt;
+&lt;p&gt;汇丰银行（HSBC）亚洲权益战略负责人赫尔德·范德林德表示，经济增长放缓也可能加剧这些问题。&lt;/p&gt;
+&lt;p&gt;然而，他表示：“尽管如此，这一老龄化和消费模式转变的过程仍在进行中。”&lt;/p&gt;
+&lt;p&gt;中国最大在线旅行社携程旅行网（9961.HK）首席执行官孙洁表示，银色旅行者可以选择低峰时期旅行，以充分利用酒店折扣。&lt;/p&gt;
+&lt;p&gt;孙洁说：“我们建议我们的全球合作伙伴提供早餐服务，让老年人能在房间内享用中式美食。” “放一壶绿茶、一双拖鞋，成本不高，但会让老年人感到更加亲切。”&lt;/p&gt;
+&lt;p&gt;（1美元 = 7.1484人民币元）&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="英镑钞票和零钱插图，位于一家咖啡店的收银台" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ADU6P7BCTVJHXK5JVLR2EZUSUE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;空间站 2018年9月拍摄于此曼彻斯特一家咖啡店的收银台，英镑钞票和零钱插图&lt;img src="Fredom of Speech" alt="123"&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
+&lt;img alt="National Day holiday, in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ATP23UAEHJKX3PCR3AAFDZTL5Q.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在即将到来的国庆节假期前，游客在上海的外滩休息，中国2023年9月26日。路透社/阿莉·宋/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 16 Aug 2024 01:07:46 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-senior-tourists-could-be-silver-lining-travel-firms-2024-08-16/</guid></item><item><title>美国零售数据令人放心，股市上涨，国债收益率飙升</title><link>https://www.reuters.com/markets/asia/global-markets-wrapup-1-2024-08-15/</link><description>
+&lt;p&gt;全球股市于周四迎来反弹，美国国债收益率飙升，此前意外强劲的美国零售销售数据平息了对经济增长放缓的担忧，并减轻了投资者对即将到来的激进利率下调的预期。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reuters.com/markets/us/us-retail-sales-rise-more-than-expected-july-2024-08-15/"&gt;零售销售&lt;/a&gt;上个月上升了1.0%，远高于市场预期的0.3%增幅，美国商务部人口普查局于周四表示，这表明消费者通过寻找优惠来维持消费。&lt;/p&gt;
+&lt;p&gt;一些投资者表示，强劲的数据并未改变联邦储备银行可能在9月开始降息的预期，但降低了央行以较大幅度的50个基点利率下调开始放宽政策的可能性。&lt;/p&gt;
+&lt;p&gt;纽约斯巴达资本证券公司首席经济学家彼得·卡迪洛表示：“这降低了近期出现经济衰退的担忧，对股市来说是个好消息，但对债券市场可能并非如此。”&lt;/p&gt;
+&lt;p&gt;“随着这份报告，我们回到了原点，联邦储备银行可能会在9月将利率下调25个基点。更大幅度的50个基点下调的可能性正在逐渐降低。”&lt;/p&gt;
+&lt;p&gt;股票市场对经济韧性的最新迹象表示欢迎。标准普尔500指数（&lt;a href="https://www.reuters.com/markets/quote/.SPX" target="_blank"&gt;(.SPX)&lt;/a&gt;）收盘上涨1.6%，道琼斯工业平均指数上涨1.4%，纳斯达克综合指数飙升2.3%。&lt;/p&gt;
+&lt;p&gt;摩根士丹利全球股票指数（&lt;a href="https://www.reuters.com/markets/quote/.MIWO00000PUS" target="_blank"&gt;(.MIWO00000PUS)&lt;/a&gt;），在迄今为止的8月份，超过一半交易日涨幅超过1%，上涨了1.2%。&lt;/p&gt;
+&lt;p&gt;受到对美联储可能以更温和速度降息的猜测的压力，基准10年期国债收益率上涨至3.9188%，而2年期国债收益率攀升至4.1034%。&lt;/p&gt;
+&lt;p&gt;国债收益率的上涨给美元带来一丝喘息之机，美元兑其他主要货币上涨0.45%，结束了自2023年末以来的连跌势头。自7月初以来，美元兑日元也下跌了近15%。&lt;/p&gt;
+&lt;p&gt;美元走强对欧元造成压力，欧元于周四下跌0.4%至1.09703美元。美元对日元的汇率也加强至149.3日元。&lt;/p&gt;
+&lt;p&gt;在欧洲，泛欧斯托克600指数（&lt;a href="https://www.reuters.com/markets/quote/.STOXX" target="_blank"&gt;(.STOXX)&lt;/a&gt;）上涨1.2%，尽管一些分析师警告投资者不要过于乐观。&lt;/p&gt;
+&lt;p&gt;挪威银行首席市场分析师简·冯·格里希表示，华尔街快速反弹的速度是未来可能出现更多波动的一个理由。&lt;/p&gt;
+&lt;p&gt;他说：“风险偏好的谨慎反弹发生得异常迅速，因此我会保持谨慎。”&lt;/p&gt;
+&lt;p&gt;华尔街的恐慌指数，VIX波动率指数，下降至月度最低点，此前该指数在8月5日升至四年高点。&lt;/p&gt;
+&lt;p&gt;联邦储备银行已将主要基金利率维持在5.25%-5.5%超过一年，有助于平抑消费者价格上升，但也加剧了一些市场失衡，这些失衡在今年夏天演变成混乱。&lt;/p&gt;
+&lt;p&gt;长达一段时间的美国高利率推高美元兑日元汇率在7月份戛然而止，这对一种流行的投机交易构成破坏性影响，该交易涉及借入日元购买美国股票。&lt;/p&gt;
+&lt;p&gt;这种所谓的掉期交易的恶性平仓在上周引发了一场市场抛售，尽管许多投资者相信与货币相关的干扰几乎已经结束。&lt;/p&gt;
+&lt;p&gt;阿文斯亨德森全球股票基金经理詹姆斯·亨德森表示：“这并非是一次长期广泛的股市调整。”&lt;/p&gt;
+&lt;p&gt;在其他市场中，英镑在数据显示英国第二季度经济增长了0.6%，符合经济学家的预期后，上涨了0.2%至1.2854美元。&lt;/p&gt;
+&lt;p&gt;现货黄金价格上升0.3%至每盎司2,455.29美元，接近7月17日的纪录高点，市场推测美国利率可能很快会下调，提振了这一无收益金属。&lt;/p&gt;
+&lt;p&gt;石油市场在周四也强劲，国际基准布伦特原油价格上涨1.4%，至每桶80.90美元，美国零售报告增强了全球需求的前景。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="Traders work on the floor of the NYSE in New York" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NKEK2N6DVRI6DLC3JW22IWOEAQ.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;纽约证券交易所（NYSE）的纽约交易员地板，美国，2024年7月3日。路透社/Brendan McDermid/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="FILE PHOTO: London Stock Exchange headquarters" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUCCW5QERRMLZLHQEP3IIOBHII.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;伦敦证券交易所（LSEG）在伦敦的标志在屏幕上，英国，2024年5月14日。路透社/Hannah McKay/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="Stock information display in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/54HN4DKMXBPZFI5QRZI7TB4YBU.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在上海陆家嘴金融区内，一座立交桥上行走的人们前方，有股票信息的显示屏，中国，2024年8月6日。路透社/Nicoco Chan/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 02:06:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-wrapup-1-2024-08-15/</guid></item><item><title>美国称澳大利亚和英国的出口管制相当，以提振AUKUS</title><link>https://www.reuters.com/world/boost-aukus-us-says-australia-uk-export-controls-comparable-2024-08-15/</link><description>
+&lt;p&gt;美国国务院于周四向美国国会表示，澳大利亚、英国和美国现已成为享有可比出口管制机制的国家，这是推动技术共享以及允许三方AUKUS国防协议向前发展的重要步伐。&lt;/p&gt;
+&lt;p&gt;AUKUS联盟成立于2021年，旨在应对对于中国日益增长实力的共同担忧，旨在使澳大利亚能够获取核动力攻击潜艇以及其他如高超音速导弹等先进武器。&lt;/p&gt;
+&lt;p&gt;然而，受到美国国际武器贸易条例（ITAR）严格管制的高度保密技术的共享，一直合作过程中的一个重大障碍。&lt;/p&gt;
+&lt;p&gt;2024年美国国家国防授权法案（NDAA）要求总统乔·拜登确定澳大利亚和英国是否拥有与美国“相媲美”的出口管制机制，并据此获得ITAR豁免资格。&lt;/p&gt;
+&lt;p&gt;美国国务院在一份声明中表示：“今日，国务院向国会提交了一份决议，指出澳大利亚和英国出口管制体系与美国相当，且已为美国实体实施相互出口豁免。”&lt;/p&gt;
+&lt;p&gt;据悉，它将于周五公布一项临时最终规则，修正ITAR，并自9月1日起为澳大利亚和英国实施出口许可证豁免。&lt;/p&gt;
+&lt;p&gt;然而，最终规则将包括被排除在ITAR豁免之外的敏感技术清单，分析师认为，这很可能意味着在实现AUKUS项目的过程中，仍需克服重大行政障碍。&lt;/p&gt;
+&lt;p&gt;周四早些时候，澳大利亚国防部长理查德·马尔斯称这些改革为“一代人的变革”，英国政府声明则称其为“历史性的突破”。&lt;/p&gt;
+&lt;p&gt;马尔斯在一份声明中表示：“这些关键改革将彻底改变国防贸易、创新与合作，使我们能够以必要的速度和规模进行合作，以应对我们面临的复杂战略局势。”&lt;/p&gt;
+&lt;p&gt;国务院一名官员告诉记者，对于美国来说，约80%的当前商业国防贸易价值将由许可证豁免覆盖，这将提高这些交易的速度和可预测性。&lt;/p&gt;
+&lt;p&gt;美国每年向澳大利亚发放约3,800项国防出口管制许可证，审批时间最长可达18个月，而英国的审批时间仅为100天。&lt;/p&gt;
+&lt;p&gt;美国和澳大利亚官员表示，美国国务院将有45天的时间决定向政府和行业转让排除清单上的技术，以及30天的时间进行政府间转让。&lt;/p&gt;
+&lt;p&gt;国务院表示，为期90天的临时最终规则公众评论期将“为进一步规则制定提供进一步的细化”。&lt;/p&gt;
+&lt;p&gt;国务院表示，其目标是“通过促进数十亿美元的安全无许可国防贸易，最大程度地促进创新并相互加强我们三个国防工业基地。”&lt;/p&gt;
+&lt;p&gt;4月底公布的一项草案规则被视为游戏规则的改变，尽管一些国防出口控制专家当时表示，排除清单范围广泛，使得政策变更几乎毫无意义。其中被排除的项目包括潜艇和高超音速技术等。&lt;/p&gt;
+&lt;p&gt;国务院官员表示，更新的排除清单仍包含了与AUKUS相关的“某些潜水技术、某些水下声学技术”。&lt;/p&gt;
+&lt;p&gt;然而，这并不意味着它们不能出口。“这仅仅意味着在它们出口之前，我们需要看到相应的许可证，”这位官员补充说，并指出申请将需在30至45天内处理。&lt;/p&gt;
+&lt;p&gt;这位官员表示：“我们将确保贸易能够发生，以相关速度且安全地发生。”&lt;/p&gt;
+&lt;p&gt;4月草案公布后，行业组织和防务公司要求缩小排除清单的范围。&lt;/p&gt;
+&lt;p&gt;美国众议院外交事务委员会的共和党主席迈克尔·麦考尔对周四的行动表示欢迎，但他认为此举来得太晚，并表示“还有太多对实施AUKUS至关重要的项目未包括在此豁免之中。”&lt;/p&gt;
+&lt;p&gt;麦考尔在一份声明中说：“除非将排除技术清单仅限于只有少数几项——如国会所愿——否则，大规模政府监管将继续阻碍这个关键联盟真正阻止印太地区冲突的能力。”&lt;/p&gt;
+&lt;p&gt;航空航天工业协会总裁埃里克·范宁在一份声明中表示，周四的宣布标志着为了加强三方防御贸易和技术合作的重要进展，尽管这只是为AUKUS实施规则的道路上的第一步。&lt;/p&gt;
+&lt;p&gt;前国防部高级官员、现Eversheds Sutherland律师事务所合伙人杰夫·比利奥斯表示，最终ITAR豁免的细节至关重要，因为如果它们太过行政上难以管理，它们将变得无用，并损害加强技术合作的目标。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="U.S. President Biden meets with Australian PM Albanese and British PM Sunak at Naval Base Point Loma in San Diego" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/E72LDFBPVZPXRBUWI6V32DE2BM.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国总统乔·拜登、澳大利亚总理安东尼·阿尔巴尼斯和英国首相里希·苏纳克在加利福尼亚州圣地亚哥的Point Loma海军基地举行三方会议后，就澳大利亚-英国-美国（AUKUS）伙伴关系发表讲话。2023年3月13日，路透社/莉亚·米尔斯/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 20:05:04 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/boost-aukus-us-says-australia-uk-export-controls-comparable-2024-08-15/</guid></item><item><title>数据令人放心，美元保持上涨，欧元下滑</title><link>https://www.reuters.com/markets/currencies/dollar-soft-ebbing-us-inflation-sets-stage-rate-cuts-2024-08-15/</link><description>
+&lt;p&gt;美元兑欧元汇率于周四继续保持强势，推动欧元从七个月高点回落，此前美国经济数据的公布缓解了关于经济衰退风险的担忧，并削弱了市场对激进利率削减的预期。&lt;/p&gt;
+&lt;p&gt;美国7月份的零售销售额超出预期&lt;a href="https://www.reuters.com/markets/us/us-retail-sales-rise-more-than-expected-july-2024-08-15/"&gt;增长&lt;/a&gt;，这表明需求并未出现崩溃迹象，并可能促使金融市场降低对下月50个基点利率削减的预期。&lt;/p&gt;
+&lt;p&gt;此外，本周申请失业救济的美籍人士人数比预期少，表明有序的劳动力市场放缓仍在继续，尽管失业者在寻找新工作方面感到有些困难。&lt;/p&gt;
+&lt;p&gt;欧元兑美元汇率下跌0.36%，报1.0973美元。周三，欧元汇率触及1.10475美元，为今年以来最高水平，当时市场正在消化美国通胀数据。&lt;/p&gt;
+&lt;p&gt;美元指数上涨0.42%，至103.03，脱离上周触及的八个月低点102.15。&lt;/p&gt;
+&lt;p&gt;“今晨的数据与近期市场的叙事不一致，即美联储远远落后于曲线，并必须实施大规模的利率削减以避免经济衰退，”BNP Paribas资产管理公司外汇基金经理皮特·瓦萨洛表示。“市场定价已相应调整，并且美国短期利率在当天显著上升。”&lt;/p&gt;
+&lt;p&gt;英镑上涨0.17%，报1.2849美元，数据显示&lt;a href="https://www.reuters.com/world/uk/uk-economy-grows-06-q2-2024-2024-08-15/"&gt;英国经济&lt;/a&gt;在第二季度增长了0.6%，符合经济学家的预期，并在第一季度迅猛恢复0.7%的基础上进一步巩固。&lt;/p&gt;
+&lt;p&gt;英镑对欧元的汇率也走强，欧元小幅下跌0.53%，至85.38便士。&lt;/p&gt;
+&lt;p&gt;周四的美国数据是在周三发布消费者价格指数（CPI）后出现的，该指数在7月份温和上涨，符合预期，且自2021年初以来通胀年度增长率首次放缓至3%以下。&lt;/p&gt;
+&lt;p&gt;这些数字进一步佐证了7月份生产者价格温和上涨的趋势，表明通胀正在下降，尽管交易者现在认为美联储在利率削减方面不会像他们之前希望的那样激进。&lt;/p&gt;
+&lt;p&gt;“今晨的数据完全摧毁了关于美联储9月会议将进行半个百分点调整的剩余赌注，”Corpay首席市场策略师卡尔·沙摩塔表示。&lt;/p&gt;
+&lt;p&gt;他说：“对美国经济‘硬着陆’的担忧几乎已经完全消散，美联储官员们被观察到以更为谨慎的起点开始放松周期。”&lt;/p&gt;
+&lt;p&gt;目前市场预计下个月有74.5%的概率将进行25个基点的削减，以及25.5%的概率将进行50个基点的削减，CME的联邦观察工具显示。交易者在上周抛售之后对两种削减选项各占半壁江山。&lt;/p&gt;
+&lt;p&gt;日元兑美元汇率为149.13，脱离上周在市场混乱期间触及的七个月高点141.675，并远高于7月初的38年低点161.96。&lt;/p&gt;
+&lt;p&gt;上个月初东京的干预行动以及日本央行7月底意外加息让平仓&lt;a href="https://www.reuters.com/markets/asia/what-is-yen-carry-trade-2024-08-07/"&gt;流行的息差交易&lt;/a&gt;的投资者措手不及，推高了日元。&lt;/p&gt;
+&lt;p&gt;沙摩塔表示：“货币市场正遭受心灵震撼，美元在重新扩大的息差基础上对其竞争对手汇率攀升，“关于‘美国特殊主义’交易已经死去的谣言看起来又是一次夸张。”&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="美元钞票插图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPUSDG7J6JJB3K4M2SJVOKP6B4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;2023年3月10日获取的美元钞票插图照片，专有版权 Mozilla_.&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 00:49:13 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-soft-ebbing-us-inflation-sets-stage-rate-cuts-2024-08-15/</guid></item><item><title>TE Con​​nectivity 因向中国实体非法运输零部件而与美国达成和解</title><link>https://www.reuters.com/technology/te-connectivity-settles-with-us-illegally-shipping-components-chinese-entities-2024-08-15/</link><description>&lt;p&gt;全球电子科技公司泰科电子已同意支付五千八百万美元，与美国商务部和解，依据指控，该企业在七年中的七十九次非法向涉中国高超音速、无人机以及军事电子设备项目的相关方运送商品。&lt;/p&gt;&lt;p&gt;自2015年至2019年，泰科电子违反了美国出口管制法规，主要涉及船运电线、电路板接头及其他低级商品给受限制的客户，美国商务部在周四发表的声明所述。&lt;/p&gt;&lt;p&gt;美国近年来对源自美国的技术实施了广泛的出口管制，并将数以百计的中国实体纳入其出口管制名单，旨在限制中国增强军事能力，减缓对美国国家安全构成威胁的势头。&lt;/p&gt;&lt;p&gt;总部位于瑞士的泰科电子，其宾夕法尼亚州及香港的子公司曾被指定为和解协议的涉及者，该公司在发现违规情况后，主动向美国商务部的企业与工业特色局通报违规情况。&lt;/p&gt;&lt;p&gt;商务部及其调查显示，泰科电子将价值为一千七百四十万美元的物品非法出口给被列入限制实体列表中的中国方，此为违反规定之一。商务部表示，公司存在其在中国的代表隐瞒并掩饰特定客户，诸如国家所有的军方企业，采取了掩饰措施。&lt;/p&gt;&lt;p&gt;“今日的处分考量到了泰科电子在其违法行为后主动披露至我们这一配合度，并且我们对于公司允许美国科技被中国破坏性军事现代化计划受惠的严重性作出的回应。”商务部官员马修·阿克塞尔罗德在声明中指出。&lt;/p&gt;&lt;p&gt;“我们已充分配合企业与工业特色局，并且对此事能够达成和解感到满意，”泰科电子发言人于声明中表示，“我们坚持遵守国际贸易法规的承诺极其坚定。”&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="夏季，汽车制造商面对电动汽车转型所带来的权衡考验" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4KOGBBS5NJNX3JKGA4RGP4NR54.jpg" /&gt;
-&lt;p class="figcaption" style="text-align: center;"&gt;员工在中国威尔市泰科电子的装配线前检查零件，时间：2022年2月16日。RéUTERS/Lukas Barth/档案照&lt;/p&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 18:09:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/te-connectivity-settles-with-us-illegally-shipping-components-chinese-entities-2024-08-15/</guid></item><item><title>美国零售数据令人放心，股市上涨，国债收益率飙升</title><link>https://www.reuters.com/markets/asia/global-markets-wrapup-1-2024-08-15/</link><description>&lt;p&gt;在周四，全球股市度过了一个上涨的交易日，美债收益率意外攀升，得益于美国零售销售数据出人意料地强劲，得以安抚了对于经济增长放缓的忧虑，并削弱了投资者对即将实施激进降息的押注。&lt;/p&gt;&lt;p&gt;商务部属下的普查局公布，美国零售销售额在上个月增长了1.0%，远超市场预期的0.3%增幅，表明消费者通过寻找打折产品维持了支出，从而给商业活动带来了正面势头。&lt;/p&gt;&lt;p&gt;一些市场分析师指出，虽然强劲的数据未能彻底改变市场对于美联储9月开始降息的预期，但显然降低了其依赖于前所未见的大规模50个基点降息的可能，这部分也反映了美国零售业的稳定表现。&lt;/p&gt;&lt;p&gt;彼德·卡迪罗，纽约所领导的布兰登证券公司的首席经济学家对此评论道：“此番数据公布缓解了短期经济衰退的担忧，对股市构成了利好，但可能对债券市场不利。”&lt;/p&gt;&lt;p&gt;“基于这份报告，我们回到了基准点，美联储可能在9月降息25个基点。可能性降低至进行更为激进的50个基点降息。”&lt;/p&gt;&lt;p&gt;市场消息随后得到了验证，股市表现积极。截至15:35UTC，标准普尔500指数上涨了1.5%，道琼斯工业平均指数增长1.3%，纳斯达克综合指数飙升了2.2%。&lt;/p&gt;&lt;p&gt;全球股票指标- MSCI全球指数（.MIWO00000PUS）比起多数日子的表现，答案就是这一指数很有代表性。本周大部分日子该指数已经超过了1%，今日上涨1.1%，随着交易日的进行仍在保持上升趋势。&lt;/p&gt;&lt;p&gt;驱动美债收益率飙升的主要原因是投资者预期美联储将采取更为温和的利率调整政策。10年期美债收益率上涨至3.9321%，2年期美债收益率攀升至4.1097%。&lt;/p&gt;&lt;p&gt;美债收益率的攀升所带来的慰藉作用，让美元指数在短期内稳住了阵脚，其上涨0.4%，结束了与主要货币都连续几日下跌的趋势。截至周三，美元指数对欧元的起始交易价已经下滑至2023年的最低水平；从7月起至今，美元指数对日元的跌幅接近15%。&lt;/p&gt;&lt;p&gt;强势美元对欧元的下挫造成了0.3%的折损（即自从周四的交易开始直至当前，欧元兑换美元汇率从1.09748下降到了1.09416），同时也让日元对美元的汇率下降到了149.1的日元/美元。&lt;/p&gt;&lt;p&gt;而在欧洲，泛欧洲STOXX 600指数上涨了1.2%，但由于一些分析师对于市场的过度乐观情绪的隐晦警告，投资者应当保持警惕。&lt;/p&gt;&lt;p&gt;诺德亚公司首席市场分析师本·根里希认为华尔街的快速反弹值得警惕未来可能出现的更多波动性。&lt;p&gt;欺诈性投资冲刺，其中包含利用日元作为融资的资金来购置美国股票的投资策略，2024年7月造成的混乱局面如多米诺骨牌般推倒彼此。市场情绪急速恶化后，接下来的一周内陷入了一场狂热的市场抛售潮。&lt;/p&gt;&lt;p&gt;而那位致力于投资配备股票基金的詹姆斯·赫登认为，有较高的美国利率之下驱动美元对外汇率逐步上扬的局面，这个比华尔街是不是持续出现更为广泛且长期市场调整的情况更为短暂。&lt;/p&gt;&lt;p&gt;除此之外，美元出现了小幅度的回升，其对英国货币英镑的汇率上涨了0.2%，英镑从1.2853剑指1.2878；对我国的日元货币故的综合汇率上涨至149.1。&lt;/p&gt;&lt;p&gt;在全球各大指标上升的同时，英镑也出现上涨趋势；从8月三日，英国经济在第二季度的涨幅达到了0.6%，在意料之中的百分比增长。&lt;/p&gt;&lt;p&gt;黄金价格今天上涨了0.3%，毗邻进入午夜达到了2,454.21盎司。历史数据显示，市场预期美国可能降低利率之举有助于推动非收益性黄金的价格上涨。&lt;/p&gt;&lt;p&gt;即便是主要脂肪供应地区原油库存带来的稳定加强，在周四的交易日，北海布伦特原油成为国际定价标准的重要标志，抢占了原油期货市场储量的1.8%，报价在81.19美元/桶，全球对此周的经济回暖前景保持了积极的立场。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 02:06:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-wrapup-1-2024-08-15/</guid></item><item><title>美国EIA称中国6月份柴油需求降幅为三年来最大</title><link>https://www.reuters.com/business/energy/chinas-diesel-demand-fell-june-by-most-three-years-us-eia-says-2024-08-15/</link><description>&lt;p&gt;美国能源信息署周四发布数据显示，中国六月份的柴油需求同比下滑了11%，至每天390万桶，此数值创下了自2021年7月以来的最大跌幅。&lt;/p&gt;&lt;p&gt;当前中国疲弱的燃油需求已对原油市场产生了沉重打击，在此背景下，市场参与者对全球第二大经济体的持续增长引擎作用深感忧虑。今年至今，中国疲软的柴油消费量已然对原油市场构成了压力，从广义上提示产生了油品需求朝向的不确定性。&lt;/p&gt;&lt;p&gt;石油输出国组织(OPEC)本周下调了其2024年原油需求增长的预测，归因于降低了对中国的预期，此次调整是自去年同一系列展望公布以来做出的首次调整。基于相似的观察，巴黎总部的国际能源署(IEA)将2025年的预测也做了相应的下调，同样将中国的经济状况疲软标为关键因素。&lt;/p&gt;&lt;p&gt;根据美国能源信息署的数据，中国去年的柴油消耗量达到了前所未有的峰值，但自今年第二季度以来，这种需求呈现了大幅滑落的态势。&lt;/p&gt;&lt;p&gt;促使此下滑现象存在的主要原因可归结为两方面：该国疲软的房地产行业抑制了经济增长；在重型卡车领域，液化天然气已经在逐步替代柴油。&lt;/p&gt;&lt;p&gt;“除了因建筑和房地产部门经济活动放缓而减少的柴油使用量以外，可视为志在减少并逐渐增加比例之一的为，中国挂车车队中正有一部分将天然气液化燃料作为燃料的首选。”美国能源信息署指出。&lt;/p&gt;&lt;p&gt;据中国信息提供商CV World的数据，2022年液化天然气能源驱动型货车销售猛增了307%，达15.2万辆。咨询机构FGE预估，这两者将在本年内和下一年内共在中国市场实现出约11万至12万桶/日的柴油需求替代。&lt;/p&gt;&lt;p&gt;在此背景下，中国境内的炼油厂处境艰难。官方数据显示，今年7月中国原油炼厂产出同比下跌了6.1%，这已是连续第四个月呈下滑态势。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="成品油价格在瑞水油站显示屏上，一名员工正调整柴油价格标签" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4I26HRQQINODPAYMAYQAQZ3VHU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;一名员工正在调整挂于瑞水粤族自治区郎山油站的柴油价格标签。&lt;img src="https://ew.eobjects.com/images/logof-1673178019417.jpg" alt="云存储平台标识"&gt;&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 16:23:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/chinas-diesel-demand-fell-june-by-most-three-years-us-eia-says-2024-08-15/</guid></item><item><title>美国议员因担心中国网络攻击而敦促对 WiFi 路由器制造商 TP-Link 进行调查</title><link>https://www.reuters.com/world/us/us-lawmakers-urge-probe-wifi-router-maker-tp-link-over-fears-chinese-cyber-2024-08-15/</link><description>&lt;p&gt;美国两名议员呼吁拜登政府对中企TP-Link Technology Co及其关联企业展开调查，以评估这些广泛使用的Wi-Fi路由器可能引发的国家级安全威胁，他们担忧这些设备可能被用于对美国发起网络攻击。&lt;/p&gt;
-&lt;p&gt;前述请求来源于共和党众议员约翰·默勒纳尔与民主党众议员拉贾·克里希纳莫奥尔希，他们在周二致函路透社时将此事提起。根据市场研究公司IDC的报告，TP-Link专注于消费市场，在全球范围内按销量核算，是最大的WiFi路由器供应商。&lt;/p&gt;
-&lt;p&gt;基于现在以及过去已知的TP-Link软件固件存在漏洞和其装置被用于攻击欧洲政府官僚的具体案例，美国立法者们提出了这种呼吁。上述信件指出：“我们要求商务部确认（与中国有关联的办公住所/家庭办公室）路由器带来的危险，尤其着重于世界最大的制造商TP-Link。”并警告这是显而易见的国家重大安全问题。&lt;/p&gt;
-&lt;p&gt;商务部未透露可能对这封信件的回复详情，中美双方均表示联合应对网络攻击的能力成为各国的核心关切。英国、美国及其盟友与微软（MSFT.O）去年联合宣布了代称“飓风击洲”的中国当局关联的黑客行为，并揭露这一诡计旨在对美国重要基础设施实施并隐藏后续攻击。&lt;/p&gt;
-&lt;p&gt;然而，据统计，在攻击中受到影响的大批路由器大多来自思科（CSCO.O）和NetGear（NTGR.O）。中国驻美国大使馆强调，有关部门在确认网络与信息技术事件时，希望获得足够的实质性证据，而非空穴来风的揣测和指控。&lt;/p&gt;
-&lt;p&gt;创建于1996年、总部位于深圳的TP-Link由两兄弟创办，目前并未对此进行官方回复。&lt;/p&gt;
-&lt;p&gt;这封信件预示了美国政府对使用中国源网络设备和设施发起网络攻击的担忧在不断加剧，特别是针对美国政府和商业企业的威胁。&lt;/p&gt;
-&lt;p&gt;英国、美国以及微软日前揭露了所谓的“飓风击洲行动”，中国关联黑客借接管私有路由器之便，在对美国关键基础设施实施攻击时，更易于隐藏行踪。然而，据美国司法部在今年一月份报告，绝大多数受影响路由器均来自思科和NetGear。&lt;/p&gt;
-&lt;p&gt;2023年，美国网络安全与基础设施确定机构报告了TP-Link路由器面临的安全弱点，此漏洞被黑客利用后可执行远程执行代码。同时，在彼时，一家美国安全公司Check Point发现与中国政府相关联的黑客组织使用了一种针对欧洲外交官员的恶意固件植入TP-Link路由器来进行攻击。&lt;/p&gt;
-&lt;p&gt;面对来自中国、俄罗斯、古巴、朝鲜、伊朗、委内瑞拉等所谓“敌对”国家的互联网、通信和技术公司，基于国家安全考虑，商务部拥有广泛的权力，授权国家停止或限制美国企业与其交易，尤其是当其商品被认为会带来安全风险。&lt;/p&gt; 
-&lt;figure&gt;
-&lt;img style="display: block; margin: auto;" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SFLEYREHU5O2DIRYNQRJ4XEKIY.jpg" alt="美国众议院中国战略竞争特别委员会于华盛顿国会山举行听证会，排名第二位的美国议员克里希纳莫奥尔希（D-IL）在会前与前美国国务卿迈克·蓬佩奥、前中情局局长及美国前国防部长李昂·帕内塔进行了提问。摄影/纳森·霍华德，路透社。" /&gt;
-&lt;figcaption style="text-align: center;"&gt;排名第二的美国议员克里希纳莫奥尔希（D-IL）在会前与前美国国务卿迈克·蓬佩奥、前中情局局长及美国前国防部长李昂·帕内塔进行了提问。摄影/纳森·霍华德，路透社。&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:04:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/us-lawmakers-urge-probe-wifi-router-maker-tp-link-over-fears-chinese-cyber-2024-08-15/</guid></item><item><title>全球航空燃油消耗放缓加剧了石油需求担忧</title><link>https://www.reuters.com/business/energy/slowing-global-jet-fuel-consumption-adds-oil-demand-concern-2024-08-14/</link><description>&lt;p&gt;(此8月14日的报道已更正于第15段修正了第15段中分析师姓名的拼写)&lt;/p&gt;&lt;p&gt;全球航油需求的走势正趋向于放缓，因为消费支出放缓影响旅行预算，这一转变在未来几个月可能导致油价承压。&lt;/p&gt;&lt;p&gt;全球原油需求在今年上半年未能达到预期，原因是在美国与中国等最大原油市场消费预测数据弱于预期的情况之下，初步数据显示全球需求预期没有达到市场预期水平。&lt;/p&gt;&lt;p&gt;航油占据了全球原油需求的大约7%，由于旅行状态从流行病影响中逐渐恢复，并被广泛视为将驱动其成长的主要支柱，于是被预料今年将成为航油需求增长关键年份。&lt;/p&gt;&lt;p&gt;今年前七个月，根据高盛的数据全球航油需求平均约为749万桶/天，相比去年同期成长接近50万桶/天。&lt;/p&gt;&lt;p&gt;为了满足之前预计的年成长60万桶/天的预估目标，未来几个月航油需求将需要更快成长。然而，实际情况看来较少可能，高盛估计从8月至10月航油需求成长率预估仅约40万桶/天。&lt;/p&gt;&lt;p&gt;近期几日，主要美国航空营运商与旅游公司的担忧加剧，因为在消费者依赖资金缩水的情况下，其预测 '**休闲旅游**' 需求量会受重击。&lt;/p&gt;&lt;p&gt; 美国消费者支出成长在过去三个月只有0.3%，这是过去一年来增长最小值。&lt;/p&gt;&lt;p&gt;国际能源机构（IEA）周二时指出：「在经济降温影响下，消费者对航空旅行需求的市场需求将受到限制，对我们来说，航油通常是最受宏观经济态势影响的产品类别之一。」&lt;/p&gt;&lt;p&gt;美国航油消耗从流行病影响恢复 glorious high的195万桶/天开场，仅下降到目前的一百六十万桶/天，近期数据显示航油消耗量呈现下降趋势。&lt;/p&gt;&lt;p&gt;全球经济活动减弱，可能导致全球贸易放缓，进一步削减航空货运需求。美国银行分析师首先指出全球贸易在过去的几年内经历了增长放缓，因为需求在**美国**与欧洲已从货物转向服务。&lt;/p&gt;&lt;p&gt;本周石油出口组织（OPEC）已**首次**下调2024年需求增长预估，与此对应的是能源署也微调2025年的预估值，两者都采纳了较早明显方面，如中国在内的经济成长远不如预期。&lt;/p&gt;&lt;p&gt;7月，大规模网络断线导致数千航班遭遇延迟，这直接影响了航油需求，美国航油消耗量从今年同期下降约1万桶/天。&lt;/p&gt;&lt;p&gt;「总而言之，交通燃料市场的宏观态势正在快速恶化」，美国银行分析师补充指出，「考虑到这一背景，我们认为航油需求走势依旧较软，这让对市场长期观点同样可能受到调整。」&lt;/p&gt;&lt;p&gt;就算长远考虑，消费者行为变化与新兴技术发展无疑也带来负面影响，其中包括了效率提升，航班能运送更多乘客更长的距离，但在同样金额的油费之中消耗的航油相形减少。&lt;/p&gt;&lt;p&gt;2023年美国商用航空公司燃油经济抵达峰值65.5英里/加仑，比起2019年的64.9英里/加仑有明显的增长。&lt;/p&gt;&lt;p&gt;此外，消费偏好的根本性的转变，即倾向于更多的**国内旅游**而非国际航班，也是打压航油需求的推手之一。在前流行病时代，旅客通常更偏重于国际航班选择。&lt;/p&gt;&lt;p&gt;近年来，跨美中两国之间的贸易大战已降低了航空运输的往来，使其仅为5年前水平的四分之一。&lt;/p&gt;&lt;p&gt;俄罗斯国家的国际旅游客流量也下跌了约40%，2022年俄乌冲突之后许多国家对俄罗斯游客实施了边境关闭政策。&lt;/p&gt;&lt;p&gt;如上述路径如果持续成长其他全球航空旅行一样，则航油需求量预计会增长80万桶/天。&lt;/p&gt;&lt;p&gt;展望未来，美国银行分析师曾预期的航油需求将依然增长，不过认为上述问题与效率提升，将导致对全年需求趋势和价格预测将做出相应的调整。&lt;/p&gt;</description><pubDate>Wed, 14 Aug 2024 12:29:47 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/slowing-global-jet-fuel-consumption-adds-oil-demand-concern-2024-08-14/</guid></item><item><title>瑞典电动汽车制造商 Polestar 开始在美国生产，避免高额关税</title><link>https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-starts-us-production-avoiding-heavy-tariffs-2024-08-14/</link><description>&lt;p&gt;
-    瑞典电动车生产商&lt;p&gt;
-    &lt;a href="https://www.reuters.com/markets/companies/A4N1y.F" target="_blank"&gt;(A4N1y.F)&lt;/a&gt;
-    撇清了对中国出口汽车征收重大关税的负面影响，于本周宣布其在美国的客车制造工厂正式开始生产Polestar 3 SUV型车。该行动一步采取了规避美国及欧洲对中国产车征收的高额关税的策略。美国及欧洲对中国电动车征收的严厉关税于近期实施，促使其诸多汽车制造商加速此类生产活动，迁移到其他国家进行。
-
-&lt;/p&gt;
-&lt;p&gt;
-    持有中国吉利集团多数股权的Polestar一直以来在中国构建汽车生产基地，并向海外市场出口。Polestar 3将由位于美国南卡罗来纳州的沃尔沃工厂制造，面向美国及欧洲市场销售。
-
-&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;
-        当局主管托马斯·英格那特(Tomversation inches / 英宁酋长)在与路透社交流时透露，Polestar 3的主要生产量将产出自南卡罗来纳工厂。
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-    该工厂预计将于两个月内满负荷生产，但英格那特对工厂的具体生产力范畴予以保密。从该工厂始出的车辆预计于下月开始交付给美国客户，随后推进至欧洲市场。
-
-&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;
-        根据Kelley Blue Book的估计数据显示，Polestar 2轿车——该公司旗下的第一款电动车型——在上半年在美国市场销量为3,555台。
-    &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-    此外，Polestar计划在2025年中期，在由吉利集团部分持股的法国雷诺韩国工厂铺设生产线，用于制造Polestar 4运动型轿跑SUV，并面向欧洲及美国市场供给。预期于2025年终前述美国及欧洲市场交易启动时，仍将计算相关关税。
-
-&lt;/p&gt;
-&lt;p&gt;
-    为了实现生产活动的国际化布局，Polestar长期规划了在东南亚设立汽车制造基地的战略。这些动作显然为这家公司国际化物种、扩宽市场版图奠定了基础。
-
-&lt;/p&gt;
-&lt;p&gt;
-    由于高利息率趋势削减了消费者对电动车的欲望，选择从实际市场需求出发，特斯拉等先锋企业采取降价策略、缩减岗位编制、延缓生产计划。在此背景下，Polestar仍活跃于市场战线，宣布截止今年早些时候进行的裁员行为，并专注于降低材料成本和物流支出，并积极提升运营效率以力保2025年的盈亏平衡目标的实体性实现。
-
-&lt;/p&gt;
-&lt;p&gt;
-    而为了适从经济环境的变化，Polestar这幅动态图表正在努力打磨其战略层面，旨在实现成本精简、流程优化以最大化现金流，以打破蕴含的成长迷茫与困局。
-
-&lt;/p&gt;
-&lt;p&gt;
-    此次Polestar公布的一项重要里程碑—欸something在纽约国际车展期间引发众人热议——嘉宾注目于Polestar 3 SUV的盛况空前展览。本届展览于美国纽约市引发轰动（数据加载中），再次展现了电动车领域最前沿的造车趋势和全球同行们都为之努力的方向。
-&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="一种捕捉纽约国际车展快速预览过程的图片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MVQQ3M4PK5LVXO6ULNGRHJP4TU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;纽约国际车展的摄影展品。在2024年3月27日的展会中，Polestar 3 SUV成为一大亮点。图片摄于美国纽约市（数据加载中），为“果壳网络”所拍摄，特许使用&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 14 Aug 2024 12:03:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-starts-us-production-avoiding-heavy-tariffs-2024-08-14/</guid></item><item><title>中国将在最新的关键矿产限制措施中限制锑出口</title><link>https://www.reuters.com/world/china/china-limit-antimony-exports-latest-critical-mineral-curbs-2024-08-15/</link><description>&lt;p&gt;在北京市宣布一系列旨在保障国家安全与履行国际防扩散义务的措施中，商务部于昨日宣布，将对锑及铷系相关元素实施出口限制。&lt;/p&gt;&lt;p&gt;根据统计显示，去年，中华人民共和国在全球开采产出的锑金属中，占有48%的份额。该金属因其在军事装备如弹药、红外导弹、核武器及夜视镜的使用，以及在电池与光伏设备的制造中不可或缺，而被赋予战略金属的称谓。&lt;/p&gt;&lt;p&gt;商务部指出，本次的限制措施旨在保护国家安全与权益，履行国际防扩散义务。&lt;/p&gt;&lt;p&gt;在周四定期召开的新闻发布会上，商务部强调，最新实施的管控措施并非专门针对某一特定国家或区域。&lt;/p&gt;&lt;p&gt;谈及这一举措，伦敦Hallgarten公司旗下的顾问Christopher Ecclestone表示：“锑金属的军事用途如今成了最具驱动力的角色，各国对其需求迫切，因此锁定而非销售锑金属，是更具策略性的选择。中国政府此举无疑将对美军及其他西方军事机构的物资供应造成紧缩影响。”&lt;/p&gt;&lt;p&gt;商务部的通知进一步规定，9月15日起，所有关于锑及其关联产品（包括锑矿石、锑金属与氧化锑）的出口，必须先申请特许证。此外，出口商还需对能够具备民用及军事两用的兵器与技术支持进行申请。&lt;/p&gt;&lt;p&gt;美国与其它国家正为减少对中国关键材料的依赖而在密集筹划，欧几里得资源公司（PPTA.O）便是此间的典型代表例子。该公司正共建有位于美国的锑和黄金项目，并获得了美国国防部与出口信贷署的前期支持。基于这一背景，原先计划在依条件获得最终许可证后于2028年进行生产的计划已做出重大调整，尤其是在其近期审视了加速生产锑金属的可能性后。&lt;/p&gt;&lt;p&gt;“我们正在考虑在项目施工期间采取措施，旨在提前将锑金属投放于需要它的战略领域。”Perpetua Resources公司的首席执行官Jon Cherry如是说，“美国国防部门已意识到锑金属的陈诚性与稀缺程度。我们从多方得到了关于锑金属供应短缺的反馈——市场极其紧张，而且正在持续收紧。”&lt;/p&gt;&lt;p&gt;受此消息影响，Perpetua Resources的股价于昨日上涨了19%，创下近三年来的新高。&lt;/p&gt;&lt;p&gt;近期，中国政府还对多种关键材料的出口实施了管控。早在去年末，中国便禁止了磁铁萝精炼技术的出口，这为已经在位的禁止提取与分离关键材料的技术出口的禁令政策增设了条件。此外，中国还对石墨产品与用于半导体产业的镓和锗制品实施了出口限制。&lt;/p&gt;&lt;p&gt;今年，全球对锑的需求引发了价格的剧烈波动——价格屡创新高。这主要受到供应紧缩与不断增长的太阳能需求的共同推动，锑金属用途广泛，尤其在提高太阳能电池性能中扮演重要角。&lt;/p&gt;&lt;p&gt;这举措已导致中国主要生产者如湖南黄金（002155.SZ）、西藏华渝矿产（601020.SS）与广西华西非铁（600301.SS）的股价表现出显著的增长，涨幅在66%至93%之间。&lt;/p&gt;&lt;p&gt;在中国湖南的一位锑金属生产者表示正在密切观察中国政府的最新动向，“我们相信短期内，触及高位的锑金属价格会受到海外买家匆忙囤货的影响，从而保持支撑。”但由于不愿授权对外发声，他们拒绝了媒体的采访需求。&lt;/p&gt;&lt;p&gt;值得注意的是，尽管中国是精炼锑的最大供应国，但却在核心原材料的进口上依赖泰国、缅甸及俄罗斯等国家，商品数据显示，今年从俄罗斯的进口大幅下滑。专业人士如Project Blue的联合创办人Jack Bedder认为目前原材料市场的一大特征在于提炼原料的供不应求。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 12:05:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-limit-antimony-exports-latest-critical-mineral-curbs-2024-08-15/</guid></item><item><title>电商巨头阿里巴巴未达预期，中国消费下滑</title><link>https://www.reuters.com/business/retail-consumer/chinas-e-commerce-giant-alibaba-misses-first-quarter-revenue-estimates-2024-08-15/</link><description>&lt;p&gt;阿里巴巴集团（9988.HK）在周四发布的第一季度财务报告中未达市场预期的营收水平，其国内电子商务销售量受到中国消费者在经济动荡环境下谨慎消费的冲击。&lt;/p&gt;
-&lt;p&gt;中国经济复苏步履蹒跚，加之房地产市场持续低迷，以及就业压力居高不下，这两大因素共同导致了消费者信心与购买实力受挫。尤其是在世界第二大经济体的背景下，这种趋势亦冲击了全球企业的经营状况。&lt;/p&gt;
-&lt;p&gt;阿里巴巴正与京东、花费导向的零售平台如拼多多（PDD.O）、以及字节跳动旗下的抖音等众多竞争对手展开激烈竞争。&lt;/p&gt;
-&lt;p&gt;该季度，阿里巴巴总收入录得2432.4亿元人民币（约合339.8亿美元），低于市场普遍预计的2490.5亿元，参照料数据。&lt;/p&gt;
-&lt;p&gt;阿里巴巴国内电商平台的营收在纪录新增买家与购买频率增高的情况下仍负增长1%，令总销售额出现停滞。&lt;/p&gt;
-&lt;p&gt;中国各大电商巨头不得不采取重折扣与促销活动来吸引消费者，为之对整个零售市场带来了严重的边际利损压力。&lt;/p&gt;
-&lt;p&gt;M Science公司的分析师张文智指出：“中国消费者确实正在缩减开支，作出的购买选择更加谨慎与理性化，步入下半年后，阿里巴巴与京东等公司将继续面临挑战。”&lt;/p&gt;
-&lt;p&gt;中国经济规模的主要线上平台销售活动下在6月首次出现下滑，尽管重要平台试图延长促销周期以吸引消费者。&lt;/p&gt;
-&lt;p&gt;阿里巴巴在季度财报中超出了市场对盈利的预期，其美国上市股票在周四早盘时扭转先前的下跌态势，上涨约2%。&lt;/p&gt;
-&lt;p&gt;阿里巴巴高管强调未来电商平台的消费增长与商家推广策略将对平台广告与客户管理收益产生积极影响。&lt;/p&gt;
-&lt;p&gt;在分析师的视频会议中，阿里巴巴执委会强调了第二季度未来新增收益工具将有助于推动收入增长。&lt;/p&gt;
-&lt;p&gt;首席执行官伍德表示，淘宝和天猫集团的重心已经转移到提升用户体验，以此促进总商品交易金额（GMV）。&lt;/p&gt;
-&lt;p&gt;阿里巴巴于3月宣布史上最重大的公司重组，分裂为六大单位，集中资源于包括国内电商在内的核心业务。&lt;/p&gt;
-&lt;p&gt;借由扩大全球影响力、在海外对低端价位的中国商品需求增长等因素的作用下，阿里巴巴国际电商平台营收在该季度增长32%，达到293亿元人民币。&lt;/p&gt;
-&lt;p&gt;云计算部门的收入在上一季度增长3%的基础上进一步加速至6%，主要得益于公有云部署的提升与AI相关产品的强劲需求。&lt;/p&gt;
-&lt;p&gt;阿里巴巴已采取措施削减利润率低下、基于项目合同的比例，并表示能够调整云计算基础设施，有助于跨产品降价。&lt;/p&gt;
-&lt;p&gt;该季度归属普通股东的净收入为242.7亿元人民币，较上年同期的343.3亿元显著下降。&lt;/p&gt;  
-&lt;figure&gt;
-&lt;img alt="Illustration shows Alibaba logo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NXSRKH2PENL2XOT6FNHSLGAB5A.jpg" /&gt; 
-&lt;figcaption style="text-align: center;"url&gt;());
-uti организмис),$references_data( "C\xADìÀÍÇàªÚ\"))/(document.head = v(
-&lt;p&gt;
-,d src="https:\/\/cloudfront-us-east-2.images.arcpublishing.com\/reuters\/NXSRKH2PENL2XOT6FNHSLGAB5A.jpg","&gt;
-"internetwork.com"&gt;
-,f y("deréfélinux") \/(/document.p);
-.FileInputStream)\/y)e(mC 圸u Ma)\/i p(" @" &lt;\/pc \/&gt;(document) &lt;\/c;
-
-        
-        
-&lt;p&gt;
-\u6210 &lt;\/d&lt;\/figure \&gt;</description><pubDate>Thu, 15 Aug 2024 10:34:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/chinas-e-commerce-giant-alibaba-misses-first-quarter-revenue-estimates-2024-08-15/</guid></item><item><title>中国电子商务集团京东第二季度盈利超出预期</title><link>https://www.reuters.com/technology/chinese-e-commerce-giant-jdcom-misses-quarterly-revenue-estimates-2024-08-15/</link><description>&lt;p&gt;中国电子商务企业京东集团（9618.HK）周四报告的第二季度利润超出预期预测，这得益于减价促销活动，吸引价格敏感型购物者聚集于其平台。&lt;/p&gt;
-&lt;p&gt;在纽约上市的京东股份在早盘交易中上涨了超过4%。&lt;/p&gt;
-&lt;p&gt;中国的主要电商平台如京东和阿里巴巴（9988.HK）已加大对折扣和低价商品的重视，反映了中国消费者在开销方面的更加审慎态度。&lt;/p&gt;
-&lt;p&gt;阿里巴巴在同一天宣布了第一季度收入情况，未能达到分析师的预期。&lt;/p&gt;
-&lt;p&gt;中国经济复苏不稳定的后COVID时代造成了低价格电商玩家获得的利益，如拼多多控股（PDD.O）。激烈的竞争导致了大企业间的“价格战”，以此方式吸引相同的消费群体。&lt;/p&gt;
-&lt;p&gt;京东集团CEO辛利军表示，该公司承诺持续采取低价策略。&lt;/p&gt;
-&lt;p&gt;“低价是一种由我们核心能力带来的结果，这将继续使我们在电商行业中独特化。”她如此说。&lt;/p&gt;
-&lt;p&gt;这些零售商们在每年中举办的大型折扣活动，如6月进行的中国电商年度销售盛事中，依靠性价比高和进阶的购物体验来指数级提升总体销售额与市场曝光度。&lt;/p&gt;
-&lt;p&gt;每年6月18日成立的电商平台京东举办的简称「618」的购物活动，由京东自始发起，逐渐成为所有平台共享的年度盛事，反映了家庭消费市场的风向标。&lt;/p&gt;
-&lt;p&gt;京东集团于6月宣布，今年的「618」销售节期间，其营业额与订单数量创造了新高，销售周期从五月底延长至6月18日。&lt;/p&gt;
-&lt;p&gt;第二季度，京东集团的净收入达到每股9.36元（人民币，下同），按非通用会计准则调整的每股收益，则高于估计的6.07元，根据LSEG的数据。&lt;/p&gt;
-&lt;p&gt;本季度京东集团的一般及行政费用减少了9.6%。&lt;/p&gt;
-&lt;p&gt;尽管在2022年底重点聚焦于“低价”策略后，京东集团股价一路下滑，从约60元跌至目前的26元左右。&lt;/p&gt;
-&lt;p&gt;电商咨询公司WPIC Marketing + Technologies首席执行官作战时刻说，面对经济挑战，消费者不仅仅通过价格衡量产品，产品质量与购物体验同样对促成交易和深化市场忠诚度至关重要。&lt;/p&gt;
-&lt;p&gt;“京东集团应该依托其优势，而不是陷于比拼极端折扣的漩涡。”他补充道。&lt;/p&gt;
-&lt;p&gt;第二季度总收入增长1.2%至2914亿元（约合407亿美元）。&lt;/p&gt;
-&lt;p&gt;（1美元 = 7.1585人民币）&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="政府公告标注京东集团在京内部递送人员的头盔上展示了作品牌标志 “JD.com” “京东” 与京东元素的图片，拍摄于2014年6月16日。” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TBBX44ITMZP3LFT5IAHG4SAKN4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;京东集团标志插入到骑手佩戴的头盔上，图片于2014年6月16日拍摄于北京。摄影记者华纪龙提供 &lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="美国美元纸币的插图照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LTL7SFATHBOFHIKBSZLKTIPEKE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这张2017年6月22日的插图中可以看到美元纸币。 REUTERS/Thomas White/Illustration/File Photo&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="骑行的人们经过了印有京东双十一促销广告的广告牌在2023年10月26日的北京。图片由华托光王在2023年10月26日提供。" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ALS43TBAJZPF3OZWQWWOT5Q3OU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;自2023年10月26日起，骑行者在北京市进行通透北京的照片，背景中出现有使用“双十一”促销活动品牌的京东广告招牌。摄影记者华托光王提供 &lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:06:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/chinese-e-commerce-giant-jdcom-misses-quarterly-revenue-estimates-2024-08-15/</guid></item><item><title>日本部长们在第二次世界大战纪念日参拜有争议的战争靖国神社</title><link>https://www.reuters.com/world/japan/japan-ministers-visit-controversial-war-shrine-world-war-two-anniversary-2024-08-15/</link><description>&lt;p&gt;日本于2023年8月15日 ordinal daymarking the anniversaary of its defeat in World War Two witnessed cabinet ministers’ visits to the controversial Yasukuni shrine, permeated with its symbolism of historical aggression against other Asian nation-states. This occasion saw at least three cabinet ministers - Defence Minister Minoru Kihara, Economic Security Minister Sanae Takaichi, and Yoshitaka Shindo, the head of economic revitalization - with their presence in the Tokyo site of the Yasukuni shrine, coinciding with the city’s capital.&lt;/p&gt;
-&lt;p&gt;Among the 2.5 million war dead honored at this revered site, there are 14 prominent convicted war criminals, including wartime Prime Minister Hideki Tojo&lt;/p&gt;
-&lt;p&gt;Defense Minister Minoru Kihara stood in heartfelt contemplation at the shrine as he expressed his salutations on television, echoing, "Today, I am compelled to pay my tributes to all those heroes who laid down their precious lives on the altar of sacrifice," in the sentiment he conveyed.&lt;/p&gt;
-&lt;p&gt;Since Japanese Prime Minister Fumio Kishida and South Korean President Yoon Suk Yeol pledged to facilitate a deeper security cooperation with U.S. President Joe Biden, this was the first time senior government officials visited the war shrine&lt;/p&gt;
-&lt;p&gt;Japan’s top government spokesperson, Yoshimasa Hayashi, in remarks during a regular press briefing, clarified, "I would like to emphasize that all parties visited the shrine in their individual capacities, and hence, this is not a matter deemed suitable for the government’s commentary," underlining the principle that every nation respects those who have sacrificed lives for their homeland.&lt;/p&gt;
-&lt;p&gt;South Korea, a nation long under Japanese colonial administration for 35 years,以及 China, which both faced the brunt of Japan’s military aggression, view the Yasukuni shrine as a beacon summoning right-wing extremists intent on obfuscating the historical actions that followed. In response, South Korea’s foreign ministry expressed,&lt;/p&gt;
-&lt;p&gt;“Our administration pleads for responsible Japanese leadership, urging scrupulous reflection towards history and introspection into its profound consequences.” This is reportedly premised on the vision of fostering forward-looking international relationships between the nations in question.&lt;/p&gt;
-&lt;p&gt;The Chinese foreign ministry has made significant representations to Japan, stating its determined and clear stance regarding the nation's practices. The ministry stated, "The persistent actions by some Japanese dignitaries regarding the Yasukuni Shrine merely embodies the unaban Spirit of how the Japanese side perceive the matter of history," reflecting an overarching disapproval of such actions.&lt;/p&gt;
-&lt;p&gt;Those supporting the Yasukuni shrine cite it as a platform memorializing principles of sacrifice for fatherland sed everywhere. Yuka Watanabe, a visitor to the shrine, at 50 years old, articulated, "We experience peace and prosperity today due to the valorous sacrifices our forefathers made in the historic conflict, and it behooves us to never forget such solemn lessons.”&lt;/p&gt;
-&lt;p&gt;Prime Minister Fumio Kishida, with plans to abdicate by September, stood apart, opting to send an offering in his stead, according to Japanese press reports. Takaichi, speculated by some to be in the running for the prime minister’s post, maintains one of the half-dozen spokespersons who might succeed Prime Minister Kishida in the future.&lt;/p&gt;
-&lt;p&gt;The last serving Japanese prime minister visiting Yasukuni was Shinzo Abe, in 2013—a visit that reprimanded with discontent from then-U.S. President Barack Obama&lt;/p&gt;
-&lt;p&gt;Illustratively, figures including Japan's Emperor Naruhito and Empress Masako, joined thousands in paying their silent renderings as they partook in the memorial proceedings, commemorating the 79th embodiment of Japan’s defeat in World War Two.&lt;/p&gt;
-&lt;p&gt;In a symbolic stance, people adorned in World War Two uniforms offered silent tributes as they visited the Yasukuni Shrine on the 79th anniversary of Japan’s defeat, the reverence communicated as More than just a homage to heroes, it signified an enduring legacy they played in the annals of history.&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 04:22:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/japan/japan-ministers-visit-controversial-war-shrine-world-war-two-anniversary-2024-08-15/</guid></item><item><title>券商因美联储提前降息的希望而上调标准普尔 500 指数目标</title><link>https://www.reuters.com/markets/brokerages-lift-sp-500-target-hopes-soft-landing-rate-cuts-2024-07-15/</link><description>&lt;p&gt;证券公司最近提升了美国股市基准标准普尔500指数的目标，此提升是基于联邦储备局可能在下个月开始降低利率这一预期的升高，且结合了通胀数据出现温和状况背景下的考量。&lt;/p&gt;
-
-&lt;p&gt;各大银行对经济成长、通胀及特定资产类别的预期如下：&lt;/p&gt;
-
-&lt;p&gt;对股票、货币与通货膨胀的前景:&lt;/p&gt;
-
-&lt;table&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;道琼斯指数目标&lt;/td&gt;&lt;td&gt;10年期美国国债利率目标&lt;/td&gt;&lt;td&gt;欧元/美元汇率&lt;/td&gt;&lt;td&gt;美元/日元汇率&lt;/td&gt;&lt;td&gt;美元/人民币汇率&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;高盛公司&lt;/td&gt;&lt;td&gt;5600&lt;/td&gt;&lt;td&gt;4.25%&lt;/td&gt;&lt;td&gt;1.08&lt;/td&gt;&lt;td&gt;150&lt;/td&gt;&lt;td&gt;7.20&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根士丹利&lt;/td&gt;&lt;td&gt;5400(预测至2025年6月)&lt;/td&gt;&lt;td&gt;&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;140&lt;/td&gt;&lt;td&gt;7.5&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;瑞银环球财富管理&lt;/td&gt;&lt;td&gt;5200&lt;/td&gt;&lt;td&gt;3.85%&lt;/td&gt;&lt;td&gt;1.09&lt;/td&gt;&lt;td&gt;148&lt;/td&gt;&lt;td&gt;7.25&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;富国银行投资研究所&lt;/td&gt;&lt;td&gt;5300-5500&lt;/td&gt;&lt;td&gt;3.75%-4.25%&lt;/td&gt;&lt;td&gt;1.06-1.10&lt;/td&gt;&lt;td&gt;156-160&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;巴克莱&lt;/td&gt;&lt;td&gt;5600&lt;/td&gt;&lt;td&gt;4.25%&lt;/td&gt;&lt;td&gt;1.09&lt;/td&gt;&lt;td&gt;145&lt;/td&gt;&lt;td&gt;7.20&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根大通&lt;/td&gt;&lt;td&gt;4200&lt;/td&gt;&lt;td&gt;3.75%&lt;/td&gt;&lt;td&gt;1.13&lt;/td&gt;&lt;td&gt;146&lt;/td&gt;&lt;td&gt;7.25&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;美银全球研究&lt;/td&gt;&lt;td&gt;5400&lt;/td&gt;&lt;td&gt;4.25%&lt;/td&gt;&lt;td&gt;1.12&lt;/td&gt;&lt;td&gt;158&lt;/td&gt;&lt;td&gt;7.45&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;德意志银行&lt;/td&gt;&lt;td&gt;5500&lt;/td&gt;&lt;td&gt;4.60%&lt;/td&gt;&lt;td&gt;1.07&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;花旗集团&lt;/td&gt;&lt;td&gt;5600&lt;/td&gt;&lt;td&gt;4.20%&lt;/td&gt;&lt;td&gt;1.02&lt;/td&gt;&lt;td&gt;135&lt;/td&gt;&lt;td&gt;7.25&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;汇丰&lt;/td&gt;&lt;td&gt;5400&lt;/td&gt;&lt;td&gt;3.00%&lt;/td&gt;&lt;td&gt;1.05&lt;/td&gt;&lt;td&gt;145&lt;/td&gt;&lt;td&gt;7.10&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根大通全球研究&lt;/td&gt;&lt;td&gt;5600&lt;/td&gt;&lt;td&gt;4.0%&lt;/td&gt;&lt;td&gt;1.08&lt;/td&gt;&lt;td&gt;160&lt;/td&gt;&lt;td&gt;7.15&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;Evercore ISI&lt;/td&gt;&lt;td&gt;6000&lt;/td&gt;&lt;td&gt;。&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;RBC&lt;/td&gt;&lt;td&gt;5700&lt;/td&gt;&lt;/tr&gt;
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p&gt;** 请注意，UBS全球研究与UBS环球财富管理是在UBS集团内的不同，独立的部门。&lt;/p&gt;
-
-&lt;h2&gt;";
-&lt;p&gt;                  
-&lt;p&gt; 美国通货膨胀情况：
-&lt;p&gt;美国消费者物价在7月小幅增长，并且年度通货膨胀率首次降至3%以下，达到了近3-1/2年来的最低点。&lt;/p&gt;
-
-&lt;table&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;估测美国通货膨胀（年增速2024年）&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;总体CPI指数&lt;/td&gt;&lt;td&gt;核心PCE指数&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;高盛公司&lt;/td&gt;&lt;td&gt;2.8%&lt;/td&gt;&lt;td&gt;2.64%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根士丹利&lt;/td&gt;&lt;td&gt;2.10%&lt;/td&gt;&lt;td&gt;2.70%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;富国银行投资研究&lt;/td&gt;&lt;td&gt;3.0%&lt;/td&gt;&lt;td&gt;2.60%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;Barclays&lt;/td&gt;&lt;td&gt;2.9%&lt;/td&gt;&lt;td&gt;2.6%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根大通&lt;/td&gt;&lt;td&gt;2.50%&lt;/td&gt;&lt;td&gt;2.50%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;美银环球研究&lt;/td&gt;&lt;td&gt;3.5%&lt;/td&gt;&lt;td&gt;2.8%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;德意志银行&lt;/td&gt;&lt;td&gt;3.10%&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;Citigroup&lt;/td&gt;&lt;td&gt;2.0%&lt;/td&gt;&lt;td&gt;3.0%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;汇丰银行&lt;/td&gt;&lt;td&gt;3.4%&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;p&gt;-----&lt;/p&gt;
-
-&lt;table&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;全球及美国的GDP成长预测2024年：&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;全球 GDP 增长率&lt;/td&gt;&lt;td&gt;美国 GDP 增长率&lt;/td&gt;&lt;td&gt;中国 GDP 增长率&lt;/td&gt;&lt;td&gt;欧元区 GDP 增长率&lt;/td&gt;&lt;td&gt;英国 GDP 增长率&lt;/td&gt;&lt;td&gt;印度 GDP 增长率&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;高盛公司&lt;/td&gt;&lt;td&gt;2.7%&lt;/td&gt;&lt;td&gt;2.7% &lt;/td&gt;&lt;td&gt;4.9% &lt;/td&gt;&lt;td&gt;0.7% &lt;/td&gt;&lt;td&gt;1.1% &lt;/td&gt;&lt;td&gt;6.9% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根士丹利&lt;/td&gt;&lt;td&gt;2.8%&lt;/td&gt;&lt;td&gt;1.9% &lt;/td&gt;&lt;td&gt;4.2% &lt;/td&gt;&lt;td&gt;0.5% &lt;/td&gt;&lt;td&gt;-0.1% &lt;/td&gt;&lt;td&gt;6.4% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;UBS环球财富管理* &lt;/td&gt;&lt;td&gt;3.1%&lt;/td&gt;&lt;td&gt;2.4% &lt;/td&gt;&lt;td&gt;4.9% &lt;/td&gt;&lt;td&gt;0.6% &lt;/td&gt;&lt;td&gt;0.2% &lt;/td&gt;&lt;td&gt;7.0% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;巴克莱&lt;/td&gt;&lt;td&gt;2.6%&lt;/td&gt;&lt;td&gt;1.2% &lt;/td&gt;&lt;td&gt;5.0% &lt;/td&gt;&lt;td&gt;0.3% &lt;/td&gt;&lt;td&gt;1.1% &lt;/td&gt;&lt;td&gt;6.2% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;摩根大通&lt;/td&gt;&lt;td&gt;2.6%&lt;/td&gt;&lt;td&gt;2.3% &lt;/td&gt;&lt;td&gt;4.7% &lt;/td&gt;&lt;td&gt;0.8% &lt;/td&gt;&lt;td&gt;1.0% &lt;/td&gt;&lt;td&gt;6.5% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;美银环球研究&lt;/td&gt;&lt;td&gt;3.2%&lt;/td&gt;&lt;td&gt;2.5% &lt;/td&gt;&lt;td&gt;5.0% &lt;/td&gt;&lt;td&gt;0.6% &lt;/td&gt;&lt;td&gt;1.1% &lt;/td&gt;&lt;td&gt;5.8% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;德意志银行&lt;/td&gt;&lt;td&gt;3.2%&lt;/td&gt;&lt;td&gt;2.4% &lt;/td&gt;&lt;td&gt;5.2% &lt;/td&gt;&lt;td&gt;0.9% &lt;/td&gt;&lt;td&gt;1.2% &lt;/td&gt;&lt;td&gt;7.0% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;Citigroup&lt;/td&gt;&lt;td&gt;2.4%&lt;/td&gt;&lt;td&gt;1.6% &lt;/td&gt;&lt;td&gt;5.0% &lt;/td&gt;&lt;td&gt;0.7% &lt;/td&gt;&lt;td&gt;0.9% &lt;/td&gt;&lt;td&gt;7.3% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;汇丰&lt;/td&gt;&lt;td&gt;2.6%&lt;/td&gt;&lt;td&gt;2.3% &lt;/td&gt;&lt;td&gt;4.9% &lt;/td&gt;&lt;td&gt;0.5% &lt;/td&gt;&lt;td&gt;0.4% &lt;/td&gt;&lt;td&gt;6.3% &lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;美银环球研究*&lt;/td&gt;&lt;td&gt;3.1%&lt;/td&gt;&lt;td&gt;2.3% &lt;/td&gt;&lt;td&gt;4.9% &lt;/td&gt;&lt;td&gt;0.6% &lt;/td&gt;&lt;td&gt;0.7% &lt;/td&gt;&lt;td&gt;7.0% &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/p&gt;</description><pubDate>Mon, 15 Jul 2024 13:04:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/brokerages-lift-sp-500-target-hopes-soft-landing-rate-cuts-2024-07-15/</guid></item><item><title>中国工厂产出放缓，快速复苏希望破灭</title><link>https://www.reuters.com/markets/asia/chinas-factory-output-growth-slows-third-straight-month-2024-08-15/</link><description>&lt;p&gt;中国第二季度两大经济体之一的工厂产出在七月连续第三个月放缓，表明世界第二大经济体的复苏步伐正在减弱。然而，新冠疫情打击的消费者部门呈现出复苏的迹象，因为针对家庭的刺激措施开始生效。&lt;/p&gt;&lt;p&gt;周四公布的多份数据表明，19万亿美元经济体在下半年开始表现参差，这一迹象让政策制定者对早些时候令人失望的出口、价格和银行贷款指标持续感到担忧。&lt;/p&gt;&lt;p&gt;国家统计局数据显示，7月工业产出同比增长5.1%，低于6月的5.3%的增速，且低于分析师预计的5.2%增长率。&lt;/p&gt;&lt;p&gt;相比之下，零售销售则出现2.7%的增长，高于6月的2.0%的增速，而预期增速为2.6%。&lt;/p&gt;&lt;p&gt;据分析人士称，上述数据加强了政策制定者更多支持措施的紧迫性，这些支持措施旨在促进消费者消费，而非将资金投入基础设施。&lt;/p&gt;&lt;p&gt;Capital Economics大中华区首席经济学家杰弗里·埃文斯-普里查德(Julian Evans-Pritchard)说道：“上个月，经济势头似乎有了一定的稳定，消费者支出和服务活动的上升在一定程度上抵消了投资和工业生产的放缓。”他还补充指出，“预计即将到来的几个月里，会实现适度的复苏。”&lt;/p&gt;&lt;p&gt;中国领导人上个月明确表示，考量新型经济治理策略，并对刺激政策专注于消费者而非基础设施和制造业给予了更多重视。国家发展改革委员会上个月曾表示，今年通过特别债务发行筹集的约1,500亿元人民币(合209.7亿美元)，将投入一个消费品以旧换新计划中。&lt;/p&gt;&lt;p&gt;“消费者需求继续恢复，因为扩大国内需求和促进消费的政策正在取得成效。”国家统计局发言人刘爱华说。&lt;/p&gt;&lt;p&gt;过去三年，中国房地产行业经历了严峻下滑，占中国家庭财富七成的是房地产，产业高峰时占GDP四分之一，消费者的腰包始终缩紧。&lt;/p&gt;&lt;p&gt;周四的数据显示，7月中国的商品房销售额出现了9年来最高幅度的下跌，尽管实施支撑政策，但房地产行业进展仍然受阻，复苏前景不甚明朗。&lt;/p&gt;&lt;p&gt;大宗商品消费方面，中国7月的炼油产能同比下降6.1%，钢铁产量连续第二个月下滑，呈现需求低迷的迹象。&lt;/p&gt;&lt;p&gt;2024年前7个月累计固定资产投资同比增长3.6%，虽超过预期的增长3.9%，但低于前六个月的3.9%，显现经济复苏基础较弱。&lt;/p&gt;&lt;p&gt;分析师普遍欢迎针对消费者支出的刺激措施，但警告称，需要更多政策措施来推动经济走向平稳运行。自广泛预期的后疫情复苏未能于2022年实现以来，关于更多增长提振措施的言论成为官方备受关注的议题。&lt;/p&gt;&lt;p&gt;尽管官方仍设定了全年约5%的增长目标，但分析师担心生产大国中国面临的是与20世纪90年代日本类似的长期经济低迷，这意味着可能需要更激进的改革措施来促进增长。&lt;/p&gt;&lt;p&gt;上个月，中央银行通过短期债券工具向市场注入810亿元人民币资金，并在本月晚些时候进行中期借贷便利(MLF)的滚动操作，旨在为金融系统提供流动性支持。中央银行8月初的会议决定加强经济层面的金融支持，并努力更多促进消费者消费。&lt;/p&gt;&lt;p&gt;然而，由于国内需求疲软以及经济前景难见明朗，居民和企业在短期内迟迟未有借贷意愿，这表明经济可能需要其他些变革措施。&lt;/p&gt;&lt;p&gt;澳新银行(ANZ)大中华区的经济学家邢兆朋（音）表示：“这些数据表明，今年下半年经济开局疲软，替换MLF将债务量减为储蓄量的低概率加大，保持5%的经济增长目标关键在于财政支出的落地。”&lt;/p&gt;&lt;p&gt;($1 = 7.1543 Chinese yuan)&lt;/p&gt; &lt;figure&gt;&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AZQNQFJYZJP2DBONVVKSLOV4RI.jpg" alt="2019年11月23日，山东省邹平市一家工厂里，工人们在铝卷生产线上工作。此图片摄于2019年11月23日。路透社/Stringer/文件图片"&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2019年11月23日，山东省邹平市一家工厂里，工人们在铝卷生产线上工作。此图片摄于2019年11月23日。路透社/Stringer/文件图片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 02:21:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-factory-output-growth-slows-third-straight-month-2024-08-15/</guid></item><item><title>行长称中国央行计划推出新政策促进经济增长</title><link>https://www.reuters.com/world/china/chinas-central-bank-plans-new-policies-boost-growth-governor-says-2024-08-15/</link><description>&lt;p&gt;中国人民银行行长潘功胜在周四接受中国国家媒体中央电视台采访时表示，该银行正在筹划新政策以促进后半年的经济增长，并将提速推进既定措施的实施。&lt;/p&gt;
-&lt;p&gt;潘功胜没有详细阐述政策细节。&lt;/p&gt;
-&lt;p&gt;潘功胜向中央电视台透露，中国高风险中小型银行的数量几乎削减了一半，地方政府债务的负担成本已显著下降。&lt;/p&gt; 
-&lt;p&gt;&lt;figure&gt;
-&lt;img alt="A woman walking past the main office of the People's Bank of China, the central bank, in Beijing.” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ACH2UOKMXZNOJNXNFNHRYYAM3M.jpg" /&gt; 
-&lt;p&gt;&lt;figcaption style="text-align: center;"&gt;
-一位女士在北京的一处照片显示的中国人民银行总部行走，时间为2018年9月28日，路透社/陈志伟 档案照&lt;/figcaption&gt;&lt;/p&gt;
-&lt;/figure&gt; &lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:55:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-central-bank-plans-new-policies-boost-growth-governor-says-2024-08-15/</guid></item><item><title>蚂蚁集团季度利润下降10.25%至120亿元</title><link>https://www.reuters.com/technology/ant-group-quarterly-profit-falls-1025-12-bln-yuan-2024-08-15/</link><description>&lt;p&gt;根据路透社根据阿里巴巴集团控股公司（阿里的股票代码：&lt;a href="https://www.reuters.com/markets/companies/9988.HK" target="_blank"&gt;9988.HK&lt;/a&gt;）于周四发布的收益表明，阿里巴巴集团旗下的蚂蚁集团在截至三月三十一日的季度内获得了120亿元人民币（约168亿美元）的净利润，相较于上一年同期，下降了10.25%。&lt;/p&gt;&lt;p&gt;这个电子商务巨头通常会延迟一个季度报告其关联公司的盈利能力。&lt;/p&gt;&lt;p&gt;上一年的7月，中国监管部门宣布对蚂蚁集团实施71.2亿元人民币的罚款，以惩处其违反消费者保护和公司治理方面的法律，此次举措结束了对中国金融科技公司的长达数年的监管改革。&lt;/p&gt;&lt;p&gt;这两家集团都由知名的中国商人马云所创立，阿里巴巴持有蚂蚁集团33%的股份。&lt;/p&gt; 
-&lt;figure&gt;&lt;img alt="蚂蚁集团在上海世界人工智能大会（WAIC）上的一幅标志图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UPDKBV4UCFMRHFA2FL6H4PWY3I.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;蚂蚁集团在 上海世界人工智能大会（WAIC）上展示的标志图，取自上海，中国 2023年7月6日的路透社文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:48:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/ant-group-quarterly-profit-falls-1025-12-bln-yuan-2024-08-15/</guid></item><item><title>星巴克新任首席执行官将获得数百万美元股权奖励</title><link>https://www.reuters.com/business/retail-consumer/starbucks-new-ceo-niccol-get-base-salary-16-mln-2024-08-14/</link><description>&lt;p&gt;(此段落于8月14日修订，更正为“卷饼连锁”而非“咖啡连锁”，于第三段)&lt;br /&gt;
-星巴克&lt;sup title="https://www.reuters.com/markets/companies/SBUX.O"&gt;&lt;a href="https://www.reuters.com/markets/companies/SBUX.O" target="_blank"&gt;（SBUX.O）&lt;/a&gt;&lt;/sup&gt;昨日宣布，即将接任CEO的布莱恩·尼克科尔（&lt;sup title="https://www.reuters.com/business/retail-consumer/veteran-fast-food-exec-known-tackling-crises-head-on-takes-over-starbucks-2024-08-14/"&gt;Brian Niccol&lt;/sup&gt;）有权获得价值2300万美元的年度股权奖励，并将因放弃他在科斯塔美式餐厅连锁公司&lt;sup title="https://www.reuters.com/markets/companies/CMG.N"&gt;&lt;a href="https://www.reuters.com/markets/companies/CMG.N" target="_blank"&gt;（CMG.N）&lt;/a&gt;&lt;/sup&gt;的股份接收额外的股票授予价值七千五百万美元。&lt;/p&gt;
-&lt;p&gt;尼克科尔的初年度基本薪酬将为160万美元，他表示在职期间将收到额外的1000万美元一次性现金奖金。他从2018年3月开始担任科斯塔美国餐厅连锁公司的CEO，成功了修复了该餐厅连锁公司的声誉，此前已发生一系列食品安全事宜。他不仅专注于改进卷饼连锁的数字及移动点餐服务，以提升效率，同时他也特别关注到与更具竞争力的对手竞争以及美国和中国客户需求下滑的情况。&lt;/p&gt;
-&lt;p&gt;星巴克相信他的经验将使他在成为公司第六位&lt;sup title="https://www.reuters.com/business/retail-consumer/starbucks-hires-chipotles-niccol-its-sixth-ceo-2024-08-13/"&gt;CEO&lt;/sup&gt;及接替拉克曼·纳拉辛汉的效果显著，后者在3月正式接任公司最高职位后于8月13日离职。&lt;/p&gt;
-&lt;p&gt;纳拉辛汉在任期间面临来自主动投资人艾利奥特投资管理公司转向的压力，他需要带领公司在面临更为激烈的竞争和以更快的流程抢夺市场的情况下，调整策略以重新定位和适应。在纳拉辛汉的领导下，星巴克股价在过去一年间缩水了近25%。&lt;/p&gt;
-&lt;p&gt;纳拉辛汉的年度总薪酬为去年1460万美元，相比前一年为880万美元。在1月的监管文件中详细指出。
-
-尼克科尔回顾过去一年间，在他的领导下科氏美国餐厅连锁公司销售量翻倍，股价上涨超过三倍。&lt;/p&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JWNRBUM7JNKU5I4OZGFBRLF65I.jpg" alt="匹配分析：星巴克与卡夫”" style="text-align: center;"&gt; 
-&lt;figcaption style="text-align: center;"&gt;圣塔莫尼卡，加州，2011年1月27日。REUTERS/Lucy Nicholson/档案照片&lt;/figcaption&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CORNURJF6BJEJJBNEILMJ3NKIM.jpg" alt="PGA：AT&amp;amp;T佩博海滩专业高尔夫赛-第二轮" style="text-align: center;"&gt; 
-&lt;figcaption style="text-align: center;"&gt;2023年2月3日，美国加州佩博海滩。Ray Acevedo-USA TODAY Sports&lt;/figcaption&gt;</description><pubDate>Wed, 14 Aug 2024 21:16:14 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/starbucks-new-ceo-niccol-get-base-salary-16-mln-2024-08-14/</guid></item><item><title>早盘竞价：低迷终于来临，美国零售业和中国房地产市场成为焦点</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-08-15/</link><description>&lt;p&gt;迈克·多兰从未来展望了美国和全球市场的每日情况。&lt;/p&gt;
-&lt;p&gt;美国消费者价格指数（CPI）的控制与市场波动的回归，为夏季交易疲软的回归创造了条件，只要之后的美国零售数据保持稳健。&lt;/p&gt;
-&lt;p&gt;华尔街VIX波动指数(VIX)的非凡波动，在美国温和的CPI报告的映衬下，基本完成。这强调了美联储可能会在下月开始降息，虽然更可能的仅仅是0.25个百分点的降息，而非0.5个百分点。&lt;/p&gt;
-&lt;p&gt;VIX在周三收盘于16.2点，仅用了7个交易日就从8月5日38.6点的高点快速回调至中位数以下。&lt;/p&gt;
-&lt;p&gt;将这种极端速度放在历史的大视野下，理论上，指数在高于35后平均需要170个交易日才能回调至中位数以下。因此，8月初的局势更加接近2018年初短暂"波动大恐慌"，而非持久和有害的扰动。&lt;/p&gt;
-&lt;p&gt;所有上述因素意味着市场回到了更基础的状态，前景在本周一系列美国经济更新到来前依旧乐观。&lt;/p&gt;
-&lt;p&gt;本周的CPI报告和在先发布的生产者价格指数进一步为美联储开始在下月降息做出许可，同时，未来一周联邦杰克逊霍尔会议发布的更长期信号正逐渐受到关注。&lt;/p&gt;
-&lt;p&gt;尽管租金报价仍具刺激性，有观点认为降息可能略微有助于解决这个问题，但从总体上看，当前的总体通货膨胀率和核心通货膨胀率均大大低于美联储2%的目标。&lt;/p&gt;
-&lt;p&gt;尽管9月份降息的期货市场价格为0.25个百分点，但选择降息0.50个百分点的概率已降至恰好三分之一。但由于年底0.100个百分点的降息承诺预定在曲线中持续，直至下一年6月，总降息幅度约为199.599个百分点。&lt;/p&gt;
-&lt;p&gt;亚特兰大联储主席拉斐尔·鲍斯特表示，他在9月份愿意考虑降息，并补充说美联储“无法承担错过”降息政策支持的可能性。&lt;/p&gt;
-&lt;p&gt;虽然周四国债收益率略有上升，但总体依然疲软，短期内国债收益率仍保持在4%以下。在标准普尔500指数周三达到本月中最高收盘记录后，主要股票指数的期货又在开盘前出现上扬。&lt;/p&gt;
-&lt;p&gt;美元继续疲软，尽管欧元从2024年高位1.10美元上方收复失地，但仍受到中国经济多个令人不安的更新影响。&lt;/p&gt;
-&lt;p&gt;尽管7月份中国的工业和个人零售报告结果呈现一定程度的波动性，但住房领域的危机的问题单元仍然是中国经济的重要关注点。7月数据显示，中国的二手房价格在9年内录得最快速度的下降。&lt;/p&gt;
-&lt;p&gt;考虑到中国约70%的家庭财富被持有在房地产中，一个曾占GDP比重高达四分之一的行业领域，消费者们正在紧缩口袋，因为房产价值在萎缩。&lt;/p&gt;
-&lt;p&gt;为了提振中国股市，人们期待着最新的经济新闻会增加货币宽松的可能性，离岸人民币回落。中国央行通过短期国债工具注入了现金，并宣布在本月底延长流动性支持。&lt;/p&gt;
-&lt;p&gt;与之相对比的日本第二季度经济以远超预期的3.1%的年化增长率增长，强势反弹，一举扭转了年初的衰退，巩固了短期内再次上调利率的依据。在欧洲，英镑因第二季度强劲的英国GDP数据日后小幅上升。&lt;/p&gt;
-&lt;p&gt;然而，全球范围内的经济惊喜指数正降至两年半以来的最低点。&lt;/p&gt;
-&lt;p&gt;转向华尔街的日程，重头戏可能是7月零售销售报告和仍高度敏感的每周失业数据。&lt;/p&gt;
-&lt;p&gt;沃尔玛将通过发布季度收益为国家零售汇总增添独特的风味。&lt;/p&gt;
-&lt;p&gt;道琼斯指数成分股Home Depot在确认其年度利润的下降和销售增长的显著放缓后，本周对消费者支出滞后发出警告，后者已经承受了压力，但是，其股价并未出现明显的下滑。&lt;/p&gt;
-&lt;p&gt;在交易新闻方面，糖果巨头玛氏宣布将以83.50美元每股的价格收购奇多和彼灵斯制造商Kellanova，总交易价值接近360亿美元，Kellanova股价因此在周三上涨了7.8%。&lt;/p&gt;
-&lt;p&gt;影响美国市场接下来走向的重要变动包括：&lt;/p&gt;
-&lt;p&gt;* 美国本周的工作申请人数，7月份的零售销售数字，以及工业产值数据；8月份NAHB住房市场指数，费城联储8月份的业务调查，纽约联邦储蓄局8月份的制造业调查；以及6月的TIC数据显示出的财政部资金流动情况&lt;/p&gt;
-&lt;p&gt;* 圣路易斯联邦储备银行总裁阿尔贝托·穆塞尔和费城联储总裁帕特里克·哈克的演讲&lt;/p&gt;
-&lt;p&gt;* 美国公司收益：沃尔玛、Amcor、应用材料、迪尔、塔坡瑞等&lt;/p&gt;
-&lt;p&gt;* 美国财政部出售4周期的国债&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:08:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-08-15/</guid></item><item><title>伦敦证券交易所数据显示，7月份俄罗斯对非洲周边亚洲的燃料供应量创历史新高</title><link>https://www.reuters.com/markets/commodities/russias-fuel-supplies-asia-around-africa-hit-record-high-july-lseg-data-shows-2024-08-15/</link><description>&lt;p&gt;据伦敦证券交易所集团(LSEG)的航运数据显示，俄罗斯7月份通过好望角海上出口至亚洲的油类产品同比激增近一倍，纪录高位达到110万吨，因为更多船只采取经过非洲的航线以避开埃及苏伊士运河的途径。&lt;/p&gt;
-&lt;p&gt;其中，出口的主要主要是石脑油，量达整整83万吨，根据市场来源与航运数据显示。&lt;/p&gt;
-&lt;p&gt;同样是通过这条路径的，还有载自俄波罗的海港口乌斯柳加和维斯托斯克的燃料油货船，以及来自普里莫尔斯克港口的低硫柴油。&lt;/p&gt;
-&lt;p&gt;LSEG的信息显示，这些油类产品出口目的地为新加坡、台湾、印度和中国。&lt;/p&gt;
-&lt;p&gt;由于担心也门亲伊朗的胡塞组织发起针对苏伊尔斯海海域的袭击升高，自2024年12月起，贸易商开始绕道非洲，使俄罗斯的燃油油船货物避开红海。&lt;/p&gt;
-&lt;p&gt;2024年，至少有三艘搭载俄罗斯油产品的船只遭受胡塞组织的袭击，包括90,000吨燃油油装载于2024年5月的巴拿马籍M/T Wind，在2024年7月胡塞组织在俄罗斯黑海港口图腊普装载燃油油的利比里亚籍Chios Lion遭受袭击。&lt;/p&gt;
-&lt;p&gt;LSEG数据显示，Chios Lion仍漂浮在苏伊士运河中。&lt;/p&gt;
-&lt;p&gt;亚洲目前是最主要的市场，接收俄罗斯燃油油和石脑油出口，自从欧盟自2023年2月起禁止进口俄油产品后，情况如此。&lt;/p&gt;
-&lt;p&gt;然而，大多数装载俄罗斯油产品的船只依然选择通过苏伊士运河到达亚洲的捷径，以获得较短也更快的航线。&lt;/p&gt;
-&lt;p&gt;2023年3月开始，胡塞组织对两国中国与俄罗斯提供了保证，船只穿过红海将安全无虞。一些船只显现“俄罗斯船员上船”或“装载自俄罗斯源头货源”的信号。&lt;/p&gt;
-&lt;p&gt;LSEG和市场来源数据显示，俄罗斯西部与南部港口共装载了约900万吨油类产品，至2024年7月。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img alt="oil terminal Kozmino near Nakhodka" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DUQNCDFCAFJ3ZORCEHSXX5L4IU.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;油终端克佐米诺近纳霍达顿_BOOKENDING COLONIES IMAGE - REUTERS/Tatiana Meel/file photo&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 08:54:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/russias-fuel-supplies-asia-around-africa-hit-record-high-july-lseg-data-shows-2024-08-15/</guid></item><item><title>越南最高领导人周日起访华</title><link>https://www.reuters.com/world/asia-pacific/vietnams-top-leader-visit-china-sunday-2024-08-15/</link><description>&lt;p&gt;越南最高领导人范明政将于本周末至八月二十日对中国进行正式访问，越南政府和中国国家媒体宣布，此举旨在巩固这两个由共产党执政的邻国之间紧密的双边关系。&lt;/p&gt;
-&lt;p&gt;在本月被任命为越南执政共产党中央委员会总书记之后，范明政此次首次国外之旅预计将与中国国家主席习近平及高层官员会面。&lt;/p&gt;
-&lt;p&gt;尽管双方在能源丰富的南中国海上存在经济和贸易联系，包括经济活动繁忙的航道，两国间有时会因为对经济资源的争端而摩擦不时发生纠纷，确实在很大程度上是中国经过多国共享领土。&lt;/p&gt;
-&lt;p&gt;范明政访华紧随习近平主席的邀请，越南政府于昨日发布声明确认了先前由路透社报道的范明政即将访问中国的消息。&lt;/p&gt;
-&lt;p&gt;在中国，越南位列最大的贸易伙伴，据统计显示，截至今年七月份，两国间的双向贸易总额较去年同期增长25%，达到1120亿美元，根据越南海关数据。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ICYSGVJHI5K6ZCVREKXLXINOPY.jpg" alt="俄罗斯总统弗拉基米尔·普京访问越南"&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            越南总统范明政在河内总统府出席了与未在场的俄罗斯总统弗拉基米尔·普京的新闻发布会。
-        &lt;/i&gt;
-        &lt;br&gt;&lt;i&gt;&lt;small&gt;图片摄于2024年6月20日，由MINH HOANG/Pool摄影师提供/路透社文件照&lt;/small&gt;&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 08:44:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/vietnams-top-leader-visit-china-sunday-2024-08-15/</guid></item><item><title>基里巴斯总统在全国选举第一阶段保住席位</title><link>https://www.reuters.com/world/asia-pacific/kiribati-president-retains-seat-first-stage-national-election-2024-08-15/</link><description>&lt;p&gt;吉尔伯特群岛共和国，一位亲华的总统特内蒂·马莫乌和对立党领导人特西·兰伯恩在偏远的太平洋岛国近期举行的地方选举中胜出，非正式的结果显示于周四。&lt;/p&gt;&lt;p&gt;“群岛之选”于周三投下了选票，为期44议席的国会选举，次日非正式结果显示，超过 dozen席位可能需要在周一进行一轮投票，依据选举制度需要明确的胜出者。&lt;/p&gt;&lt;p&gt;吉尔伯特群岛的众议院定于9月13日举行会议，由新当选的议员筛选总统候选人名单，这些候选人将在年内的一项全国直接投票选举中被最终决定。&lt;/p&gt;&lt;p&gt;身为生活在1万1千5百居民之国，吉尔伯特群岛因其虽较小但战略位置显著而受到重视，位于夏威夷附近，并对太平洋拥有逾三千五百多万平方公里（一千四百万平方英里）的领土控制。&lt;/p&gt;&lt;p&gt;在马莫乌任期内，吉尔伯特群岛自2019年转向与中国的外交关系途径后，同中国的亲缘关系更为紧密，之后弃台湾而与之脱离联盟关系。&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img 
-        alt="纽约联合国总部第78届大会一般辩论” 
-        src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QTEYKPJBKZKQ5CWZ7T35V2PK3U.jpg"
-    /&gt;
-    &lt;figcaption&gt;
-        &lt;i&gt;
-            吉尔伯特群岛共和国总统特内蒂·马莫乌出席纽约美国的第78届联合国大会，日期为2023年9月21日。路透社档案照片/布莱恩·麦德里德摄影
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 08:10:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/kiribati-president-retains-seat-first-stage-national-election-2024-08-15/</guid></item><item><title>随着个人电脑市场复苏，联想第一季度收入增长 20%，超出预期</title><link>https://www.reuters.com/technology/lenovo-q1-revenue-jumps-20-beats-estimates-pc-market-recovers-2024-08-15/</link><description>&lt;p&gt;&lt;span&gt;联想集团有限公司&lt;/span&gt;在中国的交易平台进行报告，收入在上一季度激增20%，全球个人电脑市场的复苏趋势，结束了为期两年的下滑。&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;截至6月期间&lt;/span&gt;，公司收入增长至154亿美元，超过了分析机构LSEG院调期间分析师平均估计的141亿美元。&lt;/p&gt;
-&lt;p&gt;结束了连续五个季度收入下降的态势，联想业绩喜人，这标志着联想在后疫情经济放缓阶段的连续三个季度的收入增长。&lt;/p&gt;
-&lt;p&gt;全球个人电脑市场所展示的复苏迹象显著，在IDC的数据显示，在经历近两年持续下挫后，本季度本市场重回增长的轨道。&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;截至6月期间，全球个人电脑出货量&lt;/span&gt;增长了3%，出货量达到了6490万台。在IDC的数据统计中，联想在市场中占据领先地位，占据23%的市场份额。&lt;/p&gt;
-&lt;p&gt;周四下午的交易中，联想股价下跌了0.99%。&lt;/p&gt;
-&lt;p&gt;联想业务早已超出其核心个人电脑业务，近年来逐步延伸到软件及服务领域。&lt;/p&gt;
-&lt;p&gt;过去这一季度中，联想基础设施解决方案部门，即包括服务器及其他硬件，收入增长了65%至30亿美元水平。解决方案与服务部门的收入增长了10%，达到19亿美元。&lt;/p&gt;
-&lt;p&gt;目前联想的非个人电脑业务已经产生了47%的收入混合，其董事长兼首席执行官杨元庆在接受REUTERS采访时表示，这一比例在未来将有望增至50%。&lt;/p&gt;
-&lt;p&gt;杨元庆表示，因企业IT支出的回暖以及受益于AI驱动需求，联想各业务线的整体表现均呈增长趋势，包括个人电脑、服务器、企业软件等。&lt;/p&gt;
-&lt;p&gt;引领全球个人电脑市场的动力正在由新兴的“AI个人电脑”趋势驱动，此类配备了专为人工智能软件优化的芯片的电脑正快速受市场青睐。&lt;/p&gt;
-&lt;p&gt;作为首家发布AI个人电脑的生产商，联想于五月份推出了两款型号品系。杨元庆预计，至年底，联想出货的个人电脑中将有10%配备AI功能；以至2026年这一比例将提升至50至60%。&lt;/p&gt;
-&lt;p&gt;与此同时，AI技术的热潮加剧了中美之间地缘政治的紧张局势，包括对高级人工智能技术出口的限制。&lt;/p&gt;
-&lt;p&gt;杨元庆表示，联想已经适应了此类挑战，并且完全遵守在运营区域内的所有法律法规，能够顺利地应对这一问题。&lt;/p&gt;
-&lt;p&gt;本季度的净利润为2.43亿美元，超过了分析机构LSEG调期间分析师平均预期的2.2294亿美元。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SV4FOYS5V5OHNDC35IW5KIXSRM.jpg" alt="一名员工在联想技术世界北京中公司标志旁边挥手"/&gt;
-&lt;figcaption style="text-align: center;"&gt;一名员工在联想技术世界北京活动现场与公司标志互动
-&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 04:10:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/lenovo-q1-revenue-jumps-20-beats-estimates-pc-market-recovers-2024-08-15/</guid></item><item><title>尽管有刺激措施，中国房价仍进一步跌至九年新低</title><link>https://www.reuters.com/markets/asia/chinas-home-price-slump-deepens-july-new-9-year-low-2024-08-15/</link><description>&lt;p&gt;在七月，中国的新建住宅价格以九年来最快速度下滑。尽管出台了一系列支持政策，却未能稳定价格，也未重燃房地产疲软市场中的信心。&lt;/p&gt;&lt;p&gt;长时间的房地产市场低迷对世界上第二大经济体及其消费者产生了沉重打击，分析人士表明，即便其他经济指标已经稳定，北京定下的2024年5%的GDP目标可能仍过于雄心勃勃。&lt;/p&gt;&lt;p&gt;根据国家统计局（NBS）公布的数据显示，新建住宅价格同比降低了4.9%，这是自2015年6月以来最显著的跌幅，相较于6月的4.5%跌速更为剧烈。路透社的计算结果显示如此。&lt;/p&gt;&lt;p&gt;ING的分析师指出，“越发明显的是，房地产市场将继续需要更多政策支持以稳固市场。&lt;/p&gt;&lt;p&gt;为了支持这个一度占GDP四分之一的行业，北京倡议实施了一系列举措，包括降低按揭贷款利率和减轻购房成本。&lt;/p&gt;&lt;p&gt;宋鸿飞表示，同济房地产研究院的研究主任指出，尽管政策能够提振市场，但在外部经济环境的降温中，这些政策的影响并未充分体现。&lt;/p&gt;&lt;p&gt;新建住宅价格自去年十二月以来连续第十三个月呈现下滑态势，降幅为0.7%，与六月趋势吻合。&lt;/p&gt;&lt;p&gt;在NBS调查的70个城市中，仅上海和西安报告每月新建住宅价格环比增长，仅上海的二手住宅市场也为上涨。&lt;/p&gt;&lt;p&gt;部分房地产开发商采用非传统促销手段，助力清仓全国范围内的大量库存。&lt;/p&gt;&lt;p&gt;中国招商蛇口工业区控股公司的南京分支正在向购房顾客提供20万元人民币（折合27,950美元）的促销礼包，其中包括总计200小时的飞行时间用于获得飞行员资格和5%的私人飞机所有权。这一消息由《北京青年报》在周三报道。&lt;/p&gt;&lt;p&gt;在中国最高决策机构于七月底再次重申支持未完成项目结束以及将未售公寓改为经济适用房的承诺之后，可以观察到这一政策的积极影响。&lt;/p&gt;&lt;p&gt;周四发布的另组数据显示，在今年1至7月，面积销售数据同比下跌18.6%，与前6个月的19.0%下滑相比略有缓和。&lt;/p&gt;&lt;p&gt;中国央行上周发布的一项季度调查显示，预计三季度认为房价会下跌的居民比例达到23.2%的历史新高，自2013年开始数据以来呈现最高值。&lt;/p&gt;&lt;p&gt;分析师表示，房地产领域需要具有针对性且强硬的支持方案。&lt;/p&gt;&lt;p&gt;高盛的研究报告中指出，“我们预计未来几个月会出现更多房地产放宽措施，涵盖如一线城市购房限制的放宽与房贷利率的进一步下调等方案。”&lt;/p&gt;&lt;p&gt;报告补充道，“然而，考虑到下层城市及私营开发商存在的持续困局，上述措施仅导致地产行业呈现L形复苏趋势。”&lt;/p&gt;&lt;p&gt;（1美元=7.1556人民币元）&lt;/p&gt; 
-
-&lt;figure&gt;&lt;img alt="新建公寓楼在宜昌在建中" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6LOUF6GHGJLJTINOVMLZLOAMAU.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2015年12月18日，湖北省宜昌新建公寓楼正在建设中。《中国日报》文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 02:49:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-home-price-slump-deepens-july-new-9-year-low-2024-08-15/</guid></item><item><title>UFC时隔10年11月重返澳门</title><link>https://www.reuters.com/sports/ufc-returns-macau-after-10-years-november-2024-08-15/</link><description>&lt;p&gt;终极格斗冠军赛宣布将于11月23日首次在阔别十年后回归澳门，举行一场震撼斗士的夜晚大赛，此消息在周四被报道。&lt;/p&gt;&lt;p&gt;此次是终极格斗冠军赛自2014年8月在澳门举办最后一场赛事后，再次登陆澳门、踏入中国的特别行政区，即将上演的赛事将是其在这里的第四次激战。&lt;/p&gt;&lt;p&gt;"我们对于能够重返这座壮丽的会展中心感到无比激动，"UFC亚洲区资深副总裁暨负责人康伟文这样表示。&lt;/p&gt;&lt;p&gt;该赛事将在位于澳门的银河卫剧场举行，这是澳门最大的室内竞技场，拥有16000个座位，观众可以亲临现场品尝这场巅峰对决的热度。&lt;/p&gt;&lt;p&gt;在此之前，UFC多次在中华人民共和国的上海、北京和深圳举办赛事，于2019年六月在上海开设了一个资源整合的综合格斗训练中心，引领着格斗风潮的前进。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 07:25:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/ufc-returns-macau-after-10-years-november-2024-08-15/</guid></item><item><title>军政府媒体称中国承诺为缅甸选举提供援助</title><link>https://www.reuters.com/world/asia-pacific/china-promises-aid-elections-myanmar-junta-run-media-says-2024-08-15/</link><description>中国国家媒体周四宣布，答应帮助军事运行的缅甸提供技术指导与援助，以进行人口普查并随后安排选举，显现出中国对受武装叛乱困扰、且持续失去影响力的军事将领集团给予支持的姿态。
-
-中国的外长近日在缅首都内比都拜会了军事将领领导人敏昂莱，双方讨论如何举办一个“包容性的选举”，并强调了必要技术援助将提供给缅方进行人口调查过程，将给予基础援助于选举事项。缅甸军方此前延长了为期六个月的紧急统治条例，以确保收集人口普查数据进行选民名册编撰，敏昂莱宽慰称，该选举预计将在下一年举办。
-
-广为批评及失去国际承认的缅选宣传案前景模糊——已有数十个政党解散，倾覆了原本的民主政府统治，大部分被指控为未注册参选。选举提名中很多似乎都是由宫筑军事政权的辅助势力，公开支持其政策立场并谴责叛乱行动。
-
-中国企业未在对外声明中提及提供援助可能性，但强调致力于缅甸的整体人民与建设缅甸自选发展道路。方纬表示，中国反对缅甸内乱，反对外部势力干涉缅甸内政，以及在错误前提下猜测中缅之间分裂并诋毁中国国家形象的企图。
-
-方纬还与前任军事总司令丹梭温进行了会晤，并向对方传达了习近平主席的问候。自三年前动荡翻天，失去民选政府以后，缅甸军政府面临前所未有的压力之际，反对缅政权的武装叛乱趋势日渐激烈，经济陷入困境。
-
-遭到中国多次聆听与介入的地区紧张局势情况亦是会议重要内容，包括彻底消除网络赌博、诈骗活动和加强区域经济合作。过去一年，中缅边境地区发生大规模冲突，军政府遭遇沉重的反击，军事监控行动在疲惫之下的破败。
-
-去年十月，由三个主要反对军政府的组织领头的联盟发起了“1027行动”处理于中缅边界区域，极大地打击军政府方的士气与实力。中缅间的一场停火后，冲突于六月再次爆发，导致了“复燃攻势”的开展，迅速扩大区域内的军事行动。
-
-方纬的访问缅后便计划出席了本周五泰国举办的一个区域外长会议。最后，下图展示了敏昂莱在莫斯科与俄罗斯罗索科斯摩斯总管德米特里·罗戈津会面的场景，以及中国外长在出席了第57届东盟外长会议期间的中国参加东盟-东亚峰会外长会议的报导。</description><pubDate>Thu, 15 Aug 2024 07:32:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/china-promises-aid-elections-myanmar-junta-run-media-says-2024-08-15/</guid></item><item><title>中国提议立法让结婚登记更容易离婚更难</title><link>https://www.reuters.com/world/china/china-proposes-law-make-it-easier-register-marriages-harder-divorce-2024-08-15/</link><description>&lt;p&gt;中国已汇集起草修正法案，旨在简化夫妻登记婚配流程，同时提高离婚门槛。此举引发了网民的争议，并成为周四的热搜网络话题。&lt;/p&gt;&lt;p&gt;该法律旨在构建“对家庭友好的社会”，该议案由中国民政部本周公布以征询公众意见。据宣布，公众可以至9月11日向该部提交评论。&lt;/p&gt;&lt;p&gt;鉴于中国人口连续多年下降，政策制定者正努力鼓励年轻夫妻缔结婚姻并生育后代。&lt;/p&gt;&lt;p&gt;修正法案删去了针对婚姻的先前法律中的地域性限制，不再要求基于夫妻的户籍所在地进行婚姻办理。&lt;/p&gt;&lt;p&gt;此方案将设立30天的冷静期，若任一方不欲离婚，则可撤销离婚申请，中断离婚注册流程。法案中指出。&lt;/p&gt;&lt;p&gt;一位网民在微博平台上评论（9898.HK）道：“婚姻简单易行，离婚却难上加难，多么荒谬的规则。”此言吸引数万点赞。&lt;/p&gt;&lt;p&gt;该规定旨在“强调婚姻与家庭的重要性”，减少冲动离婚行为，维护社会稳定，同时更好地保障相关方合法权利，西安交通大学人口与发展研究中心教授姜quanbao在接受官方支持的《环球时报》采访时表示。&lt;/p&gt;&lt;p&gt;今年上半年，中国新增婚姻登记数量较前一年减少了498,000对至343万对，为2013年以来最低值。数据显示，越来越多的年轻人推迟步入婚姻。&lt;/p&gt;&lt;p&gt;由于普遍执行的政策要求，结婚常被视为生育子女的前提，即父母需提供结婚证书以办理子女登记并享受福利。&lt;/p&gt;&lt;p&gt;许多中国青年选择了单身或推迟结婚，这是由于对就业安全和对自己前景的担忧，以及世界第二大经济体增长放缓的局面。&lt;/p&gt; &lt;!-- 图片未实际放置，以下仅为HTML格式描述 --&gt;
-&lt;figure&gt;
-&lt;img alt="夫妇在上海市街道上等待拍摄婚礼摄影环节" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N6B3ZFW5NNLPTLQXAGXJVMXEOA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;一对夫妇在上海的街道上等待拍摄婚礼摄影环节，中国 2023 年 9 月 6 日。法新社/Aly Song/文件照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 05:26:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-proposes-law-make-it-easier-register-marriages-harder-divorce-2024-08-15/</guid></item><item><title>美法海军在菲律宾海开展行动</title><link>https://www.reuters.com/world/asia-pacific/us-french-naval-forces-conduct-operations-philippine-sea-2024-08-15/</link><description>&lt;p&gt;在周四美国第七舰队的一份声明中指出，当地时间周二，美国与法国海军在菲律宾海进行了双边行动，旨在深化彼此的协同作战能力并支持自由开放的印太地区。&lt;/p&gt;&lt;p&gt;此次合作行动中所涉舰船包括美国海军阿利·伯克级导弹驱逐舰“德懷特”号以及法国海军阿夸汀级护卫舰“布列塔尼”号。依据声明内容，参与行动的舰船进行了编队航行、联合通讯演练以及模拟海上加油等项目。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 05:15:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/us-french-naval-forces-conduct-operations-philippine-sea-2024-08-15/</guid></item><item><title>韩国对电动汽车起火警报引发安全担忧</title><link>https://www.reuters.com/business/autos-transportation/south-korean-alarm-over-ev-fires-puts-spotlight-safety-concerns-2024-08-15/</link><description>&lt;p&gt;韩国政府正在敦促驻韩汽车制造商将电动汽车（&lt;a href="https://www.reuters.com/business/autos-transportation/south-korea-advise-automakers-disclose-battery-information-evs-2024-08-13/" target="_blank"&gt;韩国恳请汽车制造商&lt;/a&gt;）披露所使用的电池制造商信息，旨在缓解因电动汽车起火造成恐慌，特别是针对最近一起发生在地下停车场、耗时八小时才扑灭的大火事件。&lt;/p&gt;
-
-&lt;p&gt;然而，专家表示，这可操作的空间仍有限。虽然明确电动汽车中所用电池的具体制造商能给消费者提供更多选择，但缺乏确定那些品牌更易引发火灾的明确数据。&lt;/p&gt;
-
-&lt;p&gt;下列所述内容涉及电动汽车消防安全忧虑的一些细节：&lt;/p&gt;
-
-&lt;p&gt;8月1日，一辆停放在韩国仁川的梅赛德斯-奔驰电动汽车 (MBGn.DE) 使用了来自Farasis Energy的电池，该辆车自燃引发大火，耗时超过八小时才得以扑灭，造成约140辆汽车被烧毁或者受损，并迫使该大楼的某些居民转移到临时庇护所。现场图片显示，留存仅剩金属框架的车子数量密集。&lt;/p&gt;
-
-&lt;p&gt;官员指出，火灾加剧因素在于停车场内的喷淋设备等消防设施运行不正常。&lt;/p&gt;
-
-&lt;p&gt;此起事件促使政府召开一系列会议，旨在制定对策以预防类似事件的发生。&lt;/p&gt;
-
-&lt;p&gt;尽管近期新闻报道夸大了状况，但电动汽车似乎起火的频率并不如预期严重。&lt;/p&gt;
-
-&lt;p&gt;在全美，每10万辆电动汽车中发生火患的频率约为25次，而内燃机驱动的车辆则为1,530次，混合动力汽车为3,475次；依据2023年由汽车保险公司AutoInsuranceEZ进行的一项研究，且该研究基于美国国家交通安全局的资料。&lt;/p&gt;
-
-&lt;p&gt;韩国去年发生的涉及电动汽车的火灾数量共有72起，较2021年的24起增长了200%；根据韩国消防局的数据。&lt;/p&gt;
-
-&lt;p&gt;统计显示，韩国为每10000辆电动汽车发生火险事件的频率为1.3次，相比之下，内燃机驱动的车辆则为1.9次；依据科学与技术政策研究所的数据。&lt;/p&gt;
-
-&lt;p&gt;全球2023年汽车销量中有近五分之一为电动汽车，达4000万辆，主要分布在中、欧与美等市场，当年全球电动车销量总计接近1400万辆。&lt;/p&gt;
-
-&lt;p&gt;汽车专家指出，电动汽车的电池火灾与内燃机驱动车辆的火灾不同，电动汽车电池经常会燃起较长时间并难以熄灭，因电池容易复燃。&lt;/p&gt;
-
-&lt;p&gt;电动汽车装备了可存储大量能量的锂电池。若电池被破坏，或者存在设计缺陷或内部短路问题，一系列被称为热失控的连锁反应将引发火灾。&lt;/p&gt;
-
-&lt;p&gt;专家指出，锂电池在燃烧时释放氧气，使得电动汽车火灾即使在火烧似乎被扑灭后，仍可能在数小时或数天内复燃。&lt;/p&gt;
-
-&lt;p&gt;素以人口密度居世界领先地位的韩国，其60%的人口居住在公寓或其他共住单位，地方政府数据显示。部分地区地下停车场内配置了电动汽车充电站。&lt;/p&gt;
-
-&lt;p&gt;“韩国独有复杂环境，如同时停放巨大数量的车辆并未配备充分的消防设施，可能使得扑灭火患更加困难，”韩国京尔大学消防安全学院的Jegal Yeong-soon教授表示。&lt;/p&gt;
-
-&lt;p&gt;近期，如韩国现代汽车（005380.KS），梅赛德斯-奔驰韩国分部（Mercedes-Benz Korea），起亚集团（000270.KS）与大众汽车（VOWG_p.DE）韩国分公司等企业开始辨明其电池供应商。&lt;/p&gt;
-
-&lt;p&gt;然而，分析师指出，这并不能足矣降低火灾风险，亟需改进电池管理系统，涉及更精细、早期预警机制与停车场消防设施的强化。&lt;/p&gt;
-
-&lt;p&gt;Osan大学的汽车工程教授Moon Hak-hoon建议，当局应建立电池安全认证体系，以确保电动汽车电池的安全性。&lt;/p&gt;
-
-&lt;p&gt;另一方面， Chungnam国立大学的电动汽车研究专家Kim Jonghoon提出，若限制电动汽车电池的充电达90%以上，可以有效降低火灾风险，从最近的一系列火灾发生案例可发现电池过充为重要原因。但他也强调，车制造商追求延长行驶里程的目标可能会反对该提议。&lt;/p&gt;
-
-&lt;p&gt;Kim认为，虽然近期火灾引起的忧虑短期内可能导致韩国电动汽车销量下降，但他对电动汽车的长远发展抱有乐观态度。&lt;/p&gt;
-
-&lt;p&gt;自8月1日至7日，韩国线上二手车交易平台K Car（381970.KS）的电动汽车销售查询量，显示比前一周飙升了184%。&lt;/p&gt;
-
-&lt;p&gt;不过未提供相关图片。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 02:56:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/south-korean-alarm-over-ev-fires-puts-spotlight-safety-concerns-2024-08-15/</guid></item><item><title>路透社调查显示，日本企业认为哈里斯担任总统比特朗普更适合商业</title><link>https://www.reuters.com/markets/asia/japan-firms-see-harris-presidency-better-business-than-trump-reuters-survey-2024-08-14/</link><description>&lt;p&gt;周四进行的一项路透社调查显示，越来越多的日本企业相信，如果美国白宫由卡玛拉·哈里斯主政，对于他们的业务而言将比特朗普总统的二次回归更为有利，这一发现反映了受访企业的关切情绪，即考虑到保护主义和政策的不确定性，后一种可能性会更加严峻。&lt;/p&gt;
-&lt;p&gt;本周全球各国家和地区对11月美国总统选举的结果高度关注。然则，日本与华盛顿之间保持着紧密的盟友关系，驻扎在那里的数万美军以及日本和中国的互为贸易重要伙伴位置决定了，美国和中国的贸易大战如再周转，则日本企业将直接受到冲击。&lt;/p&gt;
-&lt;p&gt;在接受调查的日本企业中，43%的受访企业表示出于公司策略和业务计划的考量，更倾向于候任总统卡玛拉·哈里斯作为未来的领导者，8%选择支持特朗普。此外，有46%的企业认为，无论是哪位候选人当选，结果都不会有太大差别；而剩余3%的企业表示，目前他们对两人均无倾向性。&lt;/p&gt;
-&lt;p&gt;一家陶瓷制造商的管理层在调查中写道：“在特朗普二次政府下，我们有担忧国家之间可能会引发贸易战、经济矛盾与安全威胁的可能性增高，这促使我们审视并制定新的企业战略。”&lt;/p&gt;
-&lt;p&gt;在特朗普主政时期，两者之间的关系时有棘裂，主要由于特朗普追讨更多的军事援助费用以及贸易紧张局势的攀升导致。&lt;/p&gt;
-&lt;p&gt;有提及，与哈里斯旗下执政能促使目前政策维持稳定，然而这对企业来说意味着对未来拥有更高的预见性。涉及于特朗普政府的手法，有34%的企业认为其需要重新审视外汇策略，28%的企业需要重新排布供应链结构，而21%的企业计划减少在中国的业务活动。&lt;/p&gt;
-&lt;p&gt;特朗普曾提出实施高达10%的全美进口关税的设想，以及对中国商品至少50%的关税可能性，这种极端行为可能导致国际市场动荡。&lt;/p&gt;
-&lt;p&gt;路透社代表日本财务研究公司于7月31日至8月9日调研对象为506家公司的参与调查，实际回应的有243家公司。&lt;/p&gt;
-&lt;p&gt;无论美国下届领导层的最终度量如何，当前有13%的日本企业考虑缩减在中国的运营规模，3%的企业则计划扩大海外企业布局，47%的企业则准备保持现有在华业务水平不变，这份调查指出。&lt;/p&gt;
-&lt;p&gt;考虑缩减在华业务规模的企业中，有35%的人认为病因是在经济恢复前景不明朗、29%的人认为面临激烈的竞争压力以及29%的人认为存在经济安全风险这几种因素驱使他们采取缩减决策。&lt;/p&gt;
-&lt;p&gt;中国经济的增长在第二季度远低于预期，7月的出口涨幅也降至三个月内的最低水平，这进一步引发了对庞大制造业流程未来状态的深切忧虑。&lt;/p&gt;
-&lt;p&gt;近年来，日本多家大型企业宣布大幅缩减在中国的业务规模，其中包括本田汽车（7267.T）和日本制铁（5401.T）。&lt;/p&gt;
-&lt;p&gt;调查结果也揭示，24%的受访者认为日本官方近期参与的外汇市场干预适当，9%的受访者认为这些行为不当，而有64%的受访者认为这种干预行为无可避免。&lt;/p&gt;
-&lt;p&gt;一公司的官方在接受采访时指出：“对于日元的极度贬值问题，修正它是无可避免的。”&lt;/p&gt;
-&lt;p&gt;在询问是否建议日本银行通过上调利率来稳定日元，51%的受访者认为利率变动过于剧烈时才是这样做合理的。而有22%的受访者反对以此目标调整货币政策作法的动向。&lt;/p&gt;
-&lt;p&gt;对于未来日元的预期，32%的受访者预计今年底将在145至150日元兑美元的范围内交易；25%的受访者则预测日本货币将更坚挺于140至145日元范围内；而22%的受访者预计在150至155日元区间内进行交易。调研期间，日元价格波动较大，并触及始于年初以来的最低水平，随后逆转趋势，并持续削弱。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img alt="美国副总统哈里斯访问日本" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W6TWOUK5S5NO5CVNRDUTDKQWTM.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;牛顿的法国分店odium Pix摄於2022年9月28日美国副总统卡玛拉·哈里斯与位于日本东京半导体产业的日本企业领导人举行圆桌讨论。资料图&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="曼彻斯特咖啡店收银机里的英镑纸币和零钱" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ADU6P7BCTVJHXK5JVLR2EZUSUE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在2018年9月21日的英国曼彻斯特一家咖啡店的收银机里可以看到英镑纸币和零钱。 REUTERS/Phil Noble/File Photo&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-
 &lt;figure&gt;
-  &lt;img alt="东京涉谷商业区在黄昏时的高大建筑" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ISEW3EJD3RIRLOG5SGL3NVEYCI.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;始于2017年3月7日，在日本东京涉谷商业区的日落时分拍摄的建筑照片。&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Wed, 14 Aug 2024 23:09:21 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/japan-firms-see-harris-presidency-better-business-than-trump-reuters-survey-2024-08-14/</guid></item><item><title>安永、毕马威从普华永道中国的监管困境中受益最多</title><link>https://www.reuters.com/business/finance/ey-kpmg-benefit-most-pwc-chinas-regulatory-woes-2024-08-15/</link><description>&lt;p&gt;安永（EY）与德勤（KPMG）相继吸纳了中国主要会计事务所普华永道（PwC）超过半数的商业客户，这些客户因市场上的监管调查而逃离了PwC的坚实阵地，公开记录显示。&lt;/p&gt;&lt;p&gt;中国监管机构在中国恒大集团（代码：3333.HK）一事中对PwC进行调查，之后其证券监管机构指控这家饱受争议的房地产开发商两年前犯有一项高达780亿美元的欺诈罪。PwC自2009年1月至2023年，连续审计了恒大集团近14年。&lt;/p&gt;&lt;p&gt;自至少四月起，监管机构也要求PwC的一些大型国有客户终止审计服务。&lt;/p&gt;&lt;p&gt;“与以往相比，我们今年观察到从PwC转移的客户数量确乎是非典型的不寻常现象，”香港城市大学会计学教授范忠文说。&lt;/p&gt;&lt;p&gt;彭博社的计算依据企业公开披露的文件，证实了约40家中国企业（包括多家国有企业和金融机构）在过去几个月间，已终止与PwC的合作关系，中止计划将其列为会计师事务所。&lt;/p&gt;&lt;p&gt;其中，涵盖了PwC最大的一些客户，比如中国银行（BOC）、中国平安人寿银行和中国石油天然气集团（PetroChina），据披露，去年他们分别向PwC支付了接近2亿元、6400万元及4600万元人民币的服务费用。&lt;/p&gt;&lt;p&gt;PwC选择不对此事置评。EY与KPMG在收到要求后未作出回复。&lt;/p&gt;&lt;p&gt;去年，中国国内监管机构重申国家所有企业机构和上市公司在聘请最近三年内曾受到监管处罚的审计师时，应当特别谨慎。&lt;/p&gt;&lt;p&gt;上述警示以及对于PwC可能产生的高额罚款，使得一些当前的客户产生担忧并开始考虑备选方案，据知情人士表示。&lt;/p&gt;&lt;p&gt;“PwC客户的流失现象，在其为恒大集团进行的审计活动给其声誉带来了重大损害后，未来一段时间内可能会持续”，范忠文说道，“重塑声誉的过程将是漫长而艰难的。”&lt;/p&gt;&lt;p&gt;2022年，PwC在岸核心实体PwC Zhong Tian LLP的营收额为792亿元人民币，一跃成为中国当年收益最高的审计机构。紧随其后的是EY、德勤与KPMG。根据官方数据统计，四大审计公司同时期分别覆盖了上交所12%、深交所5%的上市公司。&lt;/p&gt;&lt;p&gt;截至今年三月，EY已从PwC斩获至少12家企业客户，其中包括中国寿险、中国人民保险、中国信达资产管理公司等大型国有企业背景的金融机构。上述12家企业的联合审计费用达到了2.3亿元人民币。&lt;/p&gt;&lt;p&gt;针对非国有企业，在港交所上市的福耀玻璃、深圳关注的迈瑞生物电子科技等企业取消了与PwC的审计合同并转而与EY签约。&lt;/p&gt;&lt;p&gt;面对与EY的聚众合作局面，EY能在新业务吸引上缩减开支，并针对前PwC客户提供10%-20%的审计费用折扣。同时，考虑到眼下业务突然激增的压力，EY计划在未来秋季的校园招新中上调新员工薪资10%。&lt;/p&gt;&lt;p&gt;KPMG吸纳了至少12家从PwC转投的客户，总审计费用约1.6亿元人民币。其中囊括了中国通讯电信、太平保险及招商集团旗下8家国有子公司，据企业公开披露的文件。而PwC的头号客户中国银行已将与PwC的服务协议缩短，但目前尚未宣布新的审计服务商。&lt;/p&gt;&lt;p&gt;此外，还有一些PwC的审计客户被以BDO在岸实体立信、以及中国本土的庞中会计师事务所吸纳。&lt;/p&gt;&lt;p&gt;在PwC为恒大集团审计丑闻曝光前，德勤北京分部在去年3月收到了中国监管机构2119万元人民币的处罚，并被暂停运营三个月，原因是审计工作存在严重过错，涉及中国华融资产管理公司。因最开始的处罚是对德勤北京分部而不是整个德勤中国执行的，这使得其在获取新客户尤其是大型国有企业支持方面处于较不利的立场，有两位知情人士说道。&lt;/p&gt;&lt;p&gt;德勤发言人引用了此前一份声明，明确否认：可以明确地说，并没有迹象表明财政部认为德勤华永、其北京分部或者是其中的任何人做了一件不道德的事情。声明再强调其一直致力于“最高的审计质量标准”。知情人士拒绝透露姓名，因为他们未经授权对媒体发布公告。&lt;/p&gt;&lt;p&gt;（人民币兑美元汇率：1=7.1476中国元；中国元兑港币汇率：1=7.7883港币）&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 02:11:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/ey-kpmg-benefit-most-pwc-chinas-regulatory-woes-2024-08-15/</guid></item><item><title>美国海军最新空对空导弹可能会打破南海平衡</title><link>https://www.reuters.com/world/us-navys-newest-air-to-air-missile-could-tilt-balance-south-china-sea-2024-08-14/</link><description>&lt;p&gt;美国海军在印太地区部署新研发的超远程空对空导弹，专家预测此举能够消除中国在空中投射能力上的优势，旨在加强对该地区的空中力量的集中强调，尤其是在紧张局势激增的背景下。&lt;/p&gt;&lt;p&gt;由瑞神国际（RTX.N）基于现成的瑞神SM-6防空导弹研发而成的AIM-174B，是美国至今部署的单体远程空对空导弹，其最大射程超出同类竞争系统几个数量级。该导弹于今年7月正式获得认可。&lt;/p&gt;&lt;p&gt;特别指出，该导弹拥有三个显著优势：相比于美国现行最佳选择AM-120 AMRAAM导弹，射程几近延长至数倍；无需建设新的生产线；且兼容至少一国盟军，澳军之设备。&lt;/p&gt;&lt;p&gt;至关重要的是，具备能够攻击400公里（约250英里）范围内空中目标的 AIM-174B，其射程远远超过了中国的PL-15导弹，使得美国战机能够保持战机母舰距离威胁区更远，并安全针对“高价值”的中国目标，如指挥控制系统战机进行打击。&lt;/p&gt;&lt;p&gt;施法智库位于台北的策略远见协会研究员江洁表示，“美国可以确保重要资产如舰队群的安全，并对解放军目标执行远距离打击”。&lt;/p&gt;&lt;p&gt;对于此装备，到目前为止，西方很难实现这一能力。&lt;/p&gt;&lt;p&gt;现行美国航空标准远程导弹AMRAAM，其最大射程约为150公里（约93英里），国内外活跃的航空母舰均需要加大深入争议领土行动，进而威胁到航空母舰的危险地位。&lt;/p&gt;&lt;p&gt;如果南海发生冲突，美国可能需要指挥舰队群深入了距离达数千公里的中国领土，这与台湾入侵区域洗礼更近的背景下，相关部署将基于在南中国海权力斗争格局中加大投入的努力。&lt;/p&gt;&lt;p&gt;值得注意的是，“终极性东西”问题分析师匿名说，“在未来发生重大冲突时，它（AIM-174B）会允许美国进一步推进进入南中国海”。&lt;/p&gt;&lt;p&gt;此外，“这可能改变中国的行为，因为它将大型、慢速、不易操控的飞机置于更大的风险之下”&lt;/p&gt;&lt;p&gt;在过去几十年中，美国对隐形战斗机的垄断优势保证了仅需AMRAAM导弹即可维持这种主导地位。例如F-117、F-22与F-35战斗机。&lt;/p&gt;</description><pubDate>Wed, 14 Aug 2024 11:10:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us-navys-newest-air-to-air-missile-could-tilt-balance-south-china-sea-2024-08-14/</guid></item></channel></rss>
+&lt;img alt="插画显示美国美元钞票" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPUSDG7J6JJB3K4M2SJVOKP6B4.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这张2023年3月10日的插画中可以看到美元钞票。 REUTERS/Dado Ruvic/Illustration/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 00:49:13 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-soft-ebbing-us-inflation-sets-stage-rate-cuts-2024-08-15/</guid></item><item><title>TE Con​​nectivity 因向中国实体非法运输零部件而与美国达成和解</title><link>https://www.reuters.com/technology/te-connectivity-settles-with-us-illegally-shipping-components-chinese-entities-2024-08-15/</link><description>
+&lt;p&gt;全球电子公司TE Connectivity已同意支付580万美元与美国商务部达成和解，以解决未经许可将物品运送至与中国高超音速、无人机和军用电子项目相关方的行为。&lt;/p&gt;&lt;p&gt;美国商务部在周四发布的声明中表示，TE Connectivity违反了美国出口控制法规79次，主要是通过向受限客户运送电缆、电路板接插件及其他初级产品。&lt;/p&gt;&lt;p&gt;近年来，美国对美技术实施了广泛的出口控制措施，并将数百个中国实体列入其出口控制名单，以限制中国加强军力，防止其以威胁美国国家安全的方式发展军事能力。&lt;/p&gt;&lt;p&gt;设于瑞士的TE Connectivity，其位于宾夕法尼亚州和香港的单位被列入和解协议中，在公司发现违反上述控制措施后，自愿向美国商务部工业和安全局（BIS）披露了这些违规行为，该部门和公司均表示。&lt;/p&gt;&lt;p&gt;该部门的调查发现，TE向其受限的“实體名錄”上的中国方輸出了价值174万美元的物品，其他违规行为还包括。商务部表示，TE在中国的代表掩盖并伪装了一些客户，例如国有的军事企业。&lt;/p&gt;&lt;p&gt;“今天的处罚既考虑了TE Connectivity在向我们披露违规行为中的合作，也考虑了当公司允许中国动荡的军事现代化项目从美国技术中获益时，我们采取行动的严肃性，”商务部官员马修·阿克斯罗德在声明中表示。&lt;/p&gt;&lt;p&gt;“我们已全面配合BIS，并很高兴就此事达成和解。我们郑重承诺遵守贸易法规，”TE Connectivity的一名发言人表示。&lt;/p&gt;&lt;figure&gt;&lt;img alt="汽车供应商面临汽车制造商电气化带来的权衡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4KOGBBS5NJNX3JKGA4RGP4NR54.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年2月16日，德国沃尔希特的一名员工在TE Connectivity检查组件。图片拍摄于2022年2月16日。REUTERS/Lukas Barth/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 18:09:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/te-connectivity-settles-with-us-illegally-shipping-components-chinese-entities-2024-08-15/</guid></item><item><title>美国EIA称中国6月份柴油需求降幅为三年来最大</title><link>https://www.reuters.com/business/energy/chinas-diesel-demand-fell-june-by-most-three-years-us-eia-says-2024-08-15/</link><description>
+&lt;p&gt;美国能源情报署周四表示，中国6月份的柴油需求同比下降11%，降至每天390万桶，这是自2021年7月以来的最大降幅。&lt;/p&gt;
+&lt;p&gt;今年，中国燃料需求的疲软对油市造成了重大影响，令那些预期世界第二大经济体将继续作为增长引擎的市场参与者感到不安。&lt;a href="https://www.reuters.com/business/energy/chinas-weak-diesel-consumption-squeezes-outlook-oil-demand-2024-08-02/"&gt;柴油消耗疲软&lt;/a&gt;的问题在今年尤其凸显。&lt;/p&gt;
+&lt;p&gt;石油输出国组织本周下调了其对2024年石油需求增长的预测，理由是对中国增长预期的降低，这是自一年前发布展望以来的首次削减。巴黎总部位于的国际能源署也调低了其2025年的预测，理由是中国的经济疲软。&lt;/p&gt;
+&lt;p&gt;根据美国能源情报署的数据，中国去年柴油消费达到历史最高水平，但今年第二季度以来需求急剧下降。&lt;/p&gt;
+&lt;p&gt;此下降趋势主要源于两大因素：该国负债累累的房地产部门减缓了经济增长；以及液化天然气在重型卡车中取代柴油的趋势，美国能源情报署如此解释。&lt;/p&gt;
+&lt;p&gt;除了建筑和房地产行业经济活动放缓导致柴油使用减少外，中国卡车队中有越来越小但正在增长的比例开始使用液化天然气而非柴油，美国能源情报署指出。&lt;/p&gt;
+&lt;p&gt;来自中国信息提供商CV World的数据显示，去年以液化天然气为动力的卡车销量激增307%，达到15.2万辆。咨询公司FGE估计，今年和明年，液化天然气将在中国取代11万至12万桶/日的柴油需求。&lt;/p&gt;
+&lt;p&gt;在此背景下，中国炼油厂面临着严峻挑战。据官方数据显示，7月份的石油精炼厂产量同比下降6.1%，连续四个月环比下降。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="An employee adjusts a diesel price tag on display at a gas station in Rongshui" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4I26HRQQINODPAYMAYQAQZ3VHU.jpg" /&gt;
+&lt;figcaption style="text-align.center;"&gt;&lt;i&gt;An employee adjusts a diesel price tag on display at a gas station in Rongshui, Guangxi Zhuang Autonomous Region, early March 27, 2014. REUTERS/Stringer/ File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 16:23:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/chinas-diesel-demand-fell-june-by-most-three-years-us-eia-says-2024-08-15/</guid></item><item><title>全球航空燃油消耗放缓加剧了石油需求担忧</title><link>https://www.reuters.com/business/energy/slowing-global-jet-fuel-consumption-adds-oil-demand-concern-2024-08-14/</link><description>
+&lt;p&gt;（本篇2024年8月14日故事已修正，第15段中分析师姓名的拼写错误已更正）&lt;/p&gt;
+&lt;p&gt;随着消费支出放缓对旅行预算的影响，全球喷气燃油需求预计将有所软化，这种转变可能会在接下来几个月对油价产生压力。&lt;/p&gt;
+&lt;p&gt;由于美国和中国，作为全球最大的两个石油市场，消费需求低于预期，2024年上半年的全球石油需求未达到预期。路透社报道，这一现象在两个市场尤为明显。&lt;/p&gt;
+&lt;p&gt;喷气燃油约占全球石油需求的7%，今年被普遍预期将成为增长支柱，因为旅游业从疫情中持续复苏。&lt;/p&gt;
+&lt;p&gt;根据高盛的数据，今年截至7月，全球喷气燃油需求平均约为每日749万桶，比去年同期增加了近50万桶。&lt;/p&gt;
+&lt;p&gt;为了满足银行对全年600,000桶/日的增长预测，接下来几个月的需求需要更快地增长。然而，随着高盛的估计显示8月至10月的需求增长预计仅为大约40万桶/日，这一目标看起来不太可能实现。&lt;/p&gt;
+&lt;p&gt;在美国，近几天，主要的美国航空公司和旅行社纷纷表达了对消费者支出放缓的担忧，随着可支配收入的减少，这种放缓应该会对休闲旅游产生影响。&lt;/p&gt;
+&lt;p&gt;美国消费支出增长在截至6月的三个月中平均仅为0.3%，为一年来的最慢增长。&lt;/p&gt;
+&lt;p&gt;国际能源署（IEA）于周二表示：“我们认为，由于经济降温对航空旅行业需求的拖累，目前并没有太多的空间再为（美国）喷气燃油实现进一步的收益，喷气燃油历来是最受宏观经济影响的商品类别。”&lt;/p&gt;
+&lt;p&gt;美国能源信息署（EIA）周三报告称，美国喷气燃油需求在7月2日当周创下疫情后1,950万桶/日的峰值后急剧下降，上周降至1,600万桶/日。&lt;/p&gt;
+&lt;p&gt;美银分析师表示，较弱的经济活动也可能导致全球贸易放缓，从而削减航空货运需求。他们指出，全球贸易在过去几年已经放缓，因为美国和欧洲的需求从商品转向了服务业。&lt;/p&gt;
+&lt;p&gt;本周，石油输出国组织（OPEC）首次自2023年7月发布以来下调了其2024年的石油需求预测，同时国际能源署（IEA）下调了其对2025年的估计。两方均将中国经济及其它地区增长预期低于预期视为下调的原因。&lt;/p&gt;
+&lt;p&gt;7月份，一场全球性的技术故障导致数百架航班在几天内被迫停飞，这也影响了喷气燃油需求。IEA表示，这很可能是美国7月份喷气燃油消费量同比下降约1万桶的原因。&lt;/p&gt;
+&lt;p&gt;美银分析师表示：“总的来说，运输燃料的宏观经济条件正在迅速恶化。考虑到这一背景，我们认为喷气燃油的整体需求趋势仍然疲软。”&lt;/p&gt;
+&lt;p&gt;一些长期因素，例如消费者行为的变化和技术改进，也在影响消费。&lt;/p&gt;
+&lt;p&gt;Rystad分析师魏瑞根表示：“新型飞机的能效和续航里程提高意味着航空公司能够在更长的距离上搭载更多乘客，同时燃油消耗更少，这有助于减少燃油消耗。”&lt;/p&gt;
+&lt;p&gt;2023年，美国商用航空公司的平均燃油经济性从2019年的每加仑64.9个座英里上升到65.5个座英里。座英里是航空工业术语，用于衡量航空公司的运力。&lt;/p&gt;
+&lt;p&gt;美银分析师表示，消费者偏好从国际目的地转移到更短距离的国内航班，这种后疫情期的变化也损害了需求。&lt;/p&gt;
+&lt;p&gt;高盛分析师表示，经过几年美中之间的贸易战，两国之间的航空流量已减少到五年前的四分之一。&lt;/p&gt;
+&lt;p&gt;他们补充说，由于自2022年莫斯科入侵乌克兰以来，许多边境对俄罗斯乘客关闭，俄罗斯的国际旅行量已从2019年的水平下降了40%。&lt;/p&gt;
+&lt;p&gt;分析师表示，如果这两条航线像其他全球航空旅行一样增长，那么喷气燃油需求将比现在高80,000桶/日。&lt;/p&gt;
+&lt;p&gt;他们预计喷气燃油需求将继续增长，但表示由于这些问题和续航里程的改进，他们可能需要对全年石油需求预测和价格预测进行调整。&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="商用飞机离开加州圣地亚哥" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPY3RFA4W5LX7B67H3QTGXXOYE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2021年5月25日，美国圣地亚哥，一架商用飞机在夜空中起飞。Mike Blake/REUTERS/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Wed, 14 Aug 2024 12:29:47 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/slowing-global-jet-fuel-consumption-adds-oil-demand-concern-2024-08-14/</guid></item><item><title>瑞典电动汽车制造商 Polestar 开始在美国生产，避免高额关税</title><link>https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-starts-us-production-avoiding-heavy-tariffs-2024-08-14/</link><description>
+&lt;p&gt;瑞典电动汽车制造商Polestar（股票代码：A4N1y.F）[&lt;a href="https://www.reuters.com/markets/companies/A4N1y.F" target="_blank"&gt;详细信息&lt;/a&gt;] 在周三迈出了避免对中国制汽车征收高额关税的关键一步，该公司宣布在美国开始生产其Polestar 3型运动型多功能车。&lt;/p&gt;&lt;p&gt;近期，美国和欧洲对中国制造汽车征收的&lt;a href="https://www.reuters.com/markets/us/biden-sharply-hikes-us-tariffs-billions-chinese-chips-cars-2024-05-14/"&gt;高额关税&lt;/a&gt;引发了多家汽车制造商加快将部分生产转移到其他国家的计划。[&lt;a href="https://www.reuters.com/business/autos-transportation/carmakers-respond-eu-tariffs-chinese-made-evs-2024-07-05/"&gt;了解更多&lt;/a&gt;]&lt;/p&gt;&lt;p&gt;Polestar，中国吉利汽车的多数股东，一直在中国制造车辆并向海外市场出口。Polestar 3车型将在位于南卡罗来纳州的沃尔沃美国工厂生产，并销往美国和欧洲市场。&lt;/p&gt;&lt;p&gt;执行董事托马斯·英格尔拉特（Thomas Ingenlath）于周二对路透社表示：“如果观察我们预计生产的Polestar 3的大批量产品，显然，其中大部分将源自南卡罗来纳州的工厂。”&lt;/p&gt;&lt;p&gt;他表示，该工厂的生产预计将在两个月内达到满负荷，但未透露Polestar在该工厂的产能。英格尔拉特补充说，该工厂对美国客户的交付将从下月开始，随后是对欧洲的交付。&lt;/p&gt;&lt;p&gt;据Kelley Blue Book的估计，Polestar在今年上半年在美国售出了3,555辆其首款电动汽车Polestar 2款轿车。&lt;/p&gt;&lt;p&gt;Polestar还计划于2025年中在吉利于法国雷诺韩国公司的合资企业中构建其Polestar 4型SUV轿跑。这将针对欧洲和美国市场。在此之前，预计从今年后半年开始的美国交付将面临关税。&lt;/p&gt;&lt;p&gt;美国和韩国的生产一直是Polestar分散其汽车制造地点计划的一部分。&lt;/p&gt;&lt;p&gt;英格尔拉特表示，公司的目标是在未来三到五年内与该地区的另一家汽车制造商合作生产汽车，类似于其现有的与沃尔沃和雷诺的合作。&lt;/p&gt;&lt;p&gt;转向美国生产正值高利率旨在抑制通货膨胀之际，削弱了消费者对电动汽车的购买欲望，导致包括市场领导者特斯拉在内的公司削减价格，并引发裁员和生产计划延迟。&lt;/p&gt;&lt;p&gt;英格尔拉特指出，Polestar今年早些时候已裁员，今后将专注于降低材料和物流成本，并提高效率，以降低成本并推动现金流实现2025年的盈亏平衡。&lt;/p&gt; 
+&lt;figure&gt;
+	&lt;img alt="纽约国际汽车展新闻预览" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MVQQ3M4PK5LVXO6ULNGRHJP4TU.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在纽约曼哈顿的美国纽约国际汽车展新闻预览期间，一位参观者在观看Polestar 3型SUV。图片由David Dee Delgado提供，REUTERS。&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Wed, 14 Aug 2024 12:03:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-starts-us-production-avoiding-heavy-tariffs-2024-08-14/</guid></item><item><title>中国将在最新的关键矿产限制措施中限制锑出口</title><link>https://www.reuters.com/world/china/china-limit-antimony-exports-latest-critical-mineral-curbs-2024-08-15/</link><description>
+&lt;p&gt;我国商务部周四宣布，将出于国家安全的考虑，对锑及其相关元素实施出口限制。这标志着我国在限制关键矿产出口方面的最新举措，我国在该领域占据主导地位。&lt;/p&gt;
+&lt;p&gt;去年，我国锑的全球矿产产量占比达到48%，锑作为一种战略金属，在军事应用（如弹药、红外制导导弹、核武器和夜视镜）以及电池和太阳能设备等领域都有广泛应用。&lt;/p&gt;
+&lt;p&gt;商务部在一项声明中表示，实施限制“旨在保障国家安全和利益，履行国际义务，如防止扩散”。&lt;/p&gt;
+&lt;p&gt;在周四的常规每周新闻发布会上，商务部表示，这些限制并不针对任何特定国家或地区。&lt;/p&gt;
+&lt;p&gt;伦敦Hallgarten &amp; Company公司的主要合伙人兼矿业策略师克里斯托弗·埃克尔斯顿（Christopher Ecclestone）表示：“这是时代发展的一个迹象。”&lt;/p&gt;
+&lt;p&gt;他表示：“锑（金属）在军事应用中的地位已经陷入了微妙的转折。由于所有人都需要它用于武器装备，因此保留锑比出售锑更为理智。这将对美欧军事实力造成实实在在的压力。”&lt;/p&gt;
+&lt;p&gt;商务部在声明中表示，自9月15日起生效的限制适用于包括锑矿石、锑金属和氧化锑在内的六种锑相关产品。&lt;/p&gt;
+&lt;p&gt;规定还禁止未经许可出口金锑冶炼和分离技术。&lt;/p&gt;
+&lt;p&gt;受影响产品的出口商必须申请出口许可证，用于双重用途物品和技术——那些具有潜在的军事以及民用应用的产品和技术。&lt;/p&gt;
+&lt;p&gt;美国和其他国家正在采取措施减轻对中国关键材料的依赖，为此出台了包括稀土在内的关键矿产领域的政策和支持计划。&lt;/p&gt;
+&lt;p&gt;中国证券分析师在4月份的一份研究报告中说，由于战争和地缘政治紧张局势导致的武器和弹药需求增加，预计将对锑矿石实施更加严格的管理和库存。&lt;/p&gt;
+&lt;p&gt;Perpetua Resources公司（PPTA.O），该公司正与五角大楼和美国进出口银行的支持下在美国建设锑和黄金项目，原本计划在2028年开始生产，前提是今年获得最终许可。但中国的行动使得该公司正在研究加快锑生产的办法。&lt;/p&gt;
+&lt;p&gt;Perpetua的首席执行官乔恩·奇利（Jon Cherry）对路透社表示：“我们正在考虑在建设期间可以采取哪些措施，以便尽早满足某些战略需求中的锑需求。”&lt;/p&gt;
+&lt;p&gt;他表示：“美国国防部已经意识到锑的关键性和供应短缺。我们听到了来自许多不同来源关于锑供应短缺的消息，市场非常紧张，且每天都在变得更为紧张。”&lt;/p&gt;
+&lt;p&gt;周四，Perpetua的股价涨幅最高达到19%，创下了三年来的最高水平。&lt;/p&gt;
+&lt;p&gt;中国最新的限制措施是自去年以来一系列此类限制措施的一部分。&lt;/p&gt;
+&lt;p&gt;去年12月，中国禁止出口制造稀土永磁体的技术，此举是在之前禁止出口提取和分离这些关键材料的技术之上。&lt;/p&gt;
+&lt;p&gt;北京还收紧了对一些石墨产品的出口，并对半导体产业广泛使用的镓和锗产品出口实施了限制。&lt;/p&gt;
+&lt;p&gt;今年，由于供应紧张和需求增长，尤其是来自光伏行业的增长，锑的价格飙升到历史新高。&lt;/p&gt;
+&lt;p&gt;这有助于提振中国生产商，如湖南黄金（002155.SZ）、西藏华源矿业（601020.SS）和广西华锡非金属材料（600301.SS）的股价，今年以来股价涨幅在66%至93%之间。&lt;/p&gt;
+&lt;p&gt;湖南省一位锑生产商表示，他们正在等待最新举措的结果，但补充说：“我们认为在短期内，价格将由海外买家的一波抢购所支撑。”由于他们未被授权接受媒体采访，因此拒绝透露身份。&lt;/p&gt;
+&lt;p&gt;尽管中国在精炼锑领域是最大的供应商，但它仍然是浓缩物的净进口国，依赖于泰国、缅甸和俄罗斯等国的矿石，海关数据显示，来自俄罗斯的进口大幅下降。&lt;/p&gt;
+&lt;p&gt;咨询公司Project Blue的联合创始人杰克·贝德（Jack Bedder）表示：“目前锑市场的关键特征仍然是浓缩原料的缺乏。”&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="A forklift transfers a shipping container for export at a port in Lianyungan" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LJCR4OQPE5LTFMCHVJ4E5LYQKE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;A forklift transfers a shipping container for export at a port in Lianyungang, Jiangsu province May 5, 2014. REUTERS/China Daily/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 12:05:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-limit-antimony-exports-latest-critical-mineral-curbs-2024-08-15/</guid></item><item><title>电商巨头阿里巴巴未达预期，中国消费下滑</title><link>https://www.reuters.com/business/retail-consumer/chinas-e-commerce-giant-alibaba-misses-first-quarter-revenue-estimates-2024-08-15/</link><description>
+&lt;p&gt;阿里巴巴集团控股有限公司（9988.HK）于周四公布，第一季度的收入未能达到市场预期，公司的国内电商销售额受到中国消费者在经济放缓中谨慎支出压力的冲击。&lt;/p&gt;
+&lt;p&gt;中国经济的复苏步履蹒跚，加之房地产市场持续疲软和就业不稳定的高水平，削弱了全球第二大经济体消费者的信心和消费能力，对全球企业造成全面打击。&lt;/p&gt;
+&lt;p&gt;阿里巴巴还面临着来自诸如京东（9618.HK）以及以低价零售平台为主的对手，例如PDD控股（PDD.O）的拼多多和字节跳动旗下的抖音等激烈竞争。&lt;/p&gt;
+&lt;p&gt;根据伦敦证券交易所集团的数据，阿里巴巴报告在截至2022年6月30日止季度的收入为2432.4亿元人民币（339.8亿美元），低于分析师平均预期的2490.5亿元人民币。&lt;/p&gt;
+&lt;p&gt;尽管购买者数量和购买频率的增加使得订单增长达到两位数，但公司的国内电商部门收入仍下降了1%。&lt;/p&gt;
+&lt;p&gt;中国电商巨头不得不采取大幅打折和促销活动以吸引消费者，这迫使整个零售行业的利润率下降。&lt;/p&gt;
+&lt;p&gt;M Science的分析师张文熙表示：“中国消费支出的下滑是真实存在的。消费者正在减少消费，降低购买品质并变得更加理性。因此，进入下半年，阿里巴巴和京东可能会继续面临挑战。”&lt;/p&gt;
+&lt;p&gt;尽管主要平台为延长优惠期而竭尽全力，但据第三方估计，中国年中电商盛宴在6月份的销售首次出现了下滑。&lt;/p&gt;
+&lt;p&gt;阿里巴巴的美国上市股票在周四的交易中，尽管之前曾出现过亏损，但仍回升约2%，以实现季度利润高于市场预期的目标。&lt;/p&gt;
+&lt;p&gt;阿里巴巴的高层认为，随着购买力的提升和新商家的加入，将增加广告和客户管理平台的收入。&lt;/p&gt;
+&lt;p&gt;在与分析师的通话中，高层于周四重申了对新货币化工具将在本财年下半年度推动收入增长的期望。&lt;/p&gt;
+&lt;p&gt;阿里巴巴集团首席执行官武卫表示，国内电商平台淘宝和天猫优先考虑的是提升用户体验，以增加总商品量（GMV），这是销售的一个衡量指标。&lt;/p&gt;
+&lt;p&gt;他表示：“随着市场份额的稳定，我们可以将关注点转向货币化。”&lt;/p&gt;
+&lt;p&gt;2023年3月，阿里巴巴宣布了公司历史上最大的一次改革，将公司拆分为六个单位，并聚焦于核心业务，包括国内电商。&lt;/p&gt;
+&lt;p&gt;得益于扩大全球影响力的投资以及全球范围内对廉价中国商品需求的增长，阿里巴巴国际电商部门收入增长32%至293亿元人民币。&lt;/p&gt;
+&lt;p&gt;对于阿里巴巴的云计算业务，收入增长了6%至265.5亿元人民币，与前一季度3%的增长速度相比有所加快，这得益于公共云接受的提升和对AI相关产品的强烈需求。&lt;/p&gt;
+&lt;p&gt;公司已采取措施减少利润率较低的基于项目的合约，并表示云计算基础设施的扩展帮助其降低云产品价格。&lt;/p&gt;
+&lt;p&gt;该季度归属于普通股股东的净收入为242.7亿元人民币，而去年同期为343.3亿元人民币。&lt;/p&gt;
+&lt;p&gt;（1美元 = 7.1584人民币）&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt="展示阿里巴巴标志的插图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NXSRKH2PENL2XOT6FNHSLGAB5A.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在2022年7月24日拍摄的此幅插图中，购物车位于阿里巴巴标志前方。路透社/Dado Ruvic/插图/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:34:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/chinas-e-commerce-giant-alibaba-misses-first-quarter-revenue-estimates-2024-08-15/</guid></item><item><title>中国电子商务集团京东第二季度盈利超出预期</title><link>https://www.reuters.com/technology/chinese-e-commerce-giant-jdcom-misses-quarterly-revenue-estimates-2024-08-15/</link><description>
+&lt;p&gt;中国电商巨头京东集团（股票代码：9618.HK）于周四公布其二季度盈利预测超出市场预期，其业绩得益于降价策略吸引了注重成本控制的消费者。&lt;/p&gt;&lt;p&gt;京东在美国上市的股价在盘初交易中上涨逾4%。&lt;/p&gt;&lt;p&gt;随着中国消费者对开支变得更加谨慎，京东、阿里巴巴（股票代码：9988.HK）等中国主要供应商纷纷转而重视折扣和低价商品。&lt;/p&gt;&lt;p&gt;阿里巴巴周四公布了第一季度的收入，但未能达到分析师预期。&lt;/p&gt;&lt;p&gt;中国在疫情后的复苏步伐缓慢，这给PDD控股（股票代码：PDD.O）等低成本电商企业带来了利好。市场竞争加剧引发了大型竞争对手之间的一场价格战，他们试图吸引相同客户群。&lt;/p&gt;&lt;p&gt;京东首席执行官徐晓光表示，公司对低价策略保持坚定承诺。&lt;/p&gt;&lt;p&gt;“低价是我们核心竞争力的体现，”她说，“这将继续使我们区别于电商界。”&lt;/p&gt;&lt;p&gt;零售商高度依赖如中国的年中电商促销节等主要折扣活动，借助这些活动提升整体增长和曝光度。&lt;/p&gt;&lt;p&gt;被称为“618”的购物活动，取自电商提供商京东6月18日成立的纪念日，但也受到了所有平台的欢迎，该活动衡量了消费者市场的情绪。&lt;/p&gt;&lt;p&gt;京东于6月表示，在今年的5月底至6月18日 fest期间，其销售额和订单量达到了新高。&lt;/p&gt;&lt;p&gt;根据LSEG的数据，京东除去特定项目后的二季度利润同比增长73.7%，达到每股9.36元，而市场预期为每股6.07元。&lt;/p&gt;&lt;p&gt;在2022年底，京东优先实施“低价”策略之后，其股价出现了下跌，从大约60美元暴跌至目前的约26美元。&lt;/p&gt;&lt;p&gt;电商咨询公司WPIC Marketing + Technologies的首席执行官Jacob Cooke表示，尽管经济挑战严峻，但消费者不仅受价格驱动，产品质量和购物体验也促进了转换率的提升和培养市场忠诚度。&lt;/p&gt;&lt;p&gt;他说：“京东应发挥其优势，而不是参与到激烈的过度折扣竞赛中。”&lt;/p&gt;&lt;p&gt;公司第二季度的总营收同比增长1.2%，达到2914亿元人民币（407.1亿美元），略低于市场预期的2928.9亿元人民币。&lt;/p&gt;&lt;p&gt;（1美元约合7.1585人民币）&lt;/p&gt; &lt;figure&gt;&lt;img alt="北京一名快递员的头盔上可见京东的标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TBBX44ITMZP3LFT5IAHG4SAKN4.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;图为2014年6月16日，北京，中国一名快递员的头盔上可见京东的标志，摄于2014年6月16日。图片由路透社Jason Lee拍摄。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="人们骑着滑板车经过北京一处京东的广告，广告推广光棍节购物节" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ALS43TBAJZPF3OZWQWWOT5Q3OU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年10月26日，北京，中国人们骑着滑板车经过一处京东的广告，广告推广光棍节购物节，图片由路透社Tingshu Wang拍摄。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:06:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/chinese-e-commerce-giant-jdcom-misses-quarterly-revenue-estimates-2024-08-15/</guid></item><item><title>日本部长们在第二次世界大战纪念日参拜有争议的战争靖国神社</title><link>https://www.reuters.com/world/japan/japan-ministers-visit-controversial-war-shrine-world-war-two-anniversary-2024-08-15/</link><description>
+&lt;p&gt;日本于周四纪念其二战战败周年，至少三名内阁部长访问了备受争议的靖国神社，该神社在亚洲其他 nations看来象征着该国战时的侵略行径。&lt;/p&gt;
+&lt;p&gt;防卫大臣岸信介、经济安全保障大臣高市早苗以及经济再生大臣岸信雄访问了位于首都东京的该遗址。&lt;/p&gt;
+&lt;p&gt;靖国神社内纪念着250万名战亡者，其中包括战时首相东条英机在内的14位著名战争罪犯。&lt;/p&gt;
+&lt;p&gt;岸信介在神社中表示，“今日，我愿向所有为信仰牺牲宝贵生命的人们表达衷心的哀悼，并致以最深切的敬意，”这些评论在电视上播出。&lt;/p&gt;
+&lt;p&gt;此次访问是自日本首相岸田文雄和韩国总统尹锡悦与美国总统乔·拜登商定加深安全关系以来，首次由高级政府官员进行的访问。&lt;/p&gt;
+&lt;p&gt;日本最高政府发言人萩生田光一在例行记者会上表示：“我理解他们都是个人身份参观神社的，这并不是政府需要置评的事宜。&lt;/p&gt;
+&lt;p&gt;"任何国家向为国家安全而献身的亡者致敬都是人之常情。”&lt;/p&gt;
+&lt;p&gt;曾是日本殖民地35年的韩国和曾被日本侵略的中国将神社视为抹去邻国战争罪行历史的保守势力的聚集地。&lt;/p&gt;
+&lt;p&gt;“我国政府敦促负责任的日本领导人直面历史，展现出谦逊的反思和真切的内省。”韩国外交部表示。&lt;/p&gt;
+&lt;p&gt;该部补充在声明中称：“这是构建前瞻性关系的重要基石。”&lt;/p&gt;
+&lt;p&gt;中国政府于周四通过对日方做出了严重表示，并明确了其立场。&lt;/p&gt;
+&lt;p&gt;该部在声明中表示：“一些日本贵宾关于靖国神社的做法再次反映了日本方面对历史问题的错误态度。”&lt;/p&gt;
+&lt;p&gt;靖国神社建立于1869年日本走出长达两个多世纪的孤立，支持者们认为神社纪念的是所有的阵亡者，而不仅仅是那些被指责对邻国发动战争的人。&lt;/p&gt;
+&lt;p&gt;“我们能够如今幸福地生活，因为我们的祖先曾在战争中战斗，”50岁的访客渡边优香说。在神社中，身着二战时代军装的男子们低头行礼，手持旗帜行进。&lt;/p&gt;
+&lt;p&gt;“我认为我们永远都不应该忘记这一点。”&lt;/p&gt;
+&lt;p&gt;据日本媒体报道，计划在今年9月辞职的岸田文雄回避了访问，而是送上了供品。&lt;/p&gt;
+&lt;p&gt;高市早苗是半个多世纪以来被看作是其可能的继任者的几人之一。&lt;/p&gt;
+&lt;p&gt;自从2013年安倍晋三以来，没有一位在任的日本首相访问过象征“和平之国”的靖国神社，此行导致时任美国总统巴拉克·奥巴马表示失望。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="纪念二战日本投降79周年纪念仪式，在东京武道馆举行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MKNKGI7AGJP27ICMWU5XSIZ7SE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在东京武道馆举行的纪念二战日本投降79周年纪念仪式中保持沉默，日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="纪念二战日本投降79周年纪念仪式，在东京武道馆举行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/R62WAITEUZMS7PHY5EDWNTLB5E.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;日本天皇德仁和王后纪子参观东京武道馆举行的纪念二战日本投降79周年纪念仪式，日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="人们在东京纪念二战日本投降79周年，向战亡者致敬" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7GRWRPHMLZLVBMLI5ZPF6CL4UM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在东京参观靖国神社纪念二战日本投降79周年时，释放鸽子。日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="人们在东京纪念二战日本投降79周年，向战亡者致敬" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RBHHXTH6JROGDO3A7LQGFN5MLU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;参观靖国神社的人们排队祈祷，纪念二战日本投降79周年。日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="人们在东京纪念二战日本投降79周年，向战亡者致敬" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/F3NUHRHEN5JLFK5NSPM26ZASF4.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;参观靖国神社的人们排队祈祷，纪念二战日本投降79周年。日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="人们在东京纪念二战日本投降79周年，向战亡者致敬" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VDCSH3M6SRI57OIZ5ZBKBFA5OI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;身着日本帝国军服的男子在参观靖国神社时祈祷，纪念二战日本投降79周年。日本，东京，2024年8月15日。 REUTERS/Kim Kyung-Hoon&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 04:22:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/japan/japan-ministers-visit-controversial-war-shrine-world-war-two-anniversary-2024-08-15/</guid></item><item><title>券商因美联储提前降息的希望而上调标准普尔 500 指数目标</title><link>https://www.reuters.com/markets/brokerages-lift-sp-500-target-hopes-soft-landing-rate-cuts-2024-07-15/</link><description>
+&lt;p&gt;券商机构纷纷上调了对美国股市主要指数道琼斯工业指数（S&amp;P 500）&lt;a href="https://www.reuters.com/markets/quote/.SPX" target="_blank"&gt;（.SPX）&lt;/a&gt;的年末目标值，鉴于市场普遍预期美联储将于下月开始降息，这一预期得益于近期温和的通胀数据。&lt;/p&gt;
+&lt;p&gt;以下是部分主要银行对经济增长、通货膨胀以及其对不同资产类别表现预期的预测：&lt;/p&gt;
+&lt;p&gt;股市、货币和债券的预测如下：&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;S&amp;P 500 目标&lt;/td&gt;
+        &lt;td&gt;美国10年国债收益率目标&lt;/td&gt;
+        &lt;td&gt;欧元/美元&lt;/td&gt;
+        &lt;td&gt;美元/日元&lt;/td&gt;
+        &lt;td&gt;美元/人民币&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;高盛&lt;/td&gt;
+        &lt;td&gt;5,600&lt;/td&gt;
+        &lt;td&gt;4.25%&lt;/td&gt;
+        &lt;td&gt;1.08&lt;/td&gt;
+        &lt;td&gt;150&lt;/td&gt;
+        &lt;td&gt;7.20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根士丹利&lt;/td&gt;
+        &lt;td&gt;5,400（截至2025年6月）&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;140&lt;/td&gt;
+        &lt;td&gt;7.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;瑞士信贷全球财富管理*&gt;&lt;/td&gt;
+        &lt;td&gt;5,200&lt;/td&gt;
+        &lt;td&gt;3.85%&lt;/td&gt;
+        &lt;td&gt;1.09&lt;/td&gt;
+        &lt;td&gt;148&lt;/td&gt;
+        &lt;td&gt;7.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;富国银行投资研究院&lt;/td&gt;
+        &lt;td&gt;5,300-5,500&lt;/td&gt;
+        &lt;td&gt;3.75%-4.25%&lt;/td&gt;
+        &lt;td&gt;1.06-1.10&lt;/td&gt;
+        &lt;td&gt;156-160&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;巴克莱银行&lt;/td&gt;
+        &lt;td&gt;5,600&lt;/td&gt;
+        &lt;td&gt;4.25%&lt;/td&gt;
+        &lt;td&gt;1.09&lt;/td&gt;
+        &lt;td&gt;145&lt;/td&gt;
+        &lt;td&gt;7.20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根大通&lt;/td&gt;
+        &lt;td&gt;4,200&lt;/td&gt;
+        &lt;td&gt;3.75%&lt;/td&gt;
+        &lt;td&gt;1.13&lt;/td&gt;
+        &lt;td&gt;146&lt;/td&gt;
+        &lt;td&gt;7.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;美国银行全球研究部&lt;/td&gt;
+        &lt;td&gt;5,400&lt;/td&gt;
+        &lt;td&gt;4.25%&lt;/td&gt;
+        &lt;td&gt;1.12&lt;/td&gt;
+        &lt;td&gt;158&lt;/td&gt;
+        &lt;td&gt;7.45&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;德意志银行&lt;/td&gt;
+        &lt;td&gt;5,500&lt;/td&gt;
+        &lt;td&gt;4.60%&lt;/td&gt;
+        &lt;td&gt;1.07&lt;/td&gt;
+        &lt;td&gt;135&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;花旗集团&lt;/td&gt;
+        &lt;td&gt;5,600&lt;/td&gt;
+        &lt;td&gt;4.20%&lt;/td&gt;
+        &lt;td&gt;1.02&lt;/td&gt;
+        &lt;td&gt;135&lt;/td&gt;
+        &lt;td&gt;7.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;汇丰银行&lt;/td&gt;
+        &lt;td&gt;5,400&lt;/td&gt;
+        &lt;td&gt;3.00%&lt;/td&gt;
+        &lt;td&gt;1.05&lt;/td&gt;
+        &lt;td&gt;145&lt;/td&gt;
+        &lt;td&gt;7.10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;奥本海默&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;5,900&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;瑞士信贷全球研究*&gt;&lt;/td&gt;
+        &lt;td&gt;5,600&lt;/td&gt;
+        &lt;td&gt;4.0%&lt;/td&gt;
+        &lt;td&gt;1.08&lt;/td&gt;
+        &lt;td&gt;160&lt;/td&gt;
+        &lt;td&gt;7.15&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;艾弗里尔&lt;/td&gt;
+        &lt;td&gt;6,000&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;加拿大皇家银行&lt;/td&gt;
+        &lt;td&gt;5,700&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;* 瑞士信贷全球研究部和瑞士信贷全球财富管理是瑞信集团旗下的两个独立部门&lt;/p&gt;
+&lt;p&gt;----&lt;/p&gt;
+&lt;p&gt;美国通胀&lt;/p&gt;
+&lt;p&gt;7月份，美国&lt;a href="https://www.reuters.com/markets/us/us-consumer-prices-increase-expected-july-2024-08-14/" target="_blank"&gt;消费者价格温和上涨&lt;/a&gt;，通货膨胀年增长率（同比年率）首次自近3年半以来放缓至低于3%。&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;美国通胀（2024年同比年率）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;总CPI&lt;/td&gt;
+        &lt;td&gt;核心PCE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;高盛&lt;/td&gt;
+        &lt;td&gt;2.8%&lt;/td&gt;
+        &lt;td&gt;2.64%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根士丹利&lt;/td&gt;
+        &lt;td&gt;2.10%&lt;/td&gt;
+        &lt;td&gt;2.70%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;富国银行投资研究院&lt;/td&gt;
+        &lt;td&gt;3.0%&lt;/td&gt;
+        &lt;td&gt;2.60%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;巴克莱银行&lt;/td&gt;
+        &lt;td&gt;2.9%&lt;/td&gt;
+        &lt;td&gt;2.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根大通&lt;/td&gt;
+        &lt;td&gt;2.50%&lt;/td&gt;
+        &lt;td&gt;2.50%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;美国银行全球研究部&lt;/td&gt;
+        &lt;td&gt;3.5%&lt;/td&gt;
+        &lt;td&gt;2.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;德意志银行&lt;/td&gt;
+        &lt;td&gt;3.10%&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;花旗集团&lt;/td&gt;
+        &lt;td&gt;2.0%&lt;/td&gt;
+        &lt;td&gt;3.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;汇丰银行&lt;/td&gt;
+        &lt;td&gt;3.4%&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;----&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2024年实际GDP增长率预测&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;全球&lt;/td&gt;
+        &lt;td&gt;美国&lt;/td&gt;
+        &lt;td&gt;中国&lt;/td&gt;
+        &lt;td&gt;欧元区&lt;/td&gt;
+        &lt;td&gt;英国&lt;/td&gt;
+        &lt;td&gt;印度&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;高盛&lt;/td&gt;
+        &lt;td&gt;2.7%&lt;/td&gt;
+        &lt;td&gt;2.7%&lt;/td&gt;
+        &lt;td&gt;4.9%&lt;/td&gt;
+        &lt;td&gt;0.7%&lt;/td&gt;
+        &lt;td&gt;1.1%&lt;/td&gt;
+        &lt;td&gt;6.9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根士丹利&lt;/td&gt;
+        &lt;td&gt;2.8%&lt;/td&gt;
+        &lt;td&gt;1.9%&lt;/td&gt;
+        &lt;td&gt;4.2%&lt;/td&gt;
+        &lt;td&gt;0.5%&lt;/td&gt;
+        &lt;td&gt;-0.1%&lt;/td&gt;
+        &lt;td&gt;6.4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;瑞士信贷全球财富管理*&gt;&lt;/td&gt;
+        &lt;td&gt;3.1%&lt;/td&gt;
+        &lt;td&gt;2.4%&lt;/td&gt;
+        &lt;td&gt;4.9%&lt;/td&gt;
+        &lt;td&gt;0.6%&lt;/td&gt;
+        &lt;td&gt;0.2%&lt;/td&gt;
+        &lt;td&gt;7.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;巴克莱银行&lt;/td&gt;
+        &lt;td&gt;2.6%&lt;/td&gt;
+        &lt;td&gt;1.2%&lt;/td&gt;
+        &lt;td&gt;5.0%&lt;/td&gt;
+        &lt;td&gt;0.3%&lt;/td&gt;
+        &lt;td&gt;1.1%&lt;/td&gt;
+        &lt;td&gt;6.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;摩根大通&lt;/td&gt;
+        &lt;td&gt;2.6%&lt;/td&gt;
+        &lt;td&gt;2.3%&lt;/td&gt;
+        &lt;td&gt;4.7%&lt;/td&gt;
+        &lt;td&gt;0.8%&lt;/td&gt;
+        &lt;td&gt;1.0%&lt;/td&gt;
+        &lt;td&gt;6.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;美国银行全球研究部&lt;/td&gt;
+        &lt;td&gt;3.2%&lt;/td&gt;
+        &lt;td&gt;2.5%&lt;/td&gt;
+        &lt;td&gt;5.0%&lt;/td&gt;
+        &lt;td&gt;0.6%&lt;/td&gt;
+        &lt;td&gt;1.1%&lt;/td&gt;
+        &lt;td&gt;5.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;德意志银行&lt;/td&gt;
+        &lt;td&gt;3.2%&lt;/td&gt;
+        &lt;td&gt;2.4%&lt;/td&gt;
+        &lt;td&gt;5.2%&lt;/td&gt;
+        &lt;td&gt;0.9%&lt;/td&gt;
+        &lt;td&gt;1.2%&lt;/td&gt;
+        &lt;td&gt;7.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;花旗集团&lt;/td&gt;
+        &lt;td&gt;2.4%&lt;/td&gt;
+        &lt;td&gt;1.6%&lt;/td&gt;
+        &lt;td&gt;5.0%&lt;/td&gt;
+        &lt;td&gt;0.7%&lt;/td&gt;
+        &lt;td&gt;0.9%&lt;/td&gt;
+        &lt;td&gt;7.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;汇丰银行&lt;/td&gt;
+        &lt;td&gt;2.6%&lt;/td&gt;
+        &lt;td&gt;2.3%&lt;/td&gt;
+        &lt;td&gt;4.9%&lt;/td&gt;
+        &lt;td&gt;0.5%&lt;/td&gt;
+        &lt;td&gt;0.4%&lt;/td&gt;
+        &lt;td&gt;6.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;瑞士信贷全球研究*&gt;&lt;/td&gt;
+        &lt;td&gt;3.1%&lt;/td&gt;
+        &lt;td&gt;2.3%&lt;/td&gt;
+        &lt;td&gt;4.9%&lt;/td&gt;
+        &lt;td&gt;0.6%&lt;/td&gt;
+        &lt;td&gt;0.7%&lt;/td&gt;
+        &lt;td&gt;7.0%&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;figure&gt;
+    &lt;img alt="跑步者在美国华盛顿特区的美联储大楼旁跑步" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GG7U6SPED5IKLPWMG2CMM5335Q.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;跑步者在美国华盛顿特区的美联储大楼旁跑步，拍摄日期：2018年8月22日。路透社/Chris Wattie/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="华盛顿特区的美联储大楼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OHOA6BTA2JPHDKC3D7FGCBWM6Y.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国华盛顿特区的马里纳·S·埃克斯联邦储备委员会大楼的外景，拍摄日期：2022年6月14日。路透社/Sarah Silbiger&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 15 Jul 2024 13:04:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/brokerages-lift-sp-500-target-hopes-soft-landing-rate-cuts-2024-07-15/</guid></item><item><title>中国工厂产出放缓，快速复苏希望破灭</title><link>https://www.reuters.com/markets/asia/chinas-factory-output-growth-slows-third-straight-month-2024-08-15/</link><description>
+&lt;p&gt;七月份，中国工业产出连续三个月减速，显示出全球第二大经济体复苏动能正在减弱。尽管受到重创的消费领域因针对性家庭刺激措施的实施而有所回暖。&lt;/p&gt;
+&lt;p&gt;周四公布的一系列混合经济数据表明，全球第19万亿美元经济体的下半年开局并不顺利，而且在早些时候出现的出口、价格和银行贷款指标表现不佳之后，持续引发政策制定者的担忧。&lt;/p&gt;
+&lt;p&gt;国家统计局的数据显示，工业产出同比增长5.1%，增速较六月放缓至5.3%，并且低于分析师预期的5.2%的增长。&lt;/p&gt;
+&lt;p&gt;相反，7月份零售销售增长2.7%，增速较6月的2.0%有所加快，超出预期增长2.6%。&lt;/p&gt;
+&lt;p&gt;总的来说，分析师认为这些数据显示，政策制定者有必要加速推出更多面向消费者的支持措施，而不是继续将资金投入到基础设施建设中。&lt;/p&gt;
+&lt;p&gt;“经济动力似乎在去年底有所稳定，消费者支出和服务活动的回升在很大程度上抵消了投资和工业生产的放缓，”资本经济公司中国经济学部负责人朱利安·埃文斯-普里查德表示。&lt;/p&gt;
+&lt;p&gt;“随着政府加大对政策支持力度的提升，我们认为未来数月可能会出现温和的复苏。”&lt;/p&gt;
+&lt;p&gt;中国领导人上月表示，将更加关注新的经济战略，并将刺激政策集中在消费者领域，而不是基础设施和制造业上。&lt;/p&gt;
+&lt;p&gt;国家统计局表示，今年通过特殊债务发行筹集的约1500亿元人民币（209.7亿美元）将补贴消费品置换计划。&lt;/p&gt;
+&lt;p&gt;国家统计局发言人刘爱华表示：“随着扩大国内需求和促进消费相关政策效果的显现，消费者需求持续恢复。”&lt;/p&gt;
+&lt;p&gt;在过去三年中，房地产市场经历了痛苦的下滑，对消费者支出产生了重大影响。由于中国70%的家庭财富投资于房地产，这个在顶峰时占经济四分之一份额的领域，消费者一直保持着紧缩的口袋。&lt;/p&gt;
+&lt;p&gt;随着周四发布的另份数据显示，中国新房价格在7月份以九年来最快的速度下跌，支持性政策未能恢复该困境行业信心，几乎没有迹象表明前景在改善。&lt;/p&gt;
+&lt;p&gt;在商品使用方面，需求低迷的迹象显而易见，中国7月份的石油精炼厂产出同比下降6.1%，粗钢产出连续第二个月下跌。&lt;/p&gt;
+&lt;p&gt;2024年前七个月固定资产投资同比增长3.6%，但未达到预期增长3.9%的目标，增速也低于1月至6月的3.9%增长。&lt;/p&gt;
+&lt;p&gt;分析师普遍欢迎针对消费者支出的支持措施，但警告称，还需要采取其他政策措施以使经济保持平衡。&lt;/p&gt;
+&lt;p&gt;自2022年预期的疫情后复苏未能实现以来，政府不断增加增长促进措施的呼声。&lt;/p&gt;
+&lt;p&gt;尽管政府今年仍将增长目标设定在约5%，但分析师担心，全球的生产引擎已经进入了类似20世纪90年代日本的长期经济不景气。&lt;/p&gt;
+&lt;p&gt;这表明，可能需要更大的改革来复苏增长。&lt;/p&gt;
+&lt;p&gt;周四，中国人民银行通过短期债券工具注入资金，并表示本月稍晚会 rollover其中期借贷便利（MLF），以向金融体系提供流动性支持。&lt;/p&gt;
+&lt;p&gt;本月较早时，中国央行表示，将加大对更广泛经济体的金融支持，并将工作重点更多地放在消费者以期刺激消费。&lt;/p&gt;
+&lt;p&gt;然而，由于国内需求如此疲软而且前景不明朗，家庭和企业没有急于借款，这表明可能需要其他变化。&lt;/p&gt;
+&lt;p&gt;“数据显示，经济在下半年开局较弱，预计用降低存款准备金率来替代MLF的可能性会增加，但维持5%经济增长的关键仍然是财政支出的来临，”澳新银行中国市场经济学家邢昭鹏在提到央行存款准备金率时说。&lt;/p&gt;
+&lt;p&gt;（1美元 = 7.1543人民币元）&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="Employees work at the production line of aluminium rolls at a factory in Zouping, Shandong province, China" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AZQNQFJYZJP2DBONVVKSLOV4RI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Employees work at the production line of aluminium rolls at a factory in Zouping, Shandong province, China November 23, 2019. Picture taken November 23, 2019. REUTERS/Stringer/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 02:21:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-factory-output-growth-slows-third-straight-month-2024-08-15/</guid></item><item><title>行长称中国央行计划推出新政策促进经济增长</title><link>https://www.reuters.com/world/china/chinas-central-bank-plans-new-policies-boost-growth-governor-says-2024-08-15/</link><description>
+&lt;p&gt;中国人民银行行长潘功胜于星期四在接受国家电视台CCTV采访时透露，该行正筹划新政策以助推下半年经济增长，并将进一步加速实施此前已推出的相关措施。潘功胜并未详细阐述政策的具体内容。&lt;/p&gt;
+&lt;p&gt;潘功胜向CCTV表明，我国高风险中小型银行的数量几乎减半于其巅峰水平，而地方政府债务的负担亦大幅下降。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="一名女子经过中国人民银行总部，位于北京" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ACH2UOKMXZNOJNXNFNHRYYAM3M.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2018年9月28日，北京，一名女子经过中国人民银行（PBOC）总部。图片由路透社Jason Lee提供，图文档案。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:55:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-central-bank-plans-new-policies-boost-growth-governor-says-2024-08-15/</guid></item><item><title>蚂蚁集团季度利润下降10.25%至120亿元</title><link>https://www.reuters.com/technology/ant-group-quarterly-profit-falls-1025-12-bln-yuan-2024-08-15/</link><description>
+&lt;p&gt;蚂蚁集团于3月31日止的三个月内实现净利润120亿元人民币（合16.8亿美元），较上年同期下降10.25%，据路透社根据阿里巴巴集团控股有限公司（9988.HK）于周四发布的盈利财报计算得出。&lt;/p&gt;&lt;p&gt;该电子商务巨头报告了蚂蚁集团前一个季度的盈利。&lt;/p&gt;&lt;p&gt;去年7月，中国监管部门宣布对蚂蚁集团处以71.2亿元人民币的罚款，理由是该公司违反了法律法规，涉及消费者保护和公司治理，这标志着对该金融科技公司历时数年的监管改革的终结。&lt;/p&gt;&lt;p&gt;两家集团均由著名的中国亿万富翁马云联合创立，阿里巴巴集团持有蚂蚁集团33%的股份。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="在上海世界人工智能大会上可见蚂蚁集团的标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UPDKBV4UCFMRHFA2FL6H4PWY3I.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在上海世界人工智能大会上可见蚂蚁集团的标志，2023年7月6日，中国，路透社/王思聪/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:48:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/ant-group-quarterly-profit-falls-1025-12-bln-yuan-2024-08-15/</guid></item><item><title>星巴克新任首席执行官将获得数百万美元股权奖励</title><link>https://www.reuters.com/business/retail-consumer/starbucks-new-ceo-niccol-get-base-salary-16-mln-2024-08-14/</link><description>
+&lt;p&gt;(本于8月14日发布的报道已更正，将第三段中的 'coffee chain' 改为 'burrito chain')&lt;/p&gt;
+&lt;p&gt;星巴克（&lt;a href="https://www.reuters.com/markets/companies/SBUX.O" target="_blank"&gt;(SBUX.O)&lt;/a&gt;）于周三宣布，即将上任的首席执行官&lt;a href="https://www.reuters.com/business/retail-consumer/veteran-fast-food-exec-known-tackling-crises-head-on-takes-over-starbucks-2024-08-14/"&gt;布莱恩·尼克科尔&lt;/a&gt;有权获得价值2300万美元的年度股权奖励，且基于其放弃在Chipotle Mexican Grill&lt;a href="https://www.reuters.com/markets/companies/CMG.N" target="_blank"&gt;(CMG.N)&lt;/a&gt;的股份，还将获得总计7500万美元的额外股票授予。&lt;/p&gt;
+&lt;p&gt;星巴克在同一天提交的文件中称，尼克科尔最初的年度基本工资将为160万美元。此外，他将获得一笔1000万美元的现金签约奖金。&lt;/p&gt;
+&lt;p&gt;自2018年3月起担任Chipotle首席执行官的尼克科尔，在一系列食品安全问题后，对于挽回该餐饮连锁品牌的声誉发挥了关键作用。同时，他还致力于提升该公司数字和移动订购平台，以期提高效率。&lt;/p&gt;
+&lt;p&gt;随着尼克科尔即将成为公司第六任首席执行官，星巴克寄望其经验为公司的转型添砖加瓦，此次任命代替了于2023年3月接掌最高职务后于8月13日辞职的拉克斯曼·纳拉西姆汉。&lt;/p&gt;
+&lt;p&gt;纳拉西姆汉任内，星巴克面临来自积极投资者&lt;a href="https://www.reuters.com/markets/deals/starbucks-elliott-talks-over-settlement-cnbc-reports-2024-08-12/"&gt;埃利奥特投资管理公司&lt;/a&gt;日益增加的压力，要求其公司转型，同时该公司在美国和中国市场面临来自敏捷竞争者以及消费需求疲软的双重挑战。&lt;/p&gt;
+&lt;p&gt;在纳拉西姆汉担任最高领导职务期间，星巴克股价迭创新低，几乎下跌了25%。&lt;/p&gt;
+&lt;p&gt;根据1月份的监管文件，纳拉西姆汉去年的薪酬总额为1460万美元，而2022年为880万美元。&lt;/p&gt;
+&lt;p&gt;4月份的一份文件显示，尼克科尔在Chipotle的2023年薪酬为2250万美元，相比之下，2022年为1720万美元。&lt;/p&gt;
+&lt;p&gt;在尼克科尔的领导下，Chipotle过去五年的销售额翻了一番，而其股价则超过三倍。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="To match ANALYSIS STARBUCKS/KRAFT" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JWNRBUM7JNKU5I4OZGFBRLF65I.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;透过超市货架上星巴克咖啡包装盒，拍摄于加利福尼亚州圣莫尼卡，2011年1月27日。 REUTERS/Lucy Nicholson/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="PGA: AT&amp;@T Pebble Beach Pro-Am - Second Round" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CORNURJF6BJEJJBNEILMJ3NKIM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年2月3日；加利福尼亚州佩布尔贝海滩，美国；布莱恩·尼克科尔在蒙特雷半岛乡村俱乐部-海岸球场的AT&amp;@T佩布尔贝海滩职业-业余高尔夫锦标赛第二轮中观看自己的球击中第10洞。 Ray Acevedo-USA TODAY Sports&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Wed, 14 Aug 2024 21:16:14 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/starbucks-new-ceo-niccol-get-base-salary-16-mln-2024-08-14/</guid></item><item><title>早盘竞价：低迷终于来临，美国零售业和中国房地产市场成为焦点</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-08-15/</link><description>
+&lt;p&gt;迈克·多兰展望美国及全球市场未来一天&lt;/p&gt;
+&lt;p&gt;随着通胀形势得以控制，以及&lt;a href="https://www.reuters.com/markets/us/us-consumer-prices-increase-expected-july-2024-08-14/"&gt;市场波动性&lt;/a&gt;回归正轨，只要美国零售业在周四晚些时期能够保持稳定，夏季交易沉寂的局面很可能会重新出现。&lt;/p&gt;
+&lt;p&gt;纽约股市波动率指标VIX的一次性剧烈波动于周三基本结束，温和的美国消费者价格报告凸显出市场对美联储下个月可能开始降息的预期——即使这种可能性更倾向于仅仅是一个四分之一的点数降低而非一半。&lt;/p&gt;
+&lt;p&gt;周三，VIX的收盘价为16.2，仅用了7个交易日就从8月5日创下的38.6高点回落至其历史中位数以下。&lt;/p&gt;
+&lt;p&gt;为将这一幕翻转的速度置于恰当的背景之下，历史上该指数在任何高于35的收盘价后回归中位数平均需要170个交易日。这使得8月初的这场波动与前年的“市场波动灾难”更为相似，而非更加持久和有害的扰动。&lt;/p&gt;
+&lt;p&gt;所有这些都在使市场回归更加基础的地位——且这依然为周四即将到来的另一轮美国经济数据的发布提供了相对稳健的支撑。&lt;/p&gt;
+&lt;p&gt;本周的消费者价格指数（CPI）和生产者价格报告都暗示美联储下月开始降息，其年度杰克逊霍尔会议的任何长期信号目前也已被纳入视野。&lt;/p&gt;
+&lt;p&gt;尽管租金数据的公布仍令人烦恼——有些人认为美联储降息可能实际上有助于解决这一问题——但三个月的年度化CPI在总指数和核心指数方面现在都远远低于美联储的2%目标。&lt;/p&gt;
+&lt;p&gt;尽管期货市场预期9月将出现四分之一的点数降息，但现在美联储选择50个基点变动的机会仅有三分之一。但全年结束前，100个基点的宽松仍然在预期之内，而到明年6月，预计将有近200个基点的宽松。&lt;/p&gt;
+&lt;p&gt;亚特兰大联邦储备银行行长拉斐尔·鲍斯蒂克（Raphael Bostic）告诉周四的《金融时报》，他不反对9月进行降息，并补充说美联储不能“ afford to be late”去放松政策。&lt;/p&gt;
+&lt;p&gt;尽管周四有所上升，但美国国债收益率依然稳健，两年期国债收益率仍在4%以下。且在美国道琼斯工业平均指数（Dow .DJI）、标准普尔500指数（S%26P500 .SPX）在周三创下本月最佳收盘价之后，主要股票指数的期货在开盘前再次走高。&lt;/p&gt;
+&lt;p&gt;美元继续保持弱势，尽管欧元从超过1.10美元的2024年高点回落，而仍然令人不安的中国经济数据也在欧洲产生了影响。&lt;/p&gt;
+&lt;p&gt;虽然7月份中国工业和零售报告大多表现复杂，但摆在桌面上的大问题仍然是疲软的房地产市场，周四的数据显示，中国新房价在7月份急剧下跌，达到九年来最快速度。&lt;/p&gt;
+&lt;p&gt;由于中国70%的家庭财富都投资于房地产行业，该行业在其巅峰时期占据了GDP的四分之一，在房地产价值缩水的情况下，消费者一直紧缩钱包。&lt;/p&gt;
+&lt;p&gt;周四，中国股市从六个月低点回升，希望最新的经济新闻会增加进一步货币宽松的可能性，而离岸人民币汇率也回落。央行通过短期债券工具注入资金，并表示将于下个月续作中期贷款设施，以扩大流动性支持。&lt;/p&gt;
+&lt;p&gt;相比之下，日本经济在第二季度以超过预期的年化3.1%的速度增长，从年初的下滑中强劲反弹，为近期可能再次加息的理由提供了支持。在欧洲，英镑在第二季度强劲的国内生产总值（GDP）数据公布后小幅上涨。&lt;/p&gt;
+&lt;p&gt;然而，全球范围内的经济意外指数已连续两年处于最负面的水平。&lt;/p&gt;
+&lt;p&gt;回到华尔街当天的日程，重点经济数据的密集发布预计将由7月份的零售销售报告和高度敏感的每周失业人数公布引领。&lt;/p&gt;
+&lt;p&gt;沃尔玛（WalMart WMT.N）的季度收益报告为全国零售综合指数增添了企业色彩。&lt;/p&gt;
+&lt;p&gt;道琼斯工业平均指数成分股之一的家得宝（Home Depot HD.N）本周早些时候警告年度利润可能会下降，年度销售额的下降幅度更大，但由于消费性支出的疲软，其股价依然维持高企。&lt;/p&gt;
+&lt;p&gt;在并购新闻方面，卡兰诺瓦（Kellanova K.N）在周三上涨了7.8%，因为家族糖果巨头玛氏表示，将斥资约36亿美元收购奇兹伊特和普林格斯制造商。&lt;/p&gt;
+&lt;p&gt;以下是一些可能为美国市场晚些时候提供更多指引的关键发展动态：&lt;/p&gt;
+&lt;p&gt;* 美国每周失业人数、7月份零售销售和工业生产、8月份NAHB住房市场指数、费城联邦储备银行8月份商业调查、纽约联邦储备银行8月份制造业调查、6月份证券投资组合（TIC）数据显示的美国国债流向&lt;/p&gt;
+&lt;p&gt;* 圣路易斯联邦储备银行主席阿尔贝托·穆萨拉梅（Alberto Musalem）和费城联邦储备银行主席帕特里克·哈克（Patrick Harker）都将发表讲话&lt;/p&gt;
+&lt;p&gt;* 美国企业财报：沃尔玛、阿莫克、应用材料、约翰·迪尔、一曲等&lt;/p&gt;
+&lt;p&gt;* 美国国债拍卖4周期国债&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="交易员在纽约证券交易所交易大厅工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JBB4VY752BPHVJEBULI6CIZGAI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;交易员在纽约市纽约证券交易所（NYSE）的交易大厅中工作，2024年6月14日。 REUTERS/Brendan McDermid/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 10:08:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-08-15/</guid></item><item><title>伦敦证券交易所数据显示，7月份俄罗斯对非洲周边亚洲的燃料供应量创历史新高</title><link>https://www.reuters.com/markets/commodities/russias-fuel-supplies-asia-around-africa-hit-record-high-july-lseg-data-shows-2024-08-15/</link><description>
+&lt;p&gt;俄罗斯通过好望角对亚洲的海上油品出口在7月份环比几乎是翻了一番，创下了110万吨的纪录新高，这是因为越来越多的船只选择绕过非洲航程以规避苏伊士运河的前捷径，伦敦证券交易所集团（LSEG）的航运数据显示。&lt;/p&gt;
+&lt;p&gt;根据市场资源和航运数据，此次出口的总量中，石脑油占据了0.83百万吨。&lt;/p&gt;
+&lt;p&gt;此外，通过此航线出口的还有从俄罗斯波罗的海港口乌斯特卢加和维索茨克装载的燃料油以及从Primorsk港装载的低硫柴油。&lt;/p&gt;
+&lt;p&gt;据伦敦证券交易所集团（LSEG）数据，这些油品出口的目的地为新加坡、台湾、印度和中国。&lt;/p&gt;
+&lt;p&gt;自2023年12月份以来，为了避开也门胡塞武装对红海的攻击风险，贸易商已经开始将俄罗斯油品货物绕过非洲。&lt;/p&gt;
+&lt;p&gt;2024年，至少有三艘装载俄罗斯油品的船只被也门胡塞武装袭击，包括5月份在俄罗斯黑海港口图阿普斯装载、载有约9万吨燃料油的巴拿马国旗油轮M/T Wind，以及7月份在图阿普斯装载、载有约9万吨燃料油的利比里亚国旗油轮Chios Lion。&lt;/p&gt;
+&lt;p&gt;据航运数据显示，Chios Lion油轮仍在苏伊士运河中漂流。&lt;/p&gt;
+&lt;p&gt;自2023年2月欧盟对俄罗斯石油产品实施进口禁令以来，亚洲已成为俄罗斯燃料油和石脑油出口的主要市场。&lt;/p&gt;
+&lt;p&gt;与此同时，大多数装载俄罗斯油品的船只仍选择通过苏伊士运河的较短、更快路线前往亚洲。&lt;/p&gt;
+&lt;p&gt;3月份，也门胡塞武装向中国和俄罗斯提供保证，他们的船只将通过红海时安全无虞。一些船只发出“船上配备俄罗斯船员”或“货物为俄罗斯制造”的信号。&lt;/p&gt;
+&lt;p&gt;据伦敦证券交易所集团（LSEG）和市场资源数据显示，7月份从俄罗斯西部和南部港口总装载的油品约为900万吨。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="石油终端科兹明诺近纳霍德卡全景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DUQNCDFCAFJ3ZORCEHSXX5L4IU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这是2022年8月12日拍摄的画面，展示了位于俄罗斯纳霍德卡湾沿岸、纳霍德卡港口附近的科兹明诺原油终端。图片由Tatiana Meel提供，路透社档案照片。&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 15 Aug 2024 08:54:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/russias-fuel-supplies-asia-around-africa-hit-record-high-july-lseg-data-shows-2024-08-15/</guid></item></channel></rss>
