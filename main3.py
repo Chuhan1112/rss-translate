@@ -27,7 +27,7 @@ client = OpenAI(
 )
 MODEL = os.getenv('MODEL') #"Qwen/Qwen2-7B-Instruct"
 
-system_prompt = "下面你将扮演一位 20 年的网页新闻翻译员，将下列用户提供的内容翻译至中文，希望你用专业、准确的高级中文词汇和句子替换简化的 A0 级单词和句子。保持相同的意思，但使它们更符合优美、专业的中文新闻语言的风格,直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式；除标题之外，存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码，直接返回翻译结果，不要添加任何额外信息;"
+system_prompt = "下面你将扮演一位 20 年的网页新闻翻译员，将下列用户提供的内容翻译至中文，希望你用专业、准确的高级中文词汇和句子替换简化的 A0 级单词和句子。保持相同的意思，但使它们更符合优美、专业的中文新闻语言的风格,直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式；存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码，直接返回翻译结果，不要添加任何额外信息;"
     
 def remove_html_tags(text):
     # 使用正则表达式去除 HTML 标签
@@ -106,7 +106,7 @@ class GoogleTran:
                 continue
             one = Item(
                 # title=remove_html_tags(self.tr(remove_html_tags(entry.title))),
-                title= self.gpt_tr(entry.title),
+                title= self.tr(entry.title),
                 link=entry.link,
                 description=self.gpt_tr(entry.summary),
                 # description=entry.summary,
@@ -119,7 +119,7 @@ class GoogleTran:
             return ""
         newfeed = Feed(
             # title=remove_html_tags(self.tr(remove_html_tags(feed.title))),
-            title=self.gpt_tr(feed.title),
+            title=self.tr(feed.title),
             link=feed.link,
             description=self.gpt_tr(getSubtitle(feed)),
             lastBuildDate=getTime(feed),
