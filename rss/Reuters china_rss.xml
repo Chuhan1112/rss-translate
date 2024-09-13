@@ -1,453 +1,565 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Fri, 13 Sep 2024 04:45:45 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>中国国防部长要求大国带头维护全球安全</title><link>https://www.reuters.com/world/china/chinas-defence-minister-asks-major-countries-take-lead-safeguarding-global-2024-09-13/</link><description>
-&lt;p&gt;中国国防部长于周五表示，中国将加强同邻国的军事合作关系，强调主要国家须在维护全球安全方面发挥引领作用。&lt;/p&gt;
-&lt;p&gt;东俊在出席北京香山论坛——中国年度最大的军事外交活动——的开幕式上作出上述表态。&lt;/p&gt;
-&lt;p&gt;东俊指出：“主要国家必须发挥引领作用，摒弃零和思维，避免对小国和弱国进行霸凌。”&lt;/p&gt;
-&lt;p&gt;在多极化世界中，他补充说：“任何国家都无法承担袖手旁观或作壁上观的代价。”&lt;/p&gt;
-&lt;p&gt;东俊表示：“不论国家大小、发展水平，都应享有平等参与国际事务和表达自身需求的权利，并维护其合法权益和利益。&lt;/p&gt;
-&lt;p&gt;东俊的言论发表之际，尽管中美两军在南海、台湾问题上存在紧张关系，以及华盛顿对北京与俄罗斯紧密关系的关切，但双方之间的沟通正在改善。&lt;/p&gt;
-&lt;p&gt;东俊在精心编排的三天论坛上向来自90个国家和国际组织的代表发表致辞，该论坛于周六结束。&lt;/p&gt;
-&lt;p&gt;东俊称，中国将加强对地区国家的军事合作，并与“全面深化和拓展与各发展中国家的军事关系。”&lt;/p&gt;
-&lt;p&gt;他表示：“我们应加强开放和实质性的军事合作；我们应加快不同层面的人员交流。”&lt;/p&gt;
-&lt;p&gt;美国由国防部中国、台湾和蒙古事务助理副部长迈克尔·查斯代表。&lt;/p&gt;
-&lt;p&gt;尽管东亚地区存在长期 simmering的领土争端，中国仍致力于将自己塑造成全球冲突中的负责任参与者。今年的论坛主题为“促进和平共享未来”。&lt;/p&gt;
-&lt;p&gt;东俊负责中国的军事外交，但并非中央军事委员会——中国的核心指挥机构——的成员。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Fri, 13 Sep 2024 11:28:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>独家：欧洲情报来源称，俄罗斯生产配备中国发动机的新型神风特攻队无人机</title><link>https://www.reuters.com/world/europe/russia-produces-new-kamikaze-drone-with-chinese-engine-say-european-intel-2024-09-13/</link><description>
+&lt;p&gt;据欧洲情报机构两名人士和路透社获取的文件透露，俄罗斯去年开始生产一款名为“加尔皮亚-A1”的新型远程攻击无人机，并采用中国发动机和零部件，已在乌克兰战争中部署使用。&lt;/p&gt;
+&lt;p&gt;这些情报包括一份针对新无人机的生产合同、公司关于生产过程的信函以及财务文件，表明俄罗斯国有武器制造商阿尔马兹-安泰子公司IEMZ Kupol自2023年7月至2024年7月期间生产了超过2,500架加尔皮亚无人机。&lt;/p&gt;
+&lt;p&gt;至今尚未报道俄罗斯新无人机融入中国技术的存在。IEMZ Kupol和阿尔马兹-安泰未对置评请求做出回应。&lt;/p&gt;
+&lt;p&gt;两位情报人士表示，加尔皮亚（俄语意为“乌鸦”），已在乌克兰针对军事和民用目标部署，造成关键基础设施损毁，以及平民和军事伤亡。&lt;/p&gt;
+&lt;p&gt;他们向路透社分享了所谓乌克兰境内加尔皮亚残骸的照片，但未提供更多细节。路透社找到的信息证实了这一结论，但无法独立确认照片。&lt;/p&gt;
+&lt;p&gt;由于信息敏感性，来源请求不透露其身份及其所属机构。他们还要求隐藏与文件相关的某些细节，如日期等。&lt;/p&gt;
+&lt;p&gt;新美国安全中心（位于华盛顿特区的一家智库）的高级副研究员塞缪尔·本德特告诉路透社，如果加尔皮亚获得证实，将标志着俄罗斯从对伊朗设计的远程无人机依赖性的转变。&lt;/p&gt;
+&lt;p&gt;“如果这一情况属实，这可能表明俄罗斯现在可以更多地依赖国内研发，以及显然的中国，因为在这次战争中，双方都依赖众多中国零部件来生产无人机，”他说。&lt;/p&gt;
+&lt;p&gt;自2022年2月开始入侵以来，伊朗已向俄罗斯供应超过1,000架沙赫德“自杀式”无人机，乌克兰总统沃洛迪米尔·泽连斯基在去年5月表示。&lt;/p&gt;
+&lt;p&gt;这些无人机已被用于耗尽乌克兰的防空能力，并打击远离前线的设施。伊朗反复否认向俄罗斯派遣无人机用于乌克兰战争。&lt;/p&gt;
+&lt;p&gt;俄罗斯国防部未对此故事置评。中国外交部在一份声明中对路透社说，北京严格控制可能具有军事应用潜力的物品出口，包括无人机。&lt;/p&gt;
+&lt;p&gt;声明称：“就乌克兰危机而言，中国一直致力于推动和平谈判和政治解决。”它补充说，没有国际限制阻碍中国与俄罗斯的贸易。&lt;/p&gt;
+&lt;p&gt;NATO秘书长延斯·斯托尔滕伯格上周呼吁中国停止支持俄罗斯在乌克兰的战争，并表示北京的援助是冲突持续的重要因素。&lt;/p&gt;
+&lt;p&gt;欧洲情报机构在一项声明中表示，加尔皮亚与沙赫德颇为相似，但具有几个显著特征，包括独特的附加鳍和林巴赫L-550 E发动机。该发动机最初由德国公司设计和制造，现在由中国当地公司厦门林巴赫生产。该公司未对置评请求做出回应。&lt;/p&gt;
+&lt;p&gt;路透社审查了一份于2023年第一季度签署的超过10亿卢布（1000万欧元）的合同，涉及俄罗斯国防部与Kupol之间的无人机生产基地开发。&lt;/p&gt;
+&lt;p&gt;情报来源表示，位于俄罗斯西部乌德穆尔特共和国伊热夫斯克的这家前水泥厂——Kupol于2020年购买的——正在用于生产无人机。&lt;/p&gt;
+&lt;p&gt;通过Telegram消息应用发布的一段俄罗斯无人机生产设施的录像，路透社能够根据建筑结构色和内部设计，识别该地点为伊热夫斯的工厂。附近建筑、道路和树木与街景和卫星图像相匹配，从而验证了文件图像的位置。&lt;/p&gt;
+&lt;p&gt;公司通讯显示，2023年上半年推出了加尔皮亚的原型。该机构表示，2023年下半年生产量达到了数百架，到2024年上半年轻松超过了两倍，达到约2000架。&lt;/p&gt;
+&lt;p&gt;国防分析师本德特表示，每年2500架无人机将代表俄罗斯产量的相当一部分。乌克兰最高军事指挥官奥列克西·西尔斯基上月表示，自2022年2月入侵以来，俄罗斯已发射了近14,000枚打击无人机，包括伊朗沙赫德以及俄罗斯制造的格尔南-2和兰斯刀无人机。&lt;/p&gt;
+&lt;p&gt;从2023年第二季度开始的数据，路透社审查的公司文件显示，供应商TSK Vektor为中国公司采购了组装在Kupol地点的零部件；还将向预计到季度末准备好的新工厂运送800台中国发动机。&lt;/p&gt;
+&lt;p&gt;TSK Vektor未对置评请求做出回应。&lt;/p&gt;
+&lt;p&gt;欧洲情报服务在其声明中表示，它担心中国公司仍在继续提供能够支持俄罗斯生产大量自杀式无人机的零部件。“向俄罗斯出口的关键零部件需要停止，”它说。&lt;/p&gt;
+&lt;p&gt;华盛顿一再警告北京其对俄罗斯国防工业的支持。它已实施数百项制裁，旨在限制莫斯科利用某些技术用于军事目的的能力。国务院和白宫未对该故事置评。&lt;/p&gt;
+&lt;p&gt;中国在7月表示，将从9月1日起加强无人机出口规定。北京表示，美国对中国实体因乌克兰战争实施的制裁是“非法和单边的”。&lt;/p&gt;
+&lt;p&gt;根据Kupol与俄罗斯国防部之间的生产合同称，加尔皮亚的起飞重量不到300公斤，最大航程为1,500公里——大致类似于俄罗斯在乌克兰广泛使用的伊朗沙赫德-136无人机。&lt;/p&gt;
+&lt;p&gt;华盛顿邮报于8月报道称，俄罗斯旨在提高塔塔尔斯坦阿拉布加经济特区工厂国产沙赫德-136型无人机的产量，即格尔南-2。乌克兰于4月表示，其对阿拉布加的一家无人机制造厂实施了无人机打击。&lt;/p&gt;
+&lt;p&gt;路透社审查的第三份文件——介于中间商TSK Vektor和制造商Kupol之间的交付状态更新，日期为2024年第一季度初——详细说明了来自其他两家深圳公司的100个车轴、化油器和其他林巴赫发动机零部件的订单：君航航空技术有限公司和瑞博勒普斯矢量工业有限公司。&lt;/p&gt;
+&lt;p&gt;2月被英国制裁、5月被美国制裁，因其向俄罗斯提供无人机设备，君航未对置评请求做出回应。瑞博勒普斯没有回应置评请求。&lt;/p&gt;
+&lt;p&gt;从商业供应商处获得的关税数据显示，从2022年4月至2023年12月，TSK Vektor从中国君航航空技术有限公司进出口货物3,630万美元，从深圳瑞博勒斯矢量工业有限公司进出口货物620万美元。&lt;/p&gt;
+&lt;p&gt;根据关税文件，其中包括飞机发动机、晶体管、电子模块、连接器、插头和插座、备件和零部件，大部分标有“用于民用一般目的”、“用于工业一般目的”、“用于民用通用”等字样。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="中国国防部长东俊在北京香山论坛上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4VKFRURQSJLTJKGA24K7ANBEN4.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国防部长东俊于2024年9月13日在北京参加香山论坛。路透社/Florence Lo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="一名警察排雷队员在乌克兰未知地点，在无线电电子战下击落的一枚俄罗斯自杀式无人机的残骸中移除弹头。这是乌克兰国家警察发布的一张图片，路透社文件照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JUQDIVIVB5O5DAPVFV7MQALGKY.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;乌克兰国家警察发布的一张图片，路透社文件照片。拍摄于2024年1月26日，乌克兰国家警察/公报/路透社/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 10:13:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russia-produces-new-kamikaze-drone-with-chinese-engine-say-european-intel-2024-09-13/</guid></item><item><title>独家：美国锁定对华关税大幅上调，其中大部分将于 9 月 27 日开始</title><link>https://www.reuters.com/business/us-locks-steep-china-tariff-hikes-many-start-sept-27-2024-09-13/</link><description>
+&lt;p&gt;拜登政府于周五决定对来自中国的进口商品实施大幅关税提增，包括对电动车征收100%的关税，旨在加强保护国内战略性产业免受中国由国家驱动的过剩产能所带来的影响。&lt;/p&gt;
+&lt;p&gt;美国贸易代表办公室向路透社表示，包括对来自中国的电动车100%关税、太阳能电池50%关税、钢铁和铝合金25%关税在内的多项关税将从9月27日起生效。&lt;/p&gt;
+&lt;p&gt;美国贸易代表办公室的决定，首先由路透社进行审查，显示对来自中国的半导体征收50%关税，其中现在包括两个新类别——用于太阳能板的多晶硅和硅晶圆——这些关税将于2025年开始实施。&lt;/p&gt;
+&lt;p&gt;对总统乔·拜登于5月份宣布的针对价值1800亿美元商品实施的惩罚性“第301条”关税的调整微乎其微，并且忽视了汽车行业对降低石墨和电动汽车电池生产所需的危机矿产关税的呼吁，因为这些商品仍然严重依赖供应。&lt;/p&gt;
+&lt;p&gt;美国贸易代表办公室将锂离子电池、矿产和组件的关税从零提高至25%的决定保持不变，对电动车的电池关税将于9月27日生效，而对所有其他设备，包括笔记本电脑和手机，将于2026年1月1日生效。&lt;/p&gt;
+&lt;p&gt;白宫首席经济顾问Lael Brainard告诉路透社，该决定是为了确保美国电动车产业能够摆脱对中国主导供应链的依赖。&lt;/p&gt;
+&lt;p&gt;她说，为了对抗中国由国家驱动的补贴和技术转让政策，这些政策导致了过度投资和过剩产能，需要实施这种“严厉且针对性”的关税。但华盛顿正在投资数千亿美元的税收补贴以发展国内的电动车、太阳能和半导体部门。&lt;/p&gt;
+&lt;p&gt;Brainard表示：“此处电动车100%的关税确实反映出，特别是中国电动车所使用的非常显著的不公平成本优势，使其在世界其他地区的汽车市场中以惊人的速度占据主导地位。在副总统和总统的领导下，这种情况不会发生。”&lt;/p&gt;
+&lt;p&gt;中国已经对这种“霸凌式”的关税提增进行报复，并认为其电动车产业的成功归功于创新，而不是政府支持。&lt;/p&gt;
+&lt;p&gt;美国对中国的更高关税在副总统卡马拉·哈里斯和前总统唐纳德·特朗普都在争取汽车和钢铁生产州的选民、试图在11月总统大选前将自己定位为对中国强硬之际开始实施。特朗普誓言要让所有中国进口商品征收60%的关税。&lt;/p&gt;
+&lt;p&gt;欧盟和加拿大也宣布对来自中国的电动车实施新的进口关税，后者与100%的美国关税相符。&lt;/p&gt;
+&lt;p&gt;最终关税决定为美国港口运营商提供了一些暂时的缓解，这些运营商原本可能面临对其在岸大吊车的25%新关税，这个行业在中国占据主导地位，而在美国却没有生产商。&lt;/p&gt;
+&lt;p&gt;此关税将使得每台吊车的成本增加数百万美元。美国贸易代表办公室表示，它将允许在5月14日最初的关税宣布之前已经订购的中国港口吊车排除关税，只要它们在2026年5月14日之前交付。&lt;/p&gt;
+&lt;p&gt;美国贸易代表办公室将医疗口罩和外科手套的关税从最初提议的25%提高到50%，但推迟了它们的开始时间，以允许转向非中国供应商。中国 Injectable syringes，在COVID-19大流行期间供应短缺，其关税将立即从之前计划的50%提高到100%，但美国贸易代表办公室将允许用于喂养婴儿的enteral syringes临时排除一年。&lt;/p&gt;
+&lt;p&gt;该机构还说，它将考虑为五个中国工业机械类别申请关税排除请求，包括用于净化或过滤液体的机械、工业机器人和印刷机械。&lt;/p&gt;
+&lt;p&gt;它将允许对用于制造中国太阳能硅片和电池制造设备免征关税，但不允许用于制造完整太阳能电池板设备的关税。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="汽车在江苏连云港港等待装上货轮运往出口" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7S4Q4XERNVJ6HDQMW4JSERXONQ.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2019年10月14日，中国江苏省连云港港，即将出口的汽车等待装上货轮。路透社/代摄者/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 10:06:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/us-locks-steep-china-tariff-hikes-many-start-sept-27-2024-09-13/</guid></item><item><title>早间出价：美联储降息黄金</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-13/</link><description>
+&lt;p&gt;由阿曼达·库珀为您展望美国及全球市场的未来走势。&lt;/p&gt;
+&lt;p&gt;一日之隔，天差地别。仅24小时前，投资者仍无奈接受半个百分点降息的可能性渺茫，更倾向于将四分之一点降幅视为软着陆情景的更合理预判。&lt;a href="https://www.reuters.com/markets/us/fed-cut-rates-by-25-basis-points-sept-18-twice-more-2024-2024-09-10/"&gt;美联储&lt;/a&gt;下周可能只会降息。&lt;/p&gt;
+&lt;p&gt;金融时报和华尔街日报的几位备受关注的联邦储备记者撰写的文章，以及 sway 力量非凡的前联邦官员比尔·达德利的大胆论断，一夜之间颠覆了这些假设。现在，美联储在9月18日是降息25个基点还是50个基点的概率几乎是五五开。&lt;/p&gt;
+&lt;p&gt;这一反转并未提振美国股票期货市场或为比特币增价，反而将金币价格推至2,570美元/盎司的新高。&lt;/p&gt;
+&lt;p&gt;今年至今，金币的价值已上涨近25%，得益于美国利率降低、通胀率下降、美元走弱以及复杂的国际政治经济格局。&lt;/p&gt;
+&lt;p&gt;投资者目前持有创纪录的最大黄金期货看涨头寸。美国市场监管机构发布的每周数据显示，非商业投资者——这一类别可能包括个人投资者、一些对冲基金和金融机构——持有287,558份黄金期货合约，按当前现货价格计算，价值约730亿美元。&lt;/p&gt;
+&lt;p&gt;并非只有紧张不安的投资者在增加其应急黄金储备。全球各国央行，通常是为长期投资，在2023年以来的购买狂欢——创下官方部门历史上第二高位——之后，仍在以惊人的速度增加黄金储备。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reuters.com/markets/commodities/global-gold-etfs-saw-fourth-month-inflows-august-says-wgc-2024-09-05/"&gt;交易型开放式证券投资基金&lt;/a&gt;在过去四个月连续出现正值流入，结束了多年的几乎全然流出。&lt;/p&gt;
+&lt;p&gt;由于黄金自身不产生利息，当美国利率下降时，它能更有效地与投资者现金竞争。事实上，在1982年以来的最后七次美联储宽松周期中，有五次在首次降息后的六个月内，黄金价格上涨。&lt;/p&gt;
+&lt;p&gt;在这别开生面的光彩画面中，唯一可能暗淡的因素是看似不可阻挡的上涨对实际黄金消费者带来的影响。零售投资者、珠宝商和工业用户对价格极为敏感。&lt;/p&gt;
+&lt;p&gt;然而，目前，尤其是在美联储被认为更有可能降息0.5个百分点的情况下，黄金仍保持着其光泽。&lt;/p&gt;
+&lt;p&gt;以下为周五晚些时候可能对美国市场提供更多指示的关键发展：&lt;/p&gt;
+&lt;p&gt;* 8月进出口价格&lt;/p&gt;
+&lt;p&gt;* 密歇根大学9月初步消费者情绪指数&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="一位慢跑者在华盛顿特区的联邦储备大楼旁跑过" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MDVYPRV46JIHDDSDBXA3GNAOO4.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2018年8月22日，美国华盛顿特区的联邦储备大楼附近，一位慢跑者跑过。路透社/克里斯·瓦蒂/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 10:08:53 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-13/</guid></item><item><title>前英格兰主帅埃里克森的葬礼在瑞典举行</title><link>https://www.reuters.com/sports/soccer/soccer-funeral-ex-england-manager-sven-goran-eriksson-held-sweden-2024-09-13/</link><description>
+&lt;p&gt;英格兰国家足球队的初任外籍主教练，斯文-约朗·埃里克松，其葬礼于本周五在瑞典一座他早年成长的小镇举行，结束了他跨越数十年、多个国家和无数奖杯的职业生涯。&lt;/p&gt;
+&lt;p&gt;埃里克松以其温和的言辞和坚定的意志，曾在上世纪80年代和90年代将瑞典、葡萄牙和意大利的球队引导至重要的冠军奖杯，并于2001年接手英格兰国家队的教鞭，管理过诸如大卫·贝克汉姆等众多球星，与他们建立了深厚的联系。&lt;/p&gt;
+&lt;p&gt;埃里克松于今年1月宣布自己患有晚期胰腺癌，并在临终前的大部分时间里，都与许多与其职业生涯息息相关的地点和人物重新建立了联系，直至上个月去世。&lt;a href="https://www.reuters.com/sports/soccer/sven-goran-eriksson-charismatic-england-coach-dies-76-2024-08-26/"&gt;（详情请见此处）&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;葬礼在位于瑞典与挪威边界附近、人口不足5000人的乡村小镇托尔比举行，教堂内聚满了数百人，其中包括贝克汉姆。&lt;/p&gt;
+&lt;p&gt;更多的人群在教堂外的大屏幕上观看了葬礼，当地警方表示，瑞典媒体对此次葬礼进行了全面的报道。&lt;/p&gt;
+&lt;p&gt;在一小时的葬礼结束后，灵柩在行进中抵达了附近的一个社区中心，同时一支铜管乐队演奏了包括“你永远不会孤独”，这是埃里克松支持的英格兰俱乐部利物浦的颂歌，以及他在3月份的一场传奇比赛中担任主教练的乐曲。&lt;/p&gt;
+&lt;p&gt;在埃里克松去世的消息公布后，各国总理、俱乐部及前球员纷纷发表纪念之词。&lt;a href="https://www.reuters.com/sports/soccer/soccer-reaction-death-former-england-manager-eriksson-2024-08-26/"&gt;（详细信息请见此处）&lt;/a&gt;，在英国和瑞典等国家队在国际停赛期期间，均戴上了黑色臂章。&lt;/p&gt;
+&lt;p&gt;埃里克松，在瑞典人们心中被称为“斯文尼斯”，曾率领英格兰国家队进入2002年和2006年世界杯八强，以及2004年欧洲杯，管理着一支由贝克汉姆、弗兰克·兰帕德、韦恩·鲁尼和斯蒂文·杰拉德等明星球员组成的黄金一代。&lt;/p&gt;
+&lt;p&gt;尽管未能终结英格兰冠军荒，但埃里克松于2006年离开了国家队教练的位置，后来又执教曼城、莱斯特城、墨西哥、科特迪瓦以及中国和菲律宾的俱乐部。&lt;/p&gt;
+&lt;p&gt;在教堂外的屏幕上观看葬礼的Curt Agren，身着IFK队服、短裤和帽子，对埃里克松对俱乐部的重要性进行了反思。“他是我们全世界的最佳选择，”他向当地的新闻机构TT表示。&lt;/p&gt; 
+&lt;figure&gt;&lt;img alt="Sven-Goran Eriksson的葬礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NRGUXQPDJ5INZLVMEGVLJP5HBI.jpg" /&gt; 
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;足球——斯文-约朗·埃里克松的葬礼——瑞典托尔比，2024年9月13日，斯文-约朗·埃里克松在Fryksande教堂的葬礼服务，Adam Ihse/TT新闻社，路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="Sven-Goran Eriksson的葬礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SY4PHPAVLZI5NJVBNAHGOXV5OA.jpg" /&gt; 
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;足球——斯文-约朗·埃里克松的葬礼——瑞典托尔比，2024年9月13日，Fryksande教堂展出的斯文-约朗·埃里克松的照片，Jonas Ekstromer/TT新闻社，路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="Sven-Goran Eriksson的葬礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ICOBFFSD3BMXFMI7SFIFZYE7OE.jpg" /&gt; 
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;足球——斯文-约朗·埃里克松的葬礼——瑞典托尔比，2024年9月13日，搬运灵柩的抬棺者，Jonas Ekstromer/TT新闻社，路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="Sven-Goran Eriksson的葬礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/E42HOQME4RNDXCR4PA62UTXXTQ.jpg" /&gt; 
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;足球——斯文-约朗·埃里克松的葬礼——瑞典托尔比，2024年9月13日，大卫·贝克汉姆到达Fryksande教堂参加斯文-约朗·埃里克松的葬礼，Adam Ihse/TT新闻社，路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="Sven-Goran Eriksson的葬礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2EF55YSSKRPQTPTUVQWBYWI3SE.jpg" /&gt; 
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;足球——斯文-约朗·埃里克松的葬礼——瑞典托尔比，2024年9月13日，Fryksande教堂中展出的国际足联的花圈，Adam Ihse/TT新闻社，路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 08:30:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/soccer/soccer-funeral-ex-england-manager-sven-goran-eriksson-held-sweden-2024-09-13/</guid></item><item><title>柬埔寨称美国对大亨李勇发的制裁不公正且具有政治动机</title><link>https://www.reuters.com/world/asia-pacific/cambodia-says-us-sanctions-against-tycoon-unjust-politically-motivated-2024-09-13/</link><description>
+&lt;p&gt;柬埔寨外交部周五对美国政府决定制裁一位地方大亨和参议员，理由是涉嫌强迫他人从事诈骗中心的劳动，表示深切遗憾，并指出此举是出于政治动机。&lt;/p&gt;
+&lt;p&gt;美国对其实施制裁的计划于周四由路透社首次报道&lt;a href="https://www.reuters.com/world/asia-pacific/us-plans-sanction-prominent-cambodians-linked-scam-factories-sources-say-2024-09-12/"&gt;【点击查看详情】&lt;/a&gt;，正值柬埔寨与美国关系敏感时期，尽管美国试图拉拢柬埔寨新领导人、前总理洪森之子洪玛尼，但柬埔寨与华盛顿的战略对手中国之间的关系愈发紧密。&lt;/p&gt;
+&lt;p&gt;外交部在声明中表示，“此类单边制裁的施加破坏了对国际法以及国家间关系基本规范，尤其是主权平等和非干涉原则的尊重”。&lt;/p&gt;
+&lt;p&gt;被制裁的大亨利永福于2022年被任命为洪森的个人顾问，洪森曾担任近四十年的总理，并作为参议院主席依然活跃在政界。&lt;/p&gt;
+&lt;p&gt;制裁针对的是他的L.Y.P集团以及一家酒店——O-Smach度假村。美国财政部外国资产控制办公室表示，它还制裁了在柬埔寨的Garden City酒店、Koh Kong度假村和金边酒店，理由是这些酒店被利永福拥有或控制。&lt;/p&gt;
+&lt;p&gt;L.Y.P集团在周五没有立即回应置评请求。&lt;/p&gt;
+&lt;p&gt;财政部代理反恐与金融情报次长布拉德利·史密斯曾说，此举是为了“让那些参与人口贩卖和其他滥用行为者承担责任，同时扰乱他们操作投资欺诈计划的能力，这些计划针对无数无知的个人，包括美国人”。&lt;/p&gt;
+&lt;p&gt;近年来，柬埔寨和其他东南亚国家已成为针对全球受害者、以欺诈加密货币和其他计划为目标的多亿美元犯罪行业的中心，这些行业通常由中国黑帮运行的堡垒式据点运营，并雇佣被贩卖的工人。&lt;/p&gt;
+&lt;p&gt;专注于跨国犯罪和人权问题的东南亚分析师雅各布·西蒙斯表示，这些制裁传达了美国政府的信息，即强迫诈骗已经升级为“重要的国家安全关切”。&lt;/p&gt;</description><pubDate>Fri, 13 Sep 2024 09:54:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/cambodia-says-us-sanctions-against-tycoon-unjust-politically-motivated-2024-09-13/</guid></item><item><title>香港记者组织称数十名记者受到骚扰</title><link>https://www.reuters.com/world/asia-pacific/hong-kong-journalist-group-says-dozens-journalists-harassed-2024-09-13/</link><description>
+&lt;p&gt;自六月以来，数十名香港记者及其家人在过去的三个月内，在网络上和现实生活中遭到骚扰和恐吓，香港记者协会（HKJA）在周五表示。&lt;/p&gt;
+&lt;p&gt;香港记者协会主席郑赛凤表示，这些威胁和虚假诽谤内容的分享损害了香港的新闻自由，不应被容忍。&lt;/p&gt;
+&lt;p&gt;她指出，受到针对性的记者和媒体机构包括香港记者协会执行委员会、香港独立通讯社、Inmediahk、香港特写、其他13家国际和本地媒体机构以及两家新闻教育机构。&lt;/p&gt;
+&lt;p&gt;香港记者协会表示，至少有15名记者、其家人和关联人士——包括房东、慈善机构、学校和私营企业——通过电子邮件或信件收到了自称“爱国者”的匿名投诉。&lt;/p&gt;
+&lt;p&gt;一些记者或其关联人士在私人Facebook群组中遭到针对。郑赛凤指出，至少有四起情况下，网暴者利用Facebook和维基百科发布暴力威胁，包括死亡威胁。&lt;/p&gt;
+&lt;p&gt;两位编辑最近因煽动罪被定罪，这是自1997年香港从英国移交给中国以来，首次针对任何记者或编辑的煽动罪，且发生在2019年大规模民主抗议活动后，政府持续多年的国家安全镇压之际。&lt;/p&gt;
+&lt;p&gt;无国界记者（RSF）在2024年的全球媒体自由指数中将香港排名第135位。&lt;/p&gt;
+&lt;p&gt;香港记者协会表示，过去几个月，一些被针对的个人已向警方和隐私专员办公室投诉。&lt;/p&gt;
+&lt;p&gt;香港警察、个人数据私隐专员公署、维基媒体基金会安全事务办公室以及Facebook的所有者Meta，未立即回应路的请求评论。&lt;/p&gt;
+&lt;p&gt;香港独立通讯社的总监兼创始人汤姆·格伦迪对路透社表示，他的房东和当地房地产代理收到匿名信，要求他“做出荒谬主张并威胁‘不可想象的后果’和‘附带损害’，否则将被驱逐。&lt;/p&gt;
+&lt;p&gt;Inmedia发表声明称，“新闻网站的一名员工收到了涉及个人数据的骚扰信息。”&lt;/p&gt;
+&lt;p&gt;香港特写通过声明表示，“我们对记者及其亲属所遭受的骚扰程度不一感到震惊。”&lt;/p&gt;
+&lt;p&gt;“我们希望公众能认真对待新闻工作，支持我们的工作，以便报道可以免除恐惧。”&lt;/p&gt;</description><pubDate>Fri, 13 Sep 2024 09:31:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/hong-kong-journalist-group-says-dozens-journalists-harassed-2024-09-13/</guid></item><item><title>北京因恒大审计而暂停普华永道中国业务六个月</title><link>https://www.reuters.com/business/finance/china-imposes-six-month-business-suspension-pwcs-auditing-unit-mainland-china-2024-09-13/</link><description>
+&lt;p&gt;中国财政部（MOF）于周五对该事务遍布广泛的房地产开发商中国恒大海湾集团（3333.HK）的审计过程中，对普华永道（PwC）中国大陆审计部门的业务实施六个月的停业整顿，监管机构如是表示。&lt;/p&gt;
+&lt;p&gt;据财政部网站上的声明，该部门还对普华永道中天(partners)有限公司，即普华永道在中国的注册会计师事务所及其主要境内分支，处以1.16亿元人民币（约合1600万美元）的罚款。&lt;/p&gt;
+&lt;p&gt;中国证监会（CSRC）在另一份声明中表示，已没收涉事单位与恒大海湾案件相关的收入总额为2770万元人民币，并对该单位处以2.97亿元人民币的罚款。&lt;/p&gt;
+&lt;p&gt;经中国证监会（CSRC）调查发现，普华永道中天在2019年和2020年对恒大海湾的年度业绩进行审计时，不仅协助掩盖和“甚至容忍”其欺诈行为。&lt;/p&gt;
+&lt;p&gt;证监会表示：“普华永道严重侵蚀了法治和诚信的基础，损害了投资者的利益。”&lt;/p&gt;
+&lt;p&gt;自中国证监会于三月份指控开发商在过去两年内通过2020年发行价值780亿美元的欺诈性债券以来，中国当局一直审查普华永道在恒大海湾会计实务中的作用。&lt;/p&gt;
+&lt;p&gt;普华永道未能及时对路透社的评论请求作出回应。&lt;/p&gt;
+&lt;p&gt;（1美元=7.0942人民币元）&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="位于北京的一栋楼，其内是普华永道（PWC）分支机构，背后飘扬着中国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CJ2SS5VGHBJATPINPIZ7Q7UQMA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;北京，2014年1月24日。普华永道（PWC）分支机构所在楼背后飘扬着中国国旗。路透社/金京勋/档案照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="中国国防部长东俊在北京香山论坛上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V4K25VENBNJEPILZC4ZBSLLMCY.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国防部长东俊与其他军事领导人于2024年9月13日在北京参加香山论坛。路透社/Florence Lo&lt;/i&gt;&lt;/figcaption&gt;
+    &lt;img alt="布鲁塞尔的普华永道公司大楼顶部可见其标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/E4DAUZCXBJMCPEP7LMOE3TPZBE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;比利时迪金姆的布鲁塞尔普华永道办公楼顶部可见其标志，2023年9月21日。路透社/伊夫·赫尔曼/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 08:19:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/china-imposes-six-month-business-suspension-pwcs-auditing-unit-mainland-china-2024-09-13/</guid></item><item><title>投资者考虑“抛硬币”美联储决定，美元下跌，金价创历史新高</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-13/</link><description>
+&lt;p&gt;周五，美元对日元汇率跌至今年最低点，黄金价格在投资者对下周美联储将采取超级大规模降息的预期发生剧烈转变后，创下历史新高。&lt;/p&gt;&lt;p&gt;在《金融时报》和《华尔街日报》的报道均称此决定为“一触即发”之后，交易者将美联储下周半点降息的可能性从昨天的接近14%提升至41%，股市、国债价格和大宗商品均出现反弹。&lt;/p&gt;&lt;p&gt;前纽约联邦储备银行行长、颇具影响力的威廉·戴德利在新加坡论坛上后来&lt;a href="https://www.reuters.com/markets/rates-bonds/strong-case-50-bp-fed-cut-says-former-ny-fed-chief-dudley-2024-09-13/"&gt;表示&lt;/a&gt;，“有充分理由支持50个基点降息。”&lt;/p&gt;&lt;p&gt;城市指数市场策略师菲奥娜·辛科塔表示：“我至今一直坚定地站在25个基点的阵营中。这实际上使得我开始思考他们可能会采取50个基点的降息。”&lt;/p&gt;&lt;p&gt;她说：“现在感觉像是抛硬币的结果，市场的表现也是如此，鉴于我们所看到的债券、日元、美元和黄金的反应。”&lt;/p&gt;&lt;p&gt;美元兑日元汇率下跌0.97%，至140.4150日元，为去年12月28日以来的最低水平。该汇率上次下跌0.77%，至140.68。&lt;/p&gt;&lt;p&gt;本周，日元还受到日本银行官员鹰派言论的支持，政策委员会委员铃木直人于周四表示，他“担心通货膨胀风险的上行势头在加强。”&lt;/p&gt;&lt;p&gt;衡量美元对日元及其他五种主要货币的美元指数下跌至一周低点101.00。&lt;/p&gt;&lt;p&gt;基准10年期美国国债收益率上升，将收益率推低4.2个基点至3.638%，而利率敏感的两年期收益率下降6.8个基点至3.585%。&lt;/p&gt;&lt;p&gt;澳新银行策略师卡罗尔·康表示，目前对联邦公开市场委员会（FOMC）放宽政策的价格过高。&lt;/p&gt;&lt;p&gt;她在一份报告中写道：“我们继续倾向于25个基点降息，而不是50个基点降息，因为劳动力市场和更广泛的经济依然具有韧性。”&lt;/p&gt;&lt;p&gt;“与经济衰退之外的平均FOMC降息周期相比，当前的市场定价显得更为激进。我们与大多数美国经济学家一样，并不预期美国经济将进入衰退。”&lt;/p&gt;&lt;p&gt;全球股市&lt;a href="https://www.reuters.com/markets/quote/.MIWD00000PUS" target="_blank"&gt;(.MIWD00000PUS)&lt;/a&gt;连续第五天上涨，上涨0.2%，得益于欧洲股市的上涨，其中STOXX 600&lt;a href="https://www.reuters.com/markets/quote/.STOXX" target="_blank"&gt;(.STOXX)&lt;/a&gt;上涨0.4%，有望实现每周2.6%的涨幅，为一个月以来的最大涨幅。&lt;/p&gt;&lt;p&gt;欧元上涨0.13%至1.1087美元，继周四上涨0.57%之后，这得益于欧洲央行行长克里斯蒂娜·拉加德对10月份降息前景的推迟，周四预期的25个基点降息随后实现。&lt;/p&gt;&lt;p&gt;黄金价格有望实现自8月中旬以来的最强每周涨幅，上涨2.8%至每盎司2570美元的历史新高，受美元疲软推动。最后上涨0.4%至每盎司2580美元。&lt;/p&gt;&lt;p&gt;MSCI亚太地区（日本除外）的广泛股票指数上涨0.53%。&lt;/p&gt;&lt;p&gt;日本、中国大陆和韩国即将迎来长假周末，东京将于周二恢复交易，中国将于周三恢复交易，而韩国则要到周四。&lt;/p&gt;&lt;p&gt;美国股票期货上涨0.1%，延续了周四现金指数的涨幅。&lt;/p&gt;&lt;p&gt;原油价格继续攀升，在夜间上涨约2%后，生产商在弗朗辛飓风穿越墨西哥湾后评估了对产量的影响。&lt;/p&gt;&lt;p&gt;美国西德克萨斯中质原油期货上涨0.51%至每桶69.32美元，延续周四2.5%的涨势。布伦特原油期货上涨0.5%至每桶72.30美元，前一日上涨1.9%。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="伦敦证券交易所集团在英国伦敦市中心的办公室" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N6Q2C3EVBZLEHE4TAY53OXKEUM.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2017年12月29日，照片显示伦敦证券交易所集团在英国伦敦市中心的办公室。美联社的Toby Melville/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="跑步者在美国首都华盛顿特区的美联储大楼旁跑过" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZLUFRQ7JJNNYPAEBSXPSBZXA3M.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2018年8月22日，美国华盛顿特区的一处跑步者在美国联邦储备银行大楼旁跑过。美联社的Chris Wattie/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:10:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-13/</guid></item><item><title>中国、俄罗斯在北京年度安全论坛上谴责西方</title><link>https://www.reuters.com/world/china/chinas-defence-minister-asks-major-countries-take-lead-safeguarding-global-2024-09-13/</link><description>
+&lt;p&gt;中国与俄罗斯防务官员周五在北京举行的军事外交论坛上对西方国家进行了批评，中国向全球南方发声，而俄罗斯则表示美国正将军事冲突转向亚太地区。&lt;/p&gt;
+&lt;p&gt;在一年一度的香山论坛上，中国国防部长东 jungle 在一篇广泛阐述的演讲中表示，中国将加强与其邻国以及特别是发展中国家的军事 ties.&lt;/p&gt;
+&lt;p&gt;东 jungle 表示：“大国应当率先维护全球安全，摒弃零和思维，停止欺凌弱小”，这是对他的批评，他没有点出美国的名字。&lt;/p&gt;
+&lt;p&gt;在“多极”世界中，“任何国家都无权成为局外人或旁观者”，他补充道。&lt;/p&gt;
+&lt;p&gt;东 jungle 的言论发布于美国和中国军队之间的沟通在一系列不安定的南海、台湾问题以及美国对北京与俄罗斯30个月来对乌克兰的密切关系表示担忧的情况下有所缓和。&lt;/p&gt;
+&lt;p&gt;几小时后，德国国防部长证实两艘德国军舰周五穿越了台湾海峡——这是20年来的首次此类穿越，中国外交部对此表示谴责。&lt;/p&gt;
+&lt;p&gt;东 jungle 在精心编排的三天论坛上对来自90个国家和国际组织的代表发表了上述言论，论坛将于周六结束。&lt;/p&gt;
+&lt;p&gt;他说，为解决地区紧张局势，各国应“通过团结求力量，依赖自身实现和平”。&lt;/p&gt;
+&lt;p&gt;“我们应该放下傲慢和偏见，永远不干涉别国内政，永远不侵犯别国权利和利益，”东 jungle 表示。&lt;/p&gt;
+&lt;p&gt;俄罗斯副防长亚历山大·福明在讲话中更为直接，表示美国正试图遏制中国和俄罗斯，同时通过建立新的安全联盟为在亚洲备战战争。&lt;/p&gt;
+&lt;p&gt;他说：“俄罗斯和中国支持建立一个基于平等和相互尊重的公正、多极的世界秩序。”&lt;/p&gt;
+&lt;p&gt;“为了创造条件，迫使俄罗斯根据基辅的公式进行谈判，北约国家计划派遣军队到乌克兰，”他补充道。“这是一种危险的游戏，可能导致核大国之间的直接冲突。”&lt;/p&gt;
+&lt;p&gt;NATO一再表示，他们没有计划向乌克兰派遣军队。&lt;/p&gt;
+&lt;p&gt;福明的言论与东 jungle 对北京作为负责任国际危机调解人的愿景形成对比。&lt;/p&gt;
+&lt;p&gt;尽管中国在东亚的地缘政治争端中长期陷于纠纷，但中国渴望把自己推广为一个在全局冲突中负责任的角色。今年的论坛主题为“促进和平，共创未来”。&lt;/p&gt;
+&lt;p&gt;一些外交官和分析师正在密切关注会议边缘中美军事关系在进展方面的迹象。&lt;/p&gt;
+&lt;p&gt;美国由国防部中国、台湾和蒙古事务助理副部长迈克尔·查尔斯代表。&lt;/p&gt;
+&lt;p&gt;查尔斯将在会议结束后领导一个美国代表团与中国军方同仁进行会谈——这基于去年1月恢复的国防协调会谈，这是自2021年9月以来的首次。&lt;/p&gt;
+&lt;p&gt;鉴于中国和菲律宾——美国的一个条约盟友——之间的南海摩擦有望在会谈中占据一席之地，另一位中国军队官员表达了信心，认为北京能够阻止华盛顿介入。&lt;/p&gt;
+&lt;p&gt;“如果中国和菲律宾在南海发生冲突，这绝不会引发中国和美国之间的冲突，”解放军军事科学院前副院长、现任陆军中将何雷在周五的会议上表示。&lt;/p&gt;
+&lt;p&gt;尽管一些地区国家已派国防部长参加论坛，但西方国家通常派遣较低级别的代表团，更倾向于新加坡长期以来的年度香格里拉对话来讨论关键安全议题。&lt;/p&gt;
+&lt;p&gt;论坛是在美国国家安全顾问杰克·沙利文上个月在北京会见了中国人民解放军中央军事委员会副主席张又侠之后举行的，本周美国和中国战区司令官举行了他们的首次电话会议。&lt;/p&gt;
+&lt;p&gt;在论坛边角，前国防部中国事务高级官员查德·斯布里亚表示，美国的参与表明华盛顿致力于参与。&lt;/p&gt;
+&lt;p&gt;“这表明，我认为，象征着中国、美国，当然还有全球的盟友和合作伙伴，美国致力于倾听、参与、参与并勇敢地谈话，”斯布里亚说。&lt;/p&gt;
+&lt;p&gt;东 jungle 负责中国的军事外交，但并非中央军事委员会——中国的核心指挥机构——的一部分。&lt;/p&gt;
+&lt;p&gt;他是中国海军的一位海军上将，于12月在一轮军队高级官员的反腐败清洗后任命。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="中国国防部长东 jungle 参加北京香山论坛" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4VKFRURQSJLTJKGA24K7ANBEN4.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国防部长东 jungle 参加北京香山论坛，中国北京，2024年9月13日。路透社/Florence Lo&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="在新加坡举行的香格里拉对话会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FJTGCYXU3BON3GYZMIB4NJMCTY.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年6月2日，中国国防部长东俊在新加坡参加香格里拉对话会。路透社/Edgar Su/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:36:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-defence-minister-asks-major-countries-take-lead-safeguarding-global-2024-09-13/</guid></item><item><title>美元下跌，黄金创历史新高，因美联储大幅降息的押注增加</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-13/</link><description>
-&lt;p&gt;周五，美元兑日元暴跌，而黄金价格触及历史最高点，投资者加大了对下周美联储实行超大规模降息的押注。在此前媒体报道指出这一决策对官员而言颇具挑战性之后，投资者对下周美联储的降息押注飙升。&lt;/p&gt;
-&lt;p&gt;根据LSEG的数据，在0155GMT时，亚股也跟随上涨，交易者将9月18日50个基点美国利率下调的押注从之前的约28%提高至41%，此前《金融时报》和《华尔街日报》的文章均称这一决策为“险象环生”。&lt;/p&gt;
-&lt;p&gt;"这无疑是（美联储降息）辩论中的又一转折点"，IG分析师托尼·西克拉莫尔指出，债券期货和美元兑日元利率的拉锯战尤为明显。&lt;/p&gt;
-&lt;p&gt;"所有人都以为我们会回到25个基点的基础上，而现在50个基点突然又回到了议程上。"&lt;/p&gt;
-&lt;p&gt;美元兑日元汇率下跌0.41%，至141.225日元，接近自年初以来最弱水平，即周三的140.71低点。&lt;/p&gt;
-&lt;p&gt;本周，日元还受到了日本银行官员鹰派言论的支持。周四，政策委员会成员Tamuro Naoki表示，他“担心上行的通胀风险正在加剧。”&lt;/p&gt;
-&lt;p&gt;衡量美元对日元及其他五大主要货币汇率的美元指数下跌至一周低点101.03。&lt;/p&gt;
-&lt;p&gt;欧元的增值为0.09%，升至1.1084美元，得益于周四0.57%的涨幅，欧洲央行行长克里斯汀·拉加德对10月份降息的前景表示反对，此前预计周四将减息25个基点。&lt;/p&gt;
-&lt;p&gt;黄金价格继周四上涨1.9%之后，继续保持上涨势头，触及创纪录新高2,567.93美元，得益于美元的疲软。&lt;/p&gt;
-&lt;p&gt;MSCI亚太区除日本外最广泛股票指数上涨0.53%。&lt;/p&gt;
-&lt;p&gt;香港恒生指数(.HSI)引领区域市场上涨，上涨1.13%。中国大陆蓝筹股(.CSI300)上涨0.24%。澳大利亚基准指数(.AXJO)上涨0.31%。韩国综合股价指数(.KS11)持平。&lt;/p&gt;
-&lt;p&gt;然而，由于日元走强，日本股市表现不佳，日经225指数(.N225)下跌0.48%。&lt;/p&gt;
-&lt;p&gt;日本、中国大陆和韩国都即将迎来长假，东京定于周二恢复营业，中国于周三恢复，而韩国则要到周四。&lt;/p&gt;
-&lt;p&gt;美国股票期货在周四现金指数上涨后维持平稳。&lt;/p&gt;
-&lt;p&gt;原油价格在飓风“法兰辛”横扫美国墨西哥湾后继续上涨，因为在评估这场风暴对产量的影响后，原油价格在夜间上涨约2%。&lt;/p&gt;
-&lt;p&gt;美国西德克萨斯中质原油期货价格上涨0.54%，至每桶69.34美元，延续周四的2.5%涨幅。布伦特原油期货价格在上一交易日上涨1.9%后，上涨0.47%，至每桶72.31美元。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="一位跑步者在华盛顿特区的美联储大楼前奔跑" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZLUFRQ7JJNNYPAEBSXPSBZXA3M.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2018年8月22日，美国华盛顿特区，一位跑步者经过美联储大楼。路透社/Chris Wattie/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:10:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-13/</guid></item><item><title>交易员加大美联储大幅降息押注，美元走软</title><link>https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</link><description>
-&lt;p&gt;周五，美元走弱，而欧元和日元则在升值，投资者在下周即将到来的中央银行盛会上神经紧绷。此次盛会以美联储为中心，聚焦于其预期利率下降幅度。&lt;/p&gt;
-&lt;p&gt;尽管美联储几乎铁定将在下周降低利率，但关于其是否将实施25个基点还是50个基点的削减仍然充满不确定性，这使得投资者心悬一线，并对美元施加了压力。&lt;/p&gt;
-&lt;p&gt;分析师们指出，《金融时报》和《华尔街日报》的报道表明美联储的决定将是极为接近的，这是交易员们加大下周大降息押注的原因之一。&lt;/p&gt;
-&lt;p&gt;根据大华银行的外汇策略师克里斯托弗·黄的说法，周四公布的美国失业救济申请增加的数据及《华尔街日报》关于美联储利率削减困境的文章，重新激发了市场对九月份会议上进行大幅降息的预期。&lt;/p&gt;
-&lt;p&gt;CME美联储观察工具显示，交易员预计美联储有43%的概率实施50个基点的降息，较前一天的27%有所上升，同时有57%的概率实施25个基点的降息，预计今年剩下的三次会议中，市场将预测113个基点的宽松。&lt;/p&gt;
-&lt;p&gt;周四，欧洲央行下调利率，但欧洲央行行长克里斯汀·拉加德淡化了市场对下月再降息的预期，欧元因此走强，单一货币在周五早间的交易中继续维持这些涨幅。&lt;/p&gt;
-&lt;p&gt;除了美联储外，下周英国央行和日本央行也将举行政策会议。&lt;/p&gt;
-&lt;p&gt;欧元对美元汇率为1.1083美元，较周四上涨0.57%，美元指数，衡量美元对包括欧元在内的六种竞争对手货币的指数，为101.11。&lt;/p&gt;
-&lt;p&gt;本周一系列美国经济的混合报告使得利率预期变得模糊，周四的一份报告显示，尽管劳动力市场放缓，但失业救济申请仍保持在低水平，而其他数据显示，在服务业成本反弹的情况下，8月份的生产者价格涨幅略高于预期。&lt;/p&gt;
-&lt;p&gt;Validus风险管理北美地区全球资本市场负责人莱恩·布兰达姆表示：“这些数据不太可能使美联储停止降息，但它们应该提醒我们，均衡其职权（就业与通胀）的重要性。”&lt;/p&gt;
-&lt;p&gt;“通胀可能不会像大家，包括美联储，似乎预期的那样迅速回到目标水平。”&lt;/p&gt;
-&lt;p&gt;日元在早间交易中对美元的汇率为141.38美元，接近周三在央行会议前夕触及的八个月高点140.71美元。&lt;/p&gt;
-&lt;p&gt;日本央行董事委员新崎直在周四表示，央行必须将利率至少提高到1%，但可能将在下个财政年度的下半年缓慢且分阶段地提高。&lt;/p&gt;
-&lt;p&gt;在下周英国央行会议之前，英镑对美元的汇率为1.31415美元，期货市场暗示，在8月份降息25个基点后，有大约80%的概率利率将保持不变。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="照片插图显示美国纸币" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YDT6SDXNDZPR7DJR3PFIKHA3WQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2018年2月12日摄的照片插图，显示美国纸币。路透社/何塞·路易斯·冈萨雷斯/插图/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:24:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</guid></item><item><title>特朗普的潜在回归加剧了新兴市场投资者的担忧</title><link>https://www.reuters.com/markets/us/potential-return-trump-fuels-concern-among-emerging-market-investors-2024-09-12/</link><description>
-&lt;p&gt;一场激烈的美国总统大选竞争令新兴市场的投资者感到不安，他们担心前总统唐纳德·特朗普重返白宫可能会在新兴市场繁荣之际对其造成伤害。&lt;/p&gt;
-&lt;p&gt;美国利率预期的降低为新兴市场资产的前景带来了光明，这些资产在最近几年一直落后于其发达市场同行。&lt;/p&gt;
-&lt;p&gt;然而，分析师现在担心，在特朗普第二次总统任期下，贸易壁垒可能得到加强，从而推动通货膨胀和利率反弹，提振美元，并最终再次给新兴市场带来压力。&lt;/p&gt;
-&lt;p&gt;"通常，这将为新兴市场提供良好的宏观经济背景：强劲增长、持续通缩和疲软的美元"，皮凯特资产管理公司资深多资产策略师阿伦·赛在《路透环球市场论坛》（GMF）中表示。&lt;/p&gt;
-&lt;p&gt;“但我们面临着两个问题，”赛说——中国仍然是全球经济的一个累赘，还有更严重的关税和全球贸易中断的威胁。&lt;/p&gt;
-&lt;p&gt;“新兴市场将承受最大的冲击，”他说。&lt;/p&gt;
-&lt;p&gt;特朗普表示，他可能对中国的出口商品征收60%的关税，巴克莱经济分析师估计，这一举措可能会在头12个月内使中国国内生产总值减少两个百分点。&lt;/p&gt;
-&lt;p&gt;对于其他美国贸易伙伴，提议的通用关税远低于10%。&lt;/p&gt;
-&lt;p&gt;牛津经济指出，这样的关税水平可能将美中双边贸易削减70%，并可能导致数千亿美元的贸易被取消或重新分配。&lt;/p&gt;
-&lt;p&gt;汇丰投资管理有限公司首席执行官曼尼什·巴加瓦表示，投资者难以预测中国经济何时会扭转局面。&lt;/p&gt;
-&lt;p&gt;“新兴市场风险应该具有溢价，但这种情况并未发生……印度表现良好但代价高昂，中国成本低廉但存在自身问题。”&lt;/p&gt;
-&lt;p&gt;在首次面对面辩论中，民主党候选人卡玛拉·哈里斯将特朗普的关税计划比作对中产阶级的销售税。尽管如此，她的竞选活动支持拜登时期的关税，甚至暗示未来将实行“有针对性的战略关税”。&lt;/p&gt;
-&lt;p&gt;咨询公司Ziemba Insights创始人雷切尔·齐姆巴表示：“哈里斯政府可能会继续使用关税，但她更倾向于将其与其他工具如清洁能源部门的投资相结合。”&lt;/p&gt;
-&lt;p&gt;瑞士信贷全球财富管理首席投资官马克·海费尔指出，特朗普针对中国和其他贸易伙伴的新提议的关税可能低于威胁的水平。&lt;/p&gt;
-&lt;p&gt;另一方面，华盛顿推动“友邦化”——用友好国家取代中国在供应链中的作用——可能提振与美国的盟友关系。&lt;/p&gt;
-&lt;p&gt;如果供应链多元化再次加速，印度和东南亚关键经济体如印度尼西亚和马来西亚将从中受益，海费尔说。&lt;/p&gt;
-&lt;p&gt;根据“四大支柱”，印度是全球新兴市场的最佳结构故事，全球X ETFs资深投资组合经理兼新兴市场策略主管马尔科姆·多森在GMF表示。&lt;/p&gt;
-&lt;p&gt;印度之所以有利于发展，是因为其具有吸引力的人口结构、长期增长的潜力、市场友好型政府，以及“在正确的时机处于正确的位置”，从而受益于中国+1贸易，多森说。&lt;/p&gt;
-&lt;p&gt;（加入GMF，在LSEG Messenger上参加现场访谈：[点击链接](https://lseg.group/3KFHrhe)）&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="哈里斯-特朗普总统辩论由ABC在宾夕法尼亚州费城举办" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HSYXQOEMQFJXJCVLDXTWYNM6G4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;共和党总统候选人、前美国总统唐纳德·特朗普在费城参加与民主党总统候选人、美国副总统卡玛拉·哈里斯的辩论当天在费城的旋涡室中作出反应。路透社/伊夫琳·霍克斯坦&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="中国国防部长东 jungle 参加北京香山论坛" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V4K25VENBNJEPILZC4ZBSLLMCY.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国防部长东 jungle 和其他军事领导人参加北京香山论坛，中国北京，2024年9月13日。路透社/Florence Lo&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="纽约证券交易所（NYSE）纽约市的交易员在交易大厅工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OW7S36IZCNK4NCCLT7PXV4JPS4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名专业交易员在美国纽约证券交易所（NYSE）纽约市的交易大厅的柱子内部工作。路透社/布林·麦克德米德/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:33:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/potential-return-trump-fuels-concern-among-emerging-market-investors-2024-09-12/</guid></item><item><title>美国众议院通过针对中国的法案限制电动汽车税收抵免</title><link>https://www.reuters.com/world/us/us-house-passes-bill-targeting-china-that-would-limit-ev-tax-credits-2024-09-12/</link><description>
-&lt;p&gt;美国众议院于周四就一项旨在加强限制符合美国电动汽车税收抵免条件的车辆中中国内容的法案进行投票，决议结果仅以微弱票差通过。&lt;/p&gt;
-&lt;p&gt;众议院以217票对192票通过了该法案，该法案尚未被参议院采纳，旨在缩小使车辆不符合美国电动汽车税收抵免资格的中国零部件的定义范围。&lt;/p&gt;
-&lt;p&gt;代表通用汽车（GM.N）、丰田汽车（7203.T）、大众汽车（VOWG_p.DE）、现代（005380.KS）和其他汽车公司的汽车创新联盟表示，该法案将导致符合要求的车辆数量减少，并且意味着在车辆排放和电动汽车目标方面需要放宽严格的规定。&lt;/p&gt;
-&lt;p&gt;汽车制造商集团首席执行官约翰·博泽拉表示，这些标准部分基于电动汽车税收抵免的可用性，如果这些激励措施被取消，“汽车工业基础将面临来自中国的严重经济和国家安全风险，美国将失去竞争力，消费者的利益将受到损害。”&lt;/p&gt;
-&lt;p&gt;该法案由卡罗尔·米勒议员发起，旨在加强所谓的“值得关注的国外实体”定义，该定义适用于中国和其他国家。米勒表示，这将“确保中国公司不能再从本应为美国制造商提供的电动汽车税收抵免中获益。”&lt;/p&gt;
-&lt;p&gt;根据2022年8月通过的法律要求的规则旨在减少美国电动汽车电池供应链对中国的高度依赖。&lt;/p&gt;
-&lt;p&gt;美国财政部和驻华盛顿的中国大使馆并未立即做出评论。&lt;/p&gt;
-&lt;p&gt;目前，美国市场上销售的113种电动汽车或插电式混合动力车中，有22种符合电动汽车税收抵免资格——博泽拉表示，其中只有13种可以享有完整的7,500美元信用额度。&lt;/p&gt;
-&lt;p&gt;五月份，美国财政部在石墨等关键中国矿物质方面给予汽车制造商额外的灵活性，以适应电动汽车税收抵免的电池矿物质要求。&lt;/p&gt;
-&lt;p&gt;该部门表示，将给予汽车制造商至2027年将无法追溯的矿物质如石墨（存在于负极材料中）和电解质盐、粘合剂和添加剂中的关键矿物质去除的宽限期。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="A man wipes the floor near the Toyota Prius PHEV and Toyota BZ4X during the Indonesia International Auto Show in Tangerang" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DRSJXCNFPVJI5GJAEG4PQR5JYQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;A man wipes the floor near the Toyota Prius PHEV and Toyota BZ4X during the Indonesia International Auto Show in Tangerang, Indonesia, July 18, 2024. REUTERS/Ajeng Dinar Ulfiana/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 16:30:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/us-house-passes-bill-targeting-china-that-would-limit-ev-tax-credits-2024-09-12/</guid></item><item><title>美国支持非洲在联合国安理会获得两个常任理事国席位</title><link>https://www.reuters.com/world/us-supports-two-permanent-un-security-council-seats-africa-2024-09-12/</link><description>
-&lt;p&gt;美国支持为非洲国家设立两个常任联合国安理会席位，并为小型岛国发展中国家设立轮任席位，美国驻联合国大使琳达·托马斯-格林菲尔德于周四宣布。&lt;/p&gt;
-&lt;p&gt;此举正值美国寻求修复与非洲的关系之际，许多非洲人对华盛顿对加沙战争以色列的支持表示不满，并希望深化与对制衡该地区中国影响力至关重要的太平洋岛国的关系。&lt;/p&gt;
-&lt;p&gt;托马斯-格林菲尔德向外交关系委员会表示：“多年来，各国一直呼吁建立一个更具包容性和更具有代表性的理事会，一个能反映当今世界人口结构并能更好地应对我们面临挑战的理事会。”&lt;/p&gt;
-&lt;p&gt;推动设立两个常任非洲席位和一个小型岛国发展中国家的轮任席位，是在华盛顿长期支持印度、日本和德国获得安理会常任席位的基础上。&lt;/p&gt;
-&lt;p&gt;美国还支持拉美和加勒比国家在安理会中拥有常任代表，但尚未详细说明。&lt;/p&gt;
-&lt;p&gt;发展中国家长期以来要求在安全理事会中获得常任席位，这是联合国中最具权力的机构。但多年的改革会谈均告失败，且美国支持能否导致实际行动尚不明朗。&lt;/p&gt;
-&lt;p&gt;托马斯-格林菲尔德表示，美国不支持将否决权扩大到持有否决权的五国之外。&lt;/p&gt;
-&lt;p&gt;她说：“没有任何常任理事国愿意放弃其否决权，包括我们。我们认为，如果全面扩大这一否决权，将使理事会更加功能失调。”&lt;/p&gt;
-&lt;p&gt;安理会负责维护国际和平与安全，拥有行使制裁和武器禁运以及授权使用武力的权力。&lt;/p&gt;
-&lt;p&gt;1945年联合国成立时，安理会拥有11个成员。1965年增至15个成员，由10个选举国担任两年任期，以及五个拥有否决权的常任国家：俄罗斯、中国、法国、美国和英国。&lt;/p&gt;
-&lt;p&gt;联合国秘书长安东尼奥·古特雷斯支持安理会改革。&lt;/p&gt;
-&lt;p&gt;古特雷斯在周三对路透社表示：“您有一个与第二次世界大战后的情况完全一致的安理会……这存在合法性问题，也存在有效性问题，需要改革。”&lt;/p&gt;
-&lt;p&gt;对安理会成员资格的任何更改都需通过修改联合国成立章程进行。这需要包括安理会当前五个否决权国家在内的三分之二大会审议批准。&lt;/p&gt;
-&lt;p&gt;拥有193个成员的联合国大会已经超过十年每年讨论安理会改革。但近年来，随着地缘政治竞争僵局在安理会几个问题上，特别是俄罗斯永久否决权成员国入侵乌克兰后，改革 momentum（动力）增加。&lt;/p&gt;
-&lt;p&gt;托马斯-格林菲尔德表示，关于安理会改革的讨论大多只是一场对话，同时她还宣布了华盛顿支持就修改联合国章程以改革安理会的草案决议进行谈判。&lt;/p&gt;
-&lt;p&gt;她对路透社表示，她无法预测大会就此类决议进行投票可能需要多长时间。&lt;/p&gt;
-&lt;p&gt;每年，大会从不同的地理区域选举五名新成员担任安理会两年任期。15个成员的理事会有三席位轮任于非洲国家之间。&lt;/p&gt;
-&lt;p&gt;托马斯-格林菲尔德表示：“问题在于，这些选举席位并未使非洲国家能够将其知识和声音充分运用到理事会的工作中，持续引领影响我们所有人的挑战——尤其是那些不成比例地影响非洲的挑战。”&lt;/p&gt;
-&lt;p&gt;她说，小型岛国发展中国家应拥有轮任选举席位，因为它们提供了“关于一系列国际和平与安全问题的关键见解：特别是气候变化的影响。”&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="联合国安理会纽约会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7BCG6QNXMJLJZG2Q5Z4UAZGMHE.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国驻联合国大使琳达·托马斯-格林菲尔德出席在纽约联合国总部就加沙地带以色列-哈马斯冲突举行的联合国安理会会议，美国纽约市，2024年9月4日。 REUTERS/David 'Dee' Delgado/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="瑞士日内瓦联合国大厦上的旗帜" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YKSE3QECTVP27FR23X4L273NZU.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年2月27日，瑞士日内瓦联合国大楼上的旗帜。 REUTERS/Denis Balibouse/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 04:04:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us-supports-two-permanent-un-security-council-seats-africa-2024-09-12/</guid></item><item><title>中国希望进行学术交流，但历史学家表示审查制度的加强使研究变得困难</title><link>https://www.reuters.com/world/china/china-wants-academic-exchange-historians-say-increased-censorship-makes-research-2024-09-12/</link><description>
-&lt;p&gt;在北京最大的古董市场潘家园，毛泽东雕像、海报和二手书摊上，显眼的警示标识禁止出售可能含有国家机密或“反动宣传”的出版物。&lt;/p&gt;&lt;p&gt;部分标牌上还公布了热线电话，以便市民在目睹非法售卖行为时向当局举报。&lt;/p&gt;&lt;p&gt;中国古董和跳蚤市场曾为历史学家提供了丰富的文献资源，但这些警示标识如今象征着笼罩在研究能力之上的冷漠。&lt;/p&gt;&lt;p&gt;一方面，北京渴望增进学术交流，习近平主席于去年十一月邀请未来五年内五万名美国学生来华学习——这一数字比目前的大约800人增长了数倍。&lt;/p&gt;&lt;p&gt;这一趋势将如何发展，依然是一个悬而未决的问题。但特别是现代中国历史学者——他们或许是出于对中国最感兴趣的人群——担心严格的审查正在切断对国家历史的独立研究途径。&lt;/p&gt;&lt;p&gt;尤其是那些与1966年至1976年文化大革命——中国共产党历史上最为敏感的时期——相关的文档，当时毛泽东宣布阶级斗争并将其推向混乱与暴力。&lt;/p&gt;&lt;p&gt;法兰克福大学的现代中国历史学家丹尼尔·里斯表示：“可以说，前往跳蚤市场随意发现宝藏的时代已经基本结束。”他表示，搜查文献已经不再受欢迎，因为这变得过于复杂、困难且危险，并补充说，年轻的海外学者越来越依赖海外收藏。&lt;/p&gt;&lt;p&gt;自1949年中华人民共和国成立以来，中国共产党对包括书籍、媒体和互联网在内的所有出版物实施了严格控制，审查的程度随着时间的推移而波动。&lt;/p&gt;&lt;p&gt;但在习近平主席2012年执政后，审查变得更加严格，他指责“历史虚无主义”或与官方说法不同的版本的历史观点导致了苏联的解体。&lt;/p&gt;&lt;p&gt;近年来，一系列新的《国家安全法》和《反间谍法》使学者们更加警惕引用非官方的中国资料。&lt;/p&gt;&lt;p&gt;一些发表了对中国官方叙事提出挑战或涉及敏感主题的研究的现代中国历史学者表示，他们被拒绝了中国签证。&lt;/p&gt;&lt;p&gt;乔治敦大学的历史学教授詹姆斯·米勒瓦德表示，他在为2004年出版的《新疆：中国的穆斯林边疆》一书做出贡献后，曾多次被拒绝签证，但之后多次获得了短期签证，尽管过程漫长。&lt;/p&gt;&lt;p&gt;美国的一位历史学家表示，他选择研究非争议性话题，以保持前往中国的旅行权限。由于问题的敏感性，他不愿透露姓名。&lt;/p&gt;&lt;p&gt;中国教育部未对路透社的评论请求作出回应。外交部表示，他们对此类情况不了解。&lt;/p&gt;&lt;p&gt;里斯和其他外国历史学家表示，他们以前在 Chinese 跳蚤市场和古董市场上发现了受迫害知识分子的案卷以及秘密共产党文件。&lt;/p&gt;&lt;p&gt;这些档案往往由已故官员的亲属捐赠，或者由回收站的书商费力地抢救出来，这些回收站位于1990年代大规模国家部门裁员期间解散的政府办公楼附近。&lt;/p&gt;&lt;p&gt;但自2008年以来，政府对跳蚤市场和其他二手书及文件来源进行了严厉打击。根据国内媒体报道、收藏家和四位接受路透社采访的海外研究者表示，买家被逮捕，卖家被罚款，二手书网站被清除政治敏感物品。&lt;/p&gt;&lt;p&gt;例如，2019年，一位日本历史学家因从二手书店购买了1930年代关于中日战争的书而被指控间谍罪，被拘留两个月。&lt;/p&gt;&lt;p&gt;两年后，一名被指控在香港和台湾出版社出版的非法出版物上销售的业余爱好者在中国最大的二手书网站孔夫子网被罚款28万元（3.9万美元），因为他没有商业许可证，中国媒体报道称。&lt;/p&gt;&lt;p&gt;今年，两名废品回收站的工人因出售机密军事文件而受到处罚，据官方媒体报道。&lt;/p&gt;&lt;p&gt;现在，买家通过与通过微信销售的古董商培养私人关系，一位对文化大革命文件感兴趣的北京收藏家表示，他要求匿名。&lt;/p&gt;&lt;p&gt;历史学家还指出，自2010年以来，大多数地方政府档案馆的访问已经受到限制，其数字化使得审查者能够大量删改。&lt;/p&gt;&lt;p&gt;海外历史学家补充说，他们在中国的同行只能在当前的政治环境下为后世保存材料。但并非所有人都过于悲观。&lt;/p&gt;&lt;p&gt;达特茅斯学院的助理历史学教授伊·路，他曾广泛与中国20世纪文献收藏进行合作，表示：“即使在习近平时期，中国学者仍在寻求机会，扩大对中华人民共和国历史的理解和解释。”他表示：“并非一切都已失去希望。”&lt;/p&gt;  &lt;figure&gt;&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S7YIKPJGBFOMVDFMDOJTMGCLOM.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京潘家园古董市场的二手书区，一位摊主在毛泽东及其他领导人塑像旁为客户服务。2024年8月3日，中国。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DKN2IXVZWZKG3EPAZS7GD4VKPM.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京潘家园古董市场的二手书区等待客户的摊主。2024年8月3日，中国。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W7KIUYVF3JMSFLCE5IM2ETVAAM.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京潘家园古董市场的二手书区为顾客服务的摊主。2024年8月3日，中国。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6TD6C6HNJBPW5DSZVY2F6BVVXU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京潘家园古董市场下出售二手书、毛泽东及其他领导人塑像的摊位旁，有人警告销售非法出版物。2024年8月3日，中国。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NDQUIHIIYZMA3GPXM2AJLSBT2A.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京潘家园古董市场的二手书区展出展示毛泽东及其他前中国领导人的海报。2024年8月3日，中国。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 23:04:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-wants-academic-exchange-historians-say-increased-censorship-makes-research-2024-09-12/</guid></item><item><title>独家：恒大董事长被关押在深圳特别看守所</title><link>https://www.reuters.com/world/china/evergrande-chairman-hui-kept-special-detention-center-shenzhen-sources-say-2024-09-12/</link><description>
-&lt;p&gt;恒大集团（3333.HK）董事长许家印——该公司正是我国房地产行业危机的中心——据了解，已被转移至深圳的一个特殊拘留中心。&lt;/p&gt;&lt;p&gt;65岁的许家印自去年被中国当局带走后，便未在公共场合露面，其现居地亦未被此前报道。&lt;/p&gt;&lt;p&gt;在中国证监会发现恒大集团的旗舰单位虚增收益并涉嫌证券欺诈后，许家印于三月遭到660万美元的罚款，并被终身禁止进入证券市场。恒大集团于上月一 ordered into liquidation 划定为资不抵债。&lt;/p&gt;&lt;p&gt;曾中国经济第一富豪的许家印，未被正式指控任何罪行，其拘留时间长短及是否将被审判或释放尚不得而知。&lt;/p&gt;&lt;p&gt;中国当局已拘留许多前商业巨头，其中一些人被拘留数年，其命运信息很少或没有。&lt;/p&gt;&lt;p&gt;知情人士称，在被捕后，许家印最初在北京接受居家监视。&lt;/p&gt;&lt;p&gt;另有一名知情人士表示，几个月前他已被转移到深圳，以便更容易与恒大高层的执行董事进行沟通。恒大集团总部位于相邻的南部城市广州，其财富管理单元设在深圳。&lt;/p&gt;&lt;p&gt;由于事件敏感，两位知情人士均未透露自己的身份。&lt;/p&gt;&lt;p&gt;中国公安部和深圳市人民政府未回应路透社的评论请求，恒大集团的子公司恒大楼地产亦未回应。恒大集团的清算人，由香港法院任命，拒绝发表评论。&lt;/p&gt;&lt;p&gt;许家印于1996年创立恒大，将其打造成中国最大商品房开发商，大胆承担债务。&lt;/p&gt;&lt;p&gt;自2021年以来，恒大的逾3000亿美元负债以及数百亿美元财富管理产品支付违约，其困境已成为中国房地产行业长期拖累经济增长的象征。&lt;/p&gt;&lt;p&gt;监管机构在三月的一项调查中发现，恒大约在2019年至2020年虚增了5640亿元人民币（79亿美元）的收入，并基于虚假陈述发行债券。&lt;/p&gt;&lt;p&gt;根据第二位知情人士的说法，许家印在中心被收押后，写给恒大高层管理人员一封信，敦促他们尽快解决其财富管理产品的投资者回报未付问题。&lt;/p&gt;&lt;p&gt;恒大财富管理单元于2021年底宣布计划偿还其财富管理产品的投资者。但在去年八月，它表示无法继续每月支付分期付款。数周后，该单元的一些员工被深圳市公安局拘留。&lt;/p&gt;&lt;p&gt;两位知情人士还说，恒大即将交出大部分承诺给买家的房屋，补充说，那些公寓的70%以上工程已经完成。&lt;/p&gt;&lt;p&gt;他们没有透露这意味着多少套公寓。截至2022年，恒大在全国拥有近800个项目。&lt;/p&gt;&lt;p&gt;（1美元 = 7.1213人民币元）&lt;/p&gt; &lt;figure&gt;&lt;img alt="恒大集团董事长许家印在香港出席房地产开发商年度业绩新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XDHBC3QPOZIM3BTQSI66GKNP44.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;恒大集团董事长许家印在香港出席房地产开发商年度业绩新闻发布会，中国香港，2021年3月28日。路透社/Bobby Yip/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:54:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/evergrande-chairman-hui-kept-special-detention-center-shenzhen-sources-say-2024-09-12/</guid></item><item><title>早间出价：触及率每周反弹，中国数据泛滥迫在眉睫</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-12/</link><description>
-&lt;p&gt;展望亚洲市场未来一日行情。&lt;/p&gt;
-&lt;p&gt;周五，亚洲股市预计将凭借华尔街前一交易日的一致上涨势头结束本周的高潮，这一上涨使得整个大陆的关键基准指数有望实现适度的周涨幅。&lt;/p&gt;
-&lt;p&gt;欧洲央行周四下调了利率，而美联储下周预计将开始一轮相当重大的放松周期。尽管前者的举措并不意外，而交易者已对后者的预期久矣，但这些举措对形成“风险偏好”的环境有利，可能会在周五提振亚洲市场的情绪。&lt;/p&gt;
-&lt;p&gt;周四，道琼斯工业平均指数和纳斯达克指数分别连续第四日上涨。道琼斯工业平均指数仅相差1%便触及7月15日的历史最高点，纳斯达克指数本周迄今上涨了5.3%，有望实现今年最大周涨幅。&lt;/p&gt;
-&lt;p&gt;其他好消息是，周四，日本日经指数结束了连续七天的下跌趋势，上涨了3.4%。值得注意的是，这一涨幅并非得益于日元的贬值——日元对美元汇率创下了年内新高，尽管有所回撤，但最终还是小幅上涨。&lt;/p&gt;
-&lt;p&gt;然而，如果日元强势持续，日本股市的前景将变得扑朔迷离。确实，如果雷曼兄弟策略师预期的日元融资交易平仓还有进一步的空间，那么全球资产价格的前景也可能同样迷离。&lt;/p&gt;
-&lt;p&gt;“随着这一周期中的市场杠杆主要来源于日本货币，这为市场带来明显的风险，”他们在周四表示，并补充说他们正在增加日元敞口，减少对日本股票的敞口。&lt;/p&gt;
-&lt;p&gt;如果亚洲市场本周将收于高点，中国可能再次成为例外。周四，上海股市创下自2019年1月以来的最低收盘价。&lt;/p&gt;
-&lt;p&gt;上海的蓝筹股指数可能以红色结束本周，实现连续四周下跌，过去十七周中下跌了十四次。这是一段苦涩的走势，该指数已下跌15%，但显然在某一点上必须发生转变。对吧？&lt;/p&gt;
-&lt;p&gt;周末中国一系列顶级经济数据可能会成为触发因素，尽管这可能需要一些罕见的好于预期的惊喜。&lt;/p&gt;
-&lt;p&gt;北京将于周六发布8月份的房价、投资、工业生产和零售销售数据，路透社调查的经济学家普遍预计这些数字将弱于7月的读数。&lt;/p&gt;
-&lt;p&gt;与此同时，周五亚洲市场的日历上预计将公布以下信息：&lt;/p&gt;
-&lt;p&gt;- 印度西部地区物价指数（8月）&lt;/p&gt;
-&lt;p&gt;- 韩国进出口价格（8月）&lt;/p&gt;
-&lt;p&gt;- 新西兰制造业采购经理人指数（8月）&lt;/p&gt;
+&lt;img alt="新加坡香格里拉对话" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FJTGCYXU3BON3GYZMIB4NJMCTY.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国防部长东 jungle 参加新加坡香格里拉对话，新加坡，2024年6月2日。路透社/Edgar Su 文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:36:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-defence-minister-asks-major-countries-take-lead-safeguarding-global-2024-09-13/</guid></item><item><title>德国海军罕见地穿越敏感的台湾海峡</title><link>https://www.reuters.com/world/asia-pacific/german-navy-makes-rare-transit-sensitive-taiwan-strait-2024-09-13/</link><description>
+&lt;p&gt;周五，两艘德国海军舰艇，包括一艘护卫舰，穿越了敏感的台湾海峡，这是二十年来首次此类航行，也是台北与北京之间紧张关系加剧之际。&lt;/p&gt;
+
+&lt;p&gt;中国声称台湾是主权国家，声称其对海峡拥有主权和管辖权。美国和台湾均表示，海峡——这是一个重要的贸易航道，全球约一半的集装箱船只通过——是国际水域。&lt;/p&gt;
+
+&lt;p&gt;德国国防部长博里斯·皮斯托丽斯在柏林表示，他可以确认护卫舰“巴登-符腾堡”和补给舰汉堡的通过。&lt;/p&gt;
+
+&lt;p&gt;他说：“国际水域就是国际水域。这是最短且鉴于天气条件，也是最安全的航线。因此，我们正在通过。”&lt;/p&gt;
+
+&lt;p&gt;台湾国防部拒绝立即发表评论。&lt;/p&gt;
+
+&lt;p&gt;一位熟悉局势的安全消息人士表示，船只可能将于周六完全通过海峡。&lt;/p&gt;
+
+&lt;p&gt;在周五确认航行之前，北京的一位外交部发言人表示，谴责以侵犯中国主权为借口的行为。&lt;/p&gt;
+
+&lt;p&gt;毛宁在一次例行新闻发布会上表示：“我们坚决反对以‘航行自由’为名对中国的主权和安全构成挑衅和危害。”&lt;/p&gt;
+
+&lt;p&gt;美国军舰大约每两个月会在海峡航行一次，这引起了北京的愤怒，加拿大和英国等一些美国盟友也偶尔进行穿越。&lt;/p&gt;
+
+&lt;p&gt;另一位安全消息人士，在情况敏感的情况下要求匿名，说船只向南穿过海峡。&lt;/p&gt;
+
+&lt;p&gt;这位消息人士补充说，这次航行是柏林作出的一个“明显而强烈”的声明，表明它站在其盟友一边，维护国际规则。&lt;/p&gt;
+
+&lt;p&gt;中国从未放弃使用武力来将其控制下的台湾，在过去五年中增加了对该岛周围的军事活动，包括举行军事演习。&lt;/p&gt;
+
+&lt;p&gt;台湾政府拒绝中国的主权主张，并表示只有岛上的人民可以决定他们的未来。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="Tourists in Pingtan island" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5OKO7OC7VKXRICIRLUVOTZPJI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在位于福建省平和县，距离台湾岛最近点的台湾海峡68海里风景区附近的一座 buildings 附近站立，日期为2022年8月5日。路透社/王上映/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 08:35:06 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/german-navy-makes-rare-transit-sensitive-taiwan-strait-2024-09-13/</guid></item><item><title>美联储辩论重燃，美元兑日元触及九个月低点</title><link>https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</link><description>
+&lt;p&gt;美元兑日元周五下挫至今年以来的最低水平，此前媒体报道重新点燃了关于下周美联储可能实施超乎寻常大幅降息的争论。&lt;/p&gt;
+&lt;p&gt;美元兑日元汇率下跌逾0.8%，至140.645日元，为12月底以来的最低水平，最新交易价格为140.8日元，较此前下跌0.7%。欧元、英镑和瑞士法郎兑美元均有所上涨。&lt;/p&gt;
+&lt;p&gt;本周的美国经济数据似乎支持了下周实施25个基点（bp）典型降息的观点，剔除波动性大的食品和能源价格后的消费者价格通胀指标在8月份环比上涨幅度超出预期。&lt;/p&gt;
+&lt;p&gt;然而，市场分析师表示，《华尔街日报》和《金融时报》报道称50个基点的降息仍是一个选项，以及一位前美联储官员支持大幅降息的评论，导致市场预期发生了转变。&lt;/p&gt;
+&lt;p&gt;德意志银行宏观策略师亨利·艾伦表示：“《华尔街日报》和《金融时报》发表了几篇文章，暗示50个基点的变动仍然有效，这导致市场再次重新评估其预期。”&lt;/p&gt;
+&lt;p&gt;投资者对下周美联储实施50个基点降息的概率预计约为40%，较周四的25%和周三的15%大幅上升，根据货币市场定价显示。&lt;/p&gt;
+&lt;p&gt;前纽约联邦储备银行行长比尔·达德利周五表示，有充分的理由实施50个基点降息，他指出目前利率高于美国经济所谓的中性利率150-200个基点，即政策既不过度宽松也不紧缩。“为什么不立即开始呢？”他表示。&lt;/p&gt;
+&lt;p&gt;欧元在周四欧洲央行降息25个基点后，周四上涨0.57%，最新上涨0.15%至1.1095美元，此前周四欧洲央行降息25个基点，但欧洲央行行长克里斯汀·拉加德对下月再次降息的预期造成打压。&lt;/p&gt;
+&lt;p&gt;预计利率将高于之前预期的预期往往通过使该国或地区的固定收益资产更具吸引力来推高汇率，反之亦然。&lt;/p&gt;
+&lt;p&gt;ING汇率策略师弗朗西斯科·佩索莱表示：“在欧元央行表现不够鸽派，以及对美联储降息押注升温的双重支持下，欧元再次瞄准1.11美元。”&lt;/p&gt;
+&lt;p&gt;英镑也上涨0.15%至1.3146美元，为一周以来的最高水平。预计英国央行下周将维持利率在5%不变，此前8月份英国央行在启动缓解措施时，将利率降低了25个基点。&lt;/p&gt;
+&lt;p&gt;美元兑瑞士法郎下跌0.39%，瑞士法郎与日元一样，对美联储政策和美国债券收益率预期尤其敏感。&lt;/p&gt;
+&lt;p&gt;投资者还在关注日本央行下周五的利率决定，预计将保持利率在0.25%不变。&lt;/p&gt;
+&lt;p&gt;日本央行董事田村直树周四表示，央行必须在下一财年上半年度将利率至少提高到1%，但他补充说，央行预计将缓慢且分阶段地提高利率。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="一名男子在日本东京的一家证券公司外观看显示日经指数电子屏幕" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6Z7HRFEPUVJ3LET4KCK3EM6COI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;8月6日，日本东京一家证券公司外，一名男子在观看显示日经指数电子屏幕。路透社/维利·库尔尼亚万/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 21:51:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-12/</guid></item><item><title>华尔街收高，金价在降息前创历史新高</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-12/</link><description>
-&lt;p&gt;华尔街股市在周四勉强实现微增，金价则攀升至创纪录高位，投资者期待下周美国联邦储备系统降息。&lt;/p&gt;
-&lt;p&gt;在美国的主要股市指数在当日大部分时间陷入盘整之后，于欧洲央行降息以及略高于预期的美国生产者价格导致对联邦储备系统下周政策会议上适度降息的预期保持稳定，最终收盘时呈现上涨。&lt;/p&gt;
-&lt;p&gt;收盘时，道琼斯工业平均指数上涨0.58%，标普500上涨0.75%，而纳斯达克综合指数因科技股表现强劲而上涨1%。&lt;a href="https://www.reuters.com/markets/quote/.DJI" target="_blank"&gt;(.DJI)&lt;/a&gt; &lt;a href="https://www.reuters.com/markets/quote/.SPX" target="_blank"&gt;(.SPX)&lt;/a&gt; &lt;a href="https://www.reuters.com/markets/quote/.IXIC" target="_blank"&gt;(.IXIC)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MSCI全球股价指数上涨1.08%。&lt;a href="https://www.reuters.com/markets/quote/.MIWD00000PUS" target="_blank"&gt;(.MIWD00000PUS)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;周四早些时候，欧洲央行宣布在三个月内第二次降息，理由是通胀和经济增长放缓。降息预期已久，但央行在阐明其未来步骤方面并未提供太多&lt;a href="https://www.reuters.com/markets/rates-bonds/ecb-cut-interest-rates-growth-dwindles-outlook-unclear-2024-09-11/"&gt;明确性&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;自六月以来，欧洲央行第二次降息25个基点，尽管这一举措预期已久，但银行剩余年份的动作仍存在不确定性。&lt;/p&gt;
-&lt;p&gt;对于投资者而言，注意力迅速转向联邦储备系统，下周三会议结束时会宣布其利率政策决策。联邦储备系统广泛预期将自2020年以来首次降息。周四早上新鲜出炉的经济数据似乎进一步削弱了联邦储备系统下周可能降息50个基点的预期，而更可能采取25个基点的小幅降息。《&lt;a href="https://www.reuters.com/markets/us/futures-dip-after-harris-trump-debate-eyes-inflation-data-2024-09-11/"&gt;通胀数据&lt;/a&gt;》周三的发布已对50个基点降息的预期造成冲击。&lt;/p&gt;
-&lt;p&gt;Investec经济学在一份报告中写道：“几乎可以肯定，联邦公开市场委员会将投票降低利率，但降低的幅度仍有疑问。我们不认为经济背景在此阶段需要如此大的调整，反而更倾向于25个基点的减少。”&lt;/p&gt;
-&lt;p&gt;过去两天，美国经济的指标显示通胀略高于预期，但仍然低迷。8月份核心消费者价格指数上涨0.28%，而市场预计将上涨0.2%。美国8月份生产者价格指数较经济学家的预期上升0.1%更多，尽管该趋势依然符合通胀放缓。&lt;/p&gt;
-&lt;p&gt;美元兑其他主要货币走低。美元指数，衡量美元相对于一篮子货币的表现，下跌0.52%至101.25，而欧元上涨0.54%至1.1071美元。&lt;/p&gt;
-&lt;p&gt;石油价格上涨近3%，延续反弹趋势，投资者在思考美国产量会被墨西哥湾的飓风法兰辛影响多少。&lt;a href="https://www.reuters.com/world/us/storm-francine-races-into-louisiana-slamming-state-with-rain-wind-2024-09-12/"&gt;法兰辛对墨西哥湾的影响&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;美国原油价格最终上涨2.72%，收于每桶69.14美元，布伦特原油上涨2.21%，至每桶72.17美元。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.reuters.com/markets/commodities/gold-hits-all-time-high-fed-rate-cut-hopes-bolster-appeal-2024-09-12/"&gt;金价&lt;/a&gt;周四飙升至历史新高，投资者将贵金属视为联邦储备系统降息前的更具吸引力的投资。&lt;/p&gt;
-&lt;p&gt;现货黄金上涨1.85%，至每盎司2,558美元。美国黄金期货上涨1.79%，至每盎司2,557美元。&lt;/p&gt;
-&lt;p&gt;“我们正朝着利率降低的环境迈进，因此金价正变得更加有吸引力。在我看来，我们可能会有更多频次的小幅降息，而不是单次大幅降息，”Allegiance Gold公司的首席运营官Alex Ebkarian表示。&lt;/p&gt;
-&lt;p&gt;在债券市场，两年期美国国债收益率上涨1.2个基点至3.6579%，而十年期收益率保持在3.683%，上涨3个基点。&lt;/p&gt;
+&lt;img alt="在美国的这项照片插图上可以看到美元纸币" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YDT6SDXNDZPR7DJR3PFIKHA3WQ.jpg" /&gt;
+(figcap style="text-align: center;"&gt;&lt;i&gt;这是2018年2月12日拍摄的照片插图，展示了美元纸币。路透社/Jose Luis Gonzalez/插图/档案照片&lt;/i&gt;&lt;/figcap&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:24:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</guid></item><item><title>中国批准从2025年1月起提高退休年龄的计划</title><link>https://www.reuters.com/world/china/chinas-legislature-approves-draft-proposal-raise-retirement-age-2024-09-13/</link><description>
+&lt;p&gt;中国最高立法机构已批准了一项提高国家退休年龄的提案，官方新华社于周五报道说，此举加速了对几十年来法律体系的全面改革，以应对因劳动力减少带来的经济压力。&lt;/p&gt;
+&lt;p&gt;中国目前的退休年龄在全世界范围内处于较低水平。&lt;/p&gt;
+&lt;p&gt;鉴于中国人均寿命于2021年上升至78岁，较1960年的约44岁大幅增加，且预计到2050年将超过80岁，改革势在必行。与此同时，需要支持老年人的劳动人口正在减少。&lt;/p&gt;
+&lt;p&gt;退休年龄将提高至男性63岁（原为60岁）、白领女性至58岁（原为55岁），以及蓝领女性至55岁（原为50岁）。&lt;/p&gt;
+&lt;p&gt;这些变更预定自2025年1月1日起生效，并在15年内逐步实施。&lt;/p&gt;
+&lt;p&gt;延长工作时间将有助于缓解养老金预算的压力，许多中国省份已因大型赤字而备受煎熬。但延迟养老金支付并要求老年工作者延长工作年限可能不会得到所有人士的欢迎。&lt;/p&gt;
+&lt;p&gt;在新华社报道中国最高立法者于9月10日讨论了该议题后，数十万人涌入社交媒体，许多人表达了对求职者将过多追逐有限职位空缺的担忧。&lt;/p&gt;
+&lt;p&gt;澳大利亚维多利亚大学公共政策研究中心的高级研究员彭秀娟表示，通过提高退休年龄，政府可以增加劳动力参与率，有助于缓解人口老龄化带来的负面影响。&lt;/p&gt;
+&lt;p&gt;"政府必须采取行动。如果人口持续下降，劳动力的减少将加速，进而进一步影响经济增长。"&lt;/p&gt;
+&lt;p&gt;澳新银行的高级中国战略师邢兆鹏表示，这一举措短期内影响不大，但有助于长期保持稳定的生产力增长。&lt;/p&gt;
+&lt;p&gt;老龄化、人口规模变小对全球经济意味着什么？请收听本周的《路透社经济世界播客》。&lt;/p&gt;
+&lt;p&gt;人力资源和社会保障部部长王小平于周五表示，提高退休年龄将逐步进行，调整将从明年开始，但需15年时间才能完全实施。&lt;/p&gt;
+&lt;p&gt;这将采取灵活自愿的方式，员工可以选择提前退休或最多延长3年的退休时间。&lt;/p&gt;
+&lt;p&gt;久远的退休年龄导致退休人员数量不断增加，而活跃工作者队伍在减少，环球港经济首席经济学家潘思产生说。&lt;/p&gt;
+&lt;p&gt;据当局预计，到2035年，中国60岁及以上的人口将从2.8亿增长至4亿以上，相当于英国和美国总人口之和。&lt;/p&gt;
+&lt;p&gt;根据财政部数据，中国31个省级行政区划中的11个正在运行养老金预算赤字。中国中国科学院表示，如果不进行进一步改革，养老金系统将在2035年耗尽资金。&lt;/p&gt;
+&lt;p&gt;中国的这一举措使其与区域同行日本和韩国更为接近，在那里人们分别在65岁和63岁时才能领取养老金。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Traders work on the floor of the NYSE in New York" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GQLV63XG55POLHJIEAWYRC5D3M.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;交易员在纽约证券交易所（NYSE）的交易大厅工作，美国纽约市，2024年8月28日。 REUTERS/Brendan McDermid/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+	&lt;img alt="People riding bicycles and motorbikes wait in traffic, amid the coronavirus disease pandemic, in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YJX53L6GUFLLBENFEQOWENXTP4.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在2021年5月31日的新冠病毒大流行期间，在上海等待红绿灯，骑自行车和摩托车的人们在等待交通时，图片由路透社/王松/文件照片提供&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:47:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-legislature-approves-draft-proposal-raise-retirement-age-2024-09-13/</guid></item><item><title>中国最高立法机构批准修改后的统计法打击数据欺诈</title><link>https://www.reuters.com/world/china/chinas-top-legislative-body-approves-amended-statistics-law-combat-data-fraud-2024-09-13/</link><description>
+&lt;p&gt;据官方新华社周五报道，中国的最高立法机构已批准了修订后的统计法，这是在怀疑世界第二大经济体数据可靠性的背景下，为打击持续的数据造假行为所采取的最新举措。&lt;/p&gt;
+&lt;p&gt;新华社称，全国人大常务委员会已经批准了该法律，但未提供进一步细节。&lt;/p&gt;
+&lt;p&gt;本周早些时候，国内媒体报道了最高立法机构发言人表示，修订后的法律将有助于加强统计造假行为的预防并加大对伪造经济数据的官员的惩处力度。&lt;/p&gt;
+&lt;p&gt;发言人被引述说：“近年来，尽管一再受到制裁，统计造假和欺诈行为仍然持续，严重损害了统计数据的真实性和准确性。”&lt;/p&gt;
+&lt;p&gt;“公众对此强烈反响，这已成为统计工作中亟待解决的突出问题之一。”&lt;/p&gt;
+&lt;p&gt;国外的分析师长期以来一直对中国数据的可靠性持怀疑态度，尤其是在政府试图缓解市场对经济长期放缓的担忧之际。&lt;/p&gt;
+&lt;p&gt;政府已多次誓言将调查并惩处伪造经济数据或干预统计数据以帮助提高数据质量的官员。&lt;/p&gt;</description><pubDate>Fri, 13 Sep 2024 07:43:05 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-top-legislative-body-approves-amended-statistics-law-combat-data-fraud-2024-09-13/</guid></item><item><title>亚足联启动独立女足世界杯预赛</title><link>https://www.reuters.com/sports/soccer/asian-confederation-launches-standalone-womens-world-cup-preliminaries-2024-09-13/</link><description>
+&lt;p&gt;亚洲联盟宣布，亚洲球队将首次通过一项独立赛事获得2031年女子世界杯的资格，该信息于本周五公布。&lt;/p&gt;
+&lt;p&gt;亚洲足球联合会宣布，将从2027年起创立一个包含三个阶段的预选赛，以确定该洲参加决赛的适龄球队。&lt;/p&gt;
+&lt;p&gt;至于2031年比赛的东道国，尚未有最终决定。&lt;/p&gt;
+&lt;p&gt;此前，球员的选拔依据的是亚洲运动会或女子亚洲杯上的表现，日本、韩国、中国、越南和菲律宾与共同东道主澳大利亚一同代表该洲在2023年版中亮相。&lt;/p&gt;
+&lt;p&gt;新的赛制将使排名最低的球队参加首轮比赛，从而确定进入由24支球队组成的第二阶段的资格，其中将包括该洲的前八名球队。&lt;/p&gt;
+&lt;p&gt;然后，球队将被分为六个由四支球队组成的组别，进行单循环中央联赛形式的比赛，小组前两名将晋级第三轮。&lt;/p&gt;
+&lt;p&gt;随后，四支球队的三个小组将通过主客场形式进行对抗，决赛资格的数量将由该洲的配额决定。&lt;/p&gt;
+&lt;p&gt;下一届女子世界杯将于2027年在巴西举行，而女子亚洲杯——将于一年前由澳大利亚举办——将最后一次作为该洲决赛资格的序幕。&lt;/p&gt;
+&lt;p&gt;创立资格赛的决策，是由联合会执行委员会在一系列旨在革新该地区女子足球赛事日历的措施中作出的。&lt;/p&gt;
+&lt;p&gt;为将于乌兹别克斯坦举办的2029年女子亚洲杯推出的一款新的两阶段资格赛也已启动。&lt;/p&gt;
+&lt;p&gt;2028年奥运会的预选赛将简化，将通过2026年女子亚洲杯的前八名选手，而非今年决定亚洲代表队的24个国家预选赛。&lt;/p&gt;</description><pubDate>Fri, 13 Sep 2024 07:19:42 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/soccer/asian-confederation-launches-standalone-womens-world-cup-preliminaries-2024-09-13/</guid></item><item><title>韩联社称，韩国军方拆除了基地的中国制造摄像头</title><link>https://www.reuters.com/world/asia-pacific/south-korean-military-removes-chinese-made-cameras-bases-yonhap-says-2024-09-13/</link><description>
+&lt;p&gt;韩国军方近期已从基地移除大约1300台由中国生产的监控摄像头，鉴于潜在的安保风险，根据韩国联合通讯社于周五的消息，一位未具名的军方官员表示，此举是出于对安全风险的担忧。&lt;/p&gt;
+&lt;p&gt;这些摄像头旨在连接至中国的一个特定服务器，但据称并未的实际数据泄露，联合通讯社报道。&lt;/p&gt;
+&lt;p&gt;报告引用该官员的话语称，这些摄像头由一家韩国公司提供，其中国制造的原产地在今年的设备检查中被确认。&lt;/p&gt;
+&lt;p&gt;报道称，这些摄像头并未用于如朝鲜半岛非军事区（DMZ）等警戒任务，而是用于监控基地的训练小组和周界围栏。&lt;/p&gt;
+&lt;p&gt;韩国国防部于周五表示，正在对国外制造的摄像头进行收集，并替换以其他设备。该部拒绝对摄像头的制造地做出确认。&lt;/p&gt;
+&lt;p&gt;去年，澳大利亚外长表示，在其国防部和外交部设施中，正在移除由中国运营的公司制造的监控摄像头，此举是在有关该技术构成安全风险的报道后采取的。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Euro Zone-ECB rate decision in Frankfurt" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VAUCPYCAJZKEZJ3LW2EI5HTZKM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在德国法兰克福的欧洲央行（ECB）建筑群中， sunset时期。 REUTERS/Wolfgang Rattay/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+(img alt="插画展示印有中韩国旗的图案" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JGZJHMRCT5M3FEDYAC3FNES6VI.jpg" /&gt;)
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;图中展示印有中韩国旗的插画，摄于2022年7月21日。路透社/Dado Ruvic/插画/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:59:45 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korean-military-removes-chinese-made-cameras-bases-yonhap-says-2024-09-13/</guid></item><item><title>独家：消息人士称，如果特朗普连任，阿联酋将要求特朗普履行F-35协议</title><link>https://www.reuters.com/world/middle-east/uae-ask-trump-fulfil-f-35-deal-if-hes-re-elected-sources-say-2024-09-13/</link><description>
+&lt;p&gt;若尘埃落定，美国总统唐纳德·特朗普（Donald Trump）于11月赢得连任，美国阿拉伯联合酋长国（United Arab Emirates）将寻求重启一份价值数十亿美元的美国F-35战斗机和武装无人机交易，多位了解此事的知情人士向路透社透露。&lt;/p&gt;
+&lt;p&gt;长期以来，阿联酋寻求获得最先进的战斗机，该战斗机采用隐形技术，能够避开敌方侦测。若美国批准移交，阿联酋将成为继以色列之后第二个能够操作F-35战斗机的中东国家。&lt;/p&gt;
+&lt;p&gt;特朗普在其总统任期的最后几天批准了该交易，但在2021年底，阿联酋强行搁置了谈判，未能与拜登政府达成协议。&lt;/p&gt;
+&lt;p&gt;三位消息人士表示，如果特朗普再次当选，阿联酋将寻求恢复谈判，要求新一届特朗普政府履行原有协议。其中一位消息人士表示，阿联酋将要求新一届特朗普政府“履行”2021年的协议。&lt;/p&gt;
+&lt;p&gt;特朗普在美国-以色列于2020年建立关系后，批准了包括MQ-9死神无人机和弹药在内的230亿美元交易，当时他曾促成此一协议。&lt;/p&gt;
+&lt;p&gt;此举使阿联酋成为30年来最显赫的阿拉伯国家，与以色列建立外交关系，并为特朗普赢得了一份重要的外交政策成就，尽管他在选举中败给了乔·拜登（Joe Biden）。&lt;/p&gt;
+&lt;p&gt;但在数月的讨论之后，阿联酋于2021年12月宣布，鉴于“主权运营限制”等因素，它已暂停与拜登政府的F-35谈判。拜登政府回应说，已准备好推进交易。该进程一直停滞不前。&lt;/p&gt;
+&lt;p&gt;当被问及阿联酋是否会请求第二任特朗普政府履行F-35交易时，一位阿联酋官员没有直接否认或确认这一说法，而是表示阿布扎比已在多个政府中与华盛顿培养起机构关系和持久合作。&lt;/p&gt;
+&lt;p&gt;他们表示：“我们两国都致力于推动共同利益，解决共同关切”，并努力加强地区安全和促进繁荣。&lt;/p&gt;
+&lt;p&gt;作为华盛顿在中东最重要的安全合作伙伴之一，阿联酋的军队与美国并肩作战过多个战役，包括阿富汗战争，美军也驻扎在阿布扎比。&lt;/p&gt;
+&lt;p&gt;特朗普竞选活动的全国新闻秘书卡拉·莱维特（Karoline Leavitt）在一份声明中表示，“若特朗普二次出任总统，将再次通过实力重建和扩大他在第一任期建立的和平联盟，以在东北亚乃至全球创造长期的安全和保障”。&lt;/p&gt;
+&lt;p&gt;在特朗普之前，华盛顿拒绝了中东国家购买战斗机的请求，因为这违反了确保以色列在与邻国的军事上有优势的政策。&lt;/p&gt;
+&lt;p&gt;特朗普与富有的海湾国家保持着友好的关系。阿联酋总统谢赫·穆罕默德·本·扎耶德·阿尔纳哈扬（Sheikh Mohammed bin Zayed Al Nahyan）2017年作为阿布扎比酋长访问了白宫。&lt;/p&gt;
+&lt;p&gt;在拜登政府任内，他没有访问白宫，但在2022年与拜登总统在吉达会面。&lt;/p&gt;
+&lt;p&gt;消息人士没有说明，如果民主党候选人卡玛拉·哈里斯（Kamala Harris）在选举中获胜，阿联酋将采取什么行动。哈里斯竞选团队拒绝发表评论。哈里斯于2022年和2023年访问了阿联酋，并与谢赫·穆罕默德和其他高级阿联酋政府官员会面。&lt;/p&gt;
+&lt;p&gt;作为与美国达成双边防务条约和利雅得与以色列建立外交关系的谈判的一部分，拜登政府讨论了向沙特阿拉伯出售F-35的相关事宜。&lt;/p&gt;
+&lt;p&gt;白宫没有立即回应路透社对在拜登任期结束前，阿联酋能够进行交易需要满足哪些条件的提问。&lt;/p&gt;
+&lt;p&gt;近年来，美国和阿联酋在一些问题上出现紧张迹象，包括阿联酋对拜登政府设下的F-35交易条件感到沮丧，以及美国因阿联酋国内某些企业逃避伊朗和俄罗斯制裁而对其施加压力的问题。&lt;/p&gt;
+&lt;p&gt;美国议员们质疑阿联酋获得F-35是否会削弱以色列的军事优势，尽管阿联酋官员表示，与以色列建立外交关系应当解决这些担忧。以色列表示，它不支持这笔交易，并向阿联酋提供了防空系统。&lt;/p&gt;
+&lt;p&gt;美国还对阿联酋与中国关系表示担忧。&lt;/p&gt;
+&lt;p&gt;作为拥有美国制造的F-16和法国制造的幻影2000-9战斗机，阿联酋与北京的经贸联系密切，这些联系最近扩大到联合空军演习。&lt;/p&gt;
+&lt;p&gt;阿联酋购买了中国的“轻型攻击”战斗机，并且阿联酋的通信基础设施使用了中国技术，美国认为这可能危及其他军事系统的安全。此外，阿布扎比还订购了法国制造的阵风战斗机。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="共和党总统候选人、前美国总统特朗普在美国亚利桑那州图森举行竞选集会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6ILAVMYMJFJ5XBLUP4KCL4VXDI.jpg" /&gt;
+&lt;img class="figCaption" style="text-align: center;"&gt;&lt;i&gt;共和党总统候选人、前美国总统特朗普在美国亚利桑那州图森举行竞选集会，在讲话中做出手势。2024年9月12日。路透社/迈克·布莱克/档案照片&lt;/i&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 07:05:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/uae-ask-trump-fulfil-f-35-deal-if-hes-re-elected-sources-say-2024-09-13/</guid></item><item><title>台湾希望推迟交付的 F-16 战机今年年底前开始抵达</title><link>https://www.reuters.com/business/aerospace-defense/taiwan-hopes-delayed-f-16s-start-arriving-by-end-this-year-2024-09-13/</link><description>
+&lt;p&gt;台湾国防部周五表示，预计将在本年底前交付首批新式F-16V战斗机，并将岛屿接收这些战斗机的推迟归咎于国际形势的“剧烈波动”。&lt;/p&gt;
+&lt;p&gt;美国于2019年批准了一笔80亿美元的销售合同，将洛克希德·马丁公司（Lockheed Martin）（&lt;a href="https://www.reuters.com/markets/companies/LMT.N" target="_blank"&gt;LMT.N&lt;/a&gt;）的F-16战斗机售予台湾。这笔交易将使台湾的F-16机队规模超过200架，成为亚洲最大的机队，以加强其面对中国增强威胁的防御能力。中国将台湾视为其领土的一部分。&lt;/p&gt;
+&lt;p&gt;台湾目前正将141架F-16A/B战斗机改造为F-16V型，并订购了66架新的F-16V，这些战斗机配备了先进的航电、武器和雷达系统，以更好地应对中国空军，包括其隐形战斗机J-20。&lt;/p&gt;
+&lt;p&gt;但台湾对新的F-16V的交付进度表示了不满，声称存在的问题包括&lt;a href="https://www.reuters.com/business/aerospace-defense/taiwan-says-software-problems-delaying-new-f-16-deliveries-2023-05-25/"&gt;软件问题&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;在台湾国防部对交付情况的最新更新中，部门表示，首批新式F-16V原计划在今年第三季度交付。&lt;/p&gt;
+&lt;p&gt;在一份声明中，它指出：“鉴于国际形势的剧烈波动，导致了复合影响，如某些供应商交货延误和美国组装计划的调整，因此对出厂时间进行了部分调整。”&lt;/p&gt;
+&lt;p&gt;国防部承诺将“努力完成首架飞机的第四季度交付”。&lt;/p&gt;
+&lt;p&gt;它还补充说，空军将密切关注生产进度，并计划进行工厂访问，以达到到2026年底完成交付的目标。&lt;/p&gt;
+&lt;p&gt;洛克希德·马丁公司未立即对评论请求作出回应。&lt;/p&gt;
+&lt;p&gt;自2022年以来，台湾报告了美国武器交付延误，例如Stinger防空导弹，制造商将这些供应品提供给乌克兰以帮助其对抗俄罗斯军队，该问题已引起美国议员们的关注。&lt;/p&gt;
+&lt;p&gt;台湾空军经过良好训练，但其部分战斗机正在老化，包括1997年首批接收的法国制造的幻影2000战斗机系列。其中一架战斗机本周在一项训练任务中坠入大海。&lt;/p&gt;
+&lt;p&gt;在过去五年中，空军多次紧急起飞迎击飞近岛屿的中国军事飞机。&lt;/p&gt;
+&lt;p&gt;台湾政府拒绝承认中国的主权主张。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Signage for the London Stock Exchange Group is seen outside of offices in Canary Wharf in London" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T6GFU2Z32ZOOVHKXCJU5KZPLYQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在伦敦坎纳利码头办公楼外可以看到伦敦证券交易所集团（LSE）的标志，英国，2023年8月3日。 REUTERS/Toby Melville/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="A woman is reflected on an electronic stock quotation board outside a brokerage in Tokyo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XFJMBZGHJJJCPE7W65LYYTJZBM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名女性在东京一家证券经纪行外的电子股价报盘板上映照出身影，日本，2024年8月6日。 REUTERS/Willy Kurniawan/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 02:08:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-12/</guid></item><item><title>美国对巴基斯坦弹道导弹计划的中国供应商实施制裁</title><link>https://www.reuters.com/world/asia-pacific/us-imposes-sanctions-suppliers-pakistans-ballistic-missile-program-2024-09-12/</link><description>
-&lt;p&gt;美国国务院于周四对一家中国研究机构和数家声称曾参与向巴基斯坦供应弹道导弹项目的公司实施了制裁。&lt;/p&gt;&lt;p&gt;2023年10月，华盛顿同样因向巴基斯坦供应导弹相关物品而对三家中国驻基地公司实施了制裁，详情可参考&lt;a href="https://www.reuters.com/world/us-sanctions-three-china-based-companies-over-supplying-missiles-pakistan-2023-10-20/"&gt;此处报道&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;国务院发言人马修·米勒在一份声明中指出，北京机械工业自动化研究所曾与巴基斯坦合作，采购用于测试沙欣-3型和阿巴比爾系统以及可能用于更大系统的火箭发动机测试设备。&lt;/p&gt;&lt;p&gt;米勒表示，制裁同时针对了位于中国的湖北华昌达智能装备股份有限公司、联宇企业有限公司和西安龙德科技发展有限公司，以及位于巴基斯坦的创新设备及一名中国公民，因为他们知道违反导弹技术出口管制规定转移设备。&lt;/p&gt;&lt;p&gt;米勒指出，“正如今天的行动所证明的，无论这些活动发生在何处，美国将持续对扩散及其相关采购活动采取行动”。&lt;/p&gt;&lt;p&gt;中国驻华盛顿大使馆发言人刘鹏禹表示：“中国坚决反对没有任何国际法依据或联合国安理会授权的片面制裁和无力的长臂管辖”。&lt;/p&gt;&lt;p&gt;刘鹏禹强调，中国将“坚决捍卫”中国公司和个人的权利和利益。&lt;/p&gt;&lt;p&gt;巴基斯坦大使馆未立即对要求评论的请求作出回应。&lt;/p&gt;</description><pubDate>Thu, 12 Sep 2024 16:47:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/us-imposes-sanctions-suppliers-pakistans-ballistic-missile-program-2024-09-12/</guid></item><item><title>消息人士称，通用汽车正在洽谈在美国购买采用中国技术制造的电动汽车电池</title><link>https://www.reuters.com/business/autos-transportation/gm-talks-buy-chinese-ev-batteries-built-us-bloomberg-news-reports-2024-09-12/</link><description>
-&lt;p&gt;通用汽车公司（GM.N）正在与的动力电池制造商宁德时代新能源科技股份有限公司（300750.SZ）洽谈，拟采购采用其技术并由位于美国的新工厂组装的动力电池，此事经知情人士于周四确认。&lt;/p&gt;
-&lt;p&gt;同城竞争对手福特汽车公司（F.N）已计划从宁德时代引进技术，在密歇根州一座新建的工厂生产低成本锂离子电池，该计划于2023年2月宣布。&lt;/p&gt;
-&lt;p&gt;然而，包括美国情报委员会副主席马尔科·卢比奥（Marco Rubio）在内的美国议员对福特的计划提出了担忧。&lt;/p&gt;
-&lt;p&gt;据彭博新闻报道，在通用汽车的案例中，该提议中的工厂将由日本消费电子公司TDK公司（6762.T）资助和运营，预计位于美国南部并创造超过1000个就业岗位。&lt;/p&gt;
-&lt;p&gt;知情人士对路透表示，谈判仍在进行中，许多细节仍然不明确，预计不会立即达成最终协议。该项交易有助于通用汽车生产成本更低的电池，并在美国组装以避免新的美国关税。&lt;/p&gt;
-&lt;p&gt;“我们的电动汽车战略专注于设计降低成本、提升性能和本地化生产的产品。电池技术是该战略的关键驱动力。我们不会对推测发表评论，”通用汽车表示。&lt;/p&gt;
-&lt;p&gt;宁德时代未能立即对评论请求作出回应。&lt;/p&gt;
-&lt;p&gt;汽车制造商需要投入数十亿美元资金以建立新的电动汽车和电池生产线，以在全球激烈竞争中推出符合严格排放法规的绿色汽车。&lt;/p&gt;
-&lt;p&gt;业内官员此前表示，如果福特被允许继续其与宁德时代的交易，其他汽车制造商将迅速效仿，以便他们也降低成本。&lt;/p&gt;
-&lt;p&gt;早些时候，通用汽车公司与现代汽车公司（005380.KS）宣布，双方已同意探讨在包括潜在联合车辆开发、供应链和清洁能源技术在内的关键战略领域的未来合作。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="GM公司总部大楼上的GM标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D7QMVR36LRJHVCTELR35HL32DI.jpg" /&gt;
-        &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;新通用汽车标志在位于美国密歇根州迪特罗伊特的通用汽车总部外墙上可见。2021年3月16日文件照片。路透/丽贝卡·库克&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 15:33:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/gm-talks-buy-chinese-ev-batteries-built-us-bloomberg-news-reports-2024-09-12/</guid></item><item><title>独家：美国可能制裁与诈骗工厂有关的柬埔寨知名人士</title><link>https://www.reuters.com/world/asia-pacific/us-plans-sanction-prominent-cambodians-linked-scam-factories-sources-say-2024-09-12/</link><description>
-&lt;p&gt;美国政府周四宣布对柬埔寨商人、执政党参议员吕扬泼以及数个实体实施制裁，理由是涉嫌涉及被贩卖、强迫在在线诈骗中心工作的劳工的虐待行为。&lt;/p&gt;
-&lt;p&gt;这一举措发生在美柬关系敏感时期，此前有路透社报道计划，尽管美国尽力争取新领导人、长期强硬派首相洪森之子黄孟波的青睐，但柬埔寨仍日益接近华盛顿的战略竞争对手——中国。&lt;/p&gt;
-&lt;p&gt;吕扬泼于2022年被任命为洪森的个人顾问。&lt;/p&gt;
-&lt;p&gt;美国财政部外国资产管理办公室表示，制裁针对吕的L.Y.P.集团公司和O-Smach度假村。&lt;/p&gt;
-&lt;p&gt;它还表示，正在制裁位于柬埔寨的Garden City Hotel、Koh Kong度假村和金边酒店，因为这些酒店被吕控股或控制。&lt;/p&gt;
-&lt;p&gt;美国财政部负责反恐和金融情报的代理副部长布拉德利·史密斯表示，此举旨在“追究涉及人口贩卖和其他虐待行为者的责任，同时扰乱他们运营针对无数无辜个人的投资诈骗计划，包括美国公民”。&lt;/p&gt;
-&lt;p&gt;近年来，柬埔寨和其他东南亚国家已成为针对全球受害者的数十亿美元诈骗产业的中心，这些诈骗通常由中国的帮派运营的加固设施实施，并由被贩卖的工人支持。&lt;/p&gt;
-&lt;p&gt;财政部声明称，诈骗分子利用虚假的身份和精心设计的叙述来建立信任关系并欺骗受害者。&lt;/p&gt;
-&lt;p&gt;声明指出，在许多情况下，这包括说服受害者投资虚拟货币，或在某些情况下，投资场外外汇交易计划。&lt;/p&gt;
-&lt;p&gt;声明还说，贩卖者强迫受害者每天工作长达15小时，在某些情况下，“转售”受害者给其他诈骗活动，或将他们置于性贩卖之中。&lt;/p&gt;
-&lt;p&gt;它还指出，美国国务院年度人口贩卖报告今年突出了O’Smach和Koh Kong的虐待行为，以及官方在贩卖犯罪中的同谋行为仍然普遍，导致法律执行具有选择性和往往受到政治动机的影响。&lt;/p&gt;
-&lt;p&gt;许多诈骗活动针对美国人。根据联邦调查局的数据，2022年美国孤单一年，受害者报告从长线诈骗——“猪屠宰”（一种长期诈骗类型）和其他加密货币欺诈损失26亿美元，比前一年翻了一番以上。&lt;/p&gt;
-&lt;p&gt;财政部报告称，超过两年时间，警察一直在调查O-Smach度假村，并向公众通报“广泛且系统性的严重人权侵犯”。&lt;/p&gt;
-&lt;p&gt;它说，受害者报告称，他们被诱骗到那里，到了那里手机和护照被没收，被迫参与诈骗活动。&lt;/p&gt;
-&lt;p&gt;“那些打电话求助的人报告称，他们遭到殴打、电击虐待，被迫支付高额赎金，或被威胁要被卖给其他在线诈骗团伙”，它补充说，在该度假村内部署中有两名受害者跳楼自杀。&lt;/p&gt;
-&lt;p&gt;报告称，当地当局进行了多次营救行动，包括2022年10月和2024年3月，解救了包括中国、印度、印尼、马来西亚、新加坡、泰国和越南在内的多个国籍的受害者。&lt;/p&gt;
-&lt;p&gt;美国国务院表示，在6月，柬埔寨政府官员参与了贩卖，一些官员拥有诈骗操作者使用的设施。&lt;/p&gt;
-&lt;p&gt;当被问及制裁时，柬埔寨政府和外交部的发言人没有接听电话或回复寻求评论的消息。&lt;/p&gt;
-&lt;p&gt;美国和其他政府反复与柬埔寨接触，以结束诈骗中心的运作。&lt;/p&gt;
-&lt;p&gt;知情人士告诉路透社，华盛顿已经考虑了几个月制裁问题。他们表示，最初预计在今年年初做出决定，但已推迟。&lt;/p&gt;
-&lt;p&gt;去年，美国官员将西点军校毕业的领导层黄孟德视为修复与柬埔寨关系的机遇，但尽管美国做出了努力，它的关系却与中国稳步增长。今年，北京向柬埔寨派遣了海军舰艇，并支持关键海军基地的扩建。&lt;/p&gt;</description><pubDate>Thu, 12 Sep 2024 09:02:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/us-plans-sanction-prominent-cambodians-linked-scam-factories-sources-say-2024-09-12/</guid></item><item><title>亿万富翁和工程师在 SpaceX 任务中进行首次私人太空行走</title><link>https://www.reuters.com/technology/space/spacex-polaris-crew-poised-attempt-first-private-spacewalk-2024-09-11/</link><description>
-&lt;p&gt;周四，两名宇航员——一位亿万富豪和一位工程师——在SpaceX宇宙飞船舱外完成了世界首次私人太空行走，身穿一套全新的太空服，这一高风险壮举此前仅为各国航天员所独享。&lt;/p&gt;
-&lt;p&gt;“北极曙光计划”的宇航员们一个接一个地进行了太空行走，每位宇航员在外太空的香肠形状的Crew Dragon宇宙飞船舱外大约花费了10分钟，SpaceX公司再次成功地将商业太空飞行的边界推向了新的领域。&lt;/p&gt;
-&lt;p&gt;飞行员、电子支付公司Shift4创始人贾里德·艾萨克曼首先出舱，随后是SpaceX工程师莎拉·吉利斯，而他们的同伴斯科特·波蒂特和安娜·门オン则在舱内观察。整个进程在地球上空约450英里（730千米）的高度展开，历时1小时46分钟。自周二在佛罗里达州发射以来，这四位宇航员一直在地球轨道上绕圈。&lt;/p&gt;
-&lt;p&gt;艾萨克曼正资助北极计划，正如他在2021年的Inspiration4航班中与SpaceX合作时所做的那样。&lt;/p&gt;
-&lt;p&gt;这次任务通过SpaceX的网站进行了实时直播，测试了先锋装备，包括紧身太空服和完全减压Crew Dragon船舱的方法——这是马斯克希望为进一步的昂贵未来火星私人任务所追求的技术。&lt;/p&gt;
-&lt;p&gt;艾萨克曼在从宇宙飞船中出来，面对半光照亮的地球时说：“在我们故乡，我们还有很多工作要做。但在这里，地球真是一个完美的世界。”&lt;/p&gt;
-&lt;p&gt;这无疑是SpaceX迄今为止最危险的使命之一，该公司是唯一一家能够定期将人员送入和从地球轨道上带回来的私人公司。&lt;/p&gt;
-&lt;p&gt;在太空行走大约于美国东部时间早上6点52分（格林尼治标准时间1052分）开始之前，宇宙飞船已被完全减压，宇航员们依靠SpaceX开发的太空服通过脐带连接到Crew Dragon来获取氧气。&lt;/p&gt;
-&lt;p&gt;41岁的艾萨克曼和30岁的吉利斯从Crew Dragon的舱门进入太空，以测试太空服中的各种身体动作，并向地面控制中心反馈，以便为未来的设计方案提供信息。他们的姿态显得僵硬，虽然他们能够弯曲肘部和肩膀来移动手臂，但在腰部、背部和颈部则动作较少。&lt;/p&gt;
-&lt;p&gt;该任务测试了太空服设计和舱体的程序，旨在测试私营公司能够绕轨道完成的工作的极限。&lt;/p&gt;
-&lt;p&gt;SpaceX在加利福尼亚州霍桑的总部地面团队监视着宇宙飞船的舱门关闭，并在宇航员返回他们的舱内座位时，进行了泄漏检测。&lt;/p&gt;
-&lt;p&gt;1965年的首次美国太空行走发生在双子座宇宙飞船上，采用了一种与周四类似的过程：宇宙飞船减压，舱门开启，身穿太空服的宇航员在缆绳的辅助下冒险进入外太空。&lt;/p&gt;
-&lt;p&gt;美国国家航空航天局（NASA）局长威廉·纳尔逊，他的机构在大约十年前开始资助Crew Dragon的发展，对周四的成就表示赞扬。&lt;/p&gt;
-&lt;p&gt;纳尔逊在社交媒体上写道：“今天的成功标志着商业太空工业和NASA长期目标，即建立一个充满活力的美国太空经济，迈出了巨大的步伐。”&lt;/p&gt;
-&lt;p&gt;艾萨克曼拒绝透露他支付的费用是多少，但根据Crew Dragon其他航班的票价，仅座椅费用就约为5500万美元，他的任务可能需要花费数亿美元。&lt;/p&gt;
-&lt;p&gt;吉利斯于2015年开始在SpaceX实习。波蒂特，现年50岁，是一位退休的美国空军上校。门隆，现年38岁，是SpaceX的工程师。&lt;/p&gt;
-&lt;p&gt;根据波蒂特的描述，“北极曙光”机组人员在过去两年半的时间里一直在使用SpaceX的任务模拟和在具有挑战性、不舒服的环境中进行的“体验式学习”进行训练。&lt;/p&gt;
-&lt;p&gt;目前有19名宇航员正在轨道上，这是由于俄罗斯周三的Soyuz MS-26任务运送了两名宇航员和美国宇航员前往国际空间站，使其人员增加至12人。还有三名中国宇航员在中国天宫空间站上。&lt;/p&gt;
-&lt;p&gt;自2001年以来，Crew Dragon是美国唯一一辆能够可靠地将人员送入轨道并返回地球的宇宙飞船，已经执行了十多次宇航员任务，主要为NASA服务。&lt;/p&gt;
-&lt;p&gt;该机构在一个旨在建立能够将宇航员运往和从国际空间站（ISS）的商业和私人建造的美国宇宙飞船的计划下启动了该飞船的开发。&lt;/p&gt;
-&lt;p&gt;在该计划下还开发了波音的Starliner舱体。Starliner于6月在一次有问题的测试任务中将宇航员运往国际空间站，该任务本月底以舱体空载返回结束，留下其宇航员在空间站上等待下一年的Crew Dragon宇宙飞船来接他们。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="SpaceWalk1" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J7ZN4IASHROLPLFOSMDDDABWO4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;41岁的贾里德·艾萨克曼，在2024年9月12日的首次私人太空行走中，进入距离地球数百英里的太空真空，呈现出此时安静的视频静态图像。SpaceX/Handout via REUTERS&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="SpaceWalk2" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JJ77RC3IAJN6NF4PB2JQQ4Y7IY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;30岁的SpaceX工程师莎拉·吉利斯，在2024年9月12日的首次私人太空行走中，进入距离地球数百英里的太空真空，呈现出此时安静的视频静态图像。SpaceX/Handout via REUTERS&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="Crew members of Polaris Dawn attend a press conference at the Kennedy Space Center in Cape Canaveral" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CDCEMNLLX5OZPI3BUK4GQHD734.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;北极曙光私人人类太空飞行任务的机组人员安娜·门隆、斯科特·波蒂特、指挥官贾里德·艾萨克曼和莎拉·吉利斯在佛罗里达州卡纳维拉尔角的肯尼迪航天中心出席新闻发布会。2024年8月19日。 REUTERS/Joe Skipper archivo foto&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="A SpaceX Falcon 9 rocket lifts off with Polaris Dawn, a private human spaceflight mission, in Cape Canaveral" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IYL6MGHRZRNF3JNKN2LLAIORC4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;SpaceX猎鹰9号火箭携带北极曙光私人人类太空飞行任务在卡纳维拉尔角的肯尼迪航天中心升空，预计有两名机组人员将尝试首次私人太空行走。2024年9月10日。 REUTERS/Joe Skipper archivo foto&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Wed, 11 Sep 2024 22:40:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/space/spacex-polaris-crew-poised-attempt-first-private-spacewalk-2024-09-11/</guid></item><item><title>中国东风汽车在建厂决定前将评估欧洲销售前景</title><link>https://www.reuters.com/business/autos-transportation/chinas-dongfeng-assess-europe-sales-prospects-before-plant-decision-2024-09-12/</link><description>
-&lt;p&gt;中国东风汽车集团（0489.HK）需在欧洲评估销售前景，方可考虑在该区域开设工厂，该集团的资深执行官员于周四表示。&lt;/p&gt;
-&lt;p&gt;东风国际业务总经理马雷在意大利都灵举办的产品发布会上发表讲话，此时意大利政府正尝试说服中国汽车制造商在当地设厂。&lt;/p&gt;
-&lt;p&gt;罗马方面表示，已与包括东风汽车和奇瑞汽车在内的中国企业展开讨论。据8月消息，与东风官员关于在意大利设厂的事宜已进入&lt;a href="https://www.reuters.com/business/autos-transportation/italy-talks-with-chinas-dongfeng-others-over-auto-plant-minister-says-2024-04-17/" target="_blank"&gt;高级阶段&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;当被问及东风是否已对该国的潜在场地进行考察时，马雷表示“还为时尚早形成初步想法”。&lt;/p&gt;
-&lt;p&gt;他补充道：“许多人询问我们在欧洲设厂的计划，但我们需要首先评估整体局势，包括从客户角度进行分析。”&lt;/p&gt;
-&lt;p&gt;“作为第一步，我们需要关注品牌（开发）和分销工作，”他表示。&lt;/p&gt;
-&lt;p&gt;东风汽车最近开始在欧洲销售汽车。&lt;/p&gt;
-&lt;p&gt;意大利正寻求吸引另一家大型汽车制造商加入，以期通过此举恢复其国内汽车产量，并在国产品牌菲亚特母公司Stellantis（STLAM.MI）的背景下形成对峙之势。&lt;/p&gt;
-&lt;p&gt;意大利政府正在研究在包括都灵市所在的皮埃蒙特区在内的潜在场地，都灵是菲亚特品牌的悠久发源地。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="工人在位于湖北武汉的东风汽车集团与本田汽车合资设厂的生产线上工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XMZLN4BYSJPZLFJL5DKJEXYNFA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;工人在位于中国湖北武汉的东风汽车集团与本田汽车合资设厂的生产线上工作。2019年4月12日。REUTERS/Norihiko Shirouzu/档案照片&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 16:54:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/chinas-dongfeng-assess-europe-sales-prospects-before-plant-decision-2024-09-12/</guid></item><item><title>欧盟拒绝中国电动汽车出口商的最低价格提议</title><link>https://www.reuters.com/business/autos-transportation/eu-says-it-has-rejected-minimum-price-offers-chinese-ev-exporters-2024-09-12/</link><description>
-&lt;p&gt;欧洲委员会于本周四声明，已收到来自中国电动汽车制造商的最低进口价格报价，旨在规避关税，但已全部予以拒绝。&lt;/p&gt;&lt;p&gt;委员会正在进行对由中国制造电动车的反补贴调查，并表示数家电动车出口商已提交价格承诺——即出口商承诺尊重最低进口价格，以抵消补贴。&lt;/p&gt;&lt;p&gt;“我们的审查着重于所提出的报价是否能够消除补贴的有害影响，以及是否能够被有效监控和执行。委员会得出结论，没有任何报价符合这些要求，”一位委员会发言人表示。&lt;/p&gt;&lt;p&gt;委员会拒绝提供报价的详细信息，但表示已对这些报价进行了全面审查，以核实其是否符合世界贸易组织和欧盟的反补贴规则。&lt;/p&gt;&lt;p&gt;“委员会依然开放通过谈判寻求解决方案，但该解决方案必须完全符合世界贸易组织的规定，并全面弥补所确定的补贴的有害影响，”发言人补充道。&lt;/p&gt;&lt;p&gt;欧盟贸易专员瓦尔季斯·多姆布鲁夫斯基斯将于下周四会晤中国商务部部长王文涛。&lt;/p&gt;&lt;p&gt;委员会正准备提出针对在中国制造的电动汽车的最终关税建议，最高可达35.3%，此外还将征收欧盟标准的10%汽车进口关税。&lt;/p&gt;&lt;p&gt;所提出的最终关税将提交由欧盟27个成员国进行投票。除非有15个欧盟成员国代表65%的欧盟人口反对征收这些关税，否则这些关税将在十月底前实施。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="欧盟与中国国旗在北京举行的的中欧峰会期间展示" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HKB5DW73XFN5NHZKRTOZGA4VYE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2016年7月12日，在北京人民大会堂举行的中欧峰会期间，展示欧盟与中国国旗。图片由路透社贾森·李提供//档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 15:24:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/eu-says-it-has-rejected-minimum-price-offers-chinese-ev-exporters-2024-09-12/</guid></item><item><title>印度和中国同意加倍努力以实现边境地区完全脱离接触</title><link>https://www.reuters.com/world/asia-pacific/india-china-agree-redouble-efforts-complete-disengagement-along-border-2024-09-12/</link><description>
-&lt;p&gt;印度官方于周四表示，在印度国家安全顾问阿吉特·多瓦尔（Ajit Doval）与中华人民共和国外交部长王毅在俄罗斯会晤后，印中两国已就加强努力确保争议的喜马拉雅边境实现完全脱离达成一致。&lt;/p&gt;&lt;p&gt;印度政府在声明中指出，双方同意紧急行动，加倍努力以实现剩余地区的完全脱离。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="一辆印度军方卡车行驶在印度阿鲁纳恰尔邦的蒂兹普尔-塔旺高速公路上，该公路通往中国边境" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GH5VGFUAOZNXBLDJYLBBELGOTA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;图片说明：2012年5月28日，印度阿鲁纳恰尔邦，一辆印度军方卡车沿着蒂兹普尔-塔旺高速公路行驶。图片由路透社摄影师Frank Jack Daniel提供。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 15:19:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/india-china-agree-redouble-efforts-complete-disengagement-along-border-2024-09-12/</guid></item><item><title>普京称俄罗斯应考虑限制铀、钛和镍出口</title><link>https://www.reuters.com/markets/commodities/putin-says-russia-should-consider-restricting-exports-uranium-titanium-nickel-2024-09-11/</link><description>
-&lt;p&gt;(本故事于9月11日进行了更正，将俄罗斯在全球铀产量中的排名从第四位修正为第六位，见第12段)&lt;/p&gt;
-&lt;p&gt;俄罗斯总统弗拉基米尔·普京于周三表示，莫斯科应考虑限制铀、钛和镍的出口，以报复西方的制裁。&lt;/p&gt;
-&lt;p&gt;普京向政府部长们发表的言论引发镍价上涨，并推动铀矿业公司股价上涨。&lt;/p&gt;
-&lt;p&gt;在电视讲话中，他表示此类限制也可适用于其他商品，并指出俄罗斯是天然气、钻石和金的主要生产国。&lt;/p&gt;
-&lt;p&gt;但他表示，措施“不需要立即采取”，且不得损害俄罗斯自身。&lt;/p&gt;
-&lt;p&gt;普京说：“俄罗斯在许多战略原材料的储备方面处于领先地位：天然气，占世界储备量的22%左右；黄金，占22%左右；钻石，占55%左右。”&lt;/p&gt;
-&lt;p&gt;“请审视一下我们向世界市场供应的一些商品类型……也许我们应该考虑某些限制——铀、钛、镍，”他向总理米哈伊尔·米舒斯京说道。&lt;/p&gt;
-&lt;p&gt;“我们绝不能做出任何伤害自己的事情，”他补充说。&lt;/p&gt;
-&lt;p&gt;自乌克兰战争开始以来，西方国家大幅削减了对俄罗斯石油和天然气的购买，但俄罗斯仍然是全球金属市场的主要供应国，因此削减或停止其出口可能会造成混乱，分析师表示。&lt;/p&gt;
-&lt;p&gt;在普京发表评论后不久，伦敦金属交易所（LME）的三个月期镍价上涨了2.6%，至每公吨16,145美元。&lt;/p&gt;
-&lt;p&gt;俄罗斯拥有诺里尔斯克钢铁研究所（Nornickel）&amp;lt; GMKN.MM&amp;gt;，全球最大的精炼镍生产商。它是中国和欧洲的主要镍供应商。该公司并未立即对置评请求作出回应。&lt;/p&gt;
-&lt;p&gt;周二的数据显示，在LME登记仓库中超过五分之一的镍来自俄罗斯。该金属用于电池，以及在装甲板和涡轮叶片等广泛应用的合金中。&lt;/p&gt;
-&lt;p&gt;在消息传出后，铀矿股价飙升，加拿大矿业公司NexGen Energy &lt;a href="https://www.reuters.com/markets/companies/NXE.TO" target="_blank"&gt;(NXE.TO)&lt;/a&gt;、Cameco &lt;a href="https://www.reuters.com/markets/companies/CCO.TO" target="_blank"&gt;(CCO.TO)&lt;/a&gt;和Denison Mines &lt;a href="https://www.reuters.com/markets/companies/DML.TO" target="_blank"&gt;(DML.TO)&lt;/a&gt;的股价上涨了5.2%至5.4%。俄罗斯是全球第六大铀生产商，拥有全球铀浓缩能力的大约44%。&lt;/p&gt;
-&lt;p&gt;2023年，美国和中国成为俄罗斯铀的主要进口国，其次是韩国、法国、哈萨克斯坦和德国。&lt;/p&gt;
-&lt;p&gt;5月，美国总统乔·拜登签署了一项禁止进口俄罗斯浓缩铀的法案，这一贸易额每年约为10亿美元。然而，该法案包含豁免条款，以防供应出现问题，允许能源部在2027年前维持正常水平的俄罗斯铀进口。&lt;/p&gt;
-&lt;p&gt;去年，俄罗斯占供应给美国商业核反应堆的浓缩铀的27%。&lt;/p&gt;
-&lt;p》“这将非常难以替代，尤其是在短期内，接下来的2-3年内，”花旗分析师阿卡迪·格沃尔尼亚恩说道。&lt;/p&gt;
-&lt;p&gt;“西方的浓缩商只为建设额外的浓缩能力制定计划，这将至少需要三年时间才能完成。我们预计，美国的公用事业公司可能能够通过从中国进口低浓缩铀来部分替代它。”&lt;/p&gt;
-&lt;p&gt;俄罗斯是全球第三大的钛海绵生产商，但其钛矿物储备有限。&lt;/p&gt;
-&lt;p&gt;俄罗斯最大的钛海绵制造商VSMPO-Avisma，部分由受制裁的国防企业集团Rostec拥有。乌克兰战争前，该公司为波音和空客提供钛。&lt;/p&gt;
-&lt;p&gt;加拿大已将对VSMPO-Avisma实施制裁，但向空客颁发豁免许可证，允许其在制造中使用俄罗斯钛。&lt;/p&gt;
-&lt;p&gt;波音在2022年与乌克兰的战争开始不到两周就停止了从俄罗斯购买钛。&lt;/p&gt;
-&lt;p&gt;据俄罗斯海关数据显示，美国仍在购买俄罗斯钛，但最大的买主是法国、中国和德国。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="一幅展示科拉采矿冶金公司（Kola MMC）在莫奇格斯克镍板供应的景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LUY43BMSVZM5HLHDDOXSAQVDQI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一幅显示俄罗斯摩尔曼斯克地区莫奇格斯克镇科拉采矿冶金公司（Kola MMC）子公司Nornickel金属和采矿公司的镍板的景象。2021年2月25日，路透/Evgenia Novozhenina/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 11 Sep 2024 14:48:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/putin-says-russia-should-consider-restricting-exports-uranium-titanium-nickel-2024-09-11/</guid></item><item><title>谈判结束但未达成协议 三星工人将继续印度工厂罢工</title><link>https://www.reuters.com/world/india/indian-state-minister-meet-samsung-officials-bid-resolve-strike-2024-09-12/</link><description>
-&lt;p&gt;三星电子（005930.KS）的员工在周四与工会、公司管理层及州政府举行的会议上未能达成任何和解之后，第五日持续罢工，一位工会领导人向路透社透露。&lt;/p&gt;
-&lt;p&gt;该工厂生产包括电视机、冰箱和洗衣机在内的家电产品，为三星电子在印度的120亿美元年销售额贡献了20%至30%。&lt;/p&gt;
-&lt;p&gt;作为印度消费电子行业的领军企业，三星集团对该公司而言是一个关键的成长市场。&lt;/p&gt;
-&lt;p&gt;印度塔米纳省劳工部长与工会代表及三星官员进行了会谈，以期解决已经导致钦奈附近工厂连续四天停工的罢工。&lt;/p&gt;
-&lt;p&gt;数以百计的工人正在争取更高的工资，这是近年来印度最具规模的工业不满事件之一。&lt;/p&gt;
-&lt;p&gt;"他们（三星管理层）要求我们停止罢工，但既不承认工会也不与我们交谈，因此罢工仍在继续，"工会领导人E.穆图库马尔说。&lt;/p&gt;
-&lt;p&gt;许多身穿三星蓝色制服的工人在工厂附近的一个临时帐篷内坐下，该工厂雇佣了大约1,800人。&lt;/p&gt;
-&lt;p&gt;周四的会谈涉及了南印度州的劳工部长C.V.甘纳斯、劳工秘书K.维拉拉哈瓦·劳和工会代表及三星官员。&lt;/p&gt;
-&lt;p&gt;劳曾在之前告诉路透社：“政府真诚地希望解决（罢工）问题。”但后来对劳的电话无人应答。&lt;/p&gt;
-&lt;p&gt;三星官员并未立即回应置评请求。&lt;/p&gt;
-&lt;p&gt;尚不清楚哪些三星代表参加了会议。本周路透社报道，该公司西南亚洲首席执行官JB帕克与高级官员一同访问了该州，旨在解决此事。&lt;/p&gt;
-&lt;p&gt;工人要求三星承认他们的工会，提高工资并减少工作时间。&lt;/p&gt;
-&lt;p&gt;三星印度周一表示，公司已积极与工人互动“以解决他们可能有的任何不满，并遵守所有法律法规”，一位公司发言人表示。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="印度钦奈附近三星工厂的工人在罢工期间聆听演讲，要求提高工资" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IWFIZMAAC5ND3A6L7DBDL3HMGA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年9月10日，印度钦奈附近三星电子Sriperumbudur工厂的工人在罢工期间聆听演讲，要求提高工资。路透社/Praveen Paramasivam/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 07:31:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/indian-state-minister-meet-samsung-officials-bid-resolve-strike-2024-09-12/</guid></item><item><title>随着电动汽车需求放缓，汽车制造商缩减电气化计划</title><link>https://www.reuters.com/business/autos-transportation/carmakers-adjust-electrification-plans-ev-demand-slows-2024-09-06/</link><description>
-&lt;p&gt;众多全球汽车制造商正下调其电气化目标，受制于完全电动汽车需求的放缓，这一需求由于缺乏经济型车型、充电设施推广缓慢、不断加剧的贸易紧张关系以及来自中国低成本竞争对手的激烈竞争而受到影响。&lt;/p&gt;
-&lt;p&gt;据市场研究公司Rhok Motion的数据显示，2024年上半年，电动汽车（包括纯电动和插电式混合动力）的全球销量增长了20%，增速低于预期。同期，欧洲的增长率仅为1%。&lt;/p&gt;
-&lt;p&gt;与此同时，混合动力汽车的销售呈现出上升态势，这种车型被视为在所有燃油车型和全电动车型之间的一种更实惠的折中选择。&lt;/p&gt;
-&lt;p&gt;这些汽车制造商最近对他们的预期进行了调整（按时间顺序排列，首先是最近的）：&lt;/p&gt;
-&lt;p&gt;STELLANTIS &lt;a href="https://www.reuters.com/markets/companies/STLAM.MI" target="_blank"&gt;(STLAM.MI)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Stellantis于周四宣布，由于需求低迷，将暂停生产完全电动的菲亚特500小型车四周。&lt;/p&gt;
-&lt;p&gt;TOYOTA &lt;a href="https://www.reuters.com/markets/companies/7203.T" target="_blank"&gt;(7203.T)&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;日本经济日报9月6日报道称，作为全球最大的汽车制造商，丰田计划到2026年生产100万辆电动汽车，其之前宣布的销售目标为150万辆。&lt;/p&gt;
-&lt;p&gt;丰田在一份声明中表示，到2026年每年生产150万辆电动汽车到2030年每年生产350万辆的意图没有改变。然而，它表示，这些数据并非目标，而是对股东的基准。&lt;/p&gt;
-&lt;p&gt;VOLVO CARS &lt;a href="https://www.reuters.com/markets/companies/VOLCARb.ST" target="_blank"&gt;(VOLCARb.ST)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;9月4日，这家瑞典汽车制造商取消了到2030年实现全面电动化的目标，并表示届时仍将提供部分混合动力车型。&lt;/p&gt;
-&lt;p&gt;它计划到2030年销售90%至100%的纯电动汽车或插电式混合动力汽车，而最多10%将是所谓的轻度混合动力汽车。&lt;/p&gt;
-&lt;p&gt;VOLKSWAGEN &lt;a href="https://www.reuters.com/markets/companies/VOWG_p.DE" target="_blank"&gt;(VOWG_p.DE)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;作为欧洲销量最大的汽车制造商，尽管反复警告需求放缓，但它的2030年目标并未改变，即到那时，其电动汽车在欧洲的销量占比达到70%，在美国和中国为50%。&lt;/p&gt;
-&lt;p&gt;然而，其集团技术负责人于8月表示，VW的电池工厂建设计划并非一成不变，取决于电动汽车需求。&lt;/p&gt;
-&lt;p&gt;FORD &lt;a href="https://www.reuters.com/markets/companies/F.N" target="_blank"&gt;(F.N)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;福特于8月将其计划用于生产纯电动汽车的年度资本支出份额从40%下调至约30%，鉴于其对混合动力车的日益重视，并宣布取消一款计划中的电动SUV，并推迟其最畅销皮卡的电动版。&lt;/p&gt;
-&lt;p&gt;PORSCHE &lt;a href="https://www.reuters.com/markets/companies/P911_p.DE" target="_blank"&gt;(P911_p.DE)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;7月，这家德国豪华车制造商下调了其电动车雄心，表示只有在需求和电动车领域的发展证明合适的情况下，它才能达到之前传达的到2030年实现80%电动汽车销量的目标。&lt;/p&gt;
-&lt;p&gt;RENAULT &lt;a href="https://www.reuters.com/markets/companies/RENA.PA" target="_blank"&gt;(RENA.PA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2022年初，雷诺品牌CEO卢卡·德米奥设定了到2030年所有雷诺品牌销售车型均为纯电动的目标，但两年后，该目标发生了变化。品牌CEO法比斯·卡姆博利维在一次接受ANE的采访中表示，雷诺将实行包括电动车和燃油车在内的双战略，因此目标超越了2030年。&lt;/p&gt;
-&lt;p&gt;7月，德米奥还表示，他对完全转变其欧洲生产为电动汽车的时间表表示怀疑。&lt;/p&gt;
-&lt;p&gt;GENERAL MOTORS &lt;a href="https://www.reuters.com/markets/companies/GM.N" target="_blank"&gt;(GM.N)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;6月，通用汽车下调了其2024年的电动车生产预测，并在7月拒绝重申其到2025年底在北美洲生产100万辆电动汽车的预测。&lt;/p&gt;
-&lt;p&gt;MERCEDES-BENZ &lt;a href="https://www.reuters.com/markets/companies/MBGn.DE" target="_blank"&gt;(MBGn.DE)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2月，这家德国豪华车制造商表示，包括混合动力汽车在内的电动汽车销量到2030年可能占总销量的50%，这比其在2021年的预测晚了五年。&lt;/p&gt;
-&lt;p&gt;它还随着电动车需求未显著增长而放慢了电池电芯产能计划。&lt;/p&gt;
-&lt;p&gt;Bentley曾计划到2030年实现全电动汽车阵容，但当时CEO阿德里安·霍尔马克在3月表示，混合动力车型在该日期之后可能仍然会销售。&lt;/p&gt;
-&lt;p&gt;2月，这家英国汽车制造商因需求低迷而推迟了其首款电动车的发布。&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img alt="The logo of Stellantis is seen on the company's building in Poissy" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D3G65CESYBJPNKI25E7L6VEUBQ.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Sept. 4, 2024, in Poissy, near Paris, France. REUTERS/Sarah Meyssonnier/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img alt="Toyota Motor Corporation's cars are seen after briefing on battery EV strategy in Tokyo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DEBETK7UQFNRHGDXNT5VBEWB54.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Dec. 14, 2021, in Tokyo, Japan. REUTERS/Kim Kyung-Hoon/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img alt="The London EV Show" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2NLR7XLMWFJFBKALHQCQFYAZQI.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Nov. 30, 2023, in London, Britain. REUTERS/Maja Smiejkowska/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img alt="The London EV Show" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W2GXBLUCC5K5RDJEODS755VT2U.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Nov. 30, 2023, in London, Britain. REUTERS/Maja Smiejkowska/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 06 Sep 2024 12:12:49 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/carmakers-adjust-electrification-plans-ev-demand-slows-2024-09-06/</guid></item><item><title>FACTBOX 德国汽车制造商最容易受到中国反关税的影响</title><link>https://www.reuters.com/business/autos-transportation/european-carmakers-exposed-any-chinese-retaliation-eu-tariffs-2024-06-13/</link><description>
-&lt;p&gt;(本报道已于6月24日更正，修正了宝马合资企业的名称为宝马 Brilliance Automotive，并在第26段中删除了RIC)&lt;/p&gt;
-&lt;p&gt;中国针对欧洲委员会提出的对中国制造电动汽车征收最高达38.1%额外关税的报复性关税，可能给欧洲汽车制造商带来麻烦。&lt;/p&gt;
-&lt;p&gt;行业高管对关税表示担忧，担心可能出现反关税或其他措施，这可能在他们面临国内电动汽车市场竞争加剧的背景下，进一步影响他们在中国的汽车竞争力。&lt;/p&gt;
-&lt;p&gt;德国汽车制造商最易受潜在的反制措施影响，因为贸易数据显示，他们2023年的约三分之一的销售额来自中国。尽管在中国销售的多数车辆是在当地制造的，但许多高端车型仍从德国进口。&lt;/p&gt;
-&lt;p&gt;受影响最严重的是大众集团旗下的大众，其主要股权为我国企业所有。Porsche在中国没有生产，其所售汽车全部进口，相当于全球销售的25%。&lt;/p&gt;
-&lt;p&gt;根据汽车协会VDA的数据显示，2023年Volkswagen、Porsche、BMW和Mercedes-Benz向中国客户交付的4.8百万辆汽车中，低于5%是出口的。&lt;/p&gt;
-&lt;p&gt;报告指出，中国可能对排量为2.5升或更大的汽车征收反关税。据Stifel Research称，此类规模的汽车占VW销售的约1%，宝马为2%，梅赛德斯为4%，保时捷为17%。&lt;/p&gt;
-&lt;p&gt;尽管如此，鉴于出口汽车往往是高端车型，利润空间较大，Stifel估算这将对德国汽车制造商的运营利润（EBIT）产生重大影响，影响范围在4-10%之间。&lt;/p&gt;
-&lt;p&gt;鉴于保时捷在中国销售占比25%，尽管在其生产线主要位于德国。&lt;/p&gt;
-&lt;p&gt;不过，如果实施反关税，由于保时捷的奢侈品牌地位，其有望比大众市场汽车制造商更能提高价格，汇丰分析师在本月的一份报告中表示。&lt;/p&gt;
-&lt;p&gt;去年，中国交付量下降了15%，至79,283辆，而在2024年第一季度又下降了24%，部分原因可归因于我国经济形势的困难。&lt;/p&gt;
-&lt;p&gt;保时捷在上海建立了研发中心，并在北京车展上首次推出了针对中国市场的定制版Taycan。&lt;/p&gt;
-&lt;p&gt;Volkswagen对反关税的暴露程度最低，因为其在中国销售的汽车中，只有2.5%是在德国制造的，其全年声明显示。&lt;/p&gt;
-&lt;p&gt;尽管如此，鉴于其旨在在激烈的地方汽车制造商竞争中保护甚至提升14.5%至15%的市场份额，公司如遭受抵制或其他反制措施来惩处德国公司，将遭受巨大打击。&lt;/p&gt;
-&lt;p&gt;包括Porsche在内的Volkswagen集团中国及其中国合资企业，2023年销量超过320万辆，其中306万辆是在当地生产的。&lt;/p&gt;
-&lt;p&gt;Audi，作为Volkswagen的豪华品牌，在本地销售中进口车辆的份额略高，约为8%。&lt;/p&gt;
-&lt;p&gt;中国是梅赛德斯-奔驰新汽车销售的最大市场，2023年占约36%的销量，超过73.7万辆。&lt;/p&gt;
-&lt;p&gt;2023年，中国在售的汽车中有超过80%是在当地制造的，其余为进口。据招商银行国际跟踪数据显示，梅赛德斯-奔驰的GLE SUV和S级轿车是仅次于保时捷Cayenne的中国最热门的进口车之三。&lt;/p&gt;
-&lt;p&gt;梅赛德斯-奔驰从欧洲和美国进口高端车型，如S级、GLC、G级和迈巴赫，至中国，并倾向于在中国制造小型车型，如A级、E级和C级。&lt;/p&gt;
-&lt;p&gt;宝马在中国销售的车辆几乎占其总销量的三分之一，总计略高于82.6万辆，其中约13%为进口车，其年报显示。&lt;/p&gt;
-&lt;p&gt;从德国进口的车型包括i4、7系和5系。备受期待的“Neue Klasse”新车系将从2026年开始在当地生产。&lt;/p&gt;
-&lt;p&gt;宝马在中国的制造汽车由包括宝马 Brilliance Automotive在内的合资企业生产，其中宝马持有75%的股份，还有与长城汽车的第二家合资企业。&lt;/p&gt;
-&lt;p&gt;这两家合资企业还生产向欧洲出口的车辆，如iX3和电动Mini，这些将被欧盟委员会的关税所影响。&lt;/p&gt;
-&lt;p&gt;中国吉利集团控股的瑞典汽车制造商Volvo Car，其约四分之一的销量在中国，但仅约10%的利润，汇丰分析师表示。&lt;/p&gt;
-&lt;p&gt;进口汽车的销售占Volvo在中国市场的约4%，其余为当地生产。&lt;/p&gt;
-&lt;p&gt;除最近对中国电动汽车制造商Leapmotor的投资外，菲亚特克莱斯勒集团（Stellantis）对中国地区的暴露程度最低，其计划到年底从中国出口两款电动汽车。&lt;/p&gt;
-&lt;p&gt;与其他豪华车制造商一样，法拉利的所有中国销售均为进口——但这些仅占其全球销售的9%，增长主要集中在美国。&lt;/p&gt;
-&lt;p&gt;Stellantis拥有的法拉利可以利用其定价能力转嫁关税给客户。&lt;/p&gt;
-&lt;p&gt;法国汽车制造商Renault，通过与中国江铃汽车和中华汽车的合资企业以及日産汽车运营，对中国的暴露程度较低，其市场份额约为3%。&lt;/p&gt;
-&lt;p&gt;Renault的Dacia Spring EV是由当地合作伙伴东风在德国生产的。&lt;/p&gt;
-&lt;p&gt;Renault和中国的吉利在5月份宣布成立合资企业，以开发内燃机和混合动力引擎。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="准备出口的汽车停在中国山东烟台港的码头" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EMOE33SPORKTHHBTW2SAFDNCCY.jpg" /&gt;
-figcaption style="text-align: center;"&gt;&lt;i&gt;2024年1月10日，中国山东烟台港的码头停放的准备出口的汽车。图片来源：路透社/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 13 Jun 2024 16:29:12 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/european-carmakers-exposed-any-chinese-retaliation-eu-tariffs-2024-06-13/</guid></item><item><title>中国蚂蚁集团再融资 65 亿美元信贷额度</title><link>https://www.reuters.com/technology/chinas-ant-group-refinancing-65-bln-credit-line-2024-09-12/</link><description>
-&lt;p&gt;中国蚂蚁集团（688688.SS）周四宣布，正在对其65亿美元的信贷额度进行再融资，一位公司发言人表示，此举旨在支持其背后的阿里巴巴集团（9988.HK）创始人马云扩大其海外业务。&lt;/p&gt;&lt;p&gt;该发言人补充称，再融资针对的是2019年已设立的银团贷款额度。&lt;/p&gt;&lt;p&gt;据彭博社报道，引用知情人士的话称，公司计划将15亿美元的借款额度分配给其海外子公司蚂蚁国际。彭博社周四早些时候已经报道了这一进展。&lt;/p&gt;&lt;p&gt;蚂蚁集团运营着中国无处不在的移动支付应用支付宝，如路透社所报道，该公司于3月对其组织架构进行了重组，为部分子公司设立独立董事会，以便它们能更加独立运作。&lt;/p&gt;&lt;p&gt;8月份，根据路透社的计算，该公司季度净利下降了约10%，降至120亿元人民币（16.9亿美元）。&lt;/p&gt;&lt;p&gt;（1美元约合7.1186人民币）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="北京国际服务贸易交易会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CDMSO5GPVNOELMXWOZYP7L3ONE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在服务贸易交易会（CIFTIS）上经过蚂蚁集团展位，地点：中国北京，时间：2023年9月2日。路透社/Florence Lo 拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 12:34:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/chinas-ant-group-refinancing-65-bln-credit-line-2024-09-12/</guid></item><item><title>苏格兰唯一一家炼油厂将于明年关闭 400个工作岗位将消失</title><link>https://www.reuters.com/markets/commodities/scotlands-grangemouth-oil-refinery-close-2025-400-jobs-go-2024-09-12/</link><description>
-&lt;p&gt;苏格兰唯一一座石油精炼厂，格兰杰姆夫顿，将于2025年关闭，导致400个工作岗位流失，运营商Petroineos于周四宣布，此举是将其百年老厂转变为燃料进口终端计划的一部分。&lt;/p&gt;&lt;p&gt;Petroineos表示，上个月，公司正在准备关闭英国最旧的精炼厂——格兰杰姆夫顿。一位公司发言人表示，将在下一季度第二季度停止生产，前提是经过员工咨询。&lt;/p&gt;&lt;p&gt;此决定遭到了工会和政客的批评。&lt;/p&gt;&lt;p&gt;"Petroineos确认先前关闭格兰杰姆夫顿石油精炼厂的决定，我们感到极为失望"，英国能源部长爱德华·米利班德表示。&lt;/p&gt;&lt;p&gt;该场地将成为成品燃料的进口和分销终端，到下两年，该地点的员工人数将从475人减少到约75人。&lt;/p&gt;&lt;p&gt;Petroineos是由中国石油国际有限公司伦敦（PCIL）和英国化学公司INEOS集团成立的一项合资企业，后者的创始人为亿万富翁吉姆·拉特克利夫勋爵。&lt;/p&gt;&lt;p&gt;该公司以经济困难为由，提出了关闭的原因，并表示自2011年以来已投资12亿美元，期间亏损超过7.75亿美元。&lt;/p&gt;&lt;p&gt;"格兰杰姆夫顿越来越难以与中东、亚洲和非洲的更大、更现代化、更高效的地点竞争。由于其规模和结构，格兰杰姆夫顿每年都要承担高额的资本支出，仅以确保运营许可有效，”公司表示。&lt;/p&gt;&lt;p&gt;公司表示，该厂目前每天亏损约50万美元，预计2024年的亏损将达到2亿美元。&lt;/p&gt;&lt;p&gt;Petroineos对格兰杰姆夫顿的计划遭到了工会和当地政客的反对，并且有运动要求在找到其长期低碳未来替代方案之前延续生产。&lt;/p&gt;&lt;p&gt;英国政府和苏格兰政府在周四宣布了一项联合计划，包括一项10亿英镑（1.3043亿美元）的财务计划，以确保精炼厂关闭后格兰杰姆夫顿的工业未来。&lt;/p&gt;&lt;p&gt;这笔资金将用于帮助受影响的工人寻找好的替代工作，投资于当地能源项目。&lt;/p&gt;&lt;p&gt;"我们宣布了一项投资计划，以帮助劳动力找到好工作，投资社区，并为格兰杰姆夫顿地点提供一个可行的工业未来，”米利班德说。&lt;/p&gt;&lt;p&gt;代表格兰杰姆夫顿工人的工会Unite将关闭描述为“工业破坏行为”。&lt;/p&gt;&lt;p&gt;"这个综合体对于国家的制造业基础和能源安全至关重要，”Unite苏格兰秘书长德里克·汤姆森表示。&lt;/p&gt;&lt;p&gt;Petroineos精炼公司首席执行官弗兰克·德梅伊表示，格兰杰姆夫顿生产的燃料需求已经开始下降。&lt;/p&gt;&lt;p&gt;"由于预计今后十年内将禁止新汽油和柴油汽车，我们预计这些燃料的市场将进一步缩小，”他说。&lt;/p&gt;&lt;p&gt;该精炼厂主要加工北海福蒂斯原油，该原油通过福蒂斯管道系统（FPS）和美国WTI Midland有直接联系。&lt;/p&gt;&lt;p&gt;这两种原油等级有助于支撑布伦特全球油价基准，这意味着精炼厂的关闭可能对油市产生更广泛的影响。&lt;/p&gt;&lt;p&gt;INEOS表示，其在格兰杰姆夫顿场地的其他业务，即INEOS烯烃和聚合物石化工厂和FPS，将保持“正常营业”。&lt;/p&gt;&lt;p&gt;新成立的工党政府此前已承诺为该地点的研究可能低碳项目提供资金。研究已确定了三个可能的长期选择，包括低碳氢、清洁e燃料和可持续航空燃料。&lt;/p&gt;&lt;p&gt;Unite表示，它们正在与政府就该场地进行会谈，包括可持续航空燃料生产的潜力。&lt;/p&gt;&lt;p&gt;（1美元=0.7667英镑）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="苏格兰东部格兰杰姆夫顿石油精炼厂的全景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/COBSS4HEIRNAJGGKFH5AZ35WCU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;苏格兰东部格兰杰姆夫顿石油精炼厂全景，摄于2013年10月23日。路透社/Russell Cheyne/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:30:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/scotlands-grangemouth-oil-refinery-close-2025-400-jobs-go-2024-09-12/</guid></item><item><title>印度部长表示，印度和中国讨论尽早恢复客运航班</title><link>https://www.reuters.com/world/asia-pacific/india-china-discuss-early-resumption-passenger-flights-minister-says-2024-09-12/</link><description>
-&lt;p&gt;印度与中国就两国间尽早恢复直接客运航班进行了讨论，印度民航部长拉姆·莫汉·纳伊杜·金贾拉普在周四表示，这标志着自四年前以来，双方的航空旅行有望实现复苏。&lt;/p&gt;
-&lt;p&gt;路透社于六月报道称，中国正敦促印度重启直接客运航班，然而新德里由于持续的边界对峙对亚洲宿敌之间的关系造成的影响，依然在抵制这一提议。&lt;/p&gt;
-&lt;p&gt;自2020年两国在喜马拉雅边界的军事冲突导致20名印度士兵和4名中国士兵丧生以来，拥有大部分未划定的喜马拉雅边界的拥核邻国关系一直紧张。&lt;/p&gt;
-&lt;p&gt;自那以来，印度加强了来自中国的投资审查，禁止了数百款流行应用并中断了客运航空路线，尽管直接的货运航班仍然连接着世界上两个人口最多的国家。&lt;/p&gt;
-&lt;p&gt;金贾拉普表示，他在新德里举办的亚太民航部长会议期间与中华人民共和国内航局负责人宋志勇会面。&lt;/p&gt;
-&lt;p&gt;两人就“进一步加强两国民航合作，特别是促进客运航班及早恢复计划”进行了讨论，纳伊杜在其推特上发布。&lt;/p&gt;
-&lt;p&gt;恢复直接航班对两国都有利，但对中国而言，这一举措的stakes更高，因为COVID-19大流行后，中国的旅行恢复并未像印度蓬勃发展的航空业那样乐观。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="旅客在印度新德里英迪拉甘地国际机场二号航站楼等待" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WT4DJOYUS5MHXAWMG2ANWURXJ4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;旅客在印度新德里英迪拉甘地国际机场二号航站楼等待，2024年7月1日。路透社/安舒里·法达纳维斯/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 07:09:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/india-china-discuss-early-resumption-passenger-flights-minister-says-2024-09-12/</guid></item><item><title>习近平敦促努力实现年度经济目标</title><link>https://www.reuters.com/world/china/chinas-xi-urges-efforts-achieve-annual-economic-target-2024-09-12/</link><description>
-&lt;p&gt;中国国家主席习近平于周四敦促相关部门努力实现国家年度的经济与社会发展目标，据官方媒体报道，此言论发生在对未来经济复苏需要采取更多措施以巩固局势的预期之中。&lt;/p&gt;&lt;p&gt;在西北城市兰州召开的一次研讨会上，习近平强调各地区必需在第三季度末至第四季度期间确保做好经济工作，据国家广播公司中央电视台报道。&lt;/p&gt;&lt;p&gt;他呼吁将就业置于突出位置，并扩大在发展行业中的就业规模。&lt;/p&gt;&lt;p&gt;习近平还承诺根除各种形式的地区保护主义，深化国有企业改革，并实施支持私营部门的政策。&lt;/p&gt;&lt;p&gt;中国经济活动的放缓已促使全球经纪公司下调2024年的增长预测，预测值低于官方设定的约5%的目标。&lt;/p&gt;&lt;p&gt;在房地产市场持续低迷、失业问题持续、债务困境加重以及贸易紧张局势加剧的背景下，对中国的官方推出更多政策的压力日益增大。&lt;/p&gt;&lt;p&gt;中国人民银行官员上周表示，中国有空间降低银行必须保留的现金准备金比率。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="中国在非合作论坛（FOCAC）第九届峰会开幕式在北京开幕" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CKJZ2AINC5NFBDZ3RHFXJ2DZUY.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国主席习近平在北京的人民大会堂为第九次中国与非波单边合作论坛（FOCAC）的开幕式发表主题演讲，时间2024年9月5日。路透社/Everett Collection/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 11:32:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-xi-urges-efforts-achieve-annual-economic-target-2024-09-12/</guid></item><item><title>消息人士称，中国警告汽车制造商在海外建厂存在风险</title><link>https://www.reuters.com/business/autos-transportation/china-warns-carmakers-risks-building-plants-overseas-sources-say-2024-09-12/</link><description>
-&lt;p&gt;据两名知情人士透露，中国商务部近期在一次会议上向国内汽车制造商警示了海外汽车相关投资的潜在风险，因为这些建企寻求全球扩张以应对国内市场增长放缓的风险。&lt;/p&gt;&lt;p&gt;他们在七月上旬的会议上得知，商务部劝告本土汽车制造商避免在印度投资，并引用中央政府发布的指示，对在俄罗斯和土耳其的投资“强烈劝阻”，并以更为温和的语气强调了在欧洲和泰国的建厂风险，其中一人表示。&lt;/p&gt;&lt;p&gt;此外，商务部还鼓励汽车制造商利用海外工厂进行最终车辆组装，通过从中国出口拆解组件以减轻来自地缘政治问题的潜在风险，该知情人士表示。&lt;/p&gt;&lt;p&gt;但他们并未收到确保核心电动汽车技术留在国内的建议，正如周四彭博新闻报道的那样，两名知情人士称。&lt;/p&gt;&lt;p&gt;由于他们未经授权接受媒体采访，他们拒绝透露自己的名字。&lt;/p&gt;&lt;p&gt;商务部未立即对传真询问做出回应。&lt;/p&gt;&lt;p&gt;自2020年两国军队在争议的喜马拉雅边境发生冲突以来，中印关系一直紧张，新德里加强了对中国投资的审查并暂停了大型项目。&lt;/p&gt;&lt;p&gt;中国国有SAIC汽车集团（600104.SS）多年来一直苦于其在印度的投资。该公司曾在四月份表示，将引进印度投资者来为其MG品牌在该国创造更有利的运营环境。&lt;/p&gt;&lt;p&gt;在俄罗斯，由于西方国家因制裁而撤退，中国品牌汽车的身影逐渐增多。&lt;/p&gt;&lt;p&gt;奇瑞（CHERY.UL）正在与俄罗斯制造商进行会谈，讨论在俄罗斯工厂生产汽车，俄罗斯国家新闻社TASS在八月份报道了这一消息，引用奇瑞俄罗斯分公司负责人弗拉基米尔·史马科夫的话。&lt;/p&gt;&lt;p&gt;中国汽车制造商正日益寻求海外扩张，因为他们面临着中国需求疲软引发的产能过剩问题，这导致了长期而惨烈的降价战。他们努力在欧洲和美国等主要汽车市场的销售提升也遭遇了更高的电动汽车关税。&lt;/p&gt;&lt;p&gt;随着包括西班牙和意大利在内的几个欧洲国家试图吸引中国汽车制造商的投资，这些公司仍对独立在当地设立生产基地持谨慎态度，因为这需要大量投资并对当地法律和文化有深刻的理解。&lt;/p&gt;&lt;p&gt;中国第二大汽车制造商吉利（GEELY.UL）正在寻找在欧洲设立工厂的地点，但尚未承诺在该地建立生产基地。本周在法兰克福，该公司高管对路透社表示。&lt;/p&gt;&lt;p&gt;其他如Leapmotor（9863.HK）则选择与本地企业合作。Leapmotor与Stellantis（STLAM.MI）的合资企业今年开始在法国-意大利汽车制造商的波兰工厂生产电动汽车。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="FILE PHOTO: A staff member works on an assembly line manufacturing Geely's GX6 cars, at the Geely's plant in Chengdu, Sichuan" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CMCMGDBPJNPHBNGVFW63A5AT5Y.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;员工在位于中国四川省成都市的吉利工厂组装线上制造吉利GX6汽车。2023年4月13日，路透社照片库，赵泽帆/文件照片。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 11:12:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/china-warns-carmakers-risks-building-plants-overseas-sources-say-2024-09-12/</guid></item><item><title>乌克兰泽连斯基驳回“破坏性”的中巴和平倡议</title><link>https://www.reuters.com/world/ukraines-zelenskiy-dismisses-destructive-china-brazil-peace-initiative-2024-09-12/</link><description>
-&lt;p&gt;乌克兰总统弗拉基米尔·泽连斯基已将中国-巴西为乌克兰冲突提出的和平倡议斥为“具有破坏性”，并抱怨基辅并未参与该过程。&lt;/p&gt;&lt;p&gt;5月份，中国和巴西呼吁召开一个获得俄罗斯和乌克兰双方认可的、旨在实现所有各方平等参与的国际和平会议，并对他们所说的所有和平计划进行公平讨论。&lt;a href="https://www.reuters.com/world/brazil-china-call-russia-ukraine-peace-talks-with-both-countries-2024-05-23/"&gt;中国和巴西&lt;/a&gt;均提出此倡议。&lt;/p&gt;&lt;p&gt;“中国-巴西的提议是……具有破坏性的，它不过是一纸政治声明，”泽连斯基在接受巴西媒体机构Metropoles周三发布的采访中表示。&lt;/p&gt;&lt;p&gt;“你们怎么能不向我们提出任何要求，就提出‘这是我们的倡议’呢？”&lt;/p&gt;&lt;p&gt;据Metropoles发布的视频资料显示，泽连斯基表示，该倡议缺乏对乌克兰及其领土完整的尊重，且俄罗斯总统弗拉基米尔·普京必须采取行动以表明他希望结束战争。&lt;/p&gt;&lt;p&gt;乌克兰领导人表示，他已主动提出与中国和巴西讨论这些提案。&lt;/p&gt;&lt;p&gt;路透社在6月份报道称，中国一直在努力争取发展中国家加入在瑞士乌克兰主导的峰会之前发布的六点倡议。&lt;/p&gt;&lt;p&gt;普京在5月份表示支持中国的和平提议，并本月提出中国和巴西，以及印度可担任潜在乌克兰和平谈判的中立方。&lt;a href="https://www.reuters.com/world/china-india-brazil-could-mediate-russia-ukraine-talks-russias-putin-says-2024-09-05/"&gt;相关链接&lt;/a&gt;&lt;/p&gt;&lt;p&gt;在战争早期，北京提出的十二点计划在乌克兰反响平平，而美国表示中国正将自己塑造成和谈斡旋者，但反映出俄罗斯的“虚假叙事”，并未能对其入侵行为予以谴责。&lt;/p&gt;&lt;p&gt;泽连斯基的自身提议包括从乌克兰撤军，恢复乌克兰1991年苏联解体后的边界，以及对俄罗斯的行为追究责任。&lt;/p&gt;&lt;p&gt;他表示，他认为巴西政府“更倾向于俄罗斯”，并补充道：“有必要记住，俄罗斯的爱是短暂的，而俄罗斯对法治的漠视是永恒的。”&lt;/p&gt;  &lt;figure&gt;&lt;img alt="乌克兰总统泽连斯基在基辅举行的新闻发布会上的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YWK4T4V44BKK3KBGPBSINDFXYU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;乌克兰总统弗拉基米尔·泽连斯基在俄罗斯攻击乌克兰期间于基辅举行的新闻发布会上。乌克兰，2024年8月27日。 REUTERS/Valentyn Ogirenko/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:57:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/ukraines-zelenskiy-dismisses-destructive-china-brazil-peace-initiative-2024-09-12/</guid></item><item><title>视频游戏公司因“欺骗消费者”而受到欧盟投诉</title><link>https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/</link><description>
-&lt;p&gt;电子游戏厂商艾彼克游戏公司（Epic Games）、艺电公司（Electronic Arts &lt;a href="https://www.reuters.com/markets/companies/EA.O" target="_blank"&gt;(EA.O)&lt;/a&gt;）、Roblox（RBLX.N）及其他四家公司于周四遭到欧洲消费者组织提出的欧盟消费者投诉，该投诉指责它们误导玩家进行消费。&lt;/p&gt;
-&lt;p&gt;这一行动是在人们对儿童沦为游戏成瘾者问题日益关注之际发生的，部分家长声称电子游戏制造商故意设计出会导致玩家沉迷的游戏产品。&lt;/p&gt;
-&lt;p&gt;欧洲消费者组织（BEUC）及其在法国、德国、意大利和西班牙等22个欧洲国家内的成员于周四向欧洲委员会和欧洲消费者当局网络提交了投诉。&lt;/p&gt;
-&lt;p&gt;BEUC首席执行官阿古斯汀·雷尼亚在一项声明中表示：“BEUC的成员发现了许多玩家被误导消费的案例。监管机构必须采取行动，明确指出，尽管游戏世界是虚拟的，但仍需遵守现实世界的规则。”&lt;/p&gt;
-&lt;p&gt;他表示：“如今，高级游戏内货币故意误导消费者，对儿童造成了重大损害。这些公司清楚地意识到儿童的脆弱性，并采用手段诱使年轻消费者花费更多。”&lt;/p&gt;
-&lt;p&gt;投诉还针对了微软的动视暴雪（MSFT.O）、Mojang Studios、Supercell（由腾讯控股&lt;a href="https://www.reuters.com/markets/companies/0700.HK" target="_blank"&gt;(0700.HK)&lt;/a&gt;）、以及法国同行育碧（UBIP.PA）。&lt;/p&gt;
-&lt;p&gt;这些协会表示，他们担忧消费者，尤其是儿童，无法看到数字商品的真正成本，导致他们过度消费，并且在使用高级游戏内货币时，消费者往往被剥夺了权利。&lt;/p&gt;
-&lt;p&gt;游戏欧洲协会，其成员包括艾彼克游戏公司、Roblox、动视暴雪、艺电、Supercell和育碧，表示，购买游戏内货币是一项成熟的实践，玩家对此已有充分理解。&lt;/p&gt;
-&lt;p&gt;该游说团体在一份声明中表示：“我们的会员在提供这些购买时始终尊重欧洲消费者法律。”&lt;/p&gt;
-&lt;p&gt;它还表示：“PEGI行为准则要求开发者确保在购买游戏内货币时，现实世界的成本清晰明确，”它指的是泛欧洲游戏信息代码。&lt;/p&gt;
-&lt;p&gt;Roblox引用了游戏欧洲协会的声明。其他公司尚未对请求评论做出回应。&lt;/p&gt;
+&lt;img alt="花莲空军基地的作战准备任务" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7URILX7XQZMPJP2WCANGRM5D4U.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年8月17日，在台湾花莲空军基地进行的一项作战准备任务中，一名飞行员和空军士兵向F-16V战斗机跑去，准备晚间起飞。图片由Ann Wang提供并享有版权。&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:46:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/taiwan-hopes-delayed-f-16s-start-arriving-by-end-this-year-2024-09-13/</guid></item><item><title>中国对欧盟国家的胡萝卜加大棒策略开始见效</title><link>https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</link><description>
+&lt;p&gt;随着对中国制造电动汽车的欧盟关税投票临近，北京采取了一种胡萝卜加大棒的手段来应对由27个成员国组成的欧盟集团，一方面威胁进行贸易报复，另一方面说服关键的欧盟国家进行一对一的谈判以达成交易和投资协议。&lt;/p&gt;
+
+&lt;p&gt;关税报复对欧盟商品的潜在打击将主要落在支持电动汽车关税的西班牙、法国和意大利等国的头上，这些国家出口到世界第二大经济体的猪肉、乳制品和白兰地面临风险。&lt;/p&gt;
+
+&lt;p&gt;德国、芬兰和瑞典等没有推动&lt;del&gt;关税&lt;/del&gt;的欧盟成员国会感受到较小的冲击，因为这些出口项目并未受到中国&lt;del&gt;特定&lt;/del&gt;的针对。&lt;/p&gt;
+
+&lt;p&gt;中国策略似乎奏效。&lt;/p&gt;
+
+&lt;p&gt;西班牙总理佩德罗·桑切斯在结束本周对中国访问时，坐在一辆中国电动汽车里并表示这是种“荣幸”。接着，他出人意料地敦促欧盟重新考虑其立场。&lt;/p&gt;
+
+&lt;p&gt;据西班牙政府消息人士透露，桑切斯的代表团离开时感受到“西班牙现在更为重要”，并且关于其猪肉产品关税的协议即将达成。&lt;/p&gt;
+
+&lt;p&gt;作为甜头，一家中国企业同意在西班牙投资10亿美元建设一座制造用于氢气生产的设备的工厂，这在表面上是对&lt;del&gt;西班牙的绿色雄心&lt;/del&gt;的支持。&lt;/p&gt;
+
+&lt;p&gt;北京的经济学家戴新宇表示，中国在猪肉和乳制品方面最大化了对投票支持实施电动汽车关税的国家“国内政治成本”，因为农业部门经常在欧盟政治中扮演角色。&lt;/p&gt;
+
+&lt;p&gt;他说：“这些产品重度依赖中国作为其主要出口市场之一。”&lt;/p&gt;
+
+&lt;p&gt;2023年，欧盟对中国的猪肉和乳制品出口总额约为100亿美元，尽管并不是这些类别中的所有产品都会征收关税。去年欧盟对中国的出口总额超过了2800亿美元。&lt;/p&gt;
+
+&lt;p&gt;尽管中国仍在承受特朗普时代美国关税的冲击，但中国不希望与欧盟爆发贸易战。但是，北京已明确表示，如果布鲁塞尔对电动汽车征收高达35.3%的额外关税，将进行反击。&lt;/p&gt;
+
+&lt;p&gt;根据路透社根据中国乘用车协会的数据进行的计算，2023年，出口到欧洲的中国电动汽车增长38%，达到65.6万辆，包括运往非欧盟国家的货物。据路透社的计算，去年欧洲占中国出口电动汽车的40%以上。&lt;/p&gt;
+
+&lt;p&gt;中国商务部长王文涛下周将访问欧洲，并与欧盟贸易主管瓦尔德斯·多布罗夫斯基斯举行会谈。&lt;/p&gt;
+
+&lt;p&gt;王文涛还将访问意大利，该国支持电动汽车关税，同时也在寻求中国的投资以建设电动汽车生产能力。&lt;/p&gt;
+
+&lt;p&gt;中国需要至少有65%的欧盟人口代表的15个欧盟成员国在10月份的投票中反对关税。&lt;/p&gt;
+
+&lt;p&gt;但欧盟内部立场仍存分歧。一些小国选择了低调处理。其他国家更重视与邻近国家的联系。&lt;/p&gt;
+
+&lt;p&gt;一名不愿透露姓名的爱尔兰贸易代表在中国表示：“爱尔兰对中国的出口仅占其出口的一小部分，因此爱尔兰将优先考虑欧盟市场和关系而非中国。”&lt;/p&gt;
+
+&lt;p&gt;“中国仍然很重要，但与中国的商业活动艰难，且增长不如预期那么快。”&lt;/p&gt;
+
+&lt;p&gt;爱尔兰是中国乳制品调查中第五大受影响的欧盟生产国，在猪肉调查中表现第六差。&lt;/p&gt;
+
+&lt;p&gt;相比之下，中国似乎在加拿大没有留下任何谈判或让步的余地，周一对中国菜籽油出口发起报复性调查，此前渥太华在8月份对中国的电动汽车实施了100%的关税。&lt;/p&gt;
+
+&lt;p&gt;与布鲁塞尔不同，北京没有在公开场合提前警告渥太华可能的反击方式，这类信号通常通过中国的国家媒体，如《环球时报》传达。&lt;/p&gt;
+
+&lt;p&gt;中国商务部发言人杨永健在被问及为何采取不同策略时表示，“相关证据显示加拿大对中国的菜籽油出口造成倾销并对国内产业造成了重大损害。”&lt;/p&gt;
+
+&lt;p&gt;加拿大驻北京大使馆未能立即对评论请求做出回应。&lt;/p&gt;
+
+&lt;p&gt;相反，北京明显对与欧盟进行谈判持开放态度，北京智库Trivium China的分析师艾文·裴（Even Pay）在专门研究农业领域的专家。&lt;/p&gt;
+
+&lt;p&gt;裴表示：“与加拿大不同，他们采取了直接的震撼和敬畏策略。”&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img alt="参观者参加2024年科隆游戏展计算机和电子游戏产业活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BFREOP6X4RKZFIFNKSYUCLJ7GM.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;德国科隆2024年游戏展上，参观者在玩一款游戏，摄于2024年8月21日。路透社/Jana Rodenbusch/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+	&lt;img alt="西班牙总理佩德罗·桑切斯访问中国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZWQGLWGL6VMV5LGCKFVA6JLRNY.jpg" /&gt;
+
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;西班牙总理佩德罗·桑切斯与中国主席习近平在北京的钓鱼台国宾馆会面，2024年9月9日。Borja Puig de la Bellacasa/Moncloa Palace/Handout via REUTERS/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:32:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</guid></item><item><title>中国最高卫生机构敦促适龄结婚、生育</title><link>https://www.reuters.com/world/china/chinas-top-health-body-urges-marriage-childbirth-appropriate-ages-2024-09-13/</link><description>
+&lt;p&gt;中国国家卫生健康委员会将着重加大对适龄婚姻与生育的倡导力度，一位官员称，鉴于当局正努力提升不断下跌的出生率，而该出生率的下降正缩小人口规模。&lt;/p&gt;
+&lt;p&gt;国家卫生健康委员会（NHC）副主任余学军表示，NHC还将倡导共同承担育儿责任，以引导年轻人形成对“婚姻、生育和家庭的国家支持性正面观点”，据《环球时报》周四报道。&lt;/p&gt;
+&lt;p&gt;余学军补充道，这将有助于培养“新的婚姻和生育文化”。&lt;/p&gt;
+&lt;p&gt;根据法律规定，中国男性只能在22岁之后结婚，女性则在20岁之后。&lt;/p&gt;
+&lt;p&gt;此举发生在北京试图通过激励措施鼓励更多女性生育之际，因为2023年中国人口连续第二年下降，出生率降至历史最低水平。&lt;/p&gt;
+&lt;p&gt;由于托育费用高昂，许多女性选择不生育，不愿结婚或暂时搁置职业生涯，在传统社会中她们仍被视为主要的照护者，而且性别歧视依然普遍。&lt;/p&gt;
+&lt;p&gt;官方数据显示，今年上半年结婚人数降至2013年以来的最低水平。&lt;/p&gt;
+&lt;p&gt;中国人口结构下降的许多原因源于1980年至2015年实施的一孩政策，以及昂贵的教育成本，这些因素使得许多中国家庭放弃生二胎或更多孩子，甚至不生育。&lt;/p&gt;
+&lt;p&gt;NHC的余学军指出，中国低出生率和快速老龄化的变化人口结构是经济和社会发展的自然结果，但补充说，委员会要求所有“地方持续努力，促进可持续的人口发展”。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="文件照片：青岛婚前照片拍摄" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YLOBT7SADBMJRLIN4FHL7VDCMU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年4月21日，在中国山东省青岛市的沙滩上，一对参与婚前照片拍摄的夫妇旁，一个孩子正在玩沙。路透社/Florence Lo/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:06:14 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-top-health-body-urges-marriage-childbirth-appropriate-ages-2024-09-13/</guid></item><item><title>中国吉利为欧洲工厂寻找选址</title><link>https://www.reuters.com/business/autos-transportation/chinas-geely-scouting-locations-europe-plant-2024-09-11/</link><description>
+&lt;p&gt;中国汽车制造商吉利汽车（0175.HK）正在欧洲搜寻工厂选址，但其高级管理人员在接受路透社在法兰克福的专访时表示，尚未完全承诺在当地建立生产基地。&lt;/p&gt;
+&lt;p&gt;吉利汽车集团副总裁、浙江吉利控股集团（GEELY.UL）旗下品牌之一，李权海在被问及该汽车制造商是否会在此地区建厂时表示：“目前尚非100%确定。”&lt;/p&gt;
+&lt;p&gt;吉利与波兰新政府正在就共建一家电动汽车工厂进行谈判，但今年早些时候，官员们向路透社透露，他们认为吉利并非理想的合作伙伴。&lt;/p&gt;
+&lt;p&gt;当被问及谈判情况时，李权海表示：“我们有广泛的可能选择”，但不愿提供更多细节。&lt;/p&gt;
+&lt;p&gt;吉利Lynk &amp; Co品牌在欧洲的CEO尼古拉斯·阿佩尔格林表示，吉利正在整个地区寻找选址。&lt;/p&gt;
+&lt;p&gt;该品牌目前在欧洲仅销售一款混合动力车型，将于下月在意大利推出一款中国制造的纯电动汽车，但阿佩尔格林表示，下一款纯电动汽车的计划是在欧洲制造，并补充称目前尚无具体时间表。&lt;/p&gt;
+&lt;p&gt;吉利是中国销量第二大的汽车制造商，仅次于比亚迪（002594.SZ），去年才被超越。它拥有沃尔沃汽车，与雷诺（Renault）合资，并持有阿斯顿马丁和奔驰（MBGn.DE）的股份。&lt;/p&gt;
+&lt;p&gt;该公司周三在法兰克福设立了一个基地，计划对13款所谓的“新能源汽车”——在中国汽车市场指的是混合动力汽车、纯电动汽车和氢燃料电池汽车——进行测试，以评估其性能和是否符合欧洲认证标准。&lt;/p&gt;
+&lt;p&gt;吉利加入了中国汽车制造商的行列，包括奇瑞汽车（Chery）和长城汽车（Great Wall Motor）等，这些公司都在计划在欧洲设立本地工厂。欧洲委员会计划对从国外进口的电动汽车实施更严格的贸易壁垒，包括最高35.3%的关税，目前与北京的谈判正在进行中。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="2024北京国际汽车展览会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EFF643AXQNIF5KDWXZFRBQLQTM.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京国际汽车展览会（Auto China 2024）上，一位工作人员正在清洁吉利银河E8电动汽车，日期为2024年4月25日，中国北京。路透社/丁树华/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 11 Sep 2024 15:47:51 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/chinas-geely-scouting-locations-europe-plant-2024-09-11/</guid></item><item><title>国泰航空回购香港政府2020年救助认股权证</title><link>https://www.reuters.com/business/aerospace-defense/cathay-pacific-completes-buyback-warrants-worth-hk153-bln-hong-kong-government-2024-09-13/</link><description>
+&lt;p&gt;香港航空公司国泰航空（0293.HK）于本周五宣布，已全部回购了2020年向香港政府发行的证券，这是公司偿还政府与疫情相关资本重组计划的一部分，该消息由公司方面公布。&lt;/p&gt;
+&lt;p&gt;国泰航空表示，此次回购的金额为153亿港元（19.62亿美元）。&lt;/p&gt;
+&lt;p&gt;截至7月底，该航空公司已对2020年6月作为39亿港元援助计划一部分发行的195亿港元优先股的最后部分进行了回购。&lt;/p&gt;
+&lt;p&gt;此外，该公司还支付了24.4亿港元的优先股股息。&lt;/p&gt;
+&lt;p&gt;国泰航空的行政总裁伦纳德·兰州（Ronald Lam）表示：“完成优先股和证券的回购标志着国泰航空历史上一重要章节的结束。现在，我们正坚定不移地专注于未来。”&lt;/p&gt;
+&lt;p&gt;在COVID-19大流行期间，国泰航空遭受重大损失并进行了裁员。3月，该公司实现了四年来的首次年度盈利，并支付了自2019年以来的第一笔股息。&lt;/p&gt;
+&lt;p&gt;8月，公司宣布jin间盈利下降了15%，主要原因在于机票价格下降，并宣布在7年内对航空公司投资1000亿港元（128亿美元）。&lt;/p&gt;
+&lt;p&gt;（1美元=7.7973港元）&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="一架国泰航空空客A350飞机在香港国际机场，位于中国香港" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Q6S5H6ZEZNIG3OENCIHCNGEOGA.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一架国泰航空空客A350飞机在中国香港国际机场出现，拍摄于2024年9月3日。路透社图片/Tyrone Siu/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 04:43:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/cathay-pacific-completes-buyback-warrants-worth-hk153-bln-hong-kong-government-2024-09-13/</guid></item><item><title>随着风暴“贝宾卡”逼近，台湾利用人工智能预测台风路径</title><link>https://www.reuters.com/technology/artificial-intelligence/storm-bebinca-approaches-taiwan-uses-ai-predict-typhoon-paths-2024-09-13/</link><description>
+&lt;p&gt;随着热带风暴贝宾萨猛烈地向台湾北部海域靠近，其强度不断增强，可能转变为台风，台北的气象预报员正采用一种新颖且迄今为止成效显著的方法来追踪其路径——人工智能（AI）。&lt;/p&gt;
+&lt;p&gt;基于人工智能的预报，部分搭载如英伟达（NVDA.O）等科技巨头软件的预测，其芯片由中国半导体翘楚TSMC（2330.TW）制造，迄今为止在预测台风路径方面优于传统方法。&lt;/p&gt;
+&lt;p&gt;在七月份，首次使用的基于人工智能的天气模型帮助台湾更好地预测了八年来侵袭岛屿的最强台风——海棠的路径和影响，该台风带来了创纪录的降雨量。&lt;/p&gt;
+&lt;p&gt;这项新技术通过提前八天预测海棠可能正面袭击而给台湾预报员留下了深刻印象——轻易超越传统方法，这些方法依然是预测规划的主要支柱。&lt;/p&gt;
+&lt;p&gt;"人们开始意识到与传统的模型相比，AI确实展现了令人瞩目的表现"，台湾综合灾害预防技术工程咨询公司有限公司气象服务部门的负责人夏新星表示。&lt;/p&gt;
+&lt;p&gt;贝宾萨正被包括台湾中央气象管理局（CWA）的预报员林平宇在内的人使用相同的AI工具追踪，他表示AI使他们更有信心避免直接袭击。&lt;/p&gt;
+&lt;p&gt;"对来说，这是好事。这就像是获得了一个额外的有用工具"，林说。&lt;/p&gt;
+&lt;p&gt;提供的AI天气程序包括英伟达的FourCastNet、谷歌的（GOOGL.O）GraphCast、华为的（HWT.UL）盘古天气，以及欧洲中期气象预报中心基于深度学习的系统。&lt;/p&gt;
+&lt;p&gt;"这是一个备受关注的竞争。我们很快就会知道谁是赢家"，夏说。&lt;/p&gt;
+&lt;p&gt;根据预报员和学者的说法，这种AI模型也已开始用于预测其他地区的风暴和飓风，预测精度良好。&lt;/p&gt;
+&lt;p&gt;基于人工智能的软件通过使用历史天气数据来学习气象系统的因果联系，可以提前几天预测数百个气象变量——这个过程仅需几分钟即可完成。&lt;/p&gt;
+&lt;p&gt;根据CWA整理的数据，截至9月中旬，AI在预测台风路径（三天窗口）的准确性比传统模型高出近20%。&lt;/p&gt;
+&lt;p&gt;在海棠来临之前，AI帮助政府预见了其路径上的不寻常回路，这延长了其在台湾的影响，并促使他们迅速发布罕见的1.8米（5.9英尺）降雨警告，该警告后来被证实的准确性，据CWA副负责人陆国钦说。&lt;/p&gt;
+&lt;p&gt;"(AI)增强了预报员做出预测的信心"，陆说，并补充说早期的预警为当局提供了额外的时间来执行准备。&lt;/p&gt;
+&lt;p&gt;陆还对与英伟达的合作抱有希望，英伟达今年宣布了一款名为CorrDiff的生成型AI工具，旨在预测台风登陆的更精确位置，并提供更清晰的台风内部图像。&lt;/p&gt;
+&lt;p&gt;"我们看到了潜力"，陆说。&lt;/p&gt;
+&lt;p&gt;然而，目前专家们表示，AI工具尚未能提供关于台风详细影响的优质预报，例如其强度和风速，且需要更多时间让这项新技术在超越更传统方式上稳固其领先地位。&lt;/p&gt;
+&lt;p&gt;夏指着AI在海棠上的出色表现说："这是否仅仅是好运？我们需要给AI一点更多的时间。这是一件值得期待的事情"。</description><pubDate>Fri, 13 Sep 2024 03:39:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/artificial-intelligence/storm-bebinca-approaches-taiwan-uses-ai-predict-typhoon-paths-2024-09-13/</guid></item><item><title>乌克兰与会者表示，北京防务论坛开幕之际，习近平可能会见泽连斯基</title><link>https://www.reuters.com/world/asia-pacific/beijing-kicks-off-annual-defence-forum-amid-multiple-regional-disputes-2024-09-12/</link><description>
+&lt;p&gt;中国国家主席习近平下个月可能与乌克兰总统弗拉基米尔·泽连斯基举行会面，一位前乌克兰官员在北京周四于中国年度最大军事外交活动开幕式上表示。&lt;/p&gt;
+&lt;p&gt;前乌克兰副外交部长奥列克斯·卡拉伊在香山论坛的开幕式上表示，与北京的外交关系已经改善，会面现在成为可能。&lt;/p&gt;
+&lt;p&gt;卡拉伊指出中国努力帮助恢复欧洲安全，并表示“现在我们所有在乌克兰的人都期待着一些接触，即泽连斯基总统与习近平主席之间的直接接触”。&lt;/p&gt;
+&lt;p&gt;北京在俄罗斯长达30个月的乌克兰入侵中扮演着中立角色，但与莫斯科保持着紧密的战略关系，并未参加乌克兰在六月举办的和平峰会。&lt;/p&gt;
+&lt;p&gt;时任乌克兰外交部长德米特罗·库列巴在泽连斯基计划于11月举行另一次可能峰会之际，于7月在北京会见了中国同行。&lt;/p&gt;
+&lt;p&gt;北京外交学院区域与全球治理研究所教授崔洪健在论坛间隙表示，中国愿意加入未来的峰会，因为它不希望自己的努力“付诸东流”。&lt;/p&gt;
+&lt;p&gt;崔洪健在被问及 Xi-Zelenskiy 会晤的前景时说：“我们愿意做任何有利于和平的事。”&lt;/p&gt;
+&lt;p&gt;乌克兰是90个国家和国际组织之一，在9月12日至14日于北京举行的精心编排的论坛上代表。&lt;/p&gt;
+&lt;p&gt;尽管在中国后院深陷领土纷争，中国仍迫不及待地要将自己塑造为国际冲突中的负责任参与者。今年的论坛主题为“促进和平，共创未来”。&lt;/p&gt;
+&lt;p&gt;菲律宾和中国在南海相互指责撞击海岸警卫舰船，而中国至少在8月两次进入日本领空和领海。&lt;/p&gt;
+&lt;p&gt;北京继续向民主治理下的台湾周边派出战机和舰船，而中国认为台湾是其领土。&lt;/p&gt;
+&lt;p&gt;西方国家对中国与俄罗斯日益增长的军事合作以及南海的“危险行动”表示担忧。7月，中国和白俄罗斯在北约成员国波兰边界附近举行了联合军事演习。&lt;/p&gt;
+&lt;p&gt;美国计划派遣迈克尔·蔡斯，国防部中国、台湾和蒙古助理副部长出席该论坛。蔡斯的级别高于去年出席的美国官员，尽管他的职位符合历史规范。&lt;/p&gt;
+&lt;p&gt;在过去的几个月中，美中军事紧张局势因为近两年来的常规沟通渠道重新开放而稳定下来，尽管中国的核谈判在7月被北京中断。&lt;/p&gt;
+&lt;p&gt;一些人希望蔡斯的出席将预示与中国更深入的实质性接触。&lt;/p&gt;
+&lt;p&gt;美国前国务院中国协调员兼欧亚集团中国事务主管理克·沃特斯欢迎关系的解冻，但补充说：“问题是，这些关系能否在危机时期保持稳定？”&lt;/p&gt;
+&lt;p&gt;大多数西方国家正派出小型、低级别的代表团，更愿意在那 olu Shangri-La 对话中讨论国际安全议题。&lt;/p&gt;
+&lt;p&gt;其他与会者包括白俄罗斯、阿拉伯联合酋长国、越南、新加坡、柬埔寨、智利和马尔代夫的国防部长以及一名俄罗斯副国防部长。&lt;/p&gt;
+&lt;p&gt;一位西方出席者表示，加沙危机很可能会成为讨论的主题，中国为巴勒斯坦发声的努力可能会得到一些南方国家的欢迎。&lt;/p&gt;
+&lt;p&gt;中国国防部长董俊预计将于周五发表主旨演讲。董俊是前海军指挥官，他在12月任命后，军队高级别进行了反腐败清理，今年在香山对台“台独”分子进行了炮轰。&lt;/p&gt;
+&lt;p&gt;董俊负责中国的军事外交，但不属于中央军事委员会，这是中国的核心军事指挥机构。西方军方官员认为，他是“级别高但权力有限的使者，并未参与权力政治”，一位西方出席者告诉路透社。&lt;/p&gt;
+&lt;p&gt;去年的论坛在未设国防部长的情况下举行，因为董俊的前任李尚福已被解职，正在接受腐败调查。李尚福和他的前任魏凤和在6月因腐败指控被中共中央开除出党。&lt;/p&gt;
+&lt;p&gt;（本故事已更正，第6段中一位学术的职务从中国国际研究学院的欧洲研究部主任更改为北京外交学院区域与全球治理研究所教授，以及标题中乌克兰的描述进行了调整。)&lt;/p&gt;
+&lt;figure&gt;
+   &lt;img alt="上海合作组织在哈萨克斯坦首都阿斯塔纳举行峰会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RPH57RS6OJIKNCJGPPAVY5T4UY.jpg" /&gt;
+   &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国国务院总理习近平于2024年7月4日在哈萨克斯坦首都阿斯塔纳举行的上海合作组织（SCO）峰会上。Sputnik/Sergei Savostyanov/Pool via REUTERS/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 00:33:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/beijing-kicks-off-annual-defence-forum-amid-multiple-regional-disputes-2024-09-12/</guid></item><item><title>习近平敦促努力实现年度经济目标</title><link>https://www.reuters.com/world/china/chinas-xi-urges-efforts-achieve-annual-economic-target-2024-09-12/</link><description>
+&lt;p&gt;据报道，中国国家主席习近平于周四敦促相关部门全力以赴实现国家的年度经济和社会发展目标，与此同时，外界普遍预期需要采取更多措施以提振经济复苏之颓势。&lt;/p&gt;
+&lt;p&gt;习近平在西北城市兰州举行的研讨会上发表讲话时强调，所有地区都必须在第三季度末和第四季度对经济工作“抓实抓手”，国家电视台CCTV报道。&lt;/p&gt;
+&lt;p&gt;他呼吁将就业放在突出位置，并在新兴产业发展中予以扩充。&lt;/p&gt;
+&lt;p&gt;习近平还承诺消除所有形式的地区保护主义，深化国有企业的改革，并实施支持私营部门的政策。&lt;/p&gt;
+&lt;p&gt;中国经济增长放缓已促使全球投资机构下调2024年增长预测，低于约5%的官方目标。&lt;/p&gt;
+&lt;p&gt;ANZ经济学家在周五的报告中表示：“与官方目标之间的差距可能扩大至0.4-0.5%。这可能会促使当局释放刺激计划。”&lt;/p&gt;
+&lt;p&gt;尽管8月份的出口增长超出预期，但官方消费价格和生产者价格数据显示，中国仍需抵御通货紧缩压力。&lt;/p&gt;
+&lt;p&gt;中国将于周六发布8月份的工业产出、零售销售和失业率数据。&lt;/p&gt;
+&lt;p&gt;在房地产市场长期低迷、失业率居高不下、债务问题频发以及贸易紧张局势加剧的背景下，中国当局面临越来越大的压力，需要推出更多政策。&lt;/p&gt;
+&lt;p&gt;中国央行一位官员上周表示，中国有空间降低银行必须留存作为准备金的现金数量。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="Beijing正式开幕论坛中国-非洲合作峰会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CKJZ2AINC5NFBDZ3RHFXJ2DZUY.jpg" /&gt;
+figcaption style="text-align: center;"&gt;&lt;i&gt;中国国家主席习近平在北京人民大会堂举行的第九届中国-非洲合作论坛（FOCAC）峰会开幕式上发表主题演讲。时间：2024年9月5日。图片由Florence Lo提供。&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 11:32:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-xi-urges-efforts-achieve-annual-economic-target-2024-09-12/</guid></item><item><title>调查人员支持世界反兴奋剂机构对中国游泳运动员案件的处理</title><link>https://www.reuters.com/sports/investigator-backs-wadas-handling-chinese-swimmers-case-2024-09-13/</link><description>
+&lt;p&gt;一名调查员肯定了世界反兴奋剂机构对涉及23名中国游泳运动员药检作弊案件的处置，并表示世界反兴奋剂机构既未表现出懈怠，也未对中国展现出偏见。&lt;/p&gt;&lt;p&gt;由全球反兴奋剂机构精心挑选的瑞士检察官埃里克·科蒂耶在7月份表示，世界反兴奋剂机构未在涉及游泳运动员的案件中存在处理不当，这些运动员检测出阳性反应为Trimetazidine（TMZ），但经过中国调查予以澄清。&lt;/p&gt;&lt;p&gt;科蒂耶在周四的最终报告中重申了这些发现，但同时也批评世界反兴奋剂机构未能就中国反兴奋剂机构（CHINADA）未能遵循其反兴奋剂标准中规定的所有程序提出挑战。&lt;/p&gt;&lt;p&gt;科蒂耶在其59页报告的结论中表示：“案卷中没有任何情形——该案卷已完善——表明世界反兴奋剂机构表现出偏袒或懈怠，或以任何方式使23名检测出阳性反应的TMZ的游泳运动员受益。”&lt;/p&gt;&lt;p&gt;他还认为，世界反兴奋剂机构决定不对中国反兴奋剂机构未将对游泳运动员提起的兴奋剂违规指控提出上诉是“合理的”。&lt;/p&gt;&lt;p&gt;中国反兴奋剂机构表示，游泳运动员不慎接触到TMZ——一种增加心脏血流量的药物——是由于污染引起的。该机构表示，药物残留物在他们的下榻酒店的厨房中被发现，该案件未公开。&lt;/p&gt;&lt;p&gt;世界反兴奋剂机构科学部门随后确定该情况是合理的。&lt;/p&gt;&lt;p&gt;此案引发了运动员和国家反兴奋剂机构的不满，他们质疑世界反兴奋剂机构的过程，并就案件的透明度不足提出投诉。&lt;/p&gt;&lt;p&gt;世界反兴奋剂机构总干事奥利弗·尼格里周四在一份声明中表示，科蒂耶的报告“明确强调了世界反兴奋剂机构的审查是全面、专业且遵循规则的”。&lt;/p&gt;&lt;p&gt;“归根结底，（科蒂耶）重申世界反兴奋剂机构对中国没有偏见，并且基于证据，其决定不对案件提出上诉是合理的。”&lt;/p&gt;&lt;p&gt;美国反兴奋剂管理局（USADA）的首席执行官特拉维斯·蒂格特，同时也是对世界反兴奋剂机构处理此案的直言不讳的批评者，对报告的结论并不满意。&lt;/p&gt;&lt;p&gt;“尽管世界反兴奋剂机构的管理层希望关闭关于中国23名运动员阳性TMZ案件丑闻的账簿，但今日由世界反兴奋剂机构调查员发布的完整报告不仅证实了我们的担忧，甚至提出了需要解答的新问题，”他说。&lt;/p&gt;&lt;p&gt;“未能对调查持续不采取行动，以及对23名阳性检测是污染还是故意使用的关键问题缺乏回应，将会在未来多年困扰全球的运动员。”&lt;/p&gt;  &lt;figure&gt;&lt;img alt="World Anti-Doping Agency Symposium in Lausanne" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LAKEQI3H4VMUDMZ2LPLDP4XYKA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在瑞士洛桑举行的世界反兴奋剂机构（WADA）研讨会上的WADA标志。路透社/Denis Balibouse&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 03:12:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/investigator-backs-wadas-handling-chinese-swimmers-case-2024-09-13/</guid></item><item><title>特朗普的潜在回归加剧了新兴市场投资者的担忧</title><link>https://www.reuters.com/markets/us/potential-return-trump-fuels-concern-among-emerging-market-investors-2024-09-12/</link><description>
+&lt;p&gt;美国日益紧绷的总统选举竞争引发了新兴市场投资者的不安，他们担心前总统唐纳德·特朗普重返白宫可能对新兴市场造成伤害，而这部分市场正准备迎来繁荣。&lt;/p&gt;
+&lt;p&gt;美国利率下调的前景为新兴市场资产的前景注入了活力，这些资产在最近几年一直落后于其发达市场的同行。&lt;/p&gt;
+&lt;p&gt;然而，分析人士现在担心，在特朗普第二次总统任期下，贸易壁垒可能会得到加强，这可能导致通货膨胀反弹，进而推动利率上升，提升美元，最终再次对新兴市场施加压力。&lt;/p&gt;
+&lt;p&gt;“通常，这将是一个对新兴市场有利的宏观背景：强硬的增长、持续的去通胀以及疲软的美元，”毕马威资产管理高级多资产策略师Arun Sai在路透全球市场论坛（GMF）上表示。&lt;/p&gt;
+&lt;p&gt;“但我们面临两个问题，”Sai说——中国依然是全球经济的一个负担，还有强加更高的关税和贸易中断的威胁。&lt;/p&gt;
+&lt;p&gt;“新兴市场将承受最大的冲击，”他说。&lt;/p&gt;
+&lt;p&gt;特朗普表示，他将考虑对中国出口征收60%的关税，巴克莱经济学家估计，这一举措可能会在第一年内减少中国国内生产总值2个百分点。&lt;/p&gt;
+&lt;p&gt;对美国的其他贸易伙伴，提议的是一个远低于10%的普遍关税。&lt;/p&gt;
+&lt;p&gt;这样的关税水平可能会削减美中双边贸易70%，牛津经济研究所指出，可能导致数以千亿美元的交易被取消或重新定向。&lt;/p&gt;
+&lt;p&gt;海峡投资管理公司首席执行官Manish Bhargava表示，投资者难以预测中国经济何时能够扭转局面。&lt;/p&gt;
+&lt;p&gt;“新兴市场的风险应该伴随着溢价，但这并没有发生……印度是个好选择，但价格昂贵，中国便宜，但问题不少。”&lt;/p&gt;
+&lt;p&gt;在首次面对面辩论中，民主党候选人卡马拉·哈里斯将特朗普的关税计划比作对中产阶级的销售税。尽管如此，她的竞选活动支持拜登时代的关税，甚至暗示未来将实施“目标化和战略性的关税”。&lt;/p&gt;
+&lt;p&gt;“哈里斯政府很可能会继续使用关税，但她更愿意与其他工具如清洁能源行业的投资一同使用，”咨询公司Ziemba Insights的创始人Rachel Ziemba说。&lt;/p&gt;
+&lt;p&gt;瑞士银行全球财富管理首席投资官Mark Haefele指出，特朗普对中国和其他贸易伙伴的新提议的关税可能低于威胁的水平。&lt;/p&gt;
+&lt;p&gt;另一方面，华盛顿推动“友邦化”——用友好的国家取代中国在供应链中的角色——可能会提升与美国的对齐的新兴市场。&lt;/p&gt;
+&lt;p&gt;如果供应链多元化再次加速，Haefele表示，&lt;a href="https://www.reuters.com/markets/europe/global-trade-war-or-merry-dance-2024-02-14/"&gt;印度&lt;/a&gt;和关键东南亚经济体，如印度尼西亚和&lt;a href="https://www.reuters.com/markets/asia/malaysia-shines-foreign-investors-return-peers-stumble-2024-08-22/"&gt;马来西亚&lt;/a&gt;将从中受益。&lt;/p&gt;
+&lt;p&gt;Global X ETFs的高级投资组合经理兼新兴市场策略负责人Malcolm Dorson在GMF中表示，“基于四个支柱，印度是新兴市场中的最佳结构性故事。”&lt;/p&gt;
+&lt;p&gt;有利于印度的因素包括吸引人的人口结构、长期增长潜力、友好的市场政府和“在正确的时期处于正确的位置”以从中国+1贸易中获益，Dorson说。&lt;/p&gt;
+&lt;p&gt;（加入&lt;a href="https://apac1-apps.platform.refinitiv.com/cms/?navid=51883" target="_blank"&gt;GMF&lt;/a&gt;在LSEG Messenger上进行现场采访：&lt;a href="https://lseg.group/3KFHrhe" target="_blank"&gt;https://lseg.group/3KFHrhe&lt;/a&gt;）&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="哈里斯-特朗普在宾夕法尼亚州费城的ABC主持的总统辩论" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HSYXQOEMQFJXJCVLDXTWYNM6G4.jpg" /&gt;
+ 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;共和党总统候选人、前美国总统唐纳德·特朗普在宾夕法尼亚州费城的辩论日反应积极，对方是民主党总统候选人、美国副总统卡马拉·哈里斯，美国，2024年9月10日。 REUTERS/Evelyn Hockstein&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="纽约证券交易所(NYSE)的股票交易员在纽约工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OW7S36IZCNK4NCCLT7PXV4JPS4.jpg" /&gt;
+ 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名专业交易员在美国纽约市纽约证券交易所（NYSE）的盘面上进行交易，美国，2024年9月9日。  REUTERS/Brendan McDermid/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:33:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/potential-return-trump-fuels-concern-among-emerging-market-investors-2024-09-12/</guid></item><item><title>美国众议院通过针对中国的法案限制电动汽车税收抵免</title><link>https://www.reuters.com/world/us/us-house-passes-bill-targeting-china-that-would-limit-ev-tax-credits-2024-09-12/</link><description>
+&lt;p&gt;美国众议院于周四以微弱优势投票通过了限制符合美国电动汽车税收优惠条件的车辆中中国内容监管的立法。&lt;/p&gt;
+&lt;p&gt;众议院以217票对192票的结果通过了此法案，该法案尚未被参议院审议，旨在收紧定义为使车辆不符合美国电动汽车税收优惠的中国组件。&lt;/p&gt;
+&lt;p&gt;代表通用汽车（GM.N）、丰田汽车（7203.T）、大众汽车（VOWG_p.DE）、现代汽车（005380.KS）以及其他汽车公司的汽车创新联盟表示，该法案将导致符合资格的车辆数量减少，并将意味着需对车辆排放和电动汽车目标实施更为激进的放宽规则。&lt;/p&gt;
+&lt;p&gt;汽车制造商集团首席执行长约翰·博泽拉表示，这些标准部分基于电动汽车税收优惠的可获得性，如果这些激励措施被取消，“汽车工业基地将面临来自中国严重经济和国家安全风险，美国竞争力将下降，消费者福利将受到影响。”&lt;/p&gt;
+&lt;p&gt;由卡罗尔·米勒议员发起的法案旨在收紧适用于中国以及其他国家的所谓“关切的外国实体”定义。她表示，这将“确保中国企业无法再从本为美国制造商提供的电动汽车税收优惠中受益。”&lt;/p&gt;
+&lt;p&gt;基于2022年8月通过的法律要求的规则旨在引导美国电动汽车电池供应链脱离中国市场。&lt;/p&gt;
+&lt;p&gt;美国财政部和中国驻华盛顿大使馆尚未立即作出评论。&lt;/p&gt;
+&lt;p&gt;截至目前，美国在售的113款电动汽车或插电式混合动力车型中，有22款符合电动汽车税收优惠条件——其中仅有13款能够获得全额7,500美元的税收优惠，博泽拉表示。&lt;/p&gt;
+&lt;p&gt;五月份，美国财政部在&lt;a href="https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/" target="_blank"&gt;一些关键的中国石墨等矿物材料方面给予汽车制造商更多灵活性&lt;/a&gt;，以符合电动汽车税收优惠的电池矿物质要求。&lt;/p&gt;
+&lt;p&gt;该部门表示，它将给汽车制造商直到2027年的时间，以移除如石墨等难以追踪的矿物材料，这些材料包含在负极材料中，以及电解液中包含的关键矿物质、粘合剂和添加剂。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="一名男子在印尼万隆国际车展期间擦拭丰田普锐斯PHEV和丰田BZ4X附近的地面" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DRSJXCNFPVJI5GJAEG4PQR5JYQ.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年7月18日，印度尼西亚万隆国际车展期间，一名男子在丰田普锐斯PHEV和丰田BZ4X附近擦拭地面。REUTERS/Ajeng Dinar Ulfiana/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 16:30:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/us-house-passes-bill-targeting-china-that-would-limit-ev-tax-credits-2024-09-12/</guid></item><item><title>美国支持非洲两个联合国安理会常任理事国席位</title><link>https://www.reuters.com/world/us-supports-two-permanent-un-security-council-seats-africa-2024-09-12/</link><description>
+&lt;p&gt;美国驻联合国大使琳达·托马斯-格林菲尔德于周四宣布，美国支持为非洲国家设立两个常任联合国安全理事会席位，并为一小型岛国发展中国家的席位实施轮值制度。&lt;/p&gt;
+&lt;p&gt;此举是美国寻求修复与非洲关系的一部分，许多非洲国家对华盛顿支持加沙战争表示不满，并希望能深化与对制衡该地区中国影响力至关重要的太平洋岛国的关系。&lt;/p&gt;
+&lt;p&gt;托马斯-格林菲尔德向外交关系委员会表示：“多年来，各国一直呼吁创建一个更具包容性和代表性的理事会，一个能反映当今世界的人口统计状况、更好地应对我们面临挑战的理事会。”&lt;/p&gt;
+&lt;p&gt;推动设立两个非洲常任席位和一个轮值的小岛屿发展中国家席位，是华盛顿长期以来支持印度、日本和德国在安理会获得常任席位的做法之外。&lt;/p&gt;
+&lt;p&gt;美国还支持拉丁美洲和加勒比海国家的国家在安理会拥有常任席位，但未详细说明。&lt;/p&gt;
+&lt;p&gt;发展中国家长期以来一直要求在安理会获得常任席位，这是联合国最具权力的机构。然而，多年来的改革谈判未果，目前尚不清楚美国的支持能否促成行动。&lt;/p&gt;
+&lt;p&gt;托马斯-格林菲尔德表示，美国不支持扩大仅有五个国家持有的否决权。&lt;/p&gt;
+&lt;p&gt;“没有任何常任理事国愿意放弃其否决权，包括我们，”她说。“……我们认为，如果我们全面扩大这种否决权，将使理事会更加无效。”&lt;/p&gt;
+&lt;p&gt;安理会负责维护国际和平与安全，有权实施制裁、武器禁运并授权使用武力。&lt;/p&gt;
+&lt;p&gt;1945年联合国成立时，安全理事会拥有11个成员国。1965年增至15个成员国，包括10个当选国家，任期两年，以及五个具有否决权的常任国家：俄罗斯、中国、法国、美国和英国。&lt;/p&gt;
+&lt;p&gt;联合国秘书长安东尼奥·古特雷斯支持安理会改革。&lt;/p&gt;
+&lt;p&gt;古特雷斯在周三对路透社表示：“你们有一个与第二次世界大战后的情形完全相符的安全理事会……这存在合法性和有效性问题，需要改革。”&lt;/p&gt;
+&lt;p&gt;对安理会成员资格的任何变更都需要修改联合国宪章。这需要大会三分之二以上成员的批准和批准，包括当前五个否决权的常任理事国。&lt;/p&gt;
+&lt;p&gt;拥有193个成员国的联合国大会已经超过十年年一直讨论安理会的改革。但在近年来，由于地缘政治竞争导致理事会在一些问题上陷入僵局，尤其是永久否决权国家俄罗斯入侵乌克兰后，改革的动力日益增强。&lt;/p&gt;
+&lt;p&gt;托马斯-格林菲尔德表示，关于安理会改革的许多讨论仅仅是一场讨论，同时她也宣布了华盛顿支持就修改联合国宪章以改革安理会的决议草案进行谈判。&lt;/p&gt;
+&lt;p&gt;她对路透社表示，她无法确定大会就此类决议投票可能需要多长时间。&lt;/p&gt;
+&lt;p&gt;每年，大会从地理分组中选出五名新成员，任期两年的安全理事会成员。15人委员会中有三个席位由非洲国家轮值。&lt;/p&gt;
+&lt;p&gt;托马斯-格林菲尔德表示：“问题在于，这些当选的席位并不能使非洲国家充分发挥其知识和声音的价值，以持续地引领我们所有人面临的挑战——这对非洲的影响尤为显著。”&lt;/p&gt;
+&lt;p&gt;她说，小岛屿发展中国家应获得轮值选举席位，因为这些国家能够对一系列国际和平与安全问题提供“关键的洞见，特别是关于气候变化的影响。”&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="联合国纽约安全理事会会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7BCG6QNXMJLJZG2Q5Z4UAZGMHE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;美国驻联合国大使琳达·托马斯-格林菲尔德出席在纽约联合国总部举行的美以加沙冲突联合国安全理事会会议，美国，2024年9月4日。路透社/大卫·‘迪’·德尔加多/档案照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-	&lt;img alt="参观者参加2024年科隆游戏展计算机和视频游戏产业活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2IFKDFPKEJJVTGEDD46ZU4UROA.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;德国科隆2024年游戏展上，参观者在玩一款游戏，摄于2024年8月21日。路透社/Jana Rodenbusch/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="瑞士日内瓦联合国大楼上的旗帜" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YKSE3QECTVP27FR23X4L273NZU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年2月27日，瑞士日内瓦联合国大楼上的旗帜。路透社/丹尼斯·巴尔博伊索/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 04:04:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us-supports-two-permanent-un-security-council-seats-africa-2024-09-12/</guid></item><item><title>中国希望进行学术交流，但历史学家表示审查制度的加强使研究变得困难</title><link>https://www.reuters.com/world/china/china-wants-academic-exchange-historians-say-increased-censorship-makes-research-2024-09-12/</link><description>
+&lt;p&gt;于北京最大古玩市场潘家园，在毛泽东雕像、海报及二手书籍之中，醒目的警示标志警告着严禁出售可能含有国家机密或“反动宣传”内容的出版物。&lt;/p&gt;&lt;p&gt;一些标志上还显示有热线电话号码，以便市民在目睹非法销售时能向当局举报。&lt;/p&gt;&lt;p&gt;中国的古玩市场和跳蚤市场曾是历史学家挖掘文献的宝藏之地，但这些警示标志现在已成为一种象征，标志着笼罩在他们国家研究能力之上的寒霜。&lt;/p&gt;&lt;p&gt;一方面，北京希望增加学术交流，去年11月，中国国家主席习近平邀请了5万名美国学生在未来五年内来中国学习——这比目前大约800人的规模有巨大增长。&lt;/p&gt;&lt;p&gt;这将汇聚多少气势，仍然是一个悬而未决的问题。但尤其是现代中国历史学者——他们可能是对中国最感兴趣的人之一——担心加强的审查制度正在扼杀他们对国家过去的独立研究途径。&lt;/p&gt;&lt;p&gt;尤其如此的是与大文化大革命（1966-1976年）有关的文献——这是中国共产党历史上最为敏感的时期，毛泽东宣布阶级斗争，将中国陷入混乱和暴力之中。&lt;/p&gt;&lt;p&gt;“我认为，去跳蚤市场寻找宝藏的时期基本上已经结束，”弗里堡大学现代中国历史学家丹尼尔·利泽说。&lt;/p&gt;&lt;p&gt;他补充道：“搜集文献的做法已经不再受欢迎，因为这已经成为一个过于复杂、艰难和危险的任务。”他指出，年轻的国外学者越来越依赖海外收藏。&lt;/p&gt;&lt;p&gt;自1949年中华人民共和国成立以来，中国共产党一直对包括书籍、媒体和互联网在内的所有出版物施加控制，审查的强度随时间波动。&lt;/p&gt;&lt;p&gt;但在2012年上台的习近平主席统治下，审查制度变得更加严厉，他指责“历史虚无主义”或与官方说法不同的历史版本导致了苏联的解体。&lt;/p&gt;&lt;p&gt;近年来，一系列新的关于国家安全和反间谍立法条例出台，使得学者们对引用非官方的中国材料更加谨慎。&lt;/p&gt;&lt;p&gt;一些现代中国历史学者表示，他们因出版了挑战中国官方叙事或涉及敏感话题的研究而遭到签证拒绝。&lt;/p&gt;&lt;p&gt;乔治敦大学的历史学家詹姆斯·米勒华德表示，在为2004年出版的《新疆：中国的穆斯林边疆》一书作出贡献后，他曾几次因签证被阻，但后来每次都经过耗时漫长的过程得到了短期签证。&lt;/p&gt;&lt;p&gt;美国的一位历史学家表示，他选择了一个非争议性话题进行研究，以保持进入中国的旅行途径。由于问题的敏感性，他拒绝透露自己的身份。&lt;/p&gt;&lt;p&gt;中国教育部未对路透社的评论请求作出回应。外交部表示，他们对相关情况一无所知。&lt;/p&gt;&lt;p&gt;利泽和其他外国历史学家表示，他们以前在中国的跳蚤市场和古玩市场上发现了被迫害知识分子的案档以及秘密共产主义党的文件。&lt;/p&gt;&lt;p&gt;这些文献通常是由已故官员的亲属捐赠的，或者是由书商从政府机构搬迁至的回收中心附近救出的，而在1990年代大规模的国家部门精简裁员中，这些政府机构已被解散。&lt;/p&gt;&lt;p&gt;但自2008年以来，政府已加强对跳蚤市场和二手书及其他文献来源的控制。据报道，国内媒体、收藏家和四名接受路透社采访的外国研究人员表示，买方被逮捕，卖方被罚款，并从二手书网站上清除政治敏感物品。&lt;/p&gt;&lt;p&gt;例如，2019年，一位日本历史学家因从一家二手书店购买有关中日战争的1930年代书籍而被起诉为间谍，被拘留两个月。&lt;/p&gt;&lt;p&gt;两年后，一名涉嫌在香港和台湾出版商出版的非法出版物上Kongfuzi，中国最大的二手书网站销售的人，因没有营业执照被罚款28万元人民币（3.9万美元），据中国媒体报道。&lt;/p&gt;&lt;p&gt;今年，一家回收中心的两个工人因销售机密军事文件而受到惩处，据国家媒体报道。&lt;/p&gt;&lt;p&gt;现在，买家与通过微信销售的商贩培养着个人关系，一位对收藏文革文献感兴趣、要求匿名的北京收藏家说。&lt;/p&gt;&lt;p&gt;历史学家还指出，自2010年以来，大部分地方政府档案的访问已被限制，它们的数字化使得审查者可以对它们进行大量删减。&lt;/p&gt;&lt;p&gt;海外历史学家补充说，他们在中国大陆的同行只能在当前政治环境下保存材料，但并非所有人都感到悲观。&lt;/p&gt;&lt;p&gt;“即使在习近平执政下，中国学者仍在寻求机遇，扩大对中华人民共和国历史的理解和阐释，”达特茅斯学院助理历史学教授伊·陆说，他曾深入研究中国大学收集的20世纪资料。“并非一切都已失去希望。”&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S7YIKPJGBFOMVDFMDOJTMGCLOM.jpg" alt="北京潘家园古玩市场" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京的潘家园古玩市场的二手书区域，一名商贩在描绘已故中国主席毛泽东和其他领导人的图像和雕像旁边接待顾客，拍摄于2024年8月3日。路透社/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
 &lt;figure&gt;
-	&lt;img alt="游戏《堡垒之夜》在安卓系统上安装" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YQRNL7K3NVI45LC3BAR6IJRK7I.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;此描绘图展示了2021年5月2日拍摄的《堡垒之夜》游戏在安卓操作系统上安装的情形。路透社/Dado Ruvic/插画/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Wed, 11 Sep 2024 22:14:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/videogame-firms-hit-with-eu-complaint-over-tricking-consumers-2024-09-11/</guid></item><item><title>中美关系的特朗普2.0难题：制裁美国官员</title><link>https://www.reuters.com/world/us/trump-20-wrinkle-us-china-relations-sanctions-us-officials-2024-09-12/</link><description>
-&lt;p&gt;在竞选连任之际，前总统唐纳德·特朗普将对外政策中对中国的强硬立场作为其竞选核心。&lt;/p&gt;&lt;p&gt;然而，如果特朗普于11月5日当选，他本人以及中国的领导人都将面临一个尴尬的现实：特朗普政府中许多重要的外交政策候选人受到中国的制裁，并被禁止进入该国。&lt;/p&gt;&lt;p&gt;2021年乔·拜登总统就职不久后，中国采取前所未有的举措，以他们在被视为反华政策中的作用为理由，对28位前特朗普政府官员实施制裁，赌注是在特朗普的白宫生涯已终结。&lt;/p&gt;&lt;p&gt;这些制裁包括禁止前往中国的旅行，涉及包括特朗普的国务卿迈克·蓬佩奥等人，北京称他为“说谎者”和“小丑”，以及前国家安全顾问罗伯特·奥布莱恩。&lt;/p&gt;&lt;p&gt;蓬佩奥并未排除再次为特朗普工作的可能性，了解特朗普与奥布莱恩关系的消息人士表示，奥布莱恩可能在未来特朗普的第二个任期内扮演重要角色。民意调查显示，共和党特朗普与民主党凯拉·哈里斯的选举竞争基本旗鼓相当。&lt;/p&gt;&lt;p&gt;至少，中国与特朗普政府潜在决策者的公开敌对关系将引发关于美国和中国如何应对两国都描述为世界上最重要双边关系的担忧。&lt;/p&gt;&lt;p&gt;“这是中国面临的一个新问题，”复旦大学美国研究与发展中心主管吴辛博说。“如果之前被制裁的官员返回美国政府，我认为从中国的角度看，取消制裁的可能性非常渺茫。”&lt;/p&gt;&lt;p&gt;然而，专家和前特朗普政府官员认为，北京必须解决这个问题。&lt;/p&gt;&lt;p&gt;“他们必须后退一步，否则不会有与中共（中国共产党）的任何交往，”一位仍在美国政府工作的前特朗普政府官员、自己也被制裁并向路透社透露，在谈到可能进入新一届特朗普政府的人员时，他要求匿名，因为涉及敏感性。&lt;/p&gt;&lt;p&gt;中国大使馆在华盛顿拒绝对此发表评论。&lt;/p&gt;&lt;p&gt;特朗普竞选发言人卡罗琳·莱维特对路透社表示：“特朗普总统将在他的政府中挑选他认为最适合服务于美国人民的官员——无论中国是否喜欢。”&lt;/p&gt;&lt;p&gt;2021年1月，中国因所谓“疯狂行径”严重干涉中国内政，点名为10名前特朗普官员实施制裁。&lt;/p&gt;&lt;p&gt;除了蓬佩奥和奥布莱恩之外，中国还针对特朗普的高级外交政策顾问、负责东亚事务的大卫·斯蒂尔威尔，前白宫经济学家彼得·纳拉罗，以及在2020年访问台湾时激怒北京的官员基思·克拉奇等人。其中一些人与特朗普有公开分歧，例如前国家安全顾问约翰·博尔顿，这使他们在第二任期内重返政府成为不可能。&lt;/p&gt;&lt;p&gt;中国当时还秘密制裁了另外18人，并未披露其身份。&lt;/p&gt;&lt;p&gt;这些人中的许多曾帮助实施特朗普针对中国的强硬、尽管混乱无序的方法，包括一系列关税浪潮，导致两国陷入贸易战，以及北京正在对维吾尔穆斯林犯下种族灭绝的声明。&lt;/p&gt;&lt;p&gt;中国官员最为公开的对抗者是蓬佩奥，他于2022年作为私人公民访问台湾并呼吁美国承认该岛为独立国家，这导致北京称这位“前政治家”摧毁了自己的信誉。&lt;/p&gt;&lt;p&gt;中国声称台湾是其领土，这一问题在中国与华盛顿的关系中是一条不可逾越的红线。&lt;/p&gt;&lt;p&gt;蓬佩奥表示他将考虑在第二个特朗普任期内工作。在7月份的共和党全国代表大会上，他表示在特朗普手下服务是他的“最高荣誉”，并称中国是美国最大的威胁。&lt;/p&gt;&lt;p&gt;蓬佩奥和奥布莱恩没有回应评论请求。&lt;/p&gt;&lt;p&gt;对官员的制裁以前一直是美中外交的导火索。&lt;/p&gt;&lt;p&gt;美国对前中国国防部长李尚福实施制裁，造成了2023年长达数月的僵局，期间中国拒绝与美国国防部长劳埃德·奥斯汀举行会谈。在李因国内腐败丑闻被中国政坛除名后，这个问题得到了解决。&lt;/p&gt;&lt;p&gt;堪萨斯大学中国制裁专家张杰克表示，这次情况更复杂，因为北京通过2021年的《反外国制裁法》试图阻止美国的制裁。&lt;/p&gt;&lt;p&gt;“这限制了他们的手脚，使得撤销比一个私人旅行禁令更难，”张说。&lt;/p&gt;&lt;p&gt;但可能存在变通方案。&lt;/p&gt;&lt;p&gt;这可能包括双方在各自的 μητροπόλευση 寻找会面地点，而不是在自己的首都接待。&lt;/p&gt;&lt;p&gt;北京也可能试图通过间接渠道或选择性地同意会见未受制裁的官员来接触特朗普政府的代理人，国防部中国问题专家、民主防御基金会智库分析师克雷格·三逊说。&lt;/p&gt;&lt;p&gt;中国也可以暂时放宽限制，据称美国在这方面做过，特朗普政府时期的前白宫国家安全委员会官员伊万·卡纳帕蒂说。&lt;/p&gt;&lt;p&gt;“对于北京来说，领导人向官僚机构（与美国官员会晤）发出信号将更容易，因为那里的政治总是凌驾于法治之上。”&lt;/p&gt; &lt;figure&gt;&lt;img alt="New York commemorates the 23rd anniversary of the September 11 attacks" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IURMNIU74NPUPPDOTIIN3G75OE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;共和党总统候选人、前美国总统唐纳德·特朗普出席在纽约市曼哈顿的9/11纪念馆和博物馆举行的纪念2001年9月11日世贸中心袭击事件23周年仪式，美国，2024年9月11日。路透社/Mike Segar/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:15:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/trump-20-wrinkle-us-china-relations-sanctions-us-officials-2024-09-12/</guid></item><item><title>乌克兰代表称，北京防务论坛开幕之际，习近平可能会见泽连斯基</title><link>https://www.reuters.com/world/asia-pacific/beijing-kicks-off-annual-defence-forum-amid-multiple-regional-disputes-2024-09-12/</link><description>
-&lt;p&gt;中国国家主席习近平可能将于下月与乌克兰总统弗拉基米尔·泽连斯基会晤，一名前乌克兰官员于周四在北京中国最大年度军事外交活动开幕式上透露。&lt;/p&gt;
-&lt;p&gt;前乌克兰副外长奥列克桑德·查利伊在香山论坛的开幕式上表示，与北京的外交关系得到改善，会晤现在成为可能。&lt;/p&gt;
-&lt;p&gt;查利伊指出中国为恢复欧洲安全所付出的努力，并表示“现在我们乌克兰所有人都期待总统泽连斯基和习近平之间的直接接触”。&lt;/p&gt;
-&lt;p&gt;北京在俄罗斯持续30个月的乌克兰侵略中扮演中立角色，但与莫斯科保持紧密的战略联系，并未参与乌克兰于六月举办的和平峰会。&lt;/p&gt;
-&lt;p&gt;乌克raiCa前外长德米特罗·库列巴于七月在北京与中方同行会面，在泽连斯基计划于十一月再次举行峰会之际，此次峰会将有俄罗斯参加。&lt;/p&gt;
-&lt;p&gt;中国国际问题研究院欧洲研究所所长崔洪建在论坛边上表示，中国愿意加入未来的峰会，因为它不愿意看到其努力“徒劳无益”。&lt;/p&gt;
-&lt;p&gt;在被问及习-泽会晤的前景时，崔洪建表示：“我们愿为和平做任何事情。”&lt;/p&gt;
-&lt;p&gt;乌克raiCa代表90个国家和国际组织参加了精心编排的论坛，该论坛从9月12日至14日在北京举行。&lt;/p&gt;
-&lt;p&gt;中国渴望将自己定位为国际冲突中的负责任参与者，尽管其自身也卷入后院的地缘争端。今年的论坛主题为“传递和平，共创未来”。&lt;/p&gt;
-&lt;p&gt;菲律宾和中国在南海交换了有关撞沉海岸警卫舰的指控，同时中国在八月份至少两次进入日本领空和领海。&lt;/p&gt;
-&lt;p&gt;北京继续向民主治理下的台湾周边地区派遣飞机和船只，而中国将台湾视为其固有领土。&lt;/p&gt;
-&lt;p&gt;西方国家对中国与俄罗斯日益增长的军事合作以及南海的“危险行为”表示担忧。七月份，中国和白俄罗斯在北约成员国波兰边境几公里外举行联合军事演习。&lt;/p&gt;
-&lt;p&gt;美国计划派遣中国、台湾和蒙古副助理国防部长迈克尔·查斯出席论坛。查斯的级别高于去年出席的美国官员，尽管他的军衔符合历史标准。&lt;/p&gt;
-&lt;p&gt;近几个月来，由于几乎两年后的常规沟通渠道重新开放，美中军事紧张局势得到了稳定，尽管七月份中国暂停了核谈判。&lt;/p&gt;
-&lt;p&gt;有希望查斯的出席将预示着更深层次的工作层级与中国的互动。&lt;/p&gt;
-&lt;p&gt;欧亚集团中国事务负责人、前美国国务院中国协调员里克·沃特斯欢迎关系的解冻，但补充说：“问题是，他们在危机期间是否持久？”&lt;/p&gt;
-&lt;p&gt;大多数西方国家都派遣了小型、低级别代表团，更愿意在新加坡的香格里拉对话中讨论国际安全问题。&lt;/p&gt;
-&lt;p&gt;其他与会者包括白俄罗斯、阿联酋、越南、新加坡、柬埔寨、智利和马尔代夫的国防部长以及一名俄罗斯国防部副部长。&lt;/p&gt;
-&lt;p&gt;一名西方与会者表示，加沙危机可能会成为讨论的焦点，中国倡导巴勒斯坦的努力可能会受到一些南方全球代表团的欢迎。&lt;/p&gt;
-&lt;p&gt;中国国防部长董俊预计将于周五发表主题演讲。董俊在去年十二月份担任海军司令后晋升，此前军队高级干部进行了反腐败整顿，今年他在香格里拉对话中谴责台湾“分裂分子”。&lt;/p&gt;
-&lt;p&gt;董俊负责中国的军事外交工作，但并非中央军委，即中国人民解放军的核心军事指挥机构的一部分。西方军事官员将其视为“资深但无权力的使者，不涉及权力政治”，该与会者告诉路透社。&lt;/p&gt;
-&lt;p&gt;去年论坛在没有国防部长的情况下举行，因为董俊的前任李尚福被免职，正在接受调查，而李尚福和他的前任魏凤和在六月份因腐败指控被开除出中国共产党。&lt;/p&gt;
+&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DKN2IXVZWZKG3EPAZS7GD4VKPM.jpg" alt="北京潘家园古玩市场" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京的潘家园古玩市场的二手书区域等待顾客的商贩，拍摄于2024年8月3日。路透社/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;figure&gt;
-&lt;img alt="上海合作组织峰会于哈萨克斯坦首都阿斯塔纳举行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RPH57RS6OJIKNCJGPPAVY5T4UY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国主席习近平于7月4日在哈萨克斯坦首都阿斯塔纳出席上海合作组织（SCO）峰会。Sputnik/Sergei Savostyanov/Pool via REUTERS/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 00:33:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/beijing-kicks-off-annual-defence-forum-amid-multiple-regional-disputes-2024-09-12/</guid></item></channel></rss>
+&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/W7KIUYVF3JMSFLCE5IM2ETVAAM.jpg" alt="北京潘家园古玩市场" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京的潘家园古玩市场的二手书区域接待顾客的商贩，拍摄于2024年8月3日。路透社/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6TD6C6HNJBPW5DSZVY2F6BVVXU.jpg" alt="北京潘家园古玩市场" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京的潘家园古玩市场的二手书区域下方，一名男子走过警告禁止销售非法出版物的标志，旁边展示着出售的二手书籍、毛泽东主席和其他领导人的图像和雕像，拍摄于2024年8月3日。路透社/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img alt="Panjiayuan antique market in Beijing" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NDQUIHIIYZMA3GPXM2AJLSBT2A.jpg" alt="北京潘家园古玩市场" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在北京的潘家园古玩市场的二手书区域出售中华人民共和国成立前中国领导人的海报，拍摄于2024年8月3日。路透社/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 23:04:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-wants-academic-exchange-historians-say-increased-censorship-makes-research-2024-09-12/</guid></item><item><title>独家：恒大董事长被关押在深圳特别看守所</title><link>https://www.reuters.com/world/china/evergrande-chairman-hui-kept-special-detention-center-shenzhen-sources-say-2024-09-12/</link><description>
+&lt;p&gt;中国恒大集团（3333.HK）董事长许家印——身陷国家房地产产业危机风暴中心的上市公司负责人——已被转移至深圳一处特殊拘留中心，据了解此事的两名知情人士透露。&lt;/p&gt;
+&lt;p&gt;65岁的许家印自去年被中国当局带走后，一直未见公开露面，其目前行踪亦未对外公布。&lt;/p&gt;
+&lt;p&gt;在中国证监会发现恒大集团旗舰单位夸大利润、涉嫌证券欺诈后，许家印于三月被处以660万美元的罚款，并被终身禁止进入证券市场。恒大集团于一月被责令破产。&lt;/p&gt;
+&lt;p&gt;曾是华人首富的许家印尚未被正式指控任何罪行，其拘留时长、是否将被审判或释放尚不得而知。&lt;/p&gt;
+&lt;p&gt;中国当局已拘留多名昔日显赫的商业高管，其中一些人已遭拘留数年，其命运信息甚少或完全无知情。&lt;/p&gt;
+&lt;p&gt;知情人士透露，在被捕后，许家印最初在北京居家监控。&lt;/p&gt;
+&lt;p&gt;另一位知情人士表示，数月前将其转移至深圳，以便他能够更方便地与恒大集团的高层管理人员沟通。恒大集团总部位于邻近的广州南部城市，其财富管理单位则设于深圳。&lt;/p&gt;
+&lt;p&gt;由于事件敏感性，两名知情人士均不愿透露身份。&lt;/p&gt;
+&lt;p&gt;中国公安部及深圳市政府均未对路透社的评论请求做出回应，恒大集团的主营业务恒达房地产及由香港法院任命的恒大清算人也拒绝发表评论。&lt;/p&gt;
+&lt;p&gt;许家印于1996年创立恒大集团，将其打造为按合同销售额计算的中国最大房地产开发商，勇于承担债务。&lt;/p&gt;
+&lt;p&gt;自2021年以来，该公司已违约大多数3万亿人民币的债务以及数十亿美元的财富管理产品支付，其问题已成为中国房地产市场长期困扰经济增长的标志性事件。&lt;/p&gt;
+&lt;p&gt;三月，一项监管调查发现，恒大集团一间单位在2019年至2020年间夸大收入5640亿元人民币（约合790亿美元），并基于伪造的声明发行债券。&lt;/p&gt;
+&lt;p&gt;据第二位知情人士透露，许家印在进入拘留中心后给恒大集团的高层管理人员写了一封信，敦促他们尽快解决其财富管理产品投资者的返利未支付问题。&lt;/p&gt;
+&lt;p&gt;恒大财富管理单位于2021年底宣布计划偿还其财富管理产品的投资者。但去年八月，它表示已无力按时支付月度分期付款。此后几周，该部分的一些员工被深圳警方拘留。&lt;/p&gt;
+&lt;p&gt;两名知情人士还表示，恒大集团即将交付大部分承诺买家的住宅，并指出这些公寓已完成了超过70%的建筑。&lt;/p&gt;
+&lt;p&gt;他们没有提供这些公寓的具体数量。截至2022年，恒大集团在全国有近800个项目。&lt;/p&gt;
+&lt;p&gt;（1美元=7.1213人民币）&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="China Evergrande Group Chairman Hui Ka Yan attends a news conference on the property developer's annual results in Hong Kong" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XDHBC3QPOZIM3BTQSI66GKNP44.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国恒大集团董事长许家印在香港参加恒大开发商年度业绩新闻发布会，中国香港，2021年3月28日。路透社/Bobby Yip档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 12 Sep 2024 10:54:30 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/evergrande-chairman-hui-kept-special-detention-center-shenzhen-sources-say-2024-09-12/</guid></item></channel></rss>
