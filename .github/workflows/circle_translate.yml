@@ -5,10 +5,10 @@ on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   # 每月26号4点4分 #
   schedule:
-   - cron: '59 9 * * *'
-   - cron: '49 16 * * *'
-   - cron: '6 17 * * *'
-   - cron: '0 3 * * *'
+   - cron: '34 8 * * *'
+   - cron: '55 14 * * *'
+   - cron: '40 17 * * *'
+   - cron: '29 3 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
