@@ -1,428 +1,514 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 16 Sep 2024 18:40:14 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>中欧洪水灾区工厂和零售商关闭</title><link>https://www.reuters.com/world/europe/central-europe-factories-retailers-shut-flood-hit-areas-2024-09-16/</link><description>
-&lt;p&gt;随着至少十人死亡、成千上万人被迫疏散，以及城镇从波兰至罗马尼亚部分地区被洪水淹没，中欧各地的工厂和店铺于周一暂停生产并关闭大门。这一情况是由于洪水造成的，相关信息可参阅&lt;a href="https://www.reuters.com/business/environment/more-rivers-spill-banks-central-european-floods-death-toll-rises-2024-09-16/"&gt;路透社报道&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;在捷克东北部的奥斯特拉瓦市——一个拥有29万居民的城市——由于中国企业万华化学集团部分拥有的BorsodChem化工厂关闭，公司发言人表示。&lt;/p&gt;
-&lt;p&gt;OKK Koksovny焦化厂——欧洲最大的炼焦煤生产厂商之一——已停止化工生产，但发言人Jindrich Vanek表示，该厂仍在维持最低水平的焦炉加热。&lt;/p&gt;
-&lt;p&gt;“水位已经开始上涨，并且似乎洪水防护堤出现了裂口，”他表示。“我们目前断电，正使用炼焦气加热我们的蓄电池，维持在最基本的技术水平。”&lt;/p&gt;
-&lt;p&gt;Czech soft drinks maker Kofola CeskoSlovensko表示，它正在从距离奥斯特拉瓦约70公里（44英里）的Krnov生产基地抽排水，并将在下周初更清楚地了解断电的持续时间。&lt;/p&gt;
-&lt;p&gt;公司表示，现在估计损失还为时尚早，并且可以从其他工厂调拨大多数产品的供应。&lt;/p&gt;
-&lt;p&gt;在经历了几天的强降雨后，捷克和波兰之间的边境地区在周末受到了严重影响。一些桥梁倒塌，房屋被毁，而罗马尼亚东南部的村庄和城镇被洪水淹没。&lt;/p&gt;
-&lt;p&gt;尽管在捷克-波兰边界地区的河流于周一开始退水，但洪水的影响范围正在扩大，两国的大城市均处于警报状态。&lt;/p&gt;
-&lt;p&gt;Veolia Energie表示，其Trebovice电力和供热厂已关闭，由于洪水造成的损害，该厂切断了奥斯特拉瓦大部分地区的热水和供暖供应，公司在声明中表示。&lt;/p&gt;
-&lt;p&gt;“目前，奥斯特拉瓦的热水和供暖供应已中断，”该公司表示。“关键技术设施未受损害，因此如果情况向有利方向发展，我们预计将在几日内恢复供应。”&lt;/p&gt;
-&lt;p&gt;Ceska Sporitelna银行的经济学家预测，整个行业将遭受打击。&lt;/p&gt;
-&lt;p&gt;Ceska Sporitelna首席经济学家David Navratil写道：“行业将受到一到两个百分点的负面影响，而建筑行业将受到正面影响……这得益于受损建筑和基础设施的重建。”&lt;/p&gt;
-&lt;p&gt;捷克工业联盟表示，一些未直接受到洪水影响的公司在受灾地区仍被迫停产，原因是由于铁路运输问题。&lt;/p&gt;
-&lt;p&gt;比利时公司Umicore表示，其在波兰城市Nysa的电池材料工厂和在Nowa Ruda的汽车催化剂设施均已得到安全保护，洪水的影响有限。&lt;/p&gt;
-&lt;p&gt;电力公用事业公司Tauron表示，其南部波兰的六个水力发电厂由于洪水而无法运行。&lt;/p&gt;
-&lt;p&gt;该公司公关部门表示，周一早上有超过60,000人无电可用。&lt;/p&gt;
-&lt;p&gt;波兰零售商Zabka表示，目前约有80家门店已关闭，主要位于Klodzko镇西南地区。Zabka的公关部门周一通过电子邮件告诉路透社，这些商店因洪水、停电或紧急服务部门发布的疏散令而关闭。&lt;/p&gt;
-&lt;p&gt;这家由私募股权投资基金CVC Capital Partners拥有的零售商补充说，它已为其特许经营商提供水和物资供应，并正在收集他们的需求信息。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>中国 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 16 Sep 2024 20:44:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>美国表示，一段时间以来一直致力于释放美国牧师，并寻求其他人</title><link>https://www.reuters.com/world/senior-us-diplomat-believes-china-determined-stabilize-relations-2024-06-12/</link><description>
+&lt;p&gt;美国在戴维·林牧师从中国获释前一直致力于确保其自由，并持续努力寻求释放在那里的其他美国公民，国务院发言人马修·米勒于周一表示。&lt;/p&gt;&lt;p&gt;国务院于周日宣布，中国已释放了68岁的林牧师，自2006年起被监禁。米勒在例行记者会上表示，仍有众多美国公民被拘禁于中国。&lt;/p&gt;&lt;p&gt;他表示：“我们欢迎戴维·林牧师从中华人民共和国监狱获释。他已返回美国，与家人团聚，这是近20年来的首次。”&lt;/p&gt;&lt;p&gt;“这是我们长期以来一直在努力的事情，”他说，并补充道：“我们将继续推动其他美国公民的释放。”&lt;/p&gt;&lt;p&gt;米勒提到了另外两名被拘留者，马克·斯维丹和凯·李。&lt;/p&gt;&lt;p&gt;当被问及是否可以排除林牧师的释放是作为交换的结果时，他拒绝做出判断。&lt;/p&gt;&lt;p&gt;“我不会就这一过程说任何事情，除了我已经说过的话，那就是我们欢迎他的释放。在外交中，有时候少说为佳。这就是这样一种情形。”&lt;/p&gt;&lt;p&gt;米勒表示，在与中国最高外交官王毅在老挝会晤时，美国国务卿安东尼·布林肯提出了这一问题以及其他美国囚犯的情况。&lt;/p&gt;&lt;p&gt;多年来，美国政治家们一直敦促北京释放林牧师，他因合同欺诈罪被判处终身监禁。&lt;/p&gt;&lt;p&gt;美国参议院外交关系委员会主席于11月敦促总统乔·拜登在那一月与习近平主席的会晤中推动释放林牧师、李和斯维丹。&lt;/p&gt;&lt;p&gt;华盛顿表示，三人被错误拘禁。中国则表示，此类案件是根据法律处理的。&lt;/p&gt;&lt;p&gt;美国国会委员会将于周三就中国监禁的美国公民案件举行听证会。委员会表示，所有囚犯都面临健康问题。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="插图展示了美国和中国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DIXBU6NRRVOWHC65IWSZIVAJRQ.jpg" /&gt;    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;此图为2023年1月30日拍摄的插图，展示了美国和中国国旗。来源：路透社/Dado Ruvic/插图/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="插图展示了美国和中国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QT6Y2RRZOFIYDNS3NYIZOK74DU.jpg" /&gt;     &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;此图为2024年4月24日拍摄的插图，展示了美国和中国国旗。来源：路透社/Dado Ruvic/插图/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 12 Jun 2024 18:55:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/senior-us-diplomat-believes-china-determined-stabilize-relations-2024-06-12/</guid></item><item><title>科技股拖累美元跌至降息预期低点</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/</link><description>
+&lt;p&gt;周一，科技股拖累了美国股指，美元兑日元汇率触及逾一年低点，市场目光聚焦于本周稍后美联储会议，此次会议预计将开启备受期待的放松周期。&lt;/p&gt;&lt;p&gt;市场预期美联储可能将利率下调至半个百分点，以努力维持经济软着陆的轨迹，同时管理就业增长放缓和抑制通货膨胀。美联储将于周三宣布其政策决定。&lt;/p&gt;&lt;p&gt;对利率敏感的科技股下滑，拖累了纳斯达克综合指数&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/quote/.IXIC" target="_blank"&gt;(.IXIC)&lt;/a&gt;》。英伟达&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/companies/NVDA.O" target="_blank"&gt;(NVDA.O)&lt;/a&gt;和苹果&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/companies/AAPL.O" target="_blank"&gt;(AAPL.O)&lt;/a&gt;&lt;/sup&gt;的跌幅均超过2%，亚马逊&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank"&gt;(AMZN.O)&lt;/a&gt;&lt;/sup&gt;下跌近1%。&lt;/p&gt;&lt;p&gt;标普500指数在午盘交易中徘徊在正负区间。在非 growth play 的领域，蓝筹股道琼斯工业平均指数&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/quote/.DJI" target="_blank"&gt;(.DJI)&lt;/a&gt;&lt;/sup&gt;创下了日内纪录新高。&lt;/p&gt;&lt;p&gt;XTB研究总监凯瑟琳·布鲁克斯(Kathleen Brooks)表示，市场将超越周三任何利率下调的规模，以理解美联储的动机。&lt;/p&gt;&lt;p&gt;她说：“如果美联储首先将利率下调50个基点，但同时又重申这是为了保证经济软着陆，那么这对股市来说是个积极的信号。如果听起来美联储因为地平线上的某些灰云不得不恐慌式地削减利率，那么预期股市将回落。”&lt;/p&gt;&lt;p&gt;衡量美元兑一揽子货币的美元指数下跌0.29%，至100.73。兑日元，美元汇率下跌0.14%，至140.62。&lt;/p&gt;&lt;p&gt;投资者还在消化周日有关共和党总统候选人唐纳德·特朗普(Donald Trump)遭遇第二次暗杀企图的消息。他的特朗普媒体与科技公司&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/companies/DJT.O" target="_blank"&gt;(DJT.O)&lt;/a&gt;&lt;/sup&gt;的股价在当天收盘时下跌超过3%，尽管特朗普周五表示他不会出售他的股份。&lt;/p&gt;&lt;p&gt;道琼斯指数上涨0.44%，至41,575.17点；标普500指数&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/quote/.SPX" target="_blank"&gt;(.SPX)&lt;/a&gt;&lt;/sup&gt;上涨0.02%，至5,627.40点；纳斯达克综合指数下跌0.61%，至17,575.83点。&lt;/p&gt;&lt;p&gt;上周标普500指数录得今年最强一周表现。&lt;/p&gt;&lt;p&gt;对美联储大幅降息的预期今年提振了股市，一些乐观情绪仍在MSCI全球指数&lt;sup&gt;&lt;a href="https://www.reuters.com/markets/quote/.MIWD00000PUS" target="_blank"&gt;(.MIWD00000PUS)&lt;/a&gt;&lt;/sup&gt;中延续，该指数上涨0.12%，至827.95点。&lt;/p&gt;&lt;p&gt;周一，短期美国国债收益率跌至两年来的最低水平，并在当日下跌2.7个基点，延续了本月的下跌趋势。&lt;/p&gt;&lt;p&gt;基准10年期国债收益率连续第二个交易日缩水，下跌3.1个基点至3.618%，从前一交易日的3.649%。&lt;/p&gt;&lt;p&gt;期货显示，交易者将美联储周三降息半点的可能性从上周的30%提高至59%，这与媒体报道的更加激进的放宽前景有关。&lt;/p&gt;&lt;p&gt;日本和英国央行本周也将召开会议，预计两者目前都将保持汇率稳定，同时一份密集的数据安排包括美国零售销售和工业生产。&lt;/p&gt;&lt;p&gt;英国央行预计将在周四将其利率维持在5.00%，尽管市场已将再次降息的可能性定价为31%。&lt;/p&gt;&lt;p&gt;周五，轮到日本央行。市场普遍预期日本央行将保持汇率稳定，但它可能在10月进一步收紧的基础。&lt;/p&gt;&lt;p&gt;美国国债收益率下降反映了日元兑美元的强势。欧元保持稳定，受到欧洲央行进一步降息前景的支持，抑制了欧元兑美元在1.1200的水平。&lt;/p&gt;&lt;p&gt;黄金也感受到了较低借贷成本的影响，上涨0.22%，至每盎司2,582.08美元，接近历史最高水平2,588.81美元。&lt;/p&gt;&lt;p&gt;由于墨西哥湾近五分之一的原油产量因飓风弗兰西恩(Francine)而关闭，油价上涨。&lt;/p&gt;&lt;p&gt;美国原油价格上涨2.51%，至每桶70.37美元，WTI原油价格上涨1.9%，至每桶72.97美元。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="Traders work on the floor of the NYSE in New York" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OW7S36IZCNK4NCCLT7PXV4JPS4.jpg" /&gt;   &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;A specialist trader works inside a post on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., September 9, 2024.  REUTERS/Brendan McDermid/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="Display of stock information in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V3NERNLLXJMFJJCGLV4SUC5JSQ.jpg" /&gt;   &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Cars travel past a display showing Shanghai and Shenzhen stock indexes near the Shanghai Tower and other skyscrapers at the Lujiazui financial district in Shanghai, China February 5, 2024. REUTERS/Xihao Jiang/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 00:20:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/</guid></item><item><title>顶级商业银行加入七国集团主导的央行数字货币试验</title><link>https://www.reuters.com/markets/currencies/top-commercial-banks-join-g7-led-central-bank-digital-currency-trial-2024-09-16/</link><description>
+&lt;p&gt;全球顶级商业银行中的四十家已加入由七国集团牵头的试验性计划，与美国纽约联邦储备银行及欧洲、韩国和日本的主要中央银行合作，共同打造一个旨在加速并提升跨境支付效率的新型数字货币平台。&lt;/p&gt;
+&lt;p&gt;“阿戈拉”项目总计涉及七个中央银行，旨在探讨所谓的“代币化”银行存款是否可以与代币化的中央银行数字货币（CBDC）相结合，以实现更快速和高级的系统。&lt;/p&gt;
+&lt;p&gt;该项目将聚焦于所谓的“批发”CBDC——仅限于银行间使用，而非面向公众——并致力于解决不同时区、法律要求、监管和技术系统等方面的挑战。&lt;/p&gt;
+&lt;p&gt;参与合作的商业银行名单中包括了全球诸多最大贷款机构，如摩根大通（JPM.N）、汇丰银行（HSBA.L）、瑞银集团（UBSG.S）以及日本的MUFG等。&lt;/p&gt;
+&lt;p&gt;此举也在CBDC的发展中体现出一定的分歧，即由七国集团领导的阿戈拉项目与2021年由中国、香港、泰国和阿拉伯联合酋长国中央银行发起的、近期得到沙特阿拉伯加入的名为“mBridge”的另一个项目之间的分歧。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Aftermath of flooding in Czech Republic" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FCYQR3CLGROL5F5BAJP7NQUM6A.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在经历强降雨后的洪水过后，一名男子在捷克共和国的Jesenik市旁走过一辆损坏的汽车，时间为2024年9月16日。路透社/David W Cerny&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="一位人士走进位于纽约曼哈顿的摩根大通纽约总部" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LVCRTZNXKZMBLCLVE2NCSZ26OE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年6月30日，美国纽约曼哈顿摩根大通纽约总部，一位人士进入大楼。REUTERS/Andrew Kelly/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 16:19:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/top-commercial-banks-join-g7-led-central-bank-digital-currency-trial-2024-09-16/</guid></item><item><title>内部备忘录称，普华永道在创纪录的罚款后在中国投资“高质量”业务</title><link>https://www.reuters.com/business/finance/pwc-making-investments-high-quality-business-china-internal-memo-says-2024-09-16/</link><description>
+&lt;p&gt;普华永道（PwC）在一份致员工的备忘录中表示，为保障该四大会计师事务所在中国拥有高质量和可持续的运营，公司正在实施“实质性投资”。此声明发布于中国监管机构周五对公司在内地分支实施一项&lt;a href="https://www.reuters.com/business/finance/china-imposes-six-month-business-suspension-pwcs-auditing-unit-mainland-china-2024-09-13/" target="_blank"&gt;创纪录的罚款&lt;/a&gt;之后。&lt;/p&gt;&lt;p&gt;普华永道中天（PwC Zhong Tian LLP）周五因对失败地产开发商中国恒大集团&lt;a href="https://www.reuters.com/markets/companies/3333.HK" target="_blank"&gt;(3333.HK)&lt;/a&gt;的审计问题，遭到了为期六个月的停业整顿，并罚以4.41亿元人民币（约合6200万美元）的罚款。&lt;/p&gt;&lt;p&gt;自中国证监会于3月份指控恒大集团在2020年之前两年内存在高达780亿美元的欺诈行为以来，中国当局一直在审查普华永道在恒大集团财务报告中的作用。&lt;/p&gt;&lt;p&gt;普华永道周五晚发布内部备忘录，表示：“我们想让大家知道，这段时间对你们所有人来说都极为艰难”，该备忘录经路透社审查。&lt;/p&gt;&lt;p&gt;普华永道表示：“PwC网络也在整个期间持续支持我们的中国公司……他们正进行实质性投资，以确保我们在中国的业务具有长期性、高质量和可持续性”，备櫃录中如此写道。&lt;/p&gt;&lt;p&gt;普华永道拒绝发表评论。&lt;/p&gt;&lt;p&gt;公司新任中国地区负责人海里昂·哈德森在备忘录中表示：“我知道在实施详细补救计划并开始为公司未来的成功定位期间，接下来的几周将不会轻松。”&lt;/p&gt;&lt;p&gt;普华永道任命其全球风险和监管负责人哈德森接替中国地区资深合伙人丹尼尔·李，作为其补救措施的一部分。李因担任当地审计业务负责人等“前任职责”而辞职。&lt;/p&gt;&lt;p&gt;公司表示，其领导团队将帮助员工“解答或澄清”他们就中国监管机构发布的公告可能存在的任何疑问或关切。&lt;/p&gt;&lt;p&gt;哈德森在备忘录中提到：“我关注的重点之一将是花时间与大家交流，探讨进一步发展我们人才的方式，包括对我们员工的持续投资”，&lt;/p&gt;&lt;p&gt;备忘录还指出，普华永道中国拥有悠久的优质审计历史。&lt;/p&gt;&lt;p&gt;“我们不认为极少数项目团队成员的行为能代表普华永道中国18,000名专业人士的绝大多数工作”，它说。&lt;/p&gt;&lt;p&gt;此外，据周五内地和香港监管机构发布的声明，监管机构正继续调查普华永道香港分支在与中国恒大相关的审计工作。&lt;/p&gt;&lt;p&gt;香港会计与财务报告委员会周五发布的声明中表示：“内地监管部门宣布的罚款在跨境执法应对中国恒大的问题中树立了一个重要里程碑”。&lt;/p&gt;&lt;p&gt;该委员会表示：“我们对恒大的独立调查将按程序有序进行。”&lt;/p&gt;  &lt;figure&gt;&lt;img alt="位于北京的中国国旗背后的普华永道（PWC）分支办公室大楼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CJ2SS5VGHBJATPINPIZ7Q7UQMA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2014年1月24日，位于北京的中国国旗背后的普华永道（PWC）分支办公室大楼。来源：路透社/Kim Kyung-Hoon/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 02:54:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/pwc-making-investments-high-quality-business-china-internal-memo-says-2024-09-16/</guid></item><item><title>哈萨克斯坦领导人敦促肖尔茨支持中国对乌克兰的和平计划</title><link>https://www.reuters.com/world/kazakh-leader-urges-scholz-support-chinas-peace-plan-ukraine-2024-09-16/</link><description>
+&lt;p&gt;哈萨克斯总统卡西姆-若玛尔特·托卡耶夫于周一恳请访华的德国总理奥拉夫·朔尔茨摒弃战场击败俄罗斯的幻想，并支持中国为乌克兰提出的和平方案，但这一提议被朔尔茨拒绝。&lt;/p&gt;&lt;p&gt;朔尔茨正在中央亚洲进行其首次&lt;a href="https://www.reuters.com/business/energy/germans-scholz-seeks-central-asian-energy-ties-shadow-ukraine-war-2024-09-13/"&gt;官方访问&lt;/a&gt;，在此背景下，柏林寻求俄罗斯入侵乌克兰后新的能源和矿产资源来源。&lt;/p&gt;&lt;p&gt;哈萨克斯坦虽仍是其前苏联宗主国的紧密盟友，但阿斯塔纳政府并未在冲突中偏袒任何一方，也未支持莫斯科对乌克兰部分领土的主张。&lt;/p&gt;&lt;p&gt;“俄罗斯在军事上无法被打败，这是事实。”托卡耶夫在阿拉木图对朔尔茨表示。&lt;/p&gt;&lt;p&gt;“战争的进一步升级将带来对整个人类的无可弥补的后果，尤其是对俄罗斯-乌克兰冲突相关国家的影响。”他补充道。&lt;/p&gt;&lt;p&gt;朔尔茨以外交方式表达不同意见，称德国支持乌克兰是因为俄罗斯对其发动了侵略。&lt;/p&gt;&lt;p&gt;“情况就是这样，并将一直如此，以便使这个国家能够捍卫自己，保护其完整和主权。”他表示。&lt;/p&gt;&lt;p&gt;“同时，我们也很清楚，继续探索和平发展的机会仍然是必要的。&lt;/p&gt;&lt;p&gt;朔尔茨表示，瑞士由西方国家支持的和平会议需要得到进一步的&lt;a href="https://www.reuters.com/world/europe/zelenskiy-aims-be-ready-second-peace-summit-november-2024-07-15/"&gt;跟进&lt;/a&gt;，而下一场会议应包括俄罗斯参加。&lt;/p&gt;&lt;p&gt;“显然，以俄罗斯目前一切按其意图推进的方式，这将无法取得成功，俄罗斯继续推行战争，以极大的侵略性持续攻击乌克兰，”他表示。&lt;/p&gt;&lt;p&gt;“这就是为什么这一点在我们讨论的任何内容中都不能被忽视。俄罗斯不仅挑起了战争，还在继续战争，且完全有能力通过停止其侵略行为来促成和平结束。”&lt;/p&gt;  &lt;figure&gt;&lt;img alt="德国总理奥拉夫·朔尔茨访问哈萨克斯坦" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B7A7WNGOIZNF5I7XWK3QQ3YVPU.jpg" /&gt;     &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;哈萨克总统卡西姆-若玛尔特·托卡耶夫与德国总理奥拉夫·朔尔茨在哈萨克斯坦阿拉木图参加正式欢迎仪式，2024年9月16日。路透社/Turar Kazangapov&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 16:48:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/kazakh-leader-urges-scholz-support-chinas-peace-plan-ukraine-2024-09-16/</guid></item><item><title>普京命令俄罗斯军队规模达到150万，成为仅次于中国的第二大军队</title><link>https://www.reuters.com/world/europe/putin-orders-russian-army-grow-by-180000-soldiers-become-15-million-strong-2024-09-16/</link><description>
+&lt;p&gt;俄罗斯总统弗拉基米尔·普京周一下令，将俄罗斯常规军规模增加18万，达到150万现役军人，此举将使俄军成为世界第二大军队，仅次于中国。&lt;/p&gt;
+&lt;p&gt;普京在克宫网站上发布的一项法令中，命令总兵力增加到238万人，其中他表示应有150万现役军人。&lt;/p&gt;
+&lt;p&gt;根据国际战略研究所（IISS）——这一领先军事智库的数据，如此增兵将使俄罗斯在现役战斗士兵数量上超越美国和印度，仅次于中国。IISS表示，北京约有210万现役军人。&lt;/p&gt;
+&lt;p&gt;普京自2022年2月派遣军队进入乌克兰以来，这是他第三次扩军建制。此举正是在俄罗斯军队在乌克兰东部前线的广阔1000公里（627英里）战线上推进，并试图将乌克兰军队驱逐出俄罗斯库尔斯克地区之际发生的。&lt;/p&gt;
+&lt;p&gt;尽管俄罗斯人口是乌克兰的三倍多，并已成功招募了大量志愿者在乌克兰签订有吸引力的合同参战，但它们——如同基辅的军队一样——一直在遭受严重的战场损失，而战争的结束似乎遥遥无期。&lt;/p&gt;
+&lt;p&gt;双方均称其具体损失是军事机密。&lt;/p&gt;
+&lt;p&gt;俄罗斯国家杜马国防委员会主席安德烈·卡塔波洛夫表示，增加现役部队人数是全面改组武装力量并逐步扩大其规模以适应他所描述的国际形势和“我们前外国伙伴”行为的计划的一部分。&lt;/p&gt;
+&lt;p&gt;卡塔波洛夫在接受俄罗斯国家杜马内部报纸《议会的报》采访时表示：“例如，我们现在需要组建新的结构和军事单位，以确保俄罗斯西北部的安全，因为与我们接壤的芬兰已经加入了北约集团。”&lt;/p&gt;
+&lt;p&gt;“为了执行这一过程，我们需要增加兵员。”&lt;/p&gt;
+&lt;p&gt;自2022年以来，普京已下令两次正式增加作战部队数量——分别 increase by 137,000和170,000人。&lt;/p&gt;
+&lt;p&gt;此外，俄罗斯在2022年9月和10月动员了超过30万人进行演习，这促使数十万适龄男子逃离该国。&lt;/p&gt;
+&lt;p&gt;然而，克宫表示，目前没有新的动员计划，并且打算继续依赖志愿者报名参战。&lt;/p&gt;
+&lt;p&gt;卡内基国际和平基金会俄罗斯军事专家达拉·马西科特对莫斯科是否准备好承担增加现役军人费用的能力表示怀疑。&lt;/p&gt;
+&lt;p&gt;马西科特在X上写道：“有办法装备一支150万的常备军，但如果克里姆林宫真正在考虑这需要什么，它们可能不会喜欢这些方法。”&lt;/p&gt;
+&lt;p&gt;“他们真的能够增加国防预算以维持采购和这一需求吗？”&lt;/p&gt;
+&lt;p&gt;马西科特发布了一份关于俄罗斯军队复苏的报告，表示莫斯科可能会做出不受欢迎且困难的扩大征兵规模或修改法律以允许更多女性在军队工作的决定。&lt;/p&gt;
+&lt;p&gt;她表示：“寻找迹象，以判断这是一项真正的招募和扩张计划，而不是一种用来威慑他人的表演。当前的志愿者方法正在生效，但也存在压力。这将意味着更多的开支/压力。”&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="俄罗斯军队士兵在莫斯科胜利公园露天博物馆Poklonnaya Gora举办的展览上行走，展示俄罗斯军队从乌克兰军队手中缴获的装甲车辆和装备" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZXTDY4WH5N4XI2YYJBCQZVZPY.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;俄罗斯军队士兵在莫斯科胜利公园露天博物馆Poklonnaya Gora举办的展览上行走，展示俄罗斯军队在俄乌冲突中从乌克兰军队手中缴获的装甲车辆和装备，2024年5月31日，俄罗斯。 REUTERS/Shamil Zhumatov/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 12:35:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/putin-orders-russian-army-grow-by-180000-soldiers-become-15-million-strong-2024-09-16/</guid></item><item><title>世贸组织总干事奥孔乔-伊维拉寻求连任以完成“未竟事业”</title><link>https://www.reuters.com/world/wto-chief-okonjo-iweala-tells-reuters-she-will-seek-second-term-2024-09-16/</link><description>
+&lt;p&gt;世界贸易组织总干事恩戈齐·奥孔乔-伊维拉将寻求在非洲领导集团的大力推动下，提前开启继任程序，以期在2024年7月美国总统乔·拜登退出竞选之前，再担任四年期负责人。她旨在完成其第一任期的“未竟事业”。&lt;/p&gt;
+&lt;p&gt;奥孔乔-伊维拉，现年70岁，曾是尼日利亚财政部长，2021年成为世界贸易组织成立30年来首位既是女性又是非洲籍的首席执行官，创造了历史。&lt;/p&gt;
+&lt;p&gt;周一，奥孔乔-伊维拉在接受路透社采访时表示：“我希望成为WTO故事这一章节的一部分，并做好了竞争这个职位的准备。”她的这一表态随后得到了世界贸易组织声明的大力确认。&lt;/p&gt;
+&lt;p&gt;她补充道：“对于我的第二任期，我计划专注于成果的产出。”她提到，优先任务包括解决“未竟事业”，如结束渔业补贴问题，全球农业谈判取得突破，以及改革世界贸易组织步履维艰的争端解决机制，以及实现贸易脱碳。&lt;/p&gt;
+&lt;p&gt;正式而言，她直到11月底才有权决定是否再次申请。但是，在7月份由非洲领导集团发起，并在美国支持数十个国家的提前启动举措，部分动机是为了在美国11月的投票之前确保她的第二任期。&lt;/p&gt;
+&lt;p&gt;根据世界贸易组织共识规则，如果无人申请且所有国家接受，那么她将能够实现。&lt;/p&gt;
+&lt;p&gt;2019年12月，前美国总统唐纳德·特朗普政府阻挠她的任命，此举被一些人视为对其曾形容为“可怕”的组织的攻击。拜登在2021年继任后，她得到了美国的支持。&lt;/p&gt;
+&lt;p&gt;当被问及如果特朗普当选，她和世界贸易组织是否都能成功时，她表示：“我不会关注这一点，因为我无法控制。”&lt;/p&gt;
+&lt;p&gt;奥孔乔-伊维拉是世界贸易组织历史上少数几位成功达成全球贸易协定的总干事之一，这些协议包括2022年达成的将渔业补贴削减的全球协定的第一部分。&lt;/p&gt;
+&lt;p&gt;但今年年初的高级别会议并未产生更多显著成果：有两位新成员加入，以及推迟实施数字关税的协议得到延续。此后，一些协议如后续渔业协议，因为只有印度的反对而被明确阻挠。&lt;/p&gt;
+&lt;p&gt;奥孔乔-伊维拉向路透社承认，这项工作具有挑战性，并指出该组织166个成员间的地缘政治紧张关系是重大挑战。&lt;/p&gt;
+&lt;p&gt;“这很困难，你知道，非常困难。但这也是一份让我愿意每天早上起床的工作。”她对路透社说。&lt;/p&gt;
+&lt;p&gt;自2019年12月特朗普政府阻挠世界贸易组织最高裁决法院的法官任命以来，该组织已经无法 functioning，这让对该组织规则漠视的成员受到了有限的约束。&lt;/p&gt;
+&lt;p&gt;尽管如此，拜登政府继续保持这一政策，但华盛顿正在就可能的改革进行接触，这些改革最终可能使争议审查系统能够得以复苏。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="第54次达沃斯世界经济论坛年会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CIBN6OW5ZBOCJF42754D34AMAI.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;世界贸易组织总干事恩戈齐·奥孔乔-伊维拉在瑞士达沃斯的世界经济论坛第54次年会上的发言。摄于2024年1月19日。路透社/Denis Balibouse/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 14:06:06 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/wto-chief-okonjo-iweala-tells-reuters-she-will-seek-second-term-2024-09-16/</guid></item><item><title>美联储大幅降息的传言导致美元兑日元跌至近9个月低点</title><link>https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</link><description>
+&lt;p&gt;美元兑日元汇率于周五下跌至近九个月来的最低水平，此前媒体报道再次激发了市场猜测，美联储可能在下周的政策会议上实施超大规模的50个基点利率削减。&lt;/p&gt;
+&lt;p&gt;分析师表示，周四晚间的《华尔街日报》和《金融时报》报道称，50个基点的利率削减仍是一个选项，以及一位前美联储官员呼吁实施扩大规模的削减，这导致市场预期发生了转变。&lt;/p&gt;
+&lt;p&gt;美国利率期货市场预计，美联储将在周三结束为期两天的会议后将实施50个基点的宽松政策，这一概率从周四早上的大约15%上升至51%。期货交易者还预计2024年将削减117个基点，较前一个交易日增加10个基点。&lt;/p&gt;
+&lt;p&gt;纽约杰富瑞公司全球外汇负责人布拉德·贝切尔表示，媒体报道在物价上涨的新数据巩固了对美联储25个基点削减的预期之后，再次将50个基点削减的可能性引入市场。他表示：“因此，你只是在看到那些寻求25个基点的人一点点解除头寸。”&lt;/p&gt;
+&lt;p&gt;在午后期交易中，美元兑日元下跌了0.66%，至140.855日元，此前跌幅一度降至140.285，为12月28日以来的最低水平。本周，美元兑日元累计下跌了1%。&lt;/p&gt;
+&lt;p&gt;与此同时，欧元兑美元汇率上涨了0.08%，至1.1083美元。&lt;/p&gt;
+&lt;p&gt;欧洲央行周四将利率下调了25个基点，但欧洲央行行长克里斯蒂娜·拉加德表示，她将对下个月进一步降低借贷成本的预期进行降温，这推动了美元指数下跌0.08%，至101.08。&lt;/p&gt;
+&lt;p&gt;纽约地区花旗银行的外汇和宏观策略师约翰·韦利斯表示：“美联储政策可能更为温和的概率上升是推动美元走低并将其他许多货币推高的主要因素。”&lt;/p&gt;
+&lt;p&gt;在数据表明美国消费者在通胀缓和的背景下，消费者情绪在九月有所改善后，美元削减了部分跌幅。&lt;/p&gt;
+&lt;p&gt;密歇根大学对总体消费者情绪指数的初步阅读结果为69.0，较上月末的67.9有所上升。根据路透社调查的经济学家的预期，初步阅读应为68.5。&lt;/p&gt;
+&lt;p&gt;本周美国经济数据似乎支持美联储下周实施典型25个基点削减的观点，包括剔除波动较大的食品和能源价格的消费者价格指数，8月份上涨幅度超过预期。&lt;/p&gt;
+&lt;p&gt;但前纽约联邦储备银行行长比尔·达利在周五进一步加剧了对美联储50个基点利率削减的猜测，他说，支持如此举措的理由充分，目前利率比所谓的美国经济中性利率高150-200个基点，后者既不过度严格也不过度宽松。他表示：“为什么要等呢？”&lt;/p&gt;
+&lt;p&gt;在经历欧洲央行不够温和的立场和美联储温和呼声上升的双重支持后，欧元再次表现出兑1.11美元的潜力，ING的一名货币策略师弗朗西斯科·佩索莱表示。&lt;/p&gt;
+&lt;p&gt;英镑兑美元微幅下跌了0.01%，降至1.31235美元，在触及近一周最高水平后有所走弱。预计英格兰银行将在下星期维持其关键利率在5%不变，这是在8月实施25个基点削减后开始放宽政策的。&lt;/p&gt;
+&lt;p&gt;美元兑瑞士法郎下跌了0.38%，至0.84780瑞士法郎。&lt;/p&gt;
+&lt;p&gt;投资者还在关注日本央行下周五的利率决定，预计该行将维持其短期政策利率目标在0.25%不变。&lt;/p&gt;
+&lt;p&gt;日本央行委员田村直树周四表示，中央银行有必要在最迟到下一个财年上半年度将利率至少提高到1%，但他补充说，预计将以缓慢和分阶段的方式进行。&lt;/p&gt;
+&lt;p&gt;韦利斯表示：“日本央行与美联储的走向正好相反——相差180度。”他说，无论日本央行是否以及何时提高利率，这仍然是一个悬而未决的问题。&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;货币买入价格于9月13日13:19 p.m. GMT&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;描述&lt;/td&gt;&lt;td&gt;RIC&lt;/td&gt;&lt;td&gt;上一个交易日&lt;/td&gt;&lt;td&gt;美国收盘价&lt;/td&gt;&lt;td&gt;百分比变化&lt;/td&gt;&lt;td&gt;年度百分比变化&lt;/td&gt;&lt;td&gt;最高买入价&lt;/td&gt;&lt;td&gt;最低买入价&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元指数&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;101.06&lt;/td&gt;&lt;td&gt;101.16&lt;/td&gt;&lt;td&gt;-0.1%&lt;/td&gt;&lt;td&gt;-0.31%&lt;/td&gt;&lt;td&gt;101.19&lt;/td&gt;&lt;td&gt;100.88&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/美元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1.1083&lt;/td&gt;&lt;td&gt;1.1074&lt;/td&gt;&lt;td&gt;0.08%&lt;/td&gt;&lt;td&gt;0.41%&lt;/td&gt;&lt;td&gt;$1.1102&lt;/td&gt;&lt;td&gt;$1.1071&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元/日元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;140.87&lt;/td&gt;&lt;td&gt;141.76&lt;/td&gt;&lt;td&gt;-0.62%&lt;/td&gt;&lt;td&gt;-0.12%&lt;/td&gt;&lt;td&gt;141.86&lt;/td&gt;&lt;td&gt;140.29&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/日元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1.1083&lt;/td&gt;&lt;td&gt;157.04&lt;/td&gt;&lt;td&gt;-0.57%&lt;/td&gt;&lt;td&gt;0.33%&lt;/td&gt;&lt;td&gt;157.09&lt;/td&gt;&lt;td&gt;155.63&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元/瑞士法郎&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;0.848&lt;/td&gt;&lt;td&gt;0.8511&lt;/td&gt;&lt;td&gt;-0.35%&lt;/td&gt;&lt;td&gt;0.78%&lt;/td&gt;&lt;td&gt;0.8511&lt;/td&gt;&lt;td&gt;0.8445&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;英镑/美元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1.3126&lt;/td&gt;&lt;td&gt;1.3126&lt;/td&gt;&lt;td&gt;0.01%&lt;/td&gt;&lt;td&gt;3.15%&lt;/td&gt;&lt;td&gt;$1.3158&lt;/td&gt;&lt;td&gt;$1.3115&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元/加拿大元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1.3592&lt;/td&gt;&lt;td&gt;1.3581&lt;/td&gt;&lt;td&gt;0.11%&lt;/td&gt;&lt;td&gt;2.56%&lt;/td&gt;&lt;td&gt;1.36&lt;/td&gt;&lt;td&gt;1.3566&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;澳元/美元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;0.6708&lt;/td&gt;&lt;td&gt;0.6723&lt;/td&gt;&lt;td&gt;-0.21%&lt;/td&gt;&lt;td&gt;-1.61%&lt;/td&gt;&lt;td&gt;$0.6733&lt;/td&gt;&lt;td&gt;$0.6693&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/瑞士法郎&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;0.9399&lt;/td&gt;&lt;td&gt;0.9425&lt;/td&gt;&lt;td&gt;-0.28%&lt;/td&gt;&lt;td&gt;1.22%&lt;/td&gt;&lt;td&gt;0.9427&lt;/td&gt;&lt;td&gt;0.9371&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/英镑&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;0.8442&lt;/td&gt;&lt;td&gt;0.8438&lt;/td&gt;&lt;td&gt;0.05%&lt;/td&gt;&lt;td&gt;-2.62%&lt;/td&gt;&lt;td&gt;0.8452&lt;/td&gt;&lt;td&gt;0.8428&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;新西兰元/美元&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;0.6161&lt;/td&gt;&lt;td&gt;0.6183&lt;/td&gt;&lt;td&gt;-0.35%&lt;/td&gt;&lt;td&gt;-2.49%&lt;/td&gt;&lt;td&gt;$0.6193&lt;/td&gt;&lt;td&gt;0.616&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元/挪威克朗&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;10.6581&lt;/td&gt;&lt;td&gt;10.7119&lt;/td&gt;&lt;td&gt;-0.5%&lt;/td&gt;&lt;td&gt;5.16%&lt;/td&gt;&lt;td&gt;10.7237&lt;/td&gt;&lt;td&gt;10.6323&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/挪威克朗&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;11.8134&lt;/td&gt;&lt;td&gt;11.8618&lt;/td&gt;&lt;td&gt;-0.41%&lt;/td&gt;&lt;td&gt;5.25%&lt;/td&gt;&lt;td&gt;11.8777&lt;/td&gt;&lt;td&gt;11.7937&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;美元/瑞典克朗&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;10.217&lt;/td&gt;&lt;td&gt;10.2821&lt;/td&gt;&lt;td&gt;-0.63%&lt;/td&gt;&lt;td&gt;1.49%&lt;/td&gt;&lt;td&gt;10.2979&lt;/td&gt;&lt;td&gt;10.1892&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;欧元/瑞典克朗&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;11.3246&lt;/td&gt;&lt;td&gt;11.3872&lt;/td&gt;&lt;td&gt;-0.55%&lt;/td&gt;&lt;td&gt;1.79%&lt;/td&gt;&lt;td&gt;11.4&lt;/td&gt;&lt;td&gt;11.303&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;figure&gt;&lt;img alt="美国美元纸钞在此照片插图中可见" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YDT6SDXNDZPR7DJR3PFIKHA3WQ.jpg" /&gt;
+​​&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这是2018年2月12日拍摄的照片插图，显示了美国美元纸钞。路透社/Jose Luis Gonzalez/插图/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 01:24:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/currencies/dollar-weak-traders-add-wagers-big-rate-cut-fed-2024-09-13/</guid></item><item><title>欧盟称中国电动汽车报价截止日期已过</title><link>https://www.reuters.com/business/autos-transportation/eu-says-deadline-chinese-ev-price-offers-has-passed-2024-09-16/</link><description>
+&lt;p&gt;欧盟委员会于周一宣布，中国电动汽车制造商提交价格承诺以规避关税的最后期限已过，且在其全部承诺均被拒后，不再可能修订其报价。&lt;/p&gt;&lt;p&gt;正在对中国制造电动汽车进行反补贴调查的欧盟委员会表示，数家EV出口商已提交了价格承诺——即出口商承诺遵守最低进口价格，以抵消补贴。&lt;/p&gt;&lt;p&gt;周一，委员会发言人表示：“提交此类承诺的截止日期为8月24日，且在此日期之后，根据此类调查规程，不再可能提供新的价格承诺。”&lt;/p&gt;&lt;p&gt;欧盟执行机构表示，只要解决方案完全符合世界贸易组织规则，并对抗已识别的补贴，它将保持找到解决方案的开放态度。&lt;/p&gt;&lt;p&gt;发言人指出，中国汽车制造商的所有价格承诺均于8月24日的截止日期提出，之后在报价被拒绝后，没有时间进行重新提交。&lt;/p&gt;&lt;p&gt;他们表示：“相关的中国汽车制造商在截止日期之前已有数周时间来提出此类价格承诺。若他们能在此之前做出，将会允许对这一主题进行有意义的讨论。”&lt;/p&gt;&lt;p&gt;委员会提议对中国制造的电动汽车征收高达35.3%的最终关税，此外还有欧盟标准的10%汽车进口税。&lt;/p&gt;&lt;p&gt;欧盟27个成员国预计将于9月25日对提议的最终关税进行投票。除非15个欧盟成员国代表65%的欧盟人口有资格多数反对征收，否则关税将于10月底实施。&lt;/p&gt;&lt;p&gt;这是一道难以达到的高门槛，但这是一个充满政治色彩的文件，威胁到中国将会对猪肉、乳制品和威士忌采取报复行动，这可能会影响一些欧盟国家。&lt;/p&gt;&lt;p&gt;中国商务部部长王文涛本周在欧洲就欧盟的反补贴案件进行讨论，并将于周四与欧盟贸易委员Valdis Dombrovskis会面。&lt;/p&gt;&lt;p&gt;意大利，王文涛此行的第一站，表示支持提议的关税。&lt;/p&gt; &lt;figure&gt;&lt;img alt="中国在东南亚开设的首个电动汽车（EV）工厂位于泰国拉勇，这是迅速增长的区域电动汽车市场，BYD已成为主导者" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BHOIYVMCEVOLRK6W5XH3BOHXPA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;这是7月4日拍摄的照片，展示了中国BYD在东南亚首次电动汽车（EV）工厂内的电动汽车，泰国拉勇，这是一个快速增长的区域电动汽车市场，BYD已成为主导者。 REUTERS/Chalinee Thirasupa//档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 14:04:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/eu-says-deadline-chinese-ev-price-offers-has-passed-2024-09-16/</guid></item><item><title>台风贝宾卡袭击上海，为1949年以来最强风暴</title><link>https://www.reuters.com/world/china/typhoon-bebinca-lands-shanghai-strongest-storm-hit-city-since-1949-2024-09-15/</link><description>
+&lt;p&gt;上海这个历来繁华的金融中心于周一陷入停滞，居民们居家避难，静待台风贝毕卡的狂风暴雨过去。&lt;/p&gt;
+&lt;p&gt;这股一级台风于周一早晨在上海登陆，是超过七十年以来首次直接袭击上海市的强大热带气旋。&lt;/p&gt;
+&lt;p&gt;据国家媒体报道，贝毕卡携带高达151公里/小时（94英里/小时）的顶尖风速，其中心附近于当地时间早上7:30左右（GMT 23:30）袭击了近2500万人口的上海市，这是自1949年台风格洛利亚以来，袭击上海的强度最大的风暴。&lt;/p&gt;
+&lt;p&gt;暴雨连绵，强风导致上海市内超过10,000棵树木倒塌，此外，由于贝毕卡的侵袭路径存在风险，超过40万人被迫撤离家园。&lt;/p&gt;
+&lt;p&gt;国家媒体报道称，部署了超过56,000名救援人员，截至下午早些时候，仅报告了一起因风暴造成的受伤事件。&lt;/p&gt;
+&lt;p&gt;自周日晚上以来，已有超过1,400架航班和570趟客运列车被取消，这极大地打乱了节假日期间许多人的出行计划，因为中国中秋节是一个为期三天的公众假日。&lt;/p&gt;
+&lt;p&gt;由于上海市四个区的天气警报升级至最高级别，公园和企业被迫关闭，一些地铁列车服务受到干扰，高速公路和高架道路也封闭或实施特殊情况下的速度限制。&lt;/p&gt;
+&lt;p&gt;上海市的度假胜地，包括上海迪士尼度假区、金桥游乐园和上海市野生动物园，均临时关闭，许多渡轮也已停运。&lt;/p&gt;
+&lt;p&gt;截至周一下午早些时候，风暴的中心已从上海市转移到相邻的江苏省，尽管预计中国金融中心全天的降雨将继续。&lt;/p&gt;
+&lt;p&gt;上海很少遭受强台风的直接袭击，因为这些强台风通常在中国更南方的地区登陆。上周，破坏性极强的四级台风亚吉在海南岛南部呼啸而过。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="台风贝毕卡在上海的灾后景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MVST3MD6RJOVZACVSIHZVZMITA.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;在台风贝毕卡于2024年9月16日登陆上海后，暴雨中街道上可见倒下的树木。路透社/谢浩江&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="台风贝毕卡在上海的灾后景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CV25Z5IWCRME3B7BNUCC2U3ASU.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;台风贝毕卡于2024年9月16日登陆上海后，外滩关闭入口处可见警戒线。路透社/谢浩江&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="台风贝毕卡在上海的灾后景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NK73GIXPQRMTLCGXZWP4GUJUAI.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;暴雨中街道上可见倒下的树枝。路透社/谢浩江&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="台风贝毕卡在上海的灾后景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NNFALJ7SAFOI5FDYYGUNDKFFPI.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;台风贝毕卡于2024年9月16日登陆上海后， Bund 的景象，河水位上升。路透社/谢浩江&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="台风贝毕卡在上海的灾后景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6EB544LMH5IMBFRMG6NR72V4DU.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;暴雨中空荡街道的景象。路透社/谢浩江&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="雨中撑伞的人们走在桥上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFMZUUYAJ5PT7NA36QHYILOFZQ.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;em&gt;2022年9月14日，上海，人们在大雨和风中撑伞走过桥梁。路透社/王逊/档案照片&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 23:55:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/typhoon-bebinca-lands-shanghai-strongest-storm-hit-city-since-1949-2024-09-15/</guid></item><item><title>中欧洪水灾区工厂和零售商关闭</title><link>https://www.reuters.com/world/europe/central-europe-factories-retailers-shut-flood-hit-areas-2024-09-16/</link><description>
+&lt;p&gt;周一，随着中部欧洲洪水肆虐，导致至少10人丧生、成千上万被迫撤离，以及波兰至罗马尼亚的城镇被淹没，众多工厂和门店关闭了生产线并封闭了大门。&lt;a href="https://www.reuters.com/business/environment/more-rivers-spill-banks-central-european-floods-death-toll-rises-2024-09-16/" title="由于洪水导致" target="_blank"&gt;洪涝灾害&lt;/a&gt;是此次停工的主要原因。&lt;/p&gt;
+
+&lt;p&gt;在捷克共和国东北部奥斯特拉瓦市——一个拥有29万人口的重工业城市中，由中国的万华化学集团部分拥有的BorsodChem化工企业已经停产，公司发言人表示。&lt;/p&gt;
+
+&lt;p&gt;OKK Koksovny焦炭工厂——欧洲最大的炼焦 Coke 生产商之一——已停止化学品的生产，但发言人Jindrich Vanek指出，该工厂仍在维持最低水平的焦炭炉加热。&lt;/p&gt;
+
+&lt;p&gt;"水位已经开始上涨，必须是有防洪堤决口的情况出现，"他说。"我们没有电力，我们正使用焦炭气体加热我们的电池，以保持技术运行的最低水平。"。&lt;/p&gt;
+
+&lt;p&gt;捷克软饮料制造商Kofola CeskoSlovensko表示，它正在奥斯特拉瓦市约70公里（44英里）之外的Krnov生产基地抽水，预计下周初将能够更好地了解断电的可能持续时间。&lt;/p&gt;
+
+&lt;p&gt;该公司表示，现在评估损失还为时尚早，并补充称，它能够从其他工厂提供大多数产品的供应。&lt;/p&gt;
+
+&lt;p&gt;在经历了几天的暴雨之后，捷克共和国与波兰之间的边境地区在周末遭受严重打击。一些桥梁倒塌，房屋被毁，而罗马尼亚东部的村庄和城镇被洪水淹没。&lt;/p&gt;
+
+&lt;p&gt;周一，尽管捷克-波兰边界地区的河流开始回落，但洪水正在蔓延至更多区域，使得两国的大城市都处于警报状态。&lt;/p&gt;
+
+&lt;p&gt;Veolia Energie关闭了它的Trebovice电力和供热工厂，该工厂在洪水造成损害后已切断奥斯特拉瓦大片地区的热水和供暖供应，公司在一份声明中如此表示。&lt;/p&gt;
+
+&lt;p&gt;"目前，奥斯特拉瓦的热水和供暖供应已被中断，"公司表示。"核心技术未受损害，因此如果情况向好发展，我们预计在几天内恢复供应。"。&lt;/p&gt;
+
+&lt;p&gt;Ceska Sporitelna商业银行的经济学家预测，整体工业将受到冲击。&lt;/p&gt;
+
+&lt;p&gt;"工业将承受1至2个百分点的负面冲击，而建筑行业将受到正面影响……这得益于受损建筑和基础设施的重建，"Ceska Sporitelna首席经济学家David Navratil写道。&lt;/p&gt;
+
+&lt;p&gt;捷克工业联盟表示，一些未直接受到洪水影响的企业仍因材料铁路运输问题而不得不在受灾严重的地区暂停生产。&lt;/p&gt;
+
+&lt;p&gt;比利时公司Umicore表示，其位于波兰诺斯亚的电池材料工厂和位于Nová Ruda的汽车催化剂工厂在洪水中承受的影响有限。&lt;/p&gt;
+
+&lt;p&gt;能源公司Tauron表示，由于洪水，其南波兰的6个水电站无法运作。&lt;/p&gt;
+
+&lt;p&gt;其公关部门表示，周一早上有超过6万人无电力可用。&lt;/p&gt;
+
+&lt;p&gt;波兰零售商Zabka表示，大约有80家店铺目前关闭，主要集中在Klodzko西南城镇周边地区。由于洪水、缺电或紧急服务部门下令疏散，这些店铺被迫关闭，公司在周一通过电子邮件向路透社表示。&lt;/p&gt;
+
+&lt;p&gt;这家由私募股权基金CVC Capital Partners拥有的零售商补充称，它已为加盟商提供水源、食品和交通支持，并正在收集他们的需求信息。&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img alt="Czech Republic flood aftermath" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FCYQR3CLGROL5F5BAJP7NQUM6A.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在捷克共和国Jesenik，大量降雨后的洪水淹没 aftermath，一名男子走过受损车辆旁，2024年9月16日。路透社/David W Cerny&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 09:07:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/central-europe-factories-retailers-shut-flood-hit-areas-2024-09-16/</guid></item><item><title>高级议员表示，英国应禁止进口新疆强迫劳动制造的商品</title><link>https://www.reuters.com/world/uk/uk-should-outlaw-imports-goods-made-by-xinjiang-forced-labour-says-senior-2024-09-16/</link><description>
-&lt;p&gt;英国应废止从中国新疆地区进口由强制劳动制造的产品，一位执政工党的高级议员表示，同时重申了他对时尚零售商Shein可能于伦敦上市的审查要求。&lt;/p&gt;
-&lt;p&gt;利亚姆·拜恩，一位前工党部长，目前担任影响深远的跨党派商业和贸易委员会主席，他表示希望看到英国版2021年美国颁布的《维吾尔强迫劳动预防法案》。&lt;/p&gt;
-&lt;p&gt;在致路透社的电子邮件评论中，拜恩表示：“我希望新政府兑现——但从未实现的——保守党在2022年女王演讲中提出的承诺，即加强现代奴役法并加强对供应链报告的要求。”&lt;/p&gt;
-&lt;p&gt;这样做，新政府将重建英国在自由公平贸易中的领导地位，他说。&lt;/p&gt;
-&lt;p&gt;拜恩是几位呼吁对中国创立的快时尚品牌Shein及其&lt;a href="https://www.reuters.com/business/retail-consumer/shein-reveals-child-labour-cases-it-steps-up-supplier-audits-2024-08-22/"&gt;劳动实践&lt;/a&gt;进行更严格审查的&lt;a href="https://www.reuters.com/business/senior-uk-lawmakers-want-more-scrutiny-shein-ahead-possible-london-listing-2024-05-28/"&gt;英国高级议员&lt;/a&gt;之一，路透社6月份报道，Shein已经开始为&lt;a href="https://www.reuters.com/business/retail-consumer/fast-fashion-retailer-shein-filed-london-listing-early-june-sources-say-2024-06-24/"&gt;可能于伦敦上市&lt;/a&gt;做准备。&lt;/p&gt;
-&lt;p&gt;他个人的首要任务是召集Shein高管出席他领导的委员会，尽管该委员会的全体成员尚未选出。&lt;/p&gt;
-&lt;p&gt;当被问及拜恩的声明时，公司发言人说：“Shein对强制劳动采取零容忍政策。我们对整个供应链的可视性至关重要，我们承诺完全尊重人权。”&lt;/p&gt;
-&lt;p&gt;“为了遵守适用的法律，我们不仅要求我们的合同制造商仅从批准的区域采购原材料，我们还独立进行验证。”&lt;/p&gt;
-&lt;p&gt;在7月4日选举获胜之前，工党表达了支持Shein上市的态度，但反对意见正在累积。&lt;/p&gt;
-&lt;p&gt;7月份，由英国零售顾问和电视名人玛丽·波特斯支持的宣传活动发起了&lt;a href="https://www.reuters.com/business/retail-consumer/campaigners-call-uk-government-block-sheins-london-listing-2024-07-17/"&gt;在线请愿&lt;/a&gt;，呼吁政府阻止Shein在伦敦上市。&lt;/p&gt;
-&lt;p&gt;6月份，一家总部位于英国的人权组织停止维吾尔种族灭绝组织发起了&lt;a href="https://www.reuters.com/business/retail-consumer/uk-human-rights-group-launches-campaign-stop-sheins-potential-london-ipo-2024-06-26/"&gt;法律运动&lt;/a&gt;，旨在阻止Shein在伦敦进行首次公开募股。&lt;/p&gt;
+&lt;p&gt;英国应禁止进口中国新疆地区由强迫劳动生产的商品，一位来自执政劳工党的资深立法者如此表示，并同时重申他对时尚零售商Shein可能在伦敦上市进行更多审查的呼吁。&lt;/p&gt;
+&lt;p&gt;利亚姆·拜恩，一位曾担任劳工部部长的议员，现领导着议会影响力深远的跨党派商务和贸易委员会，他表示，他希望看到英国版美国于2021年推出的维吾尔强迫劳动预防法案。&lt;/p&gt;
+&lt;p&gt;拜恩在致路透社的电子邮件评论中表示：“我希望新组建的劳工政府能履行保守党在2022年女王演讲中所许下的——但未曾兑现的——承诺，即加强现代奴隶法，并加强供应链报告的要求。”&lt;/p&gt;
+&lt;p&gt;他进一步表示，通过这种方式，新政府将重新确立英国在自由公平贸易中的领导地位。&lt;/p&gt;
+&lt;p&gt;拜恩是几位英格兰高级立法者之一，他们呼吁加强对由中国创立的快时尚巨头Shein以及对其实践劳动方式审查的加强。在路透社于6月报道Shein开始为可能的伦敦上市做准备的消息后，他们提出了这一要求。&lt;/p&gt;
+&lt;p&gt;他个人的优先事项是召集Shein的高管出席他领导的委员会，尽管该委员会的全体成员尚未选出。&lt;/p&gt;
+&lt;p&gt;当被问及对拜恩声明的评论时，公司的发言人表示：“Shein对强迫劳动持零容忍政策。对我们来说，整个供应链的可视性至关重要，我们全心全意致力于尊重人权。”&lt;/p&gt;
+&lt;p&gt;“为了遵守适用的法律，我们不仅要求我们的合同制造商只从批准的地区采购原材料，我们还独立进行验证。”&lt;/p&gt;
+&lt;p&gt;在7月4日的选举胜利之前，劳工党表示支持Shein的上市，但反对意见正在兴起。&lt;/p&gt;
+&lt;p&gt;7月份，由英国零售顾问和电视名人玛丽·波尔塔斯支持的运动发起了在线请愿书，呼吁政府阻止Shein在伦敦上市。&lt;/p&gt;
+&lt;p&gt;6月份，一家英国人权组织“停止维吾尔族种族灭绝”发起了一场法律运动，旨在阻止Shein在任何伦敦首次公开募股。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="人们在伦敦街头经过Shein的广告" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GSQQ55COANOE5B5E7NHJCP4OCU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在2024年3月8日经过位于英国伦敦的Shein广告。 REUTERS/Suzanne Plunkett/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="人们路过Shein的广告" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GSQQ55COANOE5B5E7NHJCP4OCU.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;3月8日，在英国伦敦，人们路过Shein的广告。路透社/Suzanne Plunkett/档案照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 12:03:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/uk/uk-should-outlaw-imports-goods-made-by-xinjiang-forced-labour-says-senior-2024-09-16/</guid></item><item><title>意大利支持欧盟对中国电动汽车征收关税</title><link>https://www.reuters.com/business/autos-transportation/italy-backs-eus-chinese-tariffs-foreign-minister-says-2024-09-16/</link><description>
-&lt;p&gt;意大利外交部长安东尼奥·塔贾尼在周一接受采访时表示，意大利支持欧盟委员会对中国电动车（EV）出口所提出的关税。此次采访发表在他与中国商务部长在罗马会晤之前。&lt;/p&gt;&lt;p&gt;“我们支持欧盟委员会提出的关税，以保护我国企业的竞争力，”塔贾尼在接受《意大利日报》采访时表示。&lt;/p&gt;&lt;p&gt;王文涛部长正在访问欧洲，就欧盟针对中国制造的电动车发起的反补贴案进行讨论，随着更多关税投票的临近。&lt;/p&gt;&lt;p&gt;他在周一与塔贾尼在罗马进行了会谈，但意大利外长部的声明并未直接提及电动车。&lt;/p&gt;&lt;p&gt;塔贾尼在声明中表示，两人还讨论了知识财产保护、农业食品贸易和投资问题。&lt;/p&gt;&lt;p&gt;他们还讨论了乌克兰战争以及加沙和红海地区的危机，意大利呼吁北京帮助解决向俄罗斯提供武器供应以及红海航运安全问题。&lt;/p&gt;&lt;p&gt;王文涛将于9月19日与欧盟委员会执行副主席和贸易委员瓦尔迪斯·多布罗夫斯基斯进行会谈。&lt;/p&gt;&lt;p&gt;“我们希望基于平等原则制定贸易计划，我们要求在他们的市场中享有同等的产品准入权。我们的企业必须在平等条件下竞争，”塔贾尼在采访中重申了这一观点。&lt;/p&gt;&lt;p&gt;意大利最初在欧盟成员国进行的非约束性投票中支持关税，但工业部长阿道夫·乌尔索上周告诉路透社，他预计将达成一项谈判解决方案。&lt;/p&gt;&lt;p&gt;意大利仍是主要的汽车制造商，拥有菲亚特等品牌，属于Stellantis集团的一部分。它还在努力吸引东风和奇瑞汽车等中国汽车制造商在我国开设工厂，以提高汽车产量。&lt;/p&gt;&lt;p&gt;塔贾尼在报纸采访中还补充说，他的立场并没有损害意大利与中国之间的“良好关系”。&lt;/p&gt;&lt;p&gt;意大利总理乔治娅·梅洛尼于7月底访问中国，旨在加强与全球第二大经济体的合作，并在退出“一带一路”基础设施投资计划后重置贸易关系。&lt;/p&gt;&lt;p&gt;意大利总统塞尔吉奥·马塔雷拉计划在当年晚些时候访问中国，塔贾尼将作为代表团成员参加。&lt;/p&gt;&lt;p&gt;欧洲委员会即将提出针对中国制造的电动车提出的最终关税，最高可达35.3%，外加欧盟标准的10%汽车进口关税。&lt;/p&gt;&lt;p&gt;（本故事已重新发布，将第7段中大臣的名字更正为王）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="意大利总理梅洛尼在北京" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D6RMSQWBY5KKHNA27L4YEX5SRU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;意大利和中国的旗帜装饰在意大利总理乔治娅·梅洛尼在中国北京对媒体发表讲话的场所外的汽车上，2024年7月30日。 REUTERS/Florence Lo/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 08:31:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/italy-backs-eus-chinese-tariffs-foreign-minister-says-2024-09-16/</guid></item><item><title>哈马斯袭击后哪些航空公司暂停了以色列航班？</title><link>https://www.reuters.com/world/middle-east/airlines-suspend-israel-flights-amid-gaza-war-2023-10-10/</link><description>
-&lt;p&gt;国际航空公司为响应以色列-哈马斯战争，已暂时取消了飞往和离开特拉维夫的数百次航班，以及部分飞往黎巴嫩和约旦的航班。&lt;/p&gt;&lt;p&gt;以下是暂时中止航班的航空公司：&lt;/p&gt;&lt;p&gt;摩洛哥皇家航空&lt;a href="https://www.royalairmaroc.com/us-en/information/delays-and-disruptions" target="_blank"&gt;取消&lt;/a&gt;了从2月1日起至特拉维夫的往返航班。&lt;/p&gt;&lt;p&gt;美国航空&lt;a href="https://www.reuters.com/markets/companies/AAL.O" target="_blank"&gt;(AAL.O)&lt;/a&gt; &lt;a href="https://www.reuters.com/article/business/aerospace-defense/american-airlines-suspends-flights-to-tel-aviv-through-dec-4-idUSL1N3BG2QW/"&gt;暂时停运&lt;/a&gt;了12月4日之前特拉维夫的往返航班。&lt;/p&gt;&lt;p&gt;达美航空&lt;a href="https://www.reuters.com/markets/companies/DAL.N" target="_blank"&gt;(DAL.N)&lt;/a&gt;取消了11月21日之前特拉维夫至纽约的航班。&lt;/p&gt;&lt;p&gt;联合航空&lt;a href="https://www.reuters.com/markets/companies/UAL.O" target="_blank"&gt;(UAL.O)&lt;/a&gt;于周一表示，特拉维夫航班将维持暂停，直至条件允许其恢复运营。&lt;/p&gt;&lt;p&gt;加拿大航空&lt;a href="https://www.reuters.com/markets/companies/AC.TO" target="_blank"&gt;(AC.TO)&lt;/a&gt;&lt;a href="https://www.aircanada.com/ca/en/aco/home/book/travel-news-and-updates/2023/civil-unrest-israel.html#/" target="_blank"&gt;取消了&lt;/a&gt;至特拉维夫的往返航班，并表示将在情况稳定后恢复该航线。&lt;/p&gt;&lt;p&gt;海南航空&lt;a href="https://www.reuters.com/markets/companies/600221.SS" target="_blank"&gt;(600221.SS)&lt;/a&gt;，唯一一家在中国与以色列之间运营的航空公司，&lt;a href="https://www.hainanairlines.com/HUPortal/dyn/portal/DisplayPage?LANGUAGE=US&amp;amp;COUNTRY_SITE=AU&amp;amp;SITE=CBHZCBHZ&amp;amp;PAGE=NEWS" target="_blank"&gt;取消了&lt;/a&gt;从北京和上海至特拉维夫的10月12日至10月31日的航班。其网站尚未提供进一步更新。&lt;/p&gt;&lt;p&gt;国泰航空&lt;a href="https://www.reuters.com/markets/companies/0293.HK" target="_blank"&gt;(0293.HK)&lt;/a&gt;&lt;a href="https://www.cathaypacific.com/cx/en_HK/prepare-trip/travel-advisories/latest-situation-in-tlv.html?cxsource=nc" target="_blank"&gt;取消了&lt;/a&gt;截至12月31日或之前的香港至特拉维夫的航班。&lt;/p&gt;&lt;p&gt;韩亚航空&lt;a href="https://www.reuters.com/markets/companies/003490.KS" target="_blank"&gt;(003490.KS)&lt;/a&gt;取消了10月9日从仁川至特拉维夫的预定航班，并表示预计未来航班将不受规律影响。其网站尚未提供进一步更新。&lt;/p&gt;&lt;p&gt;阿斯塔纳航空&lt;a href="https://www.reuters.com/markets/companies/IPO-AIRA.L" target="_blank"&gt;(IPO-AIRA.L)&lt;/a&gt;取消了10月8日从阿拉木图至特拉维夫的航班，并透露，如果局势升级，可能会取消更多航班。其网站尚未提供进一步更新。&lt;/p&gt;&lt;p&gt;阿塞拜疆航空&lt;a href="https://www.azal.az/en/azerbaijan-airlines/latest-news/message-of-press-service-of-azerbaijan-airlines-10092023" target="_blank"&gt;取消了&lt;/a&gt;10月10日从巴库至特拉维夫及返程航班。其网站尚未提供进一步更新。&lt;/p&gt;&lt;p&gt;德国汉莎航空&lt;a href="https://www.reuters.com/markets/companies/LHAG.DE" target="_blank"&gt;(LHAG.DE)&lt;/a&gt;及其子公司瑞士航空、奥地利航空和布鲁塞尔航空取消了至特拉维夫的往返航班直至12月14日。同时，取消了至黎巴嫩的最高至12月14日的航班。&lt;/p&gt;&lt;p&gt;法航-荷航&lt;a href="https://www.reuters.com/markets/companies/AIRF.PA" target="_blank"&gt;(AIRF.PA)&lt;/a&gt;&lt;a href="https://wwws.airfrance.pl/information/cco/flash-alerte-lv" target="_blank"&gt;暂停&lt;/a&gt;了“直至另行通知”的特拉维夫航班服务，并取消了11月30日之前的航班。其Transavia France分公司取消了至12月21日的航班。&lt;/p&gt;&lt;p&gt;瑞安航空&lt;a href="https://www.reuters.com/markets/companies/RYA.I" target="_blank"&gt;(RYA.I)&lt;/a&gt;，按乘客人数计算欧洲最大的航空公司，取消了至特拉维夫的往返航班直至1月8日。&lt;/p&gt;&lt;p&gt;匈牙利Wizz Air&lt;a href="https://www.reuters.com/markets/companies/WIZZ.L" target="_blank"&gt;(WIZZ.L)&lt;/a&gt; &lt;a href="https://www.reuters.com/article/legal/government/wizz-air-cancels-flights-to-and-from-tel-aviv-idUSS8N37G055/"&gt;取消了&lt;/a&gt;直至另行通知的特拉维夫往返航班。&lt;/p&gt;&lt;p&gt;英国易捷航空&lt;a href="https://www.reuters.com/markets/companies/EZJ.L" target="_blank"&gt;(EZJ.L)&lt;/a&gt;暂停了至特拉维夫的航班直至11月30日。&lt;/p&gt;&lt;p&gt;IAG拥有的英国航空&lt;a href="https://www.reuters.com/markets/companies/ICAG.L" target="_blank"&gt;(ICAG.L)&lt;/a&gt;暂停了直至11月21日的特拉维夫航班。&lt;/p&gt;&lt;p&gt;维珍大西洋航空&lt;a href="https://help.virginatlantic.com/us/en/news/travel-alerts/tel-aviv.html" target="_blank"&gt;暂停&lt;/a&gt;了至特拉维夫的往返航班直至11月29日。&lt;/p&gt;&lt;p&gt;挪威航空&lt;a href="https://www.reuters.com/markets/companies/NAS.OL" target="_blank"&gt;(NAS.OL)&lt;/a&gt;取消了从哥本哈根和斯德哥尔摩至特拉维夫及返程航班直至12月19日。&lt;/p&gt;&lt;p&gt;芬兰航空&lt;a href="https://www.reuters.com/markets/companies/FIA1S.HE" target="_blank"&gt;(FIA1S.HE)&lt;/a&gt;&lt;a href="https://www.finnair.com/fi-fi/tietoa-lennoista/matkustustiedotteet/israelin-tilanteen-vaikutus-finnairin-lentoihin-3136478" target="_blank"&gt;暂停&lt;/a&gt;了至特拉维夫的航班直至2024年3月30日。&lt;/p&gt;&lt;p&gt;冰岛航空&lt;a href="https://www.reuters.com/markets/companies/ICEAIR.IC" target="_blank"&gt;(ICEAIR.IC)&lt;/a&gt;&lt;a href="https://www.icelandair.com/support/pre-flight/travel-alert/" target="_blank"&gt;取消了&lt;/a&gt;10月份预定至特拉维夫的剩余航班。其网站尚未提供进一步更新。&lt;/p&gt;&lt;p&gt;IAG旗下的伏林航空&lt;a href="https://www.vueling.com/en/flying-information/flights-and-airports/vueling-update" target="_blank"&gt;取消了&lt;/a&gt;直至12月10日或之前的特拉维夫往返航班及至贝鲁特直至12月9日的航班。至11月30日的航班暂时从销售中撤回，待可能的变化。&lt;/p&gt;&lt;p&gt;西班牙航空的艾尔欧帕航空取消了10月和11月预定的部分飞往以色列的航班。&lt;/p&gt;&lt;p&gt;葡萄牙航空TAP暂停了至特拉维夫的往返航班，未提供时间表。&lt;/p&gt;&lt;p&gt;意大利航空ITA取消了至特拉维夫的往返航班直至1月7日。&lt;/p&gt;&lt;p&gt;希腊航空公司爱琴海航空&lt;a href="https://www.reuters.com/markets/companies/AGNr.AT" target="_blank"&gt;(AGNr.AT)&lt;/a&gt;取消了直至11月30日或之前的特拉维夫往返航班及直至11月27日的贝鲁特航班。&lt;/p&gt;&lt;p&gt;塞浦路斯航空&lt;a href="https://www.reuters.com/business/aerospace-defense/cyprus-airways-suspends-flights-tel-aviv-until-further-notice-2023-10-12/"&gt;暂停&lt;/a&gt;了自10月12日起的拉arnaca至特拉维夫航线。&lt;/p&gt;&lt;p&gt;马耳他航空&lt;a href="https://airmalta.com/en-mt/important-information/2023/october/cancellation-of-km826-827-from%20malta-tel-aviv%E2%80%93malta-between-5th--till-18th-of-november" target="_blank"&gt;取消了&lt;/a&gt;11月18日之前的几趟往返马耳他和特拉维夫的航班，并表示将根据需要调整运营。&lt;/p&gt;&lt;p&gt;保加利亚航空&lt;a href="https://www.air.bg/en/news/bulgaria-air-temporarily-suspends-flights-to-from-tel-aviv-due-to-the-military-conflict-in-the-area" target="_blank"&gt;取消了&lt;/a&gt;至特拉维夫的往返航班，未提供时间表。&lt;/p&gt;&lt;p&gt;波兰航空LOT&lt;a href="https://www.lot.com/pl/en/explore/coronavirus-travel-information/situation-in-israel" target="_blank"&gt;表示&lt;/a&gt;从特拉维夫的航班可能会延误或取消。&lt;/p&gt;&lt;p&gt;阿联酋航空&lt;a href="https://www.emirates.com/us/english/help/travel-updates/#5059" target="_blank"&gt;暂停&lt;/a&gt;了直至11月30日的特拉维夫往返航班。&lt;/p&gt;&lt;p&gt;土耳其航空&lt;a href="https://www.reuters.com/markets/companies/THYAO.IS" target="_blank"&gt;(THYAO.IS)&lt;/a&gt;和pegasus Airlines &lt;a href="https://www.reuters.com/markets/companies/PGSUS.IS" target="_blank"&gt;(PGSUS.IS)&lt;/a&gt; &lt;a href="https://www.reuters.com/world/middle-east/turkey-airlines-halt-flights-israel-2023-10-10/"&gt;停运&lt;/a&gt;了至以色列的航班直至另行通知。&lt;/p&gt;&lt;p&gt;波斯湾航空&lt;a href="https://www.gulfair.com/en/" target="_blank"&gt;取消了&lt;/a&gt;直至11月19日或之前的特拉维夫航班。&lt;/p&gt;&lt;p&gt;阿提哈德航空于10月11日恢复了阿布扎比至特拉维夫的定期客运和货运服务。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="旅客在圣胡安的工作人员取消的美联航航班上重新预订机票" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C357BK3N2ROBXITCHN5UOQTRNA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年1月7日的美国航空波音737 MAX 9喷气式客机。路透社/Miguel J. Rodriguez Carrillo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="从加沙地带发射的火箭击中以色列南部斯德哥特附近地区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/INIZNFOWFNJJ5IPHXFKVJHV2GQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年10月9日，从加沙地带发射的火箭击中以色列南部斯德哥特附近地区。路透社/Amir Cohen/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="以色列代表团，特朗普助手访问阿联酋进行会谈" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJNZ63KX5JOZRMGSYNP3MTAMOU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;以色列航空公司埃尔阿尔的飞机准备降落在阿联酋阿布扎比国际机场，2020年8月31日。总统事务部/WAM/通过路透社提供的第三方照片。注意编辑 - 此图像由第三方提供。档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 09 Oct 2023 13:21:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/airlines-suspend-israel-flights-amid-gaza-war-2023-10-10/</guid></item><item><title>股市坚挺，美元下跌，市场押注美联储大幅降息</title><link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/</link><description>
-&lt;p&gt;全球股市连续第六个交易日小幅攀升，本周市场几乎确定将见证美国开启一轮投资者认为可能以大幅调整开端的宽松周期。&lt;/p&gt;
-&lt;p&gt;日本和英国的央行也将于本周会议，预计两国央行将维持现状，同时密集的数据日程包括美国零售销售和工业生产数据。&lt;/p&gt;
-&lt;p&gt;地缘政治风险凸显，根据联邦调查局的说法，共和党总统候选人唐纳德·特朗普周日遭受了第二次&lt;a href="https://www.reuters.com/world/us/trump-is-safe-following-gunshots-his-vicinity-says-campaign-2024-09-15/"&gt;暗杀企图&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;但周一的关键焦点是美联储在本周会议后预期降低利率半个百分点，以寻求在经济增速放缓和通货膨胀温和的背景下实现平稳着陆。&lt;/p&gt;
-&lt;p&gt;MSCI全世界指数(.MIWD00000PUS)正朝着连续第六次上涨迈进，上涨0.1%。该指数在过去六周内上涨了10%，这得益于对美联储大幅降息的热情。&lt;/p&gt;
-&lt;p&gt;XTB研究总监凯瑟琳·布鲁克斯说：“无论美联储是否将利率下调25个基点或50个基点，市场的反应将取决于两个因素：它们如何传达降息的消息以及下调50个基点的理由，以及点阵图及其对我们关于美联储成员对最终利率当前预期的揭示。”&lt;/p&gt;
-&lt;p&gt;“如果美联储开始以降低50个基点作为开端，但同时重申这是为了维持经济的平稳着陆，这将有利于股市。如果听起来美联储不得不因为眼前的灰色云层而惊慌失措地降低利率，那么预计股市将出现抛售。”她说。&lt;/p&gt;
-&lt;p&gt;标普500指数期货和纳斯达克指数期货下跌了0.1%，这表明在标普500指数在上周实现了强劲的周度表现后，基准指数可能迎来平稳的开局。&lt;/p&gt;
-&lt;p&gt;在欧洲，STOXX 600指数(.STOXX)持稳，此前一度缩窄了跌幅，投资者在本周1%的涨幅中锁定了一些利润。&lt;/p&gt;
-&lt;p&gt;中国周末发布的经济数据显示，工业产出增长率在8月份降至五个月来的低点，而零售销售和新屋价格进一步走弱。&lt;/p&gt;
-&lt;p&gt;高盛和美国银行将中国2024年的增长预测下调至4.7%。&lt;/p&gt;
-&lt;p&gt;亚洲各地的公共假日使得股市活动保持低迷。&lt;/p&gt;
-&lt;p&gt;至于美联储，期货显示交易者预计有59%的可能性将利率下调半个百分点，比上周的30%大幅上升。&lt;/p&gt;
-&lt;p&gt;在媒体报道重新激起更加激进宽松前景的可能性之后，这一可能性已大幅缩小。&lt;/p&gt;
-&lt;p&gt;国债收益率大幅上涨，仅9月份以来就将敏感利率两年的国债收益率下降了35个基点。周一，其在当天的交易中下跌了1.5个基点，至3.561%，约为两年以来的最低点。&lt;/p&gt;
-&lt;p&gt;英国央行预计在周四的会议上将利率维持在5.00%不变，尽管市场已经预计有31%的可能性将再次降低利率。&lt;/p&gt;
-&lt;p&gt;日本央行将于周五开会，普遍预计将保持现状，尽管它可能在10月份为进一步的紧缩措施奠定基础。&lt;/p&gt;
-&lt;p&gt;较低的国债收益率使得日元对美元再获一次提振，当日跌幅0.5%，至140.11，创14个月来的新低。&lt;/p&gt;
-&lt;p&gt;欧元上涨0.4%至1.112美元，得益于对欧洲央行继续实施更多降息的预期，将欧元汇率保持在1.1200美元的区间。&lt;/p&gt;
-&lt;p&gt;在墨西哥湾的四分之一原油生产仍处于离线状态的情况下，油价上涨。布伦特原油上涨了0.4%，至每桶71.91美元，而美国原油上涨了0.5%，至每桶69.02美元。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="Display of stock information in Shanghai" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V3NERNLLXJMFJJCGLV4SUC5JSQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;汽车穿越了中国上海陆家嘴金融区上海塔和其他摩天大楼旁，显示着上海和深圳股票指数的显示屏，2024年2月5日。路透社希豪·姜/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 00:20:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/</guid></item><item><title>独家：印度指控三星、小米与亚马逊、Flipkart 勾结</title><link>https://www.reuters.com/world/india/india-accuses-samsung-xiaomi-colluding-with-amazon-flipkart-2024-09-14/</link><description>
-&lt;p&gt;三星、小米及其他智能手机厂商涉嫌与亚马逊和沃尔玛旗下&lt;a href="https://www.reuters.com/markets/companies/WMT.N" target="_blank"&gt;(WMT.N)&lt;/a&gt;印度Flipkart公司串通一气，规避反垄断法规，在电子商务平台印度网站上独家推出产品，据路透社看到的监管报告显示。&lt;/p&gt;
-&lt;p&gt;上周，路透社报道称，印度竞争委员会（CCI）进行的反垄断调查显示，亚马逊和Flipkart通过给予特定卖家优先权、优先陈列某些商品并实施大幅折扣，违反了当地竞争法律，损害了其他公司的利益。&lt;/p&gt;
-&lt;p&gt;CCI对该报告中提到的亚马逊的调查指出，三星、小米、摩托罗拉、realme和OnePlus在内的五家公司的印度子公司涉嫌与亚马逊及其关联公司“串通”，进行独家手机发布，违反了竞争法。&lt;/p&gt;
-&lt;p&gt;在Flipkart的情况下，CCI的一份长达1,696页的报告称，三星、小米、摩托罗拉、Vivo、联想&lt;a href="https://www.reuters.com/markets/companies/0992.HK" target="_blank"&gt;(0992.HK)&lt;/a&gt;和realme的印度子公司实施了类似的操作。&lt;/p&gt;
-&lt;p&gt;将三星和小米等智能手机制造商纳入该案例可能加剧他们的法律和合规风险。&lt;/p&gt;
-&lt;p&gt;CCI附加首席董事总经理G.V. Siva Prasad在针对亚马逊和Flipkart的报告中所作的同一直观调查中指出：“商业中的独家性乃大忌。这不仅违背了自由公平竞争的原则，也违背了消费者利益。”&lt;/p&gt;
-&lt;p&gt;路透社首次报道了智能手机公司在CCI的未经公开的8月9日报告中被指控具有反竞争行为。&lt;/p&gt;
-&lt;p&gt;小米&lt;a href="https://www.reuters.com/markets/companies/1810.HK" target="_blank"&gt;(1810.HK)&lt;/a&gt;拒绝发表评论，而其他智能手机制造商未对评论请求作出回应。&lt;/p&gt;
-&lt;p&gt;亚马逊&lt;a href="https://www.reuters.com/markets/companies/AMZN.O" target="_blank"&gt;(AMZN.O)&lt;/a&gt;、Flipkart和CCI均未回应，迄今为止未对报告的发现发表评论。&lt;/p&gt;
-&lt;p&gt;两项CCI报告均提到，在调查期间，亚马逊和Flipkart“有意淡化”独家推出的指控，但官员们发现这一做法“普遍存在”。&lt;/p&gt;
-&lt;p&gt;Counterpoint Research数据显示，韩国的三星和中国的小米是印度最大的智能手机厂商，合计市场份额近36%，中国的Vivo占19%。&lt;/p&gt;
-&lt;p&gt;咨询公司贝恩估计，到2028年，印度的电子商务市场规模有望超过1,600亿美元，而到2023年，该市场规模预计为570-600亿美元。&lt;/p&gt;
-&lt;p&gt;调查结果对亚马逊和Flipkart在关键增长市场是一个重大打击，在该市场上，他们已面临多年来自小型零售商的不满，因为他们损害了这些零售商的线下业务。&lt;/p&gt;
-&lt;p&gt;CCI还表示，这两家公司利用其外国投资为特定数量的卖家提供仓储和营销等服务的补贴率。&lt;/p&gt;
-&lt;p&gt;据8月28日的一份内部CCI文件显示，一些智能手机公司——小米、三星、OnePlus、realme和摩托罗拉——已被指令向CCI提交截至2024财政年度的三年度财务报表，并由其审计师认证。&lt;/p&gt;
-&lt;p&gt;调查亚马逊、Flipkart及其卖家的行动始于2020年，由印度最大零售商协会——全印度商贩联盟——的一个分支机构提出的投诉引起，该联盟拥有8000万名成员。&lt;/p&gt;
-&lt;p&gt;熟悉此事的人士表示，CCI将在未来几周内审查亚马逊、Flipkart、零售商协会和智能手机公司对其调查结果的任何异议，并可能对该公司处以罚款，并强制其更改商业行为。&lt;/p&gt;
-&lt;p&gt;印度零售商反复指控亚马逊和Flipkart以及智能手机公司在线独家推出手机，称店主因此未能获得最新型号的手机，而消费者则在购物网站上寻找这些手机。&lt;/p&gt;
-&lt;p&gt;两项CCI报告均援引智能手机公司的数据分析称：“独家发布不仅严重影响了平台上的一般卖家，还严重影响了那些在较晚日期才获提供手机的实际店面零售商。”&lt;/p&gt;
-&lt;p&gt;印度研究公司Datum Intelligence估计，去年50%的手机销售为在线销售，而2013年仅为14.5%。2023年，Flipkart在在线手机销售中的份额为55%，而亚马逊为35%。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="在印度领先的电子商务公司Flipkart的配送中心内，工作人员正在班加罗尔郊外的输送带上分拣包裹" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3YXHDCAJBFLORBJBRYOYZV55IM.jpg" /&gt;
-&lt;img alt="在印度领先的电子商务公司Flipkart的配送中心内，工作人员使用自动导引车（AGV）在班加罗尔郊外的配送中心的内部分拣物品" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XJUABSHDCZOX3BKRUYU553FGGA.jpg" /&gt;
-&lt;img alt="带亚马逊标志的手机在这款插画中与Flipkart标志和印度国旗一起展示" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TLYWNCGAORIVJOYXFKP6W3FO6E.jpg" /&gt;
-&lt;img alt="人们经过位于孟买的中国消费电子制造商小米的商店" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XVMHLRVB2JM2DJ36JFGZ5VZ4MU.jpg" /&gt;
-&lt;img alt="在新德里的三星专卖店里，一位顾客在祈禳" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PSRBFYUP7RJRVDMGZMZGIGAUGU.jpg" /&gt;
-&lt;img alt="REUTERS/Dado Ruvic  图片版权" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TLYWNCGAORIVJOYXFKP6W3FO6E.jpg" /&gt;
-&lt;img alt="REUTERS/Photo filepath missing in the provided content" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PSRBFYUP7RJRVDMGZMZGIGAUGU.jpg" /&gt;
-&lt;img alt="REUTERS/Adnan Abidi  图片版权" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PSRBFYUP7RJRVDMGZMZGIGAUGU.jpg" /&gt;&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 09:31:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/india-accuses-samsung-xiaomi-colluding-with-amazon-flipkart-2024-09-14/</guid></item><item><title>央行机构国际清算银行敦促中央银行不要浪费利率缓冲</title><link>https://www.reuters.com/markets/rates-bonds/global-markets-bis-2024-09-16/</link><description>
-&lt;p&gt;国际清算银行敦促主要央行不要浪费过去几年中重建的利率缓冲，不要过于迅速地再次削减利率。&lt;/p&gt;
-&lt;p&gt;作为众所周知的中央银行中央银行，国际清算银行的这一建议正值市场等待观察美国联邦储备银行是否将启动其备受期待的利率削减周期，并可能在本周以0.25个百分点或更大的半个百分点变动开始。&lt;/p&gt;
-&lt;p&gt;国际清算银行货币与经济部门负责人克劳迪奥·博里奥强调，其对所有中央银行的消息是，他们需要保持一些“安全边际”来应对预期的经济衰退和未预期的未来危机。&lt;/p&gt;
-&lt;p&gt;“如果这种操作空间被浪费，那将是一件遗憾的事情，”博里奥在周一国际清算银行发布其最新季度报告时对记者表示。&lt;/p&gt;
-&lt;p&gt;“预期的必然是将会到来的衰退。未预期的则是我们看到的COVID冲击。因此，在决定节奏和可以走多远时，这是一个需要记住的额外考虑因素。”&lt;/p&gt;
-&lt;p&gt;本周联邦储备银行备受期待的削减将是四年来的首次，但包括欧洲央行以及英国、加拿大、瑞士、新西兰以及许多新兴市场央行在内的其他央行，已经开始了这一过程。&lt;/p&gt;
-&lt;p&gt;尽管考虑到当前全球经济的不确定性，市场一直努力解码本轮周期中利率可能达到的水平。博里奥说，中性利率或经济教科书中的r*是一个“相当模糊的概念”。&lt;/p&gt;
-&lt;p&gt;他说：“只有当你以一种方式到达那里时，你才能找到r*的位置。”&lt;/p&gt;
-&lt;p&gt;国际清算银行的报告还分析了8月份美国超级大市值科技股和全球股市的大幅下跌，以及日本银行转向提高利率时大量受欢迎的日元&lt;em&gt;掉期交易&lt;/em&gt;突然&lt;em&gt;解除&lt;/em&gt;的戏剧性动作。&lt;/p&gt;
-&lt;p&gt;这种交易，涉及以低成本借入日元投资于其他提供更高收益的货币和资产，几十年来一直是支撑市场的基础。&lt;/p&gt;
-&lt;p&gt;除日元暴跌之外，8月份的动荡还包括日本TOPIX银行指数在其40年历史上最大的单日跌幅，以及主要全球市场恐慌指标芝加哥证券交易所波动指数（VIX）的急剧上升。&lt;/p&gt;
-&lt;p&gt;国际清算银行的研究负责人兼顶级经济顾问辛洪昇说，以日元为一方，未平仓的外汇掉期和远期合约的名义规模自2021年底以来增长了约27%，达到14.2万亿美元（1989万亿日元）。&lt;/p&gt;
-&lt;p&gt;然而，目前尚未有足够的信息来判断掉期交易解除可能产生的动荡程度。&lt;/p&gt;
-&lt;p&gt;辛洪昇补充说：“我们需要做的一件事是获得有关交易方向的更好数据，以便了解该交易的经济目的。我们目前正在从事这项工作。”&lt;/p&gt;
-&lt;p&gt;瑞士国际清算银行还对使用私募股权公司提供的离岸再保险——为保险公司提供的保险——在人寿保险市场中的使用提出了金融稳定性担忧。&lt;/p&gt;
-&lt;p&gt;该报告称，这种类型的再保险使市场“日益互联互通”，并将人寿保险公司暴露于风险较高的资产之中，估计私募股权公司自2010年以来对人寿保险的投资增长了近七倍，尤其在美利坚合众国。&lt;/p&gt;
-&lt;p&gt;英格兰银行威胁要控制英国人寿保险公司使用私募股权支持的再保险，全球监管机构也对这一问题表示担忧。&lt;/p&gt;
-&lt;p&gt;国际清算银行警告说，私募股权参与者“在困难的市场条件下可能比同行更容易受到冲击”。&lt;/p&gt;
-&lt;p&gt;(1日元 = 0.0071美元)&lt;/p&gt;
+&lt;p&gt;意大利外交部长安东尼奥·塔亚尼在接受周一出版的一次访谈中透露，意大利支持欧盟委员会对中国电动汽车（EV）出口提出的关税提议，在罗马会晤中国 Commerce Minister之前发表此言。&lt;/p&gt;
+&lt;p&gt;“我们支持欧盟委员会提出的关税，以保护我们企业的竞争力，”塔亚尼在接受《每日快报》采访时表示。&lt;/p&gt;
+&lt;p&gt;王文涛部长正在访问欧洲，就欧盟对中国制造的电动汽车的反补贴案件进行讨论，随着新一轮关税投票的临近。&lt;/p&gt;
+&lt;p&gt;他在周一与塔亚尼在罗马会面，但意大利外交部发表声明时没有直接提及电动汽车。&lt;/p&gt;
+&lt;p&gt;塔亚尼在声明中指出，两人讨论了知识产权保护、农业食品贸易以及投资等问题。&lt;/p&gt;
+&lt;p&gt;他们还讨论了乌克兰战争以及加沙和红海地区的危机，意大利呼吁北京帮助解决向俄罗斯供应武器的问题，以及红海航运的安全问题。&lt;/p&gt;
+&lt;p&gt;王文涛将于9月19日与欧盟委员会执行副主席兼贸易专员瓦尔季斯·多布罗夫斯基斯举行会谈。&lt;/p&gt;
+&lt;p&gt;“我们希望在平等的基础上制定贸易计划，我们要求我们的产品在他们的市场上享有平等准入权。我们必须在平等的环境下竞争，”塔亚尼在访谈中如此说，并在会议期间重申了这一观点。&lt;/p&gt;
+&lt;p&gt;意大利最初在7月份欧盟成员国的一次非正式投票中支持关税，但工业部长阿道夫·乌尔索上周告诉路透社，他期望会有一项谈判达成的解决方案。&lt;/p&gt;
+&lt;p&gt;作为斯泰兰蒂斯集团（STLAM.MI）的一部分，意大利仍然是主要汽车制造商，包括菲亚特品牌。它还一直试图吸引东风和奇瑞汽车等中国汽车制造商在意大利开设工厂，以提高车辆产量。&lt;/p&gt;
+&lt;p&gt;在报纸访谈中，塔亚尼补充称，他的立场并未损害意大利与中国的“良好关系”。&lt;/p&gt;
+&lt;p&gt;7月底，意大利总理乔尔吉娅·梅洛尼访问中国，旨在加强与全球第二大经济体的合作并在退出“一带一路”基础设施投资计划后重置贸易关系。&lt;/p&gt;
+&lt;p&gt;意大利总统塞尔吉奥·马塔雷拉计划在今年晚些时候访华，塔亚尼也将作为代表团成员前往。&lt;/p&gt;
+&lt;p&gt;欧洲委员会即将提议对中国制造的电动汽车征收最高达35.3%的最终关税，除此之外还有欧盟标准10%的汽车进口关税。&lt;/p&gt;
+&lt;p&gt;（本故事已重新编号，以在第七段中将部长的名字更正为王）&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="国际清算银行总部位于瑞士巴塞尔" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H7OXJUUYQFMTFC3DSB2CU7TN2E.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2020年1月30日，瑞士巴塞尔的国际清算银行总部大楼。路透社/安德·维格曼姆/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="意大利总理梅洛尼在北京" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D6RMSQWBY5KKHNA27L4YEX5SRU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;意大利总理乔尔吉娅·梅洛尼在北京与媒体成员交谈时的汽车上装饰着意大利和中国国旗，2024年7月30日，中国北京。路透社/Sarah Toms/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 08:31:43 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/italy-backs-eus-chinese-tariffs-foreign-minister-says-2024-09-16/</guid></item><item><title>哈马斯袭击后哪些航空公司暂停了以色列航班？</title><link>https://www.reuters.com/world/middle-east/airlines-suspend-israel-flights-amid-gaza-war-2023-10-10/</link><description>
+&lt;p&gt;国际航空公司已暂停数百班往返特拉维夫的航班，以及部分前往黎巴嫩和约旦的航班，此举是对以色列入侵哈马斯冲突的反应。&lt;/p&gt;
+&lt;p&gt;以下为暂停航班的航空公司：&lt;/p&gt;
+&lt;p&gt;皇家摩洛哥航空将于2月1日之前取消特拉维夫往返航班。&lt;/p&gt;
+&lt;p&gt;美国航空公司将在12月4日之前暂停所有特拉维夫往返航班。&lt;/p&gt;
+&lt;p&gt;达美航空取消了11月21日之前特拉维夫与纽约之间的航班。&lt;/p&gt;
+&lt;p&gt;联合航空宣布，由于条件尚不允许，特拉维夫航班将继续暂停。&lt;/p&gt;
+&lt;p&gt;加拿大航空取消了特拉维夫往返航班，并承诺一旦局势稳定，将恢复航线。&lt;/p&gt;
+&lt;p&gt;海南航空取消了从北京和上海到特拉维夫的航班，时间为10月12日至10月31日，其网站上未提供最新更新。&lt;/p&gt;
+&lt;p&gt;国泰航空取消了香港与特拉维夫之间直至12月31日的所有航班。&lt;/p&gt;
+&lt;p&gt;韩亚航空取消了10月9日金浦至特拉维夫的航班，并预计未来航班可能会不规律，其网站上未提供最新更新。&lt;/p&gt;
+&lt;p&gt;阿斯塔纳航空于10月8日取消了阿拉木图至特拉维夫的航班，并表示如局势加剧，可能还会有更多航班取消，其网站上未提供最新更新。&lt;/p&gt;
+&lt;p&gt;阿塞拜疆航空取消了10月10日从巴库至特拉维夫及返回的航班，其网站上未提供最新更新。&lt;/p&gt;
+&lt;p&gt;德国汉莎航空及其子公司瑞士航空、奥地利航空和布鲁塞尔航空取消了至特拉维夫往返航班直至12月14日，以及直至12月14日的至黎巴嫩的航班。&lt;/p&gt;
+&lt;p&gt;法航荷航取消了至特拉维夫的服务直至进一步通知，并取消了至11月30日的航班。&lt;/p&gt;
+&lt;p&gt;瑞安航空，欧洲最大航空公司，取消了至特拉维夫往返航班直至1月8日。&lt;/p&gt;
+&lt;p&gt;匈牙利Wizz Air取消了至特拉维夫往返航班直至进一步通知。&lt;/p&gt;
+&lt;p&gt;英国easyJet暂停了至特拉维夫的航班直至11月30日。&lt;/p&gt;
+&lt;p&gt;英国航空暂停了至特拉维夫的航班直至11月21日。&lt;/p&gt;
+&lt;p&gt;维珍航空暂停了至特拉维夫往返航班直至11月29日。&lt;/p&gt;
+&lt;p&gt;挪威航空取消了从哥本哈根和斯德哥尔摩至特拉维夫的往返航班直至12月19日。&lt;/p&gt;
+&lt;p&gt;芬兰航空暂停了至特拉维夫的航班直至2024年3月30日。&lt;/p&gt;
+&lt;p&gt;冰岛航空取消了10月份至特拉维夫的剩余航班，其网站上未提供最新更新。&lt;/p&gt;
+&lt;p&gt;西班牙Vueling航空公司撤销了至特拉维夫直到12月10日，至贝鲁特直到12月9日的所有预定航班，直至11月30日的航班已暂停销售，待可能的变化。&lt;/p&gt;
+&lt;p&gt;Air Europa，另一家西班牙航空公司，取消了10月和11月一些至以色列的航班。&lt;/p&gt;
+&lt;p&gt;葡萄牙航空公司TAP暂停了特拉维夫往返航班，但未提供具体时间框架。&lt;/p&gt;
+&lt;p&gt;意大利航空（ITA）取消了至特拉维夫往返航班直至1月7日。&lt;/p&gt;
+&lt;p&gt;希腊航空公司爱琴海航空取消了至特拉维夫往返航班直至11月30日，贝鲁特直至11月27日。&lt;/p&gt;
+&lt;p&gt;塞浦路斯航空暂停了莱卡沙至特拉维夫的航线，自10月12日起生效。&lt;/p&gt;
+&lt;p&gt;马耳他航空取消了至11月18日的一些返回航班，并表示将根据需要调整运营。&lt;/p&gt;
+&lt;p&gt;保加利亚航空取消了特拉维夫往返航班，但未提供具体时间框架。&lt;/p&gt;
+&lt;p&gt;波兰航空航空公司（LOT）表示，从特拉维夫出发的航班可能会延误或取消。&lt;/p&gt;
+&lt;p&gt;阿拉伯联合航空暂停了至特拉维夫往返航班直至11月30日。&lt;/p&gt;
+&lt;p&gt;土耳其航空公司（THY）和佩吉斯航空公司（PGSUS）暂停了至以色列的航班直至进一步通知。&lt;/p&gt;
+&lt;p&gt;阿联酋航空公司（Etihad Airways）于10月11日恢复了阿布扎比至特拉维夫的客运和货运航班。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="乘客试图在圣胡安预订美国航空公司取消的航班" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C357BK3N2ROBXITCHN5UOQTRNA.jpg" /&gt;
+         &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年1月7日，美国航空公司的波音737 MAX 9客机。路透社/Miguel J. Rodriguez Carrillo/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="加沙地带发射的火箭击中以色列南部Sderot附近地区" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/INIZNFOWFNJJ5IPHXFKVJHV2GQ.jpg" /&gt;
+         &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2023年10月9日，从加沙地带发射的火箭击中以色列南部Sderot附近地区。路透社/Amir Cohen/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="以色列代表团，特朗普助手前往阿联酋进行会谈" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJNZ63KX5JOZRMGSYNP3MTAMOU.jpg" /&gt;
+         &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;以色列国有航空公司El Al的飞机飞临阿联酋阿布扎比国际机场。2020年8月31日，巴勒斯坦总统府事务部/WAM/通过路透社提供的第三方资料/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 09 Oct 2023 13:21:52 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/airlines-suspend-israel-flights-amid-gaza-war-2023-10-10/</guid></item><item><title>独家：印度指控三星、小米与亚马逊、Flipkart 勾结</title><link>https://www.reuters.com/world/india/india-accuses-samsung-xiaomi-colluding-with-amazon-flipkart-2024-09-14/</link><description>
+&lt;p&gt;三星、小米等智能手机厂商与其他电商巨头亚马逊和沃尔玛旗下的Flipkart恶意勾结，违反反垄断法规，在印度网站独家首发产品，此消息根据路透社获得的监管报告披露。&lt;/p&gt;
+&lt;p&gt;上周，路透社报道称，印度竞争委员会（CCI）的反垄断调查发现，亚马逊和Flipkart通过优先考虑特定卖家、优先推送某些商品列表以及大幅折扣产品等手段，侵犯了当地竞争法，损害了其他公司利益。&lt;/p&gt;
+&lt;p&gt;CCI公布的关于亚马逊的1027页报告中还指出，包括三星、小米、摩托罗拉、realme和一加在内的五家公司的印度子公司与亚马逊及其附属公司“恶意勾结”，参与了“独家”手机发布的“垄断”行为，违反了竞争法。&lt;/p&gt;
+&lt;p&gt;在Flipkart的案例中，CCI的1696页报告称，三星、小米、摩托罗拉、Vivo、联想和realme的印度子公司也实施了类似的策略。&lt;/p&gt;
+&lt;p&gt;将该案例纳入Samsung和小米等智能手机制造商，可能进一步增加他们的法律和合规风险。&lt;/p&gt;
+&lt;p&gt;CCI的额外总经理G.V. Siva Prasad在亚马逊和Flipkart的报告中写道：“商业中的独占是罪恶的。这不仅违反了公平自由的竞争原则，也违反了消费者的利益。”&lt;/p&gt;
+&lt;p&gt;路透社首次报道，智能手机厂商涉嫌在CCI的报告中出现反竞技行为，该报告于8月9日公布，目前还未公开。&lt;/p&gt;
+&lt;p&gt;小米未就此事发表评论，而其他智能手机制造商未回应置评请求。&lt;/p&gt;
+&lt;p&gt;亚马逊、Flipkart和CCI未对报告发现发表评论，且迄今为止未对此事作出评论。&lt;/p&gt;
+&lt;p&gt;CCI的两份报告称，在调查期间，亚马逊和Flipkart故意降低了独家上市的指控，但官员发现这种做法“普遍存在”。&lt;/p&gt;
+&lt;p&gt;Counterpoint Research数据显示，韩国的三星和中国的小米是印度最大的智能手机厂商之一，市场份额几乎达36%，中国的Vivo占19%。&lt;/p&gt;
+&lt;p&gt;咨询公司贝恩估计，到2028年，印度的电商市场预计将达到1600亿美元，从2023年的570至600亿美元增长。&lt;/p&gt;
+&lt;p&gt;这一调查结果对亚马逊和Flipkart来说是一大打击，因为他们长期以来在该关键增长市场面临着小零售商的愤怒，这些小零售商指责他们损害了他们的线下业务。&lt;/p&gt;
+&lt;p&gt;CCI还称，两家公司利用其外国投资为少数特定卖家提供仓储和市场营销等服务补贴。&lt;/p&gt;
+&lt;p&gt;据8月28日的一份内部CCI文件，显示，一些智能手机公司——小米、三星、一加、realme和摩托罗拉——已被要求向CCI提交截至2024财年的三年财务报表，并由其审计师签署认证。&lt;/p&gt;
+&lt;p&gt;针对亚马逊、Flipkart及其卖家的调查是在2020年由国家最大零售商协会——全印度贸易联盟的一个分支机构提出的投诉后开始的，该协会有8000万会员。&lt;/p&gt;
+&lt;p&gt;熟悉此事的人士表示，CCI将在未来几周内审查亚马逊、Flipkart、零售商协会以及智能手机公司对其调查结果的任何异议，并可能对相关企业实施罚款，同时强制要求企业改变其商业行为。&lt;/p&gt;
+&lt;p&gt;印度零售商反复指责亚马逊和Flipkart以及智能手机厂商，在线进行独家手机发布，表示店主因未能获得最新型号的手机而在商店中遭受损失，而顾客则在购物网站上寻找这些手机。&lt;/p&gt;
+&lt;p&gt;CCI的两份报告都说，独家上市不仅严重影响了平台上的普通卖家，还影响了那些在稍晚时候才获得手机的实物店零售商。&lt;/p&gt;
+&lt;p&gt;印度研究公司Datum Intelligence估计，去年50%的手机销售是在线进行的，而2013年这一比例为14.5%。2023年，Flipkart在在线手机销售额中占比55%，亚马逊占比35%。&lt;/p&gt; 
+&lt;figure&gt;
+&lt;img alt="Flipkart这个印度领先的电商公司的工人，在其孟买郊外的履行中心内用传送带上的包裹" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3YXHDCAJBFLORBJBRYOYZV55IM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Flipkart履行中心，班加罗尔，2021年9月23日。路透社/Samuel Rajkumar&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="Flipkart印度领先的电商公司的一位员工在孟买郊外履行中心内使用AGV（自动导引车）对商品进行分类" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XJUABSHDCZOX3BKRUYU553FGGA.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Flipkart履行中心，班加罗尔，2021年9月23日。路透社/Samuel Rajkumar&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="这款带有亚马逊标志的手机出现在这个插图中的Flipkart标志和印度国旗前方" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TLYWNCGAORIVJOYXFKP6W3FO6E.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;路透社/Dado Ruvic&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="人们走过位于孟买的中国消费电子产品制造商小米的商店" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XVMHLRVB2JM2DJ36JFGZ5VZ4MU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们走过位于孟买的中国消费电子产品制造商小米的商店，2022年5月11日。路透社/Francis Mascarenhas/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="一位顾客在位于新德里的三星专卖店内祈祷" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PSRBFYUP7RJRVDMGZMZGIGAUGU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一位顾客在位于新德里的三星专卖店内祈祷，2018年7月27日。路透社/Adnan Abidi/档案照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 09:31:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/india-accuses-samsung-xiaomi-colluding-with-amazon-flipkart-2024-09-14/</guid></item><item><title>央行机构国际清算银行敦促中央银行不要浪费利率缓冲</title><link>https://www.reuters.com/markets/rates-bonds/global-markets-bis-2024-09-16/</link><description>
+&lt;p&gt;国际结算银行敦促顶级中央银行不要因为现在过于迅速再次降低利率而浪费了他们在过去几年中重建的利率缓冲。&lt;/p&gt;
+
+&lt;p&gt;作为中央银行中的中央银行，国际结算银行（BIS）的这些建议在市场等待美国联邦储备银行（Fed）是否将从本周开始其备受期待的降息周期，以四分之一点或更大的半点变动开始之际发布。&lt;/p&gt;
+
+&lt;p&gt;BIS货币和经济发展部负责人克拉尼奥·博里奥强调，其对所有中央银行的讯息是，他们需要维持一定的“安全边际”，以便能够应对预期的经济下滑和未预见的未来危机。&lt;/p&gt;
+
+&lt;p&gt;博里奥在本周周一发布BIS最新季度报告时对记者说：“如果这种可以利用的余地被浪费，那将是一件憾事。”&lt;/p&gt;
+
+&lt;p&gt;“预期的将是不可避免的经济衰退。未预期的则是我们所见的COVID冲击的类型。因此，在决定降息速度和幅度时，这是需要额外考虑的一个因素。”&lt;/p&gt;
+
+&lt;p&gt;本周，联邦储备银行的预期降息将是他四年来的首次降息，但随着包括欧洲央行以及英国、加拿大、瑞士、新西兰以及许多新兴市场中央银行在内的其他央行已经开始这一进程。&lt;/p&gt;
+
+&lt;p&gt;市场一直在努力解读在这个周期中利率可能达到的水平，尽管鉴于当前全球经济的不确定性，这一点尚不明朗。博里奥表示，中性利率或在经济学教科书中的r*是一个“相当模糊的概念”。&lt;/p&gt;
+
+&lt;p&gt;“你只有到达那里，才会知道r*星的位置。”他说。&lt;/p&gt;
+
+&lt;p&gt;此外，BIS的报告还分析了8月份超大规模美国科技和全球股票的急剧下跌以及日本银行（Bank of Japan）将利率迈向更高的举措导致备受追捧的日元套利交易突然解开的情况。&lt;/p&gt;
+
+&lt;p&gt;这种交易涉及在低成本下借入日元用于投资其他货币和提供更高收益的资产，几十年来支撑着市场。&lt;/p&gt;
+
+&lt;p&gt;此外，8月份的动荡事件包括日本TOPIX银行指数40年历史上最大单日跌幅，以及全球市场主要恐慌指标芝加哥期权交易所波动率指数（VIX）的急剧上升。&lt;/p&gt;
+
+&lt;p&gt;BIS的研究负责人兼首席经济顾问辛说，一方面的日元在外汇掉期和远期交易中的名义规模——自2021年底以来增长约27%，达到14.2万亿美元（19.89万亿日元）。&lt;/p&gt;
+
+&lt;p&gt;然而，目前还没有足够的信息来衡量套利交易平仓可能带来的不稳定因素。&lt;/p&gt;
+
+&lt;p&gt;“我们必须要做的事情之一是获得有关交易方向的更好数据，以了解该交易的经济目的，”辛补充说，“我们目前正在从事这项工作。”&lt;/p&gt;
+
+&lt;p&gt;瑞士基于的BIS还就私人股权公司提供的海外再保险公司——为保险人提供的保险——在人寿保险市场上的使用引起了金融稳定性担忧。&lt;/p&gt;
+
+&lt;p&gt;这种再保险使市场“越来越互联”，使人寿保险公司面临更风险性资产，报告估计，自2010年以来，私募股权公司在人寿保险上的投资增长了近七倍，特别是在美国。&lt;/p&gt;
+
+&lt;p&gt;英格兰银行（Bank of England）威胁要限制英国人寿保险公司使用股权支持的再保险，而全球监管机构也对此表示担忧。&lt;/p&gt;
+
+&lt;p&gt;BIS警告称，私募股权参与者“在困难的市场环境中可能比同行更为脆弱”。&lt;/p&gt;
+
+&lt;p&gt;（1日元 = 0.0071美元）&lt;/p&gt; 
+
+&lt;figure&gt;
+&lt;img alt="国际结算银行总部位于瑞士巴塞尔" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H7OXJUUYQFMTFC3DSB2CU7TN2E.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2020年1月30日，位于瑞士巴塞尔的国际结算银行大楼。路透社/恩德·韦格曼姆/文件照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 11:02:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/rates-bonds/global-markets-bis-2024-09-16/</guid></item><item><title>俄新社报道，俄罗斯和中国军舰在“海洋2024”演习中练习导弹发射</title><link>https://www.reuters.com/world/russian-chinese-warships-practice-missile-firing-ocean-2024-ria-reports-2024-09-16/</link><description>
-&lt;p&gt;据俄罗斯国家新闻机构RIA于周一报道，俄罗斯太平洋舰队与中国海军在日本海举行了导弹和火炮射击演习，作为“海洋-2024”演习的一部分。&lt;/p&gt;&lt;p&gt;该机构表示，超过15艘战舰参与此次演习，其中包括太平洋舰队的旗舰，导弹巡洋舰“瓦良格”号。&lt;/p&gt;  
+&lt;p&gt;据俄罗斯国家新闻机构俄通社于周一报道，俄罗斯太平洋舰队和中国海军在日本海举行了导弹和火炮射击演练，此举系“海洋-2024”演习的一部分。&lt;/p&gt;
+&lt;p&gt;该机构表示，超过15艘战舰参加了俄罗斯方面的演习，其中包括太平洋舰队旗舰、导弹巡洋舰“瓦良格”号。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="俄罗斯和中国战舰参加" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JQNNFYJWKRLRDPCYY6VTVGGKTY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在9月16日发布的一段视频中捕捉到的静止图像显示，俄罗斯和中国海军在日本海的联合战略指挥和参谋演习“海洋-2024”期间，一艘战舰发射导弹。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;
-&lt;/figcaption&gt;
+	&lt;img alt="俄罗斯和中国海军舰艇参加“海洋-2024”演习" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JQNNFYJWKRLRDPCYY6VTVGGKTY.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在这张来自2024年9月16日发布的视频中截取的静态图片中，一艘战舰在“海洋-2024”演习期间发射导弹，该演习涉及俄罗斯海军和中国海军在日本海的联合战略指挥和参谋训练。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="俄罗斯和中国战舰参加" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NL2EMAY6PJOGBD6HEX36W23LHQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在9月16日发布的一段视频中捕捉到的静止图像显示，俄罗斯和中国海军在日本海的联合战略指挥和参谋演习“海洋-2024”期间，一艘战舰发射导弹。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;
-&lt;/figcaption&gt;
+	&lt;img alt="俄罗斯和中国海军舰艇参加“海洋-2024”演习" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NL2EMAY6PJOGBD6HEX36W23LHQ.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在这张来自2024年9月16日发布的视频中截取的静态图片中，一艘战舰在“海洋-2024”演习期间发射导弹，该演习涉及俄罗斯海军和中国海军在日本海的联合战略指挥和参谋训练。俄罗斯国防部/供图 via REUTERS &lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="俄罗斯和中国战舰参加" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKVV3W75JLJ7NUXRRBO3NMUDQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在9月16日发布的一段视频中捕捉到的静止图像显示，俄罗斯和中国海军在日本海的联合战略指挥和参谋演习“海洋-2024”期间，一艘战舰参与其中。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;
-&lt;/figcaption&gt;
+	&lt;img alt="俄罗斯和中国海军舰艇参加“海洋-2024”演习" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKVV3W75JLJ7NUXRRBO3NMUDQ.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在这张来自2024年9月16日发布的视频中截取的静态图片中，一艘战舰参加“海洋-2024”演习，该演习涉及俄罗斯海军和中国海军在日本海的联合战略指挥和参谋训练。俄罗斯国防部/供图 via REUTERS &lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="俄罗斯和中国战舰参加" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SJHLLLCSNVOY3HE432EULK2UCY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在9月16日发布的一段视频中捕捉到的静止图像显示，俄罗斯和中国海军在日本海的联合战略指挥和参谋演习“海洋-2024”期间，一艘战舰发射导弹。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;
-&lt;/figcaption&gt;
+	&lt;img alt="俄罗斯和中国海军舰艇参加“海洋-2024”演习" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SJHLLLCSNVOY3HE432EULK2UCY.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在这张来自2024年9月16日发布的视频中截取的静态图片中，一艘战舰在“海洋-2024”演习期间发射导弹，该演习涉及俄罗斯海军和中国海军在日本海的联合战略指挥和参谋训练。俄罗斯国防部/供图 via REUTERS &lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="俄罗斯和中国战舰参加" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SWIC6Y6TBZOXDOIZO746LLZZUU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;在9月16日发布的一段视频中捕捉到的静止图像显示，俄罗斯和中国海军在日本海的联合战略指挥和参谋演习“海洋-2024”期间，战舰参与了这次联合演习。俄罗斯国防部/供图 via REUTERS&lt;/i&gt;
-&lt;/figcaption&gt;
+	&lt;img alt="俄罗斯和中国海军舰艇参加“海洋-2024”演习" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SWIC6Y6TBZOXDOIZO746LLZZUU.jpg" /&gt;
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;俄罗斯海军和中国海军舰艇在日本海的联合战略指挥和参谋训练“海洋-2024”演习中参加，这是来自2024年9月16日发布视频中截取的静态图片。俄罗斯国防部/供图 via REUTERS &lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 10:24:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/russian-chinese-warships-practice-missile-firing-ocean-2024-ria-reports-2024-09-16/</guid></item><item><title>香港新闻集团称数十名记者受到骚扰</title><link>https://www.reuters.com/world/asia-pacific/hong-kong-journalist-group-says-dozens-journalists-harassed-2024-09-13/</link><description>
-&lt;p&gt;(本于9月13日发布的报道现已更正，以明确指出第10段中的行动是由维基百科的志愿者编辑而非维基媒体基金会采取的)&lt;/p&gt;
-&lt;p&gt;香港记者协会（HKJA）于周五表示，自6月以来，数十名香港记者及其家庭在网上和个人层面遭受骚扰和恐吓。&lt;/p&gt;
-&lt;p&gt;HKJA主席程静宜表示，这些建设和散播虚假诽谤性内容的行为损害了香港的新闻自由，不应被容忍。&lt;/p&gt;
-&lt;p&gt;程静宜表示：“我认为这是我们迄今为止所知的针对记者的规模最大的骚扰事件。我们今天发出强烈呼声，表示我们不接受这种行为。”&lt;/p&gt;
-&lt;p&gt;保安副司长郭晓华于周五对媒体表示：“香港是一个法治社会，任何人都不应该受到恐吓、侮辱或所谓的骚扰。”&lt;/p&gt;
+&lt;p&gt;(本九月十三日的报道已更正，以明确说明在第10段中采取行动的是志愿者维基百科编辑，而非维基媒体基金会)&lt;/p&gt;
+&lt;p&gt;香港记者协会（HKJA）于本周五表示，自六月份以来，数十名香港记者及其家人在网上和现实生活中遭受了骚扰和恐吓。&lt;/p&gt;
+&lt;p&gt;HKJA主席程瑞棠表示，这些威胁和虚假的诽谤内容的分享损害了香港的新闻自由，不应被容忍。&lt;/p&gt;
+&lt;p&gt;程瑞棠说：“我认为这是我们迄今为止所知的针对记者在香港的最大规模骚扰。今天，我们发出强烈呼吁，表达我们不应接受此类行为。”&lt;/p&gt;
+&lt;p&gt;保安局政务司司长周海泳在周五对媒体表示：“香港是一个法治社会，任何人都不应受到恐吓、侮辱或所谓的骚扰。”&lt;/p&gt;
 &lt;p&gt;他敦促任何感到这种压力的人向执法机关报告。&lt;/p&gt;
-&lt;p&gt;她指出，受到针对的目标记者、媒体公司及机构包括HKJA执行委员会及13家媒体机构，包括《香港自由报》、《港媒》、《香港焦点》以及两所新闻教育机构。&lt;/p&gt;
-&lt;p&gt;根据HKJA的说法，至少15名记者、他们的家庭成员及联系人——包括房东、慈善机构、学校和私营企业——都收到了自称“爱国者”的匿名电子邮件或信件。&lt;/p&gt;
-&lt;p&gt;据称，这种恐吓行为发生在当局对2019年大规模民主示威活动后的多年时间里所实施的全国安全打压之中。批评者认为，这侵蚀了香港于1997年从英国移交至中国的协议，该协议保证了该城市的一定程度的自治。&lt;/p&gt;
-&lt;p&gt;HKJA表示，一些记者或他们的联系人在私人Facebook群组中被针对。程静宜说，在至少四起案件中，网络水军利用Facebook和维基百科发出暴力威胁，包括死亡威胁。&lt;/p&gt;
-&lt;p&gt;维基媒体基金会（负责运营维基百科的非营利组织）的一名发言人就回应路透社表示，它已对一位违规的用户 worldwide 指令全面禁止其使用，并指出自愿编辑在维基百科上监管内容时移除了有害内容。&lt;/p&gt;
-&lt;p&gt;香港警方表示，他们将会根据法律处理每一项报告的案件。&lt;/p&gt;
-&lt;p&gt;Facebook的所有者Meta未就路透社的评论请求做出回应。&lt;/p&gt;
-&lt;p&gt;最近，两名编辑因煽动叛乱而被定罪，这是自1997年以来首次对任何记者或编辑进行煽动叛乱指控。&lt;/p&gt;
-&lt;p&gt;HKJA表示，它已确认一名滥用用户并向警方和香港个人资料隐私专员公署（PCPD）报告了调查结果。PCPD表示，它已收到一项投诉，并正在处理。&lt;/p&gt;
-&lt;p&gt;香港自由报总监汤姆·格伦迪对路透社说，他的房东和当地地产代理收到了匿名信，信中提出了“荒谬的指控和威胁‘无法想象的结果’和‘附带损害’”，除非他被驱逐。&lt;/p&gt;
-&lt;p&gt;Inmedia告诉路透社，其一名员工收到了骚扰信息。香港焦点表示，他们对“我们记者及其亲属遭受的骚扰程度不一感到震惊”。&lt;/p&gt;
-&lt;p&gt;它说：“我们希望公众将新闻工作视为一项严肃的事业并支持我们的工作，从而使报道能够在无恐惧的环境中开展。”&lt;/p&gt;
+&lt;p&gt;她说，被目标打击的记者、媒体公司和组织包括HKJA的执行委员会和包括《香港自由报》、Inmediahk、HK Feature以及两所新闻教育机构在内的13家媒体机构。&lt;/p&gt;
+&lt;p&gt;HKJA表示，至少有15名记者、他们的家人和关联人员——包括房东、慈善机构、学校和私营企业——收到了自称“爱国者”的匿名电子邮件或信件投诉。&lt;/p&gt;
+&lt;p&gt;这位协会表示，这种所谓的恐吓发生在当局对2019年大规模民主抗议活动进行多年国家安全镇压之际。批评者认为这侵蚀了1997年香港从英国回归中国的协议，该协议保证这座城市一定程度的自治。&lt;/p&gt;
+&lt;p&gt;HKJA表示，一些记者或其关联人员被目标锁定于私人Facebook群组。程瑞棠说，至少有四起案件中，网络水军利用Facebook和维基百科发出暴力威胁，包括死亡威胁。&lt;/p&gt;
+&lt;p&gt;维基媒体基金会——作为运营维基百科的非营利组织——的一名发言人 tegenover Reuters回复说，他们对一名违反使用条款的用户实施了全球禁令，并指出监督维基百科内容的志愿者编辑移除了有害内容。&lt;/p&gt;
+&lt;p&gt;香港警方表示，他们将根据法律处理每一起报告的案件。&lt;/p&gt;
+&lt;p&gt;Facebook的所有者Meta未对Reuters的评论请求做出回应。&lt;/p&gt;
+&lt;p&gt;两名编辑最近因煽动罪被定罪，这是自1997年以来首次因对任何记者或编辑的煽动罪而判处有罪。&lt;/p&gt;
+&lt;p&gt;HKJA表示，它已识别了一名滥用用户，并将调查结果报告给警方和个人数据私隐专员公署（PCPD）。PCPD表示，它已收到一宗投诉，正在处理。&lt;/p&gt;
+&lt;p&gt;香港自由报的总监Tom Grundy对Reuters表示，他的房东和当地地产代理收到了匿名信，提出“毫无根据的指控并威胁‘不可想象的后果’和‘附带损害’”，除非他被驱逐出去。&lt;/p&gt;
+&lt;p&gt;Inmedia告诉Reuters，它的一名员工收到了骚扰信息。HK Feature表示，它对记者和他们的亲属遭受不同程度的骚扰感到“震惊”。&lt;/p&gt;
+&lt;p&gt;它说：“我们希望公众将新闻工作视为严肃的工作并支持我们的工作，以便报道能免除恐惧。”&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img alt="程静宜，香港记者协会（HKJA）主席，在香港" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ODTRCJQS5NJLDMXI3CLUTNHRNM.jpg" /&gt;
-  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;程静宜，香港记者协会（HKJA）主席，在中国香港举行的新闻发布会上发言，日期为2024年9月13日。路透社/周思聪&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 09:31:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/hong-kong-journalist-group-says-dozens-journalists-harassed-2024-09-13/</guid></item><item><title>早盘：美联储迎来宽松周，中国经济疲软</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-16/</link><description>
-&lt;p&gt;一瞥美国及全球市场未来展望，由麦克·多兰为您呈现&lt;/p&gt;
-&lt;p&gt;经过为期30个月的不寻常的货币紧缩，旨在遏制后疫情时期的通胀飙升，美联储终于在本周准备降低利率——现在只剩下一个问题了，那就是降低多少。&lt;/p&gt;
-&lt;p&gt;随着周六从中国传来又一组疲软的工业和零售销售数据，以及美联储周日对共和党总统候选人唐纳德·特朗普进行的第二次未遂暗杀事件进行追查，这一期待已久的美联储放松周期的新闻背景至少是紧张的。&lt;/p&gt;
-&lt;p&gt;但投资者目前仍然专注于日益增长的猜测，即周三美联储的第一轮降息可能是50个基点而不是25个基点——特别是在一些人对上周的媒体报道视作可能的暗示之际，尽管美联储官员仍在传统会议前的静默期。&lt;/p&gt;
-&lt;p&gt;周一早上，由于日本和内地中国中心因节假日关闭，世界市场相对平静。&lt;/p&gt;
-&lt;p&gt;然而，上周末看到的上涨势头似乎在本周一得以延续——将华尔街股票指数（.SPX）推回到创纪录高点之内1%的位置。股票期货上涨，小市值股票瑞银2000指数（.RUT）领涨。&lt;/p&gt;
-&lt;p&gt;美联储期货目前预计周三将进行约40个基点的放松，有超过60%的可能性将降至50个基点而非25个基点。同样值得注意的是，它们预计到年底将降息120个基点。&lt;/p&gt;
-&lt;p&gt;随着短期国债收益率回到2022年的水平，美元（.DXY）在周一早上承受巨大压力。&lt;/p&gt;
-&lt;p&gt;两年期国债收益率首次降至3.55%以下，将2年至10年期收益率曲线差距推至自2022年6月以来的最高水平，几乎达到9个基点。&lt;/p&gt;
-&lt;p&gt;在美联储政策影响下的交易中，美元承受巨大压力，其DXY指数（.DXY）大幅下跌，再次接近全年低点。MSCI新兴市场货币指数（.MIEM00000CUS）上涨近0.25%，创下历史新高。&lt;/p&gt;
-&lt;p&gt;主要货币之间的利率相对策略占主导地位。在日本银行（&lt;a href="https://www.reuters.com/markets/currencies/irrational-exuberance-funds-yen-longs-hit-8-year-high-mcgeever-2024-09-16/"&gt;仍然预期&lt;/a&gt;未来利率将进一步上升的情况下，日元在本周首次突破140美元大关。&lt;/p&gt;
-&lt;p&gt;在欧洲，英国银行预计将在周四的会议中对本年度第二次利率降息表现出犹豫——部分原因是等待下个月新成立的英国工党政府的第一个预算。&lt;/p&gt;
-&lt;p&gt;在周末对中国最新一批低于预期的经济数据的反应较为艰难，因为内地市场周一休市。&lt;/p&gt;
-&lt;p&gt;据最新数据显示，中国的工业产出增长率在8月份放缓至五个月来的最低水平，而零售销售和新房价也未能达标，进一步疲软，不可避免地加强了政府实施刺激性经济政策的需求，而此前此类政策明显缺失。&lt;/p&gt;
-&lt;p&gt;这些疲软的数据使北京设定的5%增长目标变得更加遥不可及，并呼应了周五看到的银行贷款数据。&lt;/p&gt;
-&lt;p&gt;但在所有担忧中，最重要的是当局未能遏制伞下的房地产市场崩盘。中国的新房价在8月份下降的速度为超过九年来的最快，只有70个城市中有两个在月度和年率基础上报告房价上涨。&lt;/p&gt;
-&lt;p&gt;尽管如此，香港恒生指数（.HSI）在周一小幅上涨，离岸人民币相对于全球普遍偏弱的美元稳定。&lt;/p&gt;
-&lt;p&gt;在政治方面，美国总统选举竞争在美联储特工在美国佛罗里达州棕榈滩特朗普高尔夫球场上挫败了所谓的暗杀特朗普企图后再次出现转折。&lt;/p&gt;
-&lt;p&gt;自从上周两位候选人之间的电视辩论以来，特朗普在投注市场上落后于民主党候选人卡玛拉·哈里斯，她仍然是11月总统大选的边缘挚爱。&lt;/p&gt;
-&lt;p&gt;在欧洲，股市变动不大。&lt;/p&gt;
-&lt;p&gt;但在大宗交易新闻中，法国雷克塞尔（&lt;a href="https://www.reuters.com/markets/deals/rexel-rebuffed-an-around-92-billion-offer-qxo-sources-say-2024-09-15/"&gt;雷克塞尔&lt;/a&gt; &lt;a href="https://www.reuters.com/markets/companies/RXL.PA" target="_blank"&gt;(RXL.PA)&lt;/a&gt;）在周日拒绝了领有亿万富翁布拉德·雅各布斯（Brad Jacobs）领衔的QXO（&lt;a href="https://www.reuters.com/markets/companies/QXO.O" target="_blank"&gt;(QXO.O)&lt;/a&gt;）发出的约94亿美元收购要约后，股价上涨了12.6%。&lt;/p&gt;
-&lt;p&gt;以下是在周一晚些时候可能为美国市场提供更多方向的关键发展：&lt;/p&gt;
-&lt;p&gt;* 纽约联邦储备银行9月制造业调查&lt;/p&gt;
-&lt;p&gt;* 欧洲央行首席经济学家菲利普·兰恩（Philip Lane）发言&lt;/p&gt;
-&lt;p&gt;* 美国财政部出售3个月和6个月期国债&lt;/p&gt;
+&lt;img alt="Cheng, chairperson of the the Hong Kong Journalists Association (HKJA), in Hong Kong" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ODTRCJQS5NJLDMXI3CLUTNHRNM.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Selina Cheng，香港记者协会（HKJA）主席，在2024年9月13日中国的香港举行的新闻发布会上发言。来源：路透社/Joyce Zhou&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 09:31:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/hong-kong-journalist-group-says-dozens-journalists-harassed-2024-09-13/</guid></item><item><title>早盘：美联储迎来宽松周，中国经济疲弱</title><link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-16/</link><description>
+&lt;p&gt;前瞻美及全球金融市场，由迈克·多兰为您解密&lt;/p&gt;&lt;p&gt;经历了为期30个月的非同寻常的货币紧缩，旨在遏制疫情后通胀的飙升，美联储终于在本周设定了降低利率的计划——而现在的问题仅仅是降低多少。&lt;/p&gt;&lt;p&gt;周六，中国又传来工业和零售数据疲软的消息，而周日FBI正在调查针对共和党总统候选人唐纳德·特朗普的第二次未遂刺杀事件，可以说，在这漫长的美联储宽松周的新闻背景中，至少可以称得上是动荡不安。&lt;/p&gt;&lt;p&gt;但投资者目前仍专注于日益增加的猜测，即周三美联储首次降息可能会是50个基点而不是25个基点——尤其是在一些分析人士认为上周的新闻报道可能是一种暗示，尽管美联储官员仍然处于传统的大会前静默期。&lt;/p&gt;&lt;p&gt;由于日本和大陆中国中心因假期关闭，周一早上全球市场相对平静。&lt;/p&gt;&lt;p&gt;然而，上周末出现的活力——将华尔街股票基准指数（.SPX）带回到历史最高水平1%以内——在周一早上似乎得到了维持。股票期货上涨，小型股指数 Russell 2000（.RUT）领涨。&lt;/p&gt;&lt;p&gt;美联储期货现在预测周三将放宽40个基点——有超过60%的可能性是50个基点而不是25个基点。更重要的是，它们预计年底前将削减120个基点。&lt;/p&gt;&lt;p&gt;随着短期国债收益率回到2022年的水平，美元（.DXY）在周一早间承受了很大压力。&lt;/p&gt;&lt;p&gt;两年期国债收益率首次跌破3.55%，2-10年国债收益率曲线差的积极程度自2022年6月以来达到近9个基点。&lt;/p&gt;&lt;p&gt;美元承受了美联储交易的主要压力，其DXY指数（.DXY）大幅下跌，再次逼近今年低点。MSCI新兴市场货币指数（.MIEM00000CUS）上涨近0.25%，创历史新高。&lt;/p&gt;&lt;p&gt;在各大经济体中，相对利率策略占据了主导地位。由于日本银行（The Bank of Japan）仍然有可能提高利率，日本的日元汇率自2022年7月以来首次突破140美元。&lt;/p&gt;&lt;p&gt;市场预期英国银行下周会议时将会犹豫是否再次降息，部分原因是在等待下个月新成立的英国工党政府的首次预算。&lt;/p&gt;&lt;p&gt;由于周一中国大陆市场关闭，对中国周末发布的低于预期经济数据的反应较难判断。&lt;/p&gt;&lt;p&gt;根据最新数据，中国8月份工业产出增长放缓至五个月低点，而零售销售和新房价格也未达预期，进一步疲软——必然加强了对以往明显缺席的政府刺激性政策的支持。&lt;/p&gt;&lt;p&gt;这些疲软的数据使北京5%的增长目标变得更加遥不可及，并呼应了上周五公布的银行贷款数据。&lt;/p&gt;&lt;p&gt;或许最令人不安的是，当局未能阻止持续的房地产崩盘。8月份，中国新房价格以近九年最快的速度下降——只有两个被调查的70个城市在8月份报告了房价在月度和年度意义上的上涨。&lt;/p&gt;&lt;p&gt;然而，香港恒生指数（.HSI）在周一上涨，离岸人民币兑普遍走软的美元保持坚挺。&lt;/p&gt;&lt;p&gt;在政治方面，美国家庭竞选活动在联邦调查局称在西棕榈滩的高尔夫球场对特朗普进行的明显刺杀阴谋被挫败后又起了另一波波澜。&lt;/p&gt;&lt;p&gt;自上周两人在电视辩论以来，特朗普在赌场市场上一直落后于民主党候选人卡马拉·哈里斯，她仍然是11月总统大选的微弱赢家。&lt;/p&gt;&lt;p&gt;在欧洲，股票市场几乎变化不大。&lt;/p&gt;&lt;p&gt;但就在交易新闻方面，法国的雷克塞尔（Rexel）（RXL.PA）在周日挫败了由亿万富翁布拉德·雅各布斯领导的QXO（QXO.O）提出的94亿美元收购提议后，股价上涨了12.6%。&lt;/p&gt;&lt;p&gt;以下关键发展有望在周一晚些时候为美国市场提供更多方向：&lt;/p&gt;&lt;p&gt;* 纽约联邦储备银行9月份制造业调查&lt;/p&gt;&lt;p&gt;* 欧洲中央银行首席经济学家菲利普·莱恩发表讲话&lt;/p&gt;&lt;p&gt;* 美国财政部发售3个月和6个月的国库券&lt;/p&gt; &lt;figure&gt;&lt;img alt="联邦储备董事会大楼华盛顿" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KSRSPE7DGBJEHJ7LJ3LZOHC224.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年6月14日，美国华盛顿特区，美国联邦储备委员会马尔林·S·埃克尔大楼的外观。路透社/Sarah Silbiger/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 10:06:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-16/</guid></item><item><title>美联储宽松希望推动亚洲债券八月份吸引大量资金流入</title><link>https://www.reuters.com/markets/rates-bonds/asian-bonds-attract-massive-inflows-august-fed-easing-hopes-2024-09-16/</link><description>
+&lt;p&gt;亚洲债券在8月份连续第四个月吸引海外资金流入，投资者对美联储将在9月份开始降低利率的乐观预期给予了支撑。&lt;/p&gt;
+&lt;p&gt;根据监管机构和债券市场协会的数据，海外投资者在印度尼西亚、印度、马来西亚、韩国和泰国的区域债券市场进行了大量购买，8月份总额达到净流入140.6亿美元——自2019年以来最大的单月净买入规模。&lt;/p&gt;
+&lt;p&gt;韩国债券在自2023年5月以来迎来了最大的海外资金流入，吸引了599亿美元。印尼债券也持续吸引关注，投资额度达35亿美元，标志着连续四个月从海外获得净收益。&lt;/p&gt;
+&lt;p&gt;此外，印度、马来西亚和泰国的债券分别吸引了21.4亿美元、20.6亿美元和3.7亿美元。&lt;/p&gt;
+&lt;p&gt;交易员们越来越预期美联储将在本周选择实施较大的&lt;a href="https://www.reuters.com/markets/rates-bonds/fed-seen-nearly-likely-cut-rates-by-50-bps-25-bps-2024-09-13/"&gt;利率削减&lt;/a&gt;，以阻止劳工市场进一步恶化，而非选择较小幅度的初始缩减。&lt;/p&gt;
+&lt;p&gt;分析师们预期一些亚洲央行将效仿此举动，菲律宾央行（Bangko Sentral ng Pilipinas，BSP）已经在8月份将其利率下调了25个基点。&lt;/p&gt;
+&lt;p&gt;安联集团（ANZ）亚洲研究部负责人郭锦洪表示：“随着美联储降息周期为亚洲央行降低利率铺平道路，债券净流入有望保持强劲。&lt;/p&gt;
+&lt;p&gt;他表示：“我们预计在美联储的动作之后，印度尼西亚银行（Bank Indonesia，BI）和韩国银行（Bank of Korea，BoK）将加入降息周期。”&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="一位泰国投资者在曼谷中央区的证券交易所前台阅读报纸，面前是一块电子显示屏，显示着实时市场数据" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LHVBJJESZNI27FWFWR5E2AWSVE.jpg" /&gt; 
+	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2015年8月19日，泰国一位投资者在曼谷中央区的证券交易所前台阅读报纸，面前是一块电子显示屏，显示着实时市场数据。路透社/ Chaiwat Subprasom/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 09:31:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/rates-bonds/asian-bonds-attract-massive-inflows-august-fed-easing-hopes-2024-09-16/</guid></item><item><title>高盛、花旗集团将中国2024年经济增长预期下调至4.7%</title><link>https://www.reuters.com/world/china/goldman-sachs-citigroup-cut-chinas-2024-growth-forecast-47-2024-09-16/</link><description>
+&lt;p&gt;高盛集团及花旗集团将对中国全年经济增长的预测下调至4.7%，此调整源于全球第二大经济体的工业产出于8月份放缓至五个月低位。&lt;/p&gt;&lt;p&gt;8月份经济活动疲软加剧了对中国经济增长缓慢恢复的关注，并凸显了采取进一步刺激措施以提振需求的必要性。&lt;/p&gt;&lt;p&gt;增长放缓迫使全球经纪机构降低了对2024年的预测，使预测值低于政府设定的约5%的目标。&lt;/p&gt;&lt;p&gt;高盛此前预计全年经济增长率为4.9%，而花旗集团预测的增长率为4.8%。&lt;/p&gt;&lt;p&gt;根据国家统计局（NBS）周六发布的数据，8月份中国的工业产出同比增长4.5%，增速较7月份的5.1%有所放缓，创自3月份以来的最慢增速。&lt;/p&gt;&lt;p&gt;零售销售——衡量消费的关键指标——8月份同比增长2.1%，增速较7月份的2.7%有所放缓，这主要受到极端天气和夏季旅游高峰的影响。分析师预计，全年表现不佳的零售销售将增长2.5%。&lt;/p&gt;&lt;p&gt;“我们认为，中国未能实现‘约5%’的全年国内生产总值（GDP）增长目标的几率正在上升，因此，采取更多需求侧放松措施的紧迫性也在增加，”高盛在9月15日的一份报告中表示。&lt;/p&gt;&lt;p&gt;该行仍维持了对2025年GDP增长率的预测，维持在4.3%。&lt;/p&gt;&lt;p&gt;然而，由于缺乏推动国内需求的重要因素，花旗集团周日将对中国2025年年底GDP增长的预测从4.5%下调至4.2%。&lt;/p&gt;&lt;p&gt;“我们认为，财政政策需要加大力度，以打破节约的困境，及时部署增长支持，”花旗集团的经济学家表示。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="上海城市天际线和黄浦江之景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T2MHNNJ2CFMYPIHOCMSZQRZWCA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年2月24日，中国上海，一年一度的全国人民代表大会（NPC）前夕的城市天际线和黄浦江之景。图片由路透社Aly Song提供/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 05:45:04 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/goldman-sachs-citigroup-cut-chinas-2024-growth-forecast-47-2024-09-16/</guid></item><item><title>JSW MG Motor India 将推出豪华汽车品牌； 2025 年 3 月推出第一辆车</title><link>https://www.reuters.com/business/autos-transportation/jsw-mg-motor-india-launch-luxury-car-brand-first-car-by-march-2025-2024-09-16/</link><description>
+&lt;p&gt;上汽集团（SAIC Motor）和JSW集团合资的JSW MG Motor India，于周一宣布，将推出一款豪华车品牌，旨在至2025年第一季度开始销售其首辆高端车型。&lt;/p&gt;&lt;p&gt;该品牌名为“MG Select”，公司表示，将在接下来的两年内推出四款产品。&lt;/p&gt;&lt;p&gt;在一份声明中，JSW MG Motor India表示：“此举反映了公司将战略性地应对高端汽车市场的机遇。”&lt;/p&gt;&lt;p&gt;拥有英国MG Motor的中国的SAIC，以及JSW去年12月宣布了此项合资项目，印度集团持有35%的股份。该公司目前生产Hector和Gloster等SUV，并拥有两款电动汽车——小型的Comet EV和更大的ZS EV。&lt;/p&gt;&lt;p&gt;MG Motor在竞争诸如塔塔汽车（Tata Motors）等国内国外汽车制造商的乘用车市场中，约占1%的市场份额。由于新德里寻求限制来自北京的投资，SAIC在印度的扩张一直受阻。&lt;/p&gt;&lt;p&gt;JSW MG Motor India未具体说明即将推出的高端车型的价格点，且未立即对路透社的评论请求作出回应。&lt;/p&gt;&lt;p&gt;MG Select将提供电动汽车、混合动力和插电式混合动力车型，并在印度各地设立汽车展厅。&lt;/p&gt;&lt;p&gt;目前，该英国品牌销售的汽车价格约为100万卢比（约合11,922.15美元）至390万卢比（约合46,496.38美元）。&lt;/p&gt;&lt;p&gt;梅赛德斯-奔驰（Mercedes Benz）在印度豪华车市场（价格更高，通常功能更丰富）的销量位居首位。&lt;/p&gt;&lt;p&gt;（1美元 = 83.8775印度卢比）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="档案照片：曼谷国际车展" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NIWAF2GCRJL25KB4EVLCYYSF2Q.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;MG标志在泰国曼谷第45届国际车展上展示。 REUTERS/Chalinee Thirasupa/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 08:23:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/jsw-mg-motor-india-launch-luxury-car-brand-first-car-by-march-2025-2024-09-16/</guid></item><item><title>早盘竞价：关注美联储</title><link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-09-16/</link><description>
+&lt;p&gt;前瞻今日欧洲及全球市场动态，由韦恩·科尔为您提供洞察。&lt;/p&gt;
+&lt;p&gt;美国联邦储备系统终于迎来了决策时刻，市场对此意见分歧，不确定性在于其是否会对关键利率进行25或50个基点的下调。尽管基金期货在今日早上有所回暖，但目前预示着加大动作的可能性高达59%。&lt;/p&gt;
+&lt;p&gt;分析师群体更为谨慎，路透社调查的101位经济学家中，有92位预计下调25个基点。摩根大通值得关注，其预测更大幅度的下调，理由是鉴于经济周期阶段，当前利率已经过于紧缩。&lt;/p&gt;
+&lt;p&gt;随着通胀放缓，一次大幅下调将仅仅是为了防止实际利率攀升。此外，下一次会议直至11月初才举行，这也是市场预测圣诞节前降息114个基点、2025年进一步降息142个基点的原因之一。&lt;/p&gt;
+&lt;p&gt;该会议将于总统选举后仅两天举行，届时政治因素将加大其份量。谈及选举，共和党候选人唐纳德·特朗普在面临FBI挫败其生命安全的另一企图后安然无恙。&lt;/p&gt;
+&lt;p&gt;预测网站PredictIt持续维持特朗普的赢面为44美分，而加利福尼亚副总统卡玛拉·哈里斯为46美分。&lt;/p&gt;
+&lt;p&gt;这一切，加上日本和中国的假日，使得亚洲交易开局谨慎，大多数&lt;a href="https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/"&gt;股票市场&lt;/a&gt;变动微乎其微。美元兑日元保持在140.50的水平，日元持续上涨，成为年内跌幅最大，也拥有最大的反弹空间。若跌破140.00，将开启向去年1月129.215的低点发展的大门。&lt;/p&gt;
+&lt;p&gt;周末发布的关于中国零售销售、工业产出和房价的数据并未改善市场情绪，反而进一步凸显北京需要更多经济刺激措施。&lt;/p&gt;
+&lt;p&gt;本周其他央行会议中，英格兰银行65位分析师普遍预期将维持5.0%的政策利率，但市场预示意外降息的可能性为31%。周三的通胀数据或将进一步明确几率。&lt;/p&gt;
+&lt;p&gt;日本银行被认为周五将保持现状，但可能为10月紧缩策略奠定基础。南非央行预计本周开始其宽松政策，而挪威的政策制定者有望维持观望态度。&lt;/p&gt;
+&lt;p&gt;以下是可能影响周一市场的关键发展：&lt;/p&gt;
+&lt;p&gt;- 德国批发价格通胀，欧盟贸易平衡&lt;/p&gt;
+&lt;p&gt;- 纽约联邦储备系统制造业指数&lt;/p&gt;
+&lt;p&gt;- 美国三个月、六个月期国库券拍卖&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="美国联邦储备委员会大厦外景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KSRSPE7DGBJEHJ7LJ3LZOHC224.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年6月14日，美国华盛顿特区的联邦储备委员会马林纳·S·埃克尔斯大楼外景。美联社/萨拉·西尔比格/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 10:06:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-09-16/</guid></item><item><title>美联储宽松希望推动亚洲债券八月份吸引大量资金流入</title><link>https://www.reuters.com/markets/rates-bonds/asian-bonds-attract-massive-inflows-august-fed-easing-hopes-2024-09-16/</link><description>
-&lt;p&gt;亚洲债券在八月连续第四个月吸引外资流入，投资者对美联储将在九月开始降息的乐观预期推动市场情绪。&lt;/p&gt;
-&lt;p&gt;海外投资者在印尼、印度、马来西亚、韩国和泰国的区域债券市场展开了大规模购买，八月份累计净买入1406亿美元，这一数额自2019年以来的单月净买入额之最，据监管机构和债券市场协会提供的数据显示。&lt;/p&gt;
-&lt;p&gt;韩国债券自2023年5月以来首次迎来了前所未有的外资流入，规模达到599亿美元。印度尼西亚债券的吸引力也持续不减，投资额达35亿美元，连续四个月实现境外净流入。&lt;/p&gt;
-&lt;p&gt;此外，印度、马来西亚和泰国的债券分别吸引了21.4亿美元、20.6亿美元和3.7亿美元的流入。&lt;/p&gt;
-&lt;p&gt;交易员们正愈发押注美联储将本周选择一次较大的&lt;a href="https://www.reuters.com/markets/rates-bonds/fed-seen-nearly-likely-cut-rates-by-50-bps-25-bps-2024-09-13/"&gt;降息&lt;/a&gt;以避免劳动力市场的进一步恶化，而非选择较小的初始降息幅度。&lt;/p&gt;
-&lt;p&gt;分析人士预计亚洲部分中央银行也将效仿，菲律宾中央银行（BSP）已经在八月将利率下调了25个基点。&lt;/p&gt;
-&lt;p&gt;“债券流入有望保持强劲，因为美联储的宽松周期为亚洲中央银行降息铺平了道路，”ANZ亚洲研究负责人Khoon Goh表示。&lt;/p&gt;
-&lt;p&gt;“我们预计印尼银行（BI）和韩国银行（BoK）将在美联储行动之后加入降息行列，”他的观点如下。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="一位泰国投资者在曼谷中央商务区的证券经纪人办公室前，站在显示实时市场数据的电子屏幕前阅读报纸" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LHVBJJESZNI27FWFWR5E2AWSVE.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一位泰国投资者于2015年8月19日在泰国曼谷中央商务区的证券经纪人办公室前，阅读显示实时市场数据的电子屏幕。图片由Chaiwat Subprasom提供，版权照片。&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 09:31:38 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/rates-bonds/asian-bonds-attract-massive-inflows-august-fed-easing-hopes-2024-09-16/</guid></item><item><title>高盛、花旗集团将中国2024年经济增长预期下调至4.7%</title><link>https://www.reuters.com/world/china/goldman-sachs-citigroup-cut-chinas-2024-growth-forecast-47-2024-09-16/</link><description>
-&lt;p&gt;高盛及花旗集团下调了对中国全年经济增长的预测至4.7%，鉴于全球第二大经济体的工业产出在八月放缓至五个月来的最低水平。&lt;/p&gt;
-&lt;p&gt;八月份经济活动的疲软加剧了对中国缓慢经济恢复的关注，并凸显了实施进一步刺激措施以提振需求的必要性。&lt;/p&gt;
-&lt;p&gt;增长放缓促使全球经纪公司下调对于2024年的预测，低于政府设定的约5%的目标。&lt;/p&gt;
-&lt;p&gt;高盛先前预计全年经济增长将达到4.9%，而花旗集团预测增长将为4.8%。&lt;/p&gt;
-&lt;p&gt;据国家统计局（NBS）周六公布的数据显示，中国八月份的工业产出同比增长4.5%，增速放缓至七月的5.1%，并创下自三月以来的最低增长速度。&lt;/p&gt;
-&lt;p&gt;零售销售——消费的关键指标——八月份增长2.1%，增速较七月的2.7%有所放缓，受到极端天气和夏季旅游高峰期的影响。分析师预计，全年表现一直乏力的零售销售将增长2.5%。&lt;/p&gt;
-&lt;p&gt;高盛在9月15日的一份研究报告中表示，“我们认为中国未能实现‘约5%’全年GDP增长目标的概率正在上升，因此，采取更多需求侧放宽措施的紧迫性也在增加。”&lt;/p&gt;
-&lt;p&gt;该行维持了对2025年GDP增长的预测，为4.3%。&lt;/p&gt;
-&lt;p&gt;然而，花旗集团周日将其对中国2025年末GDP增长的预测从4.5%下调至4.2%，理由是国内需求缺乏主要催化剂。&lt;/p&gt;
-&lt;p&gt;花旗集团的经济学家表示，“我们认为财政政策需要加快步伐，以打破紧缩的陷阱，并及时部署增长支持。”&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="从上海天际线和黄浦江观景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T2MHNNJ2CFMYPIHOCMSZQRZWCA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年2月24日，在中国上海，待全国人民代表大会（NPC）召开之际，城市天际线和黄浦江的画面。路透社/Aly Song/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 05:45:04 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/goldman-sachs-citigroup-cut-chinas-2024-growth-forecast-47-2024-09-16/</guid></item><item><title>JSW MG Motor India 将推出豪华汽车品牌； 2025 年 3 月推出第一辆车</title><link>https://www.reuters.com/business/autos-transportation/jsw-mg-motor-india-launch-luxury-car-brand-first-car-by-march-2025-2024-09-16/</link><description>
-&lt;p&gt;JSW MG Motor India，由上汽集团（SAIC Motor）&lt;a href="https://www.reuters.com/markets/companies/600104.SS" target="_blank"&gt;(600104.SS)&lt;/a&gt;与JSW集团共同成立的合资企业，于周一表示，将推出一款豪华车品牌，旨在2025年第一季度前销售其首批高端车型。&lt;/p&gt;
-&lt;p&gt;该公司宣称，在该名为“MG Select”的品牌下，未来两年内将推出四款车型。&lt;/p&gt;
-&lt;p&gt;JSW MG Motor India在一则声明中表示：“此举反映了公司对高端汽车市场机遇的战略响应。”&lt;/p&gt;
-&lt;p&gt;中国上汽，拥有英国MG Motor，与JSW集团&lt;a href="https://www.reuters.com/world/india/jsw-take-stake-mg-motor-india-chinas-saic-dilutes-holding-2023-11-30/"&gt;于去年12月宣布&lt;/a&gt;成立合资企业，印度集团持有35%的股份。该公司目前生产如Hector和Gloster等SUV车型，并拥有两款电动车型——小型Comet EV和大型ZS EV。&lt;/p&gt;
-&lt;p&gt;MG Motor在乘用车市场中的市场份额约为1%，在该市场中与塔塔汽车等国内厂商以及起亚&lt;a href="https://www.reuters.com/markets/companies/000270.KS" target="_blank"&gt;(000270.KS)&lt;/a&gt;和大众&lt;a href="https://www.reuters.com/markets/companies/VOWG_p.DE" target="_blank"&gt;(VOWG_p.DE)&lt;/a&gt;等外国汽车制造商展开竞争。由于新德里试图限制来自北京的投资，上汽集团在印度的发展遭遇困境。&lt;/p&gt;
-&lt;p&gt;JSW MG Motor India未明确透露即将推出的高端车型的定价，且未立即回应路透社的置评请求。&lt;/p&gt;
-&lt;p&gt;MG Select将提供电动车、混合动力车和插电式车型，并在印度各地设立车展中心，该公司表示。&lt;/p&gt;
-&lt;p&gt;目前，英国品牌销售的车型价格介于约100万卢比（11,922.15美元）至390万卢比（46,496.38美元）之间。&lt;/p&gt;
-&lt;p&gt;梅赛德斯-奔驰&lt;a href="https://www.reuters.com/markets/companies/MBGn.DE" target="_blank"&gt;(MBGn.DE)&lt;/a&gt;在印度豪华车市场占据领先地位，这些车型价格更高，通常拥有更多功能。&lt;/p&gt;
-&lt;p&gt;（1美元=83.8775印度卢比）&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="FILE PHOTO: Bangkok International Motor Show" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NIWAF2GCRJL25KB4EVLCYYSF2Q.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在泰国曼谷第45届国际汽车展上展示的MG标志，2024年3月25日，泰国曼谷，路透社/Chalinee Thirasupa/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 08:23:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/jsw-mg-motor-india-launch-luxury-car-brand-first-car-by-march-2025-2024-09-16/</guid></item><item><title>台风贝宾卡袭击上海，为1949年以来最强风暴</title><link>https://www.reuters.com/world/china/typhoon-bebinca-lands-shanghai-strongest-storm-hit-city-since-1949-2024-09-15/</link><description>
-&lt;p&gt;繁华的金融枢纽上海在周一陷入停滞，居民们居家避难，以度过台风贝比卡最肆虐的阶段。&lt;/p&gt;
-&lt;p&gt;周一早上登陆上海的这级1号台风，是自七十多年前以来对该市构成直接打击的最强热带气旋。&lt;/p&gt;
-&lt;p&gt;据官方媒体报道，贝比卡在早晨7:30左右（GMT 23:30）登陆了近2,500万人口的上海，其中心附近的最大风速达到151公里/小时（94英里/小时），成为自1949年台风格洛丽亚以来袭击上海的强度最大的风暴。&lt;/p&gt;
-&lt;p&gt;暴雨侵袭了城市，强风导致上海境内超过10,000棵树木倒下，同时有超过40万人被从台风路径上的危险房屋中疏散。&lt;/p&gt;
-&lt;p&gt;根据官方媒体报道，已部署超过56,000名救援人员，截至下午早些时候，仅有一起因风暴导致的受伤事件被报告。&lt;/p&gt;
-&lt;p&gt;自周日晚间以来，已有超过1,400架飞往该市两个机场的航班和570多趟客列被取消，中断了许多人在中秋节假日（中国三天公众假期）的出行计划。&lt;/p&gt;
-&lt;p&gt;随着上海四个区的天气警报升级至最高等级，公园和企业关闭，部分地铁列车服务受阻，高速公路和立交桥关闭，或实施特殊限速措施。&lt;/p&gt;
-&lt;p&gt;上海的度假胜地，包括上海迪士尼度假区、金桥游乐场和上海野生动物园，已暂时关闭，许多渡轮 operateable also been suspended.&lt;/p&gt;
-&lt;p&gt;截至周一下午早些时候，风暴眼已经从上海越过至邻近的江苏 province，尽管预计中国的金融之都将在当天剩余时间内持续降雨。&lt;/p&gt;
-&lt;p&gt;由于上海通常不会受到强台风的直接打击，而这些台风通常在中国南方登陆，因此上海很少受到这类影响。破坏性极强的4级台风亚吉上周呼啸而过中国海南岛的南部。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="台风贝比卡在上海的后果" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MVST3MD6RJOVZACVSIHZVZMITA.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在台风贝比卡于2024年9月16日在上海登陆后，街道上可见倒下的树木，下拉大雨水势。路透社/夏浩江&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="台风贝比卡在上海的后果" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CV25Z5IWCRME3B7BNUCC2U3ASU.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;台风贝比卡于2024年9月16日在上海登陆后，外滩关闭入口处的警察警戒线可见。路透社/夏浩江&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="台风贝比卡在上海的后果" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NK73GIXPQRMTLCGXZWP4GUJUAI.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在台风贝比卡于2024年9月16日在上海登陆后，街道上在暴雨中可见倒下的树枝。路透社/夏浩江&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="台风贝比卡在上海的后果" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NNFALJ7SAFOI5FDYYGUNDKFFPI.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;从外滩的观景中看到，台风贝比卡于2024年9月16日在上海登陆后，水位上升。路透社/夏浩江&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="台风贝比卡在上海的后果" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6EB544LMH5IMBFRMG6NR72V4DU.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在台风贝比卡于2024年9月16日在上海登陆后，暴雨中的空旷街道。路透社/夏浩江&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="人们在大雨中撑伞过桥" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFMZUUYAJ5PT7NA36QHYILOFZQ.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在2022年9月14日的上海，大雨和风势中，人们撑伞过桥。路透社/Aly Song/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 23:55:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/typhoon-bebinca-lands-shanghai-strongest-storm-hit-city-since-1949-2024-09-15/</guid></item><item><title>内部备忘录称，普华永道在创纪录的罚款后在中国投资“高质量”业务</title><link>https://www.reuters.com/business/finance/pwc-making-investments-high-quality-business-china-internal-memo-says-2024-09-16/</link><description>
-&lt;p&gt;普华永道公司表示，为保障其在华业务的高品质和持续性，正在实施“切实的投融资”，此言出自于周五中国监管部门对公司内地分支机构的处罚决定之后的内部备忘录。在周五，中国监管部门对普华永道内地分支机构开出前所未有的重罚。&lt;/p&gt;
-&lt;p&gt;普华永道中天（特殊普通合伙）于周五因对公司审计失败房地产开发商中国恒大集团（3333.HK）的审计工作被罚款441亿元人民币（约合6200万美元），并处以六个月的业务停业。&lt;/p&gt;
-&lt;p&gt;自今年3月以来，中国国家证券监督管理委员会指控恒大集团在2020年之前的两年内进行了高达780亿美元的欺诈，自此中国监管部门一直审视普华永道在恒大审计过程中的角色。&lt;/p&gt;
-&lt;p&gt;周五晚间发布的普华永道内部备忘录中提到，“我们想认可这对你所有人都是一个极具挑战的时期”，并经路透社审查。&lt;/p&gt;
-&lt;p&gt;“普华永道网络在这期间继续对中国公司的持续支持……他们正在做出切实投资以确保我们在中国的长期、高品质和可持续业务，”备忘录中如此说道。&lt;/p&gt;
-&lt;p&gt;普华永道拒绝发表评论。&lt;/p&gt;
-&lt;p&gt;公司新任中国地区负责人海米昂·哈德森在备忘录中表示，“我知道在我们实施详细的整改计划并着手为公司未来成功定位的过程中，未来几周将不会轻松。”&lt;/p&gt;
-&lt;p&gt;作为补救措施的一部分，普华永道任命其全球风险和监管业务领袖哈德森接替中国地区资深合伙人丹尼尔·李。李因其在本地审计业务中的“前任职责”而辞职。&lt;/p&gt;
-&lt;p&gt;公司表示，其领导团队将帮助员工“解决任何与监管公告相关的问题或疑虑”。&lt;/p&gt;
-&lt;p&gt;哈德森在备忘录中提到，“我的工作重点之一将是花时间与你们一起探讨进一步发展我们人才的方法，包括对你们作为我们员工的投入进行投资。”&lt;/p&gt;
-&lt;p&gt;备忘录还提到，普华永道中国拥有悠久的高品质审计历史。&lt;/p&gt;
-&lt;p&gt;“我们不认为极少数参与团队成员的行为代表了普华永道中国18,000名专业人士的大部分工作，”它说道。&lt;/p&gt;
-&lt;p&gt;另外，根据周五内地和香港的监管机构声明，监管部门正在继续对其香港分支机构对恒大的审计工作展开调查，而恒大是一家在香港上市的公司。&lt;/p&gt;
-&lt;p&gt;周五香港香港会计及财务报告审议委员会在一份声明中表示，内地监管部门宣布的处罚“在跨境执法方面为恒大铺平了重要的里程碑”。&lt;/p&gt;
-&lt;p&gt;“我们对恒大的独立调查将有序展开，”该委员会说。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="北京一栋办公的PricewaterhouseCoopers (PWC) 分支机构大楼背后的中国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CJ2SS5VGHBJATPINPIZ7Q7UQMA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;北京的一栋办公的普华永道（PWC）分支机构大楼，背后的中国国旗，摄于2014年1月24日。REUTERS/Kim Kyung-Hoon/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 02:54:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/finance/pwc-making-investments-high-quality-business-china-internal-memo-says-2024-09-16/</guid></item><item><title>早盘竞价：关注美联储</title><link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-09-16/</link><description>
-&lt;p&gt;细观今日欧洲及全球市场动向，由韦恩·科尔为您解读。&lt;/p&gt;
-&lt;p&gt;美国联邦储备系统终于到了做出抉择的时刻。市场对此摇摆不定，预期其可能会将关键利率下调25或50个基点，尽管今晨基金期货出现了买盘，目前暗示有59%的可能性出现超乎预期的变动。&lt;/p&gt;
-&lt;p&gt;分析师们相对更为谨慎，路透社对101位分析师的调查显示，其中92位预计将下调25个基点。摩根大通预测降幅更大，其认为，鉴于当前经济周期的阶段，利率过于紧缩，已有整整一个百分点。&lt;/p&gt;
-&lt;p&gt;随着通胀放缓，较大的降息幅度将仅够阻止实际利率的上升。此外，下一次会议将推迟至11月初，这也是市场预计到圣诞节前降至每次114个基点，以及2025年为142个基点的主要原因之一。&lt;/p&gt;
-&lt;p&gt;此次会议将在总统选举后的第二天举行，这将使其具有政治敏感性。谈到选举，共和党候选人&lt;a href="https://www.reuters.com/world/us/trump-is-safe-following-gunshots-his-vicinity-says-campaign-2024-09-15/"&gt;唐纳德·特朗普&lt;/a&gt;在联邦调查局挫败了对其的另一项明显暗杀企图后，目前安全无虞。&lt;/p&gt;
-&lt;p&gt;投注网站PredictIt继续将特朗普的胜率定为47美分，而卡玛拉·哈里斯的胜率则低一个百分点，为56美分。&lt;/p&gt;
-&lt;p&gt;所有这些，加之日本和中国的假日，使得亚洲贸易开盘谨慎，大多数&lt;a href="https://www.reuters.com/markets/global-markets-wrapup-1-2024-09-16/"&gt;股票市场&lt;/a&gt;变化不大。美元兑日元汇率维持在140.50的水平，由于日元持续走强，其今年跌幅最大，因此有最大的上涨空间。若突破140.00，将进一步打开通往去年1月份127.215点低点的道路。&lt;/p&gt;
-&lt;p&gt;周末公布的关于中国零售销售、工业产出和房价的数据并未改善市场情绪，反而凸显了北京加大经济刺激措施的必要性。&lt;/p&gt;
-&lt;p&gt;在本周举行的其他央行会议中，所有被询问的65位分析师预计英格兰银行将维持其政策利率在5.0%，尽管市场暗示有31%的可能性出现意外降息。周三公布的通胀数据将有助于调整几率。&lt;/p&gt;
-&lt;p&gt;预计日本银行周五将维持现行政策不变，但可能为10月的紧缩措施奠定基础。南非中央银行预计本周开始放宽政策，而挪威的政策制定者可能保持观望态度。&lt;/p&gt;
-&lt;p&gt;以下为可能影响周一市场的关键发展：&lt;/p&gt;
-&lt;p&gt;- 德国批发物价通胀，欧盟贸易平衡&lt;/p&gt;
-&lt;p&gt;- 纽约联邦储备银行制造业指数&lt;/p&gt;
-&lt;p&gt;- 美国三个月和六个月期国库券拍卖&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="联邦储备委员会大厦在华盛顿" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TK77ML5PIVPYRB7YQP2FLUCJUQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年6月14日，美国华盛顿特区的马里纳·S·埃克尔斯联邦储备委员会大楼外观。路透社/Sarah Silbiger/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="华盛顿联邦储备委员会大楼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TK77ML5PIVPYRB7YQP2FLUCJUQ.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年6月14日，美国华盛顿特区，马里纳·S·埃克尔斯联邦储备委员会大楼的外观。路透社/Sarah Silbiger/档案照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 04:34:02 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/europe/global-markets-view-europe-2024-09-16/</guid></item><item><title>香港新国安法首次因穿着“煽动”T恤而被定罪</title><link>https://www.reuters.com/world/asia-pacific/first-conviction-under-hong-kongs-new-national-security-law-wearing-seditious-t-2024-09-16/</link><description>
-&lt;p&gt;周一，一名香港男子因佩戴含有抗议口号的T恤，被控煽动罪，承认有罪，成为自今年3月新国家安全法颁布以来首位被定罪的人。&lt;/p&gt;
-&lt;p&gt;27岁的朱凯泓承认犯有一项“意图煽动罪行的行为”的罪行。&lt;/p&gt;
-&lt;p&gt;根据新的安全法，该罪行的最高刑期已从两年增加到七年监禁，如果发现涉及“与外国势力勾结”，刑期甚至可能提升至十年。&lt;/p&gt;
-&lt;p&gt;朱凯泓于6月12日在地铁车站被逮捕，当时他身穿印有口号“释放香港，我们的时代革命”的T恤，以及印有“FDNOL”（即“五大诉求，绝无妥协”简写）的黄色口罩。&lt;/p&gt;
-&lt;p&gt;这两个口号在2019年的大规模、有时暴力的民主运动中经常被高呼，6月12日是持续数月的动乱的关键起始日。&lt;/p&gt;
-&lt;p&gt;朱凯泓表示，他身穿T恤是为了提醒人们关注抗议活动，法庭审理了此事后得知。&lt;/p&gt;
-&lt;p&gt;由城市领导者林郑月娥选定的地方法院首席大法官维克多·索审裁此案，并推迟至周四进行判决。&lt;/p&gt;
-&lt;p&gt;1997年，根据北京承诺在中国内地实行“一国两制”的框架下保护香港的自由，包括言论自由，香港从英国回归中国。&lt;/p&gt;
-&lt;p&gt;2020年，北京在金融中心长达数月的抗议活动后，颁布了一部新的国家安全法，以惩罚分裂主义、颠覆、恐怖主义或与外国势力勾结，罪行最高可判无期徒刑。&lt;/p&gt;
-&lt;p&gt;2024年3月，香港颁布了第二部新的安全法——一项本土条例，根据其在香港基本法中的相关条款，亦称之为“二十三条”。&lt;/p&gt;
-&lt;p&gt;批评者，包括美国政府，对新的安全法表示关注，并表示关于“煽动”的模糊定义条款可能会被用来压制异见。&lt;/p&gt;
-&lt;p&gt;香港和中国官员表示，有必要填补国家安全制度中的“漏洞”。&lt;/p&gt;
+&lt;p&gt;周一，一名香港男子因身着带有反抗标语T恤而承认煽惑叛乱罪名，成为首个根据3月份通过的该市新国家安全法被定罪的个体。&lt;/p&gt;
+&lt;p&gt;27岁的朱凯丰承认犯有一项“意图煽惑叛乱的行为”指控。&lt;/p&gt;
+&lt;p&gt;根据新国安法，该项罪行的最高刑期已从两年增加至七年在监狱服刑，若发现涉及“与外国势力勾结”，刑期甚至可能高达十年。&lt;/p&gt;
+&lt;p&gt;朱凯丰于6月12日在地铁车站被捕，当时其身上穿着印有“光复香港，时代革命”口号的T恤，以及印有“FDNOL”字样的黄色口罩——“五大诉求，无一例外”的另一口号的缩写。&lt;/p&gt;
+&lt;p&gt;这两个口号均在2019年的大规模、有时甚至暴力的人民民主抗议活动中经常被高呼，6月12日是该抗议活动数月不安定的关键启动日。&lt;/p&gt;
+&lt;p&gt;朱凯丰向警方表示，他穿这件T恤是为了提醒人们不忘抗议活动，法庭听取了这一陈述。&lt;/p&gt;
+&lt;p&gt;由城市领袖李家超亲自挑选审理国家安全案件的初级法庭长维克托·索将案件延期至周四进行判决。&lt;/p&gt;
+&lt;p&gt;1997年，香港在英国的统治下回归中国，北京承诺会根据“一国两制”的框架保障其自由，包括言论自由。&lt;/p&gt;
+&lt;p&gt;在金融中心发生数月的抗议活动后，北京在2020年实施了一项国家安全法，对叛国、颠覆、恐怖主义或与外国势力勾结的最高刑罚为终身监禁。&lt;/p&gt;
+&lt;p&gt;2024年3月，香港通过了第二项新国家安全法——一部本地立法，根据其在该市小宪法《基本法》中的规定，也被称为“第23条”。&lt;/p&gt;
+&lt;p&gt;包括美国政府在内的批评者对新的国家安全法表示担忧，并表示，有关“煽惑叛乱”的模糊定义条款可能会被用来遏制异见。&lt;/p&gt;
+&lt;p&gt;香港和中国官员表示，填补国家安全体系中的“漏洞”是必要的。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="在香港维多利亚港湾一艘船只上的香港国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QHAPBXVBFNPDBKH7ILAELILGNA.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年8月30日，在香港的中国香港维多利亚港湾一艘船只上的香港国旗。美联社/Tyrone Siu/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 03:28:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/first-conviction-under-hong-kongs-new-national-security-law-wearing-seditious-t-2024-09-16/</guid></item><item><title>菲律宾将继续在有争议的南海浅滩部署船只</title><link>https://www.reuters.com/world/asia-pacific/philippines-continue-deploy-vessels-contested-south-china-sea-shoal-2024-09-16/</link><description>
+&lt;p&gt;菲律宾为确保在南中国海争端区域的Sabina浅滩持续派遣舰艇，其在周一表示，一艘菲律宾船舶在完成五个月的部署后返回港口。&lt;/p&gt;
+&lt;p&gt;"我们将维持在这些水域的存在"，菲律宾海岸警卫队（PCG）发言人杰·塔里亚拉在一次新闻发布会上如此表述。&lt;/p&gt;
+&lt;p&gt;PCG的船只"特蕾莎·马格班阿"于四月份被部署至Sabina浅滩，以监控马尼拉怀疑中国在该区域进行的规模较小的填海造地&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-sends-ships-disputed-atoll-where-china-building-artificial-island-2024-05-11/"&gt;活动&lt;/a&gt;。该舰于星期日返回港口。&lt;/p&gt;
+&lt;p&gt;塔里亚拉表示，船只返回并非与中国要求马尼拉撤回其船只的&lt;a href="https://www.reuters.com/world/asia-pacific/china-philippines-hold-frank-talks-disputed-sabina-shoal-2024-09-11/"&gt;诉求&lt;/a&gt;有关，而是为了进行维修以及满足船员的医疗需求。Sabina浅滩，中国称之为仙宾礁，而菲律宾称之为埃斯科达浅滩，位于菲律宾巴拉望省西部，位于该国专属经济区内。&lt;/p&gt;
+&lt;p&gt;"无论舰艇规模大小，无论舰艇数量多少，(PCG)指挥官的主要目标和承诺是确保在任何时候，浅滩上都将有海岸警卫队的存在"，塔里亚拉说。&lt;/p&gt;
+&lt;p&gt;中国海岸警卫队在周日表示，将继续在北京管辖区内的水域依法执行执法活动，维护领土主权和海事权利利益。&lt;/p&gt;
+&lt;p&gt;中国声称对大部分南中国海拥有主权，与文莱、印度尼西亚、马来西亚、菲律宾和越南的海域重叠。&lt;/p&gt;
+&lt;p&gt;2016年，海牙仲裁法庭宣布中国扩张和历史的领土主张无效，这一决定被北京所拒绝。&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img alt="在香港维多利亚港船只上的香港旗帜" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QHAPBXVBFNPDBKH7ILAELILGNA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;图片显示，2024年8月30日，中国香港维多利亚港上一艘船只上飘扬着香港旗帜。图片来源：路透社/Tyrone Siu/档案馆照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 03:28:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/first-conviction-under-hong-kongs-new-national-security-law-wearing-seditious-t-2024-09-16/</guid></item><item><title>菲律宾将继续在有争议的南海浅滩部署船只</title><link>https://www.reuters.com/world/asia-pacific/philippines-continue-deploy-vessels-contested-south-china-sea-shoal-2024-09-16/</link><description>
-&lt;p&gt;菲律宾方面表示，该国将继续在我国南海有争议的沙宾岛sparse部署舰艇。周一，在一次菲律宾舰船完成五个月部署并返回港口后，菲律宾海岸警卫队（PCG）发表声明称。&lt;/p&gt;&lt;p&gt;“我们将维持对这些水域的现场存在，”PCG发言人 杰·塔里埃拉在一场新闻发布会上表示。&lt;/p&gt;&lt;p&gt;PCG的舰艇“特拉西亚·马格班亚”于四月被部署至沙宾岛，以监视马尼拉怀疑的中国在该地区进行的小规模土地填海工程。该舰于周日返回港口。&lt;/p&gt;&lt;p&gt;塔里埃拉表示，舰艇返回并非因为中国要求马尼拉撤回其舰艇，而是为了进行维修并满足船员医疗需求。沙宾岛，中国称之为缴宾礁，菲律宾称之为埃斯科达岛礁，位于菲律宾巴拉望省以西，处于菲律宾的专属经济区之内。&lt;/p&gt;&lt;p&gt;“无论舰艇规模大小、无论舰艇数量多少，PCG指挥官的主要目标和承诺……是确保在任何时候，岛礁上都将有海岸警卫队的存在，”塔里埃拉说。&lt;/p&gt;&lt;p&gt;中国海岸警卫队周日声明称，将继续在北京管辖水域内依法执行执法活动，捍卫其领土主权和海洋权益。&lt;/p&gt;&lt;p&gt;中国声称对南海大部分地区拥有主权，与文莱、印度尼西亚、马来西亚、菲律宾和越南的海洋区重叠。&lt;/p&gt;&lt;p&gt;2016年，海牙仲裁法庭宣布中国扩张性的历史主权无效，北京对此表示反对。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="中国海上民兵舰艇在南海的第二托马斯岛附近航行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3V64MVHT5RLWHNZLTSGSHAO3TQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年3月5日，中国海上民兵舰艇在南海的第二托马斯岛附近航行。路透社/阿德里安·葡萄牙/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 01:01:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-continue-deploy-vessels-contested-south-china-sea-shoal-2024-09-16/</guid></item><item><title>中国与欧盟贸易伙伴的胡萝卜加大棒政策开始取得成效</title><link>https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</link><description>
-&lt;p&gt;随着欧盟对从中国进口的电动汽车征收关税的投票临近，北京采取了一边施以胡萝卜、一边挥舞大棒的策略，对由27个成员国组成的欧盟集团进行应对，一面威胁进行贸易报复，一面丛愿关键的欧盟国家进行双边谈判，就交易和投资事宜展开对话。&lt;/p&gt;
-&lt;p&gt;对欧盟商品的潜在反关税打击主要将作用于诸如西班牙、法国和意大利等国家，这些国家曾表示支持对电动汽车实施关税，其猪肉、乳制品和白兰地出口至世界第二大经济体面临风险。&lt;/p&gt;
-&lt;p&gt;未积极推动对电动汽车征税的欧盟成员国，如德国、芬兰和瑞典，将感受到的影响较小，因为它们很少受到中国针对的出口商品的影响。&lt;/p&gt;
-&lt;p&gt;中国的策略似乎正在发挥作用。&lt;/p&gt;
-&lt;p&gt;西班牙首相佩德罗·桑切斯在本周结束了对中国的访问，他在一辆中国制造的电动汽车中坐下并表示这是一份“荣誉”。随后，他意外地敦促欧盟重新考虑其立场。&lt;/p&gt;
-&lt;p&gt;据西班牙政府消息人士透露，桑切斯的代表团离开时感受到“西班牙现在更为重要”，并且就其猪肉产品关税达成协议的可能性很大。&lt;/p&gt;
-&lt;p&gt;作为一项甜头，一家中国公司同意在西班牙投资10亿美元建立一家工厂，用于生产氢气生产所用的机械，这无疑是对&lt;span style="text-decoration: underline;"&gt;西班牙绿色能源目标的明确支持&lt;/span&gt;。&lt;/p&gt;
-&lt;p&gt;北京的经济学家梅新宇表示，中国在猪肉和乳制品领域最大化了对那些投票赞成对电动汽车征税国家的“国内政治成本”，因为农业部门往往在欧盟政治中扮演着重要角色。&lt;/p&gt;
-&lt;p&gt;“这些产品将中国视为其顶级出口市场之一，”他说。&lt;/p&gt;
-&lt;p&gt;2023年，从欧盟到中国的猪肉、乳制品和白兰地出口总额约为1000亿美元，尽管并非这些类别中的所有产品都会受到关税的影响。去年，该集团的对中国出口总额超过2800亿美元。&lt;/p&gt;
-&lt;p&gt;中国仍在承受特朗普时期美国关税的冲击，不希望与欧盟爆发贸易战。但北京明确表示，如果布鲁塞尔对电动汽车实施高达35.3%的额外关税，它将进行反击。&lt;/p&gt;
-&lt;p&gt;根据路透社基于中国乘用车协会数据的计算，2023年中国制造的电动汽车出口到欧洲增长了38%，达到65.6万辆，包括非欧盟国家的出货量。根据路透社的估算，去年欧洲占中国出口电动汽车的40%以上。&lt;/p&gt;
-&lt;p&gt;中国商务部部长王文涛下周将访问欧洲，并与欧盟贸易专员瓦尔季斯·多姆布罗夫斯基斯举行会谈。&lt;/p&gt;
-&lt;p&gt;王文涛还将访问意大利，意大利支持对电动汽车征税，同时寻求中国投资以建设电动汽车生产能力。&lt;/p&gt;
-&lt;p&gt;中国需要在10月份的投票中至少要有15个欧盟成员国代表65%的欧盟人口反对关税。&lt;/p&gt;
-&lt;p&gt;但欧盟内部的立场仍然多样化。一些小国正降低姿态。其他国家将重点放在更接近家的关系上。&lt;/p&gt;
-&lt;p&gt;一位要求匿名的爱尔兰贸易代表表示：“爱尔兰对中国的出口仅占其出口的一小部分，因此爱尔兰将优先考虑欧盟市场和关系，而非中国。”&lt;/p&gt;
-&lt;p&gt;“中国仍然很重要，但与中国的生意很难，且没有如预期那样增长。”&lt;/p&gt;
-&lt;p&gt;爱尔兰是中国乳品调查中第五大最易受影响的生产国，在猪肉调查中排名第六最不利。&lt;/p&gt;
-&lt;p&gt;相比之下，中国似乎不对加拿大在谈判或让步上留有余地。周一，在对加拿大在8月份对中国的电动汽车实施100%关税之后，中国对加拿大的油菜籽出口进行反倾销调查，指责北京不公平竞争。&lt;/p&gt;
-&lt;p&gt;与布鲁塞尔不同，北京没有就如何反击给出任何公开的预先警告，这些信号通常通过中国的国内外媒体，如《环球时报》传达。&lt;/p&gt;
-&lt;p&gt;在解释这一做法的差异时，中国商务部发言人何永健表示，有“证据”表明加拿大对中国的油菜籽出口被倾销，并损害国内行业。&lt;/p&gt;
-&lt;p&gt;加拿大全球事务部的发言人表示，加拿大油菜籽生产者遵循以规则为基础的全球贸易秩序。&lt;/p&gt;
-&lt;p&gt;“我们正在密切关注此事，”发言人表示。&lt;/p&gt;
-&lt;p&gt;相反，北京显然对与欧盟的谈判持开放态度，贝思·佩伊说道，贝思是总部位于北京的Trivium China分析师，专注于农业领域。&lt;/p&gt;
-&lt;p&gt;“与加拿大不同，他们对谈判采取了直接冲击的策略，”佩伊说。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="西班牙首相佩德罗·桑切斯访问中国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZWQGLWGL6VMV5LGCKFVA6JLRNY.jpg" /&gt;
- &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;西班牙首相佩德罗·桑切斯与中国主席习近平在北京的钓鱼台国宾馆会面，2024年9月9日。Borja Puig de la Bellacasa/Moncloa Palace/Handout via REUTERS/档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:32:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</guid></item><item><title>早盘竞价：中国忧郁 vs 华尔街弗鲁姆</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-15/</link><description>
-&lt;p&gt;瞻望亚洲市场明日前景。&lt;/p&gt;
-&lt;p&gt;周一，亚洲市场开启交易周，投资者可能会对中国另一波普遍令人失望的经济指标投以质疑的目光，这些指标或许未能达到预期，同时他们或许也会对华尔街今年表现最佳的周度行情欢呼。美国联邦储备系统有望启动降息周期，市场普遍预期其将进行50个基点的降息而非本周晚些时候的25个基点调整，这激发了投资者的信心，美国股市在周五大幅上涨，这为亚洲市场的周一开个好局提供了有力支撑。&lt;/p&gt;
-&lt;p&gt;标准普尔500指数仅距其7月15日历史高点1%之遥，纳斯达克收盘时上涨6%，为其自10月以来的最佳周度表现。各类资产的波动性下降——反映国债市场隐含波动性的'MOVE'指数已自7月底以来处于最低水平。&lt;/p&gt;
-&lt;p&gt;这为全球市场进入一个极为关键的一周奠定了背景，本周的亮点将是美联储的利率决议以及周三发布的经济预测修订，但亚洲市场或许更为关注。&lt;/p&gt;
-&lt;p&gt;日本和香港将发布通胀数据，而在本周晚些时候，印度尼西亚、台湾、中国以及日本银行将公布货币政策决策。周一的焦点将是中国及又一波引起担忧的经济数据。&lt;/p&gt;
-&lt;p&gt;投资界中那些风险承受能力较高的投机分子，如对冲基金，必定会将中国视为具有吸引力的投资选择。&lt;/p&gt;
-&lt;p&gt;过去几个月内，股价下跌了15%，接近近六年来最低水平，通货紧缩问题笼罩着经济，增长前景变得暗淡，而当局似乎无法或不愿意释放所需的刺激措施以扭转这一局面。&lt;/p&gt;
-&lt;p&gt;资本流入正在减少，流出正在增加，迫使央行更加积极地采取措施以保护汇率。事实上，最近几周人民币显著升值。&lt;/p&gt;
-&lt;p&gt;然而，周六发布的数据并未显示出更广泛、更持久的复苏迹象。相反，这些数据似乎暗示这一情景与以往一样遥不可及。&lt;/p&gt;
-&lt;p&gt;周六的官方数据显示，新建房屋价格以近九年来最快的速度下跌，工业产出增长放缓至五个月低点，外国直接投资下降31.5%，零售销售进一步减弱。&lt;/p&gt;
-&lt;p&gt;与此同时，周五，拜登政府对中国进口商品实施了大幅关税提升，包括对电动汽车征收100%的关税。北京表示，将采取“必要的措施坚决捍卫中国企业的利益”。&lt;/p&gt;
-&lt;p&gt;以下为周一可能为亚洲市场提供更多方向的关键动态：&lt;/p&gt;
-&lt;p&gt;- 德国8月批发价格通胀率&lt;/p&gt;
-&lt;p&gt;- 纽约联邦储备银行9月制造业指数&lt;/p&gt;
-&lt;p&gt;- 美国3个月、6个月国库券拍卖&lt;/p&gt;
+&lt;img alt="中国海上民兵船只在南中国海的第二个托马斯浅滩附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3V64MVHT5RLWHNZLTSGSHAO3TQ.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国海上民兵船只于2024年3月5日在南中国海的第二个托马斯浅滩附近，REUTERS/Adrian Portugal/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 16 Sep 2024 01:01:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-continue-deploy-vessels-contested-south-china-sea-shoal-2024-09-16/</guid></item><item><title>中国与欧盟贸易伙伴的胡萝卜加大棒政策开始取得成效</title><link>https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</link><description>
+&lt;p&gt;随着欧盟对中国制造电动汽车加征关税的投票日益临近，北京采取了一种胡萝卜加大棒策略，应对由27个成员国组成的强大联盟，一方面威胁进行贸易报复，另一方面诱导关键的欧盟成员国进行双边会谈，讨论协议和投资事宜。&lt;/p&gt;
+&lt;p&gt;对欧盟商品的反关税可能主要影响到西班牙、法国和意大利等已表示支持电动汽车关税的国家，因为这些国家向世界第二大经济体出口的猪肉、乳制品和白酒面临风险。&lt;/p&gt;
+&lt;p&gt;未积极推动关税议题的欧盟成员国，如德国、芬兰和瑞典，对中国的报复措施影响较小，因为这些国家与中国“点名”的重点出口产品接触不多。&lt;/p&gt;
+&lt;p&gt;中国的策略似乎取得了成效。&lt;/p&gt;
+&lt;p&gt;西班牙首相佩德罗·桑切斯本周结束了对中国的访问，他坐在一辆中国制造的电动汽车中，称这是莫大的荣幸，随后出人意料地敦促欧盟重新考虑其立场。&lt;/p&gt;
+&lt;p&gt;据西班牙政府消息人士透露，桑切斯的代表团回国时深感“西班牙现在更为重要”，并且对其猪肉产品关税的协议已接近达成。&lt;/p&gt;
+&lt;p&gt;作为甜头，一家中国公司同意在西班牙投资建设一座价值10亿美元的工厂，用于生产氢气生产机械，这显然是对西班牙绿色雄心的明确支持。&lt;/p&gt;
+&lt;p&gt;北京-based经济学家梅新毓表示，中国通过最大化对投票支持对电动汽车征收关税的国家造成“国内政治成本”，因为农业部门经常在欧盟政治中扮演角色。&lt;/p&gt;
+&lt;p&gt;他说：“这些产品依靠中国作为其主要出口市场之一。”&lt;/p&gt;
+&lt;p&gt;2023年，欧盟对中国的猪肉和乳制品出口总额约为100亿美元，尽管并非这些类别的所有产品都将受到关税影响。该联盟去年对中国的出口总额超过2800亿美元。&lt;/p&gt;
+&lt;p&gt;尽管依然感受到特朗普时代美国关税的痛苦，但中国不希望与欧盟发生贸易战。但北京已经明确表示，如果布鲁塞尔对电动汽车施加高达35.3%的额外关税，北京将应战。&lt;/p&gt;
+&lt;p&gt;2023年，出口到欧洲的中国制造电动汽车增长了38%，达到65.6万辆，其中包括输往非欧盟国家的货物。据路透社根据中国乘用车协会的数据计算，欧洲占了去年中国出口电动汽车的40%以上。&lt;/p&gt;
+&lt;p&gt;下周，中国商务部长王文涛将访问欧洲，并与欧盟贸易专员瓦尔迪斯·多姆布罗夫斯基斯举行会谈。&lt;/p&gt;
+&lt;p&gt;王文涛还将访问意大利，该国支持电动汽车关税，同时寻求中国投资以建设电动汽车生产能力。&lt;/p&gt;
+&lt;p&gt;中国需要在10月份的投票中争取至少15名欧盟成员国的表决反对关税，这些成员国代表欧盟65%的人口。&lt;/p&gt;
+&lt;p&gt;但欧盟内部立场不一。一些小国家低头不语。其他国家则优先考虑与周边国家的联系。&lt;/p&gt;
+&lt;p&gt;一名不愿透露姓名的爱尔兰贸易代表表示：“爱尔兰对中国出口的份额仅占其出口的一小部分，因此爱尔兰将优先考虑欧盟市场和关系，而非中国。”&lt;/p&gt;
+&lt;p&gt;他说：“中国仍然很重要，但与中国做生意既困难又未能像预期的那样增长。”&lt;/p&gt;
+&lt;p&gt;爱尔兰是中国奶酪调查中第五大最易受影响的国家，也是猪肉调查中最受损的国家之一。&lt;/p&gt;
+&lt;p&gt;相比之下，中国似乎在与加拿大谈判或让步方面毫无余地。在渥太华于8月在电动汽车上对华施加100%的关税后，中国于周一对其油菜籽出口发起调查，指责北京不公平竞争。&lt;/p&gt;
+&lt;p&gt;加拿大外交事务部发言人表示，加拿大油菜籽生产商遵循基于规则的全局贸易秩序。&lt;/p&gt;
+&lt;p&gt;发言人表示：“我们对此事密切关注。”&lt;/p&gt;
+&lt;p&gt;相反，北京明显对与欧盟谈判保持开放，Even Pay，北京Trivium China的农业分析师表示。&lt;/p&gt;
+&lt;p&gt;他说：“与加拿大相比，他们直截了当地采取了震撼与敬畏的方法。”&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="西班牙首相佩德罗·桑切斯访问中国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZWQGLWGL6VMV5LGCKFVA6JLRNY.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;西班牙首相佩德罗·桑切斯与中国主席习近平在北京钓鱼台国宾馆会面，时间2024年9月9日。Borja Puig de la Bellacasa/Moncloa Palace/Handout via REUTERS/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 13 Sep 2024 06:32:55 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/chinas-carrot-and-stick-tactics-eu-nations-start-pay-off-2024-09-13/</guid></item><item><title>早盘竞价：中国忧郁 vs 华尔街弗鲁姆</title><link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-15/</link><description>
+&lt;p&gt;前瞻：亚洲市场周一展望。&lt;/p&gt;
+&lt;p&gt;亚洲市场在周一迎来交易周的开端，投资者可能对中国又一波普遍令人失望的经济指标给予了极大的不满，与此同时，他们却对华尔街今年表现最佳的一周表示欢呼。&lt;/p&gt;
+&lt;p&gt;受制于对美联储可能在本周稍晚以50个基点的降幅启动降息周期的不断增长预期，而不是仅仅进行四分之一的点数调整，周五美国股市强劲上涨，这可能会为亚洲市场周一的走势奠定坚实基础。&lt;/p&gt;
+&lt;p&gt;S&amp;P 500指数与7月15日的历史高点相差仅1%，纳斯达克指数一周上涨6%，这是自10月以来的最佳一周。各类资产间的波动性下降——隐含国债市场波动性的'MOVE'指数自7月底以来处于历史低位。&lt;/p&gt;
+&lt;p&gt;在此背景下，全球市场迎来了一个的重要性极高的周，其焦点是美联储的利率决定和周三发布的经济预测修订，但亚洲市场或许更为关注。&lt;/p&gt;
+&lt;p&gt;日本和香港将发布通货膨胀数据，印尼、台湾、中国和日本银行将在本周晚些时候公布货币政策决定。周一的本地焦点将是中国的经济数据，这将带来新一波令人担忧的经济数据。&lt;/p&gt;
+&lt;p&gt;在投资社区的投机边缘，风险容忍度较高的投资者，如对冲基金，不可避免地会将中国视为一个有吸引力的投资目标。&lt;/p&gt;
+&lt;p&gt;股票在短短几个月内下跌了15%，正逼近近六年来的最低水平，通缩阴霾笼罩着经济，增长前景愈发黯淡，当局似乎无能为力或不愿采取必要的刺激措施以扭转形势。&lt;/p&gt;
+&lt;p&gt;资本流入枯竭，资本流出增加，迫使中央银行更加积极地行动以保护汇率。事实上，近期人民币汇率有所上升。&lt;/p&gt;
+&lt;p&gt;但周六发布的数据并未显示出出现更广泛和持久转变的迹象。相反，这些数据似乎表明这样的情景与以往一样遥远。&lt;/p&gt;
+&lt;p&gt;周六的官方数据显示，&lt;a href="https://www.reuters.com/world/china/china-new-home-prices-fall-fastest-pace-over-9-years-august-2024-09-14/"&gt;新房价格&lt;/a&gt;以九年来的最快速度下降，&lt;a href="https://www.reuters.com/world/china/china-august-industrial-output-growth-misses-forecasts-2024-09-14/"&gt;工业产出&lt;/a&gt;增长率下降至五个月来的最低点，外国直接投资下降31.5%，零售销售进一步疲软。&lt;/p&gt;
+&lt;p&gt;与此同时，拜登政府在周五实施了针对中国进口的大幅关税提升，包括电动车100%的关税。北京表示，将采取“必要措施坚决捍卫中国公司的利益”。&lt;/p&gt;
+&lt;p&gt;以下是可能对周一亚洲市场提供更多指引的关键发展：&lt;/p&gt;
+&lt;p&gt;- 德国8月批发物价指数&lt;/p&gt;
+&lt;p&gt;-纽约联储9月制造业指数&lt;/p&gt;
+&lt;p&gt;-美国3个月、6个月国库券拍卖&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="上海股票信息显示屏" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DCG2N5ZHHBL5VDW4IGYNGEUIIA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年8月6日，人们走在位于上海陆家嘴金融区建筑物前的天桥上，身边是显示屏上显示的股票信息。路透社文件照片/Nicoco Chan&lt;/i&gt;&lt;/figcaption&gt;
+&lt;img alt="上海股市信息显示屏" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DCG2N5ZHHBL5VDW4IGYNGEUIIA.jpg" /&gt;
+ &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年8月6日，人们在上海陆家嘴金融区建筑前的人行天桥上走过，桥前有股市信息显示屏。路透/Nicoco Chan/文件照片&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 21:52:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-15/</guid></item><item><title>加拿大队击败英国队进入戴维斯杯四分之一决赛</title><link>https://www.reuters.com/sports/tennis/canada-beat-britain-reach-davis-cup-quarter-finals-2024-09-15/</link><description>
-&lt;p&gt;加拿大于周日在曼彻斯特以一场胜利击败英国，连续第三年挺进戴维斯杯四分之一决赛，而荷兰队尽管在一场紧锣密鼓的比赛中败给了卫冕冠军意大利，但仍然成功晋级。&lt;/p&gt;&lt;p&gt;只需赢得一场比赛，加拿大便能在曼彻斯特淘汰东道主并晋级D组的领头羊，他们迅速完成了这项任务。丹尼斯·沙波瓦洛夫以6-0和7-5的成绩击败了丹·埃文斯，并在场上庆祝胜利时品尝了冰淇淋。&lt;/p&gt;&lt;p&gt;“面对如此众多的英国选手肯定并非易事，”沙波瓦洛夫在约1.5万名球迷组成的 Bias 纷纷支持的情况下保持冷静地说，“我过去也有过类似经历……我只是尽力保持专注，尽量保持在自己的节奏中，并尽可能地占据优势，因为我觉得丹和球迷们都被激发了斗志。&lt;/p&gt;&lt;p&gt;情况确实开始变得更加紧张，所以我非常高兴我能以直落三盘完成的比赛。”&lt;/p&gt;&lt;p&gt;菲利克斯·奥格-阿里亚西姆在一场高质量的比赛中以7-6(8)和7-5的比分力克英国头号选手杰克·德雷珀，为2022年度冠军队确立了不可动摇的2-0领先优势。&lt;/p&gt;&lt;p&gt;接着，亨利·帕滕和尼尔·斯库普斯基以7-5和6-4的成绩轻松击败了加布里埃尔·迪亚洛和阿莱西·加拉鲁安，确保了球迷们有东西可以欢呼。&lt;/p&gt;&lt;p&gt;八强淘汰赛将于11月19日至24日在马拉加举行，本周将进行抽签以决定具体轮次。&lt;/p&gt;&lt;p&gt;意大利、荷兰、西班牙、澳大利亚、美国、德国、加拿大和阿根廷均已晋级。&lt;/p&gt;&lt;p&gt;在博洛尼亚的世界第一选手贾尼克·辛纳注视之下，意大利在对阵荷兰的比赛中以2-0领先，以马泰奥·贝雷蒂尼3-6 6-4 6-4击败博蒂奇·范·德·赞德施卢普，以及弗拉维奥·科博利7-6(4) 4-6 6-3击败塔尔顿·格里克斯波的条件上升至A组的领先位置。&lt;/p&gt;&lt;p&gt;荷兰队并未失去希望，在双打比赛中，韦斯利·库尔霍夫和范·德·赞德施卢普以7-6(6) 7-5击败了西蒙内·博列利和安德烈亚·瓦瓦索里，成功以亚军身份晋级。&lt;/p&gt;&lt;p&gt;西班牙在与澳大利亚的比赛中让世界第三号选手卡洛斯·阿尔卡拉斯休战，但在瓦伦西亚与澳大利亚的比赛中经过艰苦战斗以2-1的比分获胜，从而获得了B组的冠军。马塞洛·格兰诺勒斯和佩德罗·马丁内斯以5-7 6-4 6-4战胜了马修·伊本登和马克斯·珀塞尔。&lt;/p&gt;&lt;p&gt;帕洛·卡雷诺·布斯塔以2-6 6-2 7-6(3)的比分击败了乔丹·汤普森为西班牙赢得领先，但阿列克谢·波波里以6-4 6-4击败了马丁内斯，使得去年亚军队伍的积分持平。&lt;/p&gt;&lt;p&gt;早些时候，智利在珠海以2-1的比分战胜斯洛伐克，并在C组中取得第三名，尽管两队都已无晋级希望。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="戴维斯杯 - D组 - 加拿大对阵英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZNEDNIW65JI7JK6Y2UDYEVKB2Q.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对阵英国 - AO 场馆，曼联，英国 - 2024年9月15日 加拿大的丹尼斯·沙波瓦洛夫在与英国丹尼尔·埃文斯的单打比赛中庆祝获胜，图片由路透社的爱德·西克斯拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - D组 - 加拿大对阵英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SRQZXKM5DRMEPK6SXZGNWN4CYQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对阵英国 - AO 场馆，曼联，英国 - 2024年9月15日 英国的丹尼尔·埃文斯在与加拿大丹尼斯·沙波瓦洛夫的单打比赛中反应，图片由路透社的爱德·西克斯拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - D组 - 加拿大对阵英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GTIPOBFAMNOVHNBPNMSB2S2HKA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对阵英国 - AO 场馆，曼联，英国 - 2024年9月15日 加拿大的菲利克斯·奥格-阿里亚西姆在其与英国杰克·德雷珀的单打比赛中在场上的表现，图片由路透社的爱德·西克斯拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - D组 - 加拿大对阵英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VC3IGIQO3JK6FA2RMJEBETWDSE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对阵英国 - AO 场馆，曼联，英国 - 2024年9月15日 英国的杰克·德雷珀在与加拿大的菲利克斯·奥格-阿里亚西姆的单打比赛中在场上的表现，图片由路透社的爱德·西克斯拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - D组 - 加拿大对阵英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5WJUAZMJC5KEJFJNMH2F5NKNZE.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对阵英国 - AO 场馆，曼联，英国 - 2024年9月15日 英国的亨利·帕滕和尼尔·斯库普斯基在双打比赛中，对手为加拿大的亚历克斯·加拉鲁安和加布里埃尔·迪亚洛，图片由路透社的爱德·西克斯拍摄&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 19:11:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/tennis/canada-beat-britain-reach-davis-cup-quarter-finals-2024-09-15/</guid></item><item><title>美国国务院表示，中国释放了美国声称被错误监禁的美国牧师</title><link>https://www.reuters.com/world/china-frees-american-pastor-who-us-claims-was-wrongly-jailed-state-dept-says-2024-09-15/</link><description>
-&lt;p&gt;中国已释放美国牧师大卫·林（David Lin），他曾自2006年起被监禁，美国国务院周日宣布了这一消息，标志着一位被华盛顿称为被错误拘留者的释放。&lt;/p&gt;
-&lt;p&gt;多年来，美国政界人士一直敦促北京释放林，他因合同诈骗被捕，被判终身监禁。&lt;/p&gt;
-&lt;p&gt;国务院发言人表示：“我们欢迎大卫·林从中国人民共和国的监狱中获释。他已返回美国，现在可以首次在近20年后见到家人。”&lt;/p&gt;
-&lt;p&gt;林的女儿爱丽丝（Alice）此前在接受《政治》杂志采访时透露，她68岁的父亲将抵达德克萨斯州的圣安东尼奥。&lt;/p&gt;
-&lt;p&gt;《政治》杂志引用她的话说：“言语无法表达我们有多么喜悦——我们有大量时间来弥补这一切。”&lt;/p&gt;
-&lt;p&gt;去年11月，美国参议院外交关系委员会主席敦促总统乔·拜登（Joe Biden）利用与中国主席习近平会晤的机会，推动释放林及其他两位囚禁者——凯·李（Kai Li）和马克·斯维丹（Mark Swidan）。&lt;/p&gt;
-&lt;p&gt;华盛顿表示，这三人都被错误拘留。中国则认为此类案件是根据法律处理的。&lt;/p&gt;
-&lt;p&gt;国会委员会将于下周三举行听证会，讨论在美国被监禁的美国人案件，特别是林、李和斯维丹的案件，委员会表示他们均面临健康问题。&lt;/p&gt;</description><pubDate>Sun, 15 Sep 2024 18:36:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china-frees-american-pastor-who-us-claims-was-wrongly-jailed-state-dept-says-2024-09-15/</guid></item><item><title>上海准备迎接台风“贝宾卡”的直接袭击</title><link>https://www.reuters.com/world/china/shanghai-braces-direct-hit-typhoon-bebinca-2024-09-15/</link><description>
-&lt;p&gt;上海于周日采取了紧急措施，暂停交通运输，召回船只，并关闭包括上海迪士尼度假区在内的旅游景点，以应对即将到来的超级台风贝碧卡，这可能是自1949年以来影响中国金融中心的强度最大的热带气旋。&lt;/p&gt;
-&lt;p&gt;这一级数为1的台风，其中心附近的最大持续风速约为144公里/小时（89英里/小时），截至下午5点（0900GMT）位于上海东南方向约400公里处。预计它将于周一午夜后在中国东部海岸登陆。&lt;/p&gt;
-&lt;p&gt;中国气象局周日下午发布了台风红色警报，预警中国东部可能出现大风和强降雨。&lt;/p&gt;
-&lt;p&gt;近几十年来在上海登陆的最强台风是1949年的台风格洛丽亚，其以144公里/小时的风暴风猛袭城市。上海上一次直面特大台风的威胁发生在2022年，当时名为“美莎克”的强烈台风直接袭来，但最终在浙江省舟山市不远处登陆，距离上海300公里。&lt;/p&gt;
-&lt;p&gt;上海通常避免遭受中国南部更强台风的影响，包括上周呼啸而过海南岛南部的一个极具破坏力的Category 4台风雅各布，但上海及其邻省对此次1级的贝碧卡却不敢掉以轻心。&lt;/p&gt;
-&lt;p&gt;周日晚上8点起，上海的两座机场将取消所有航班，机场运营商上海机场（集团）有限公司表示，将根据台风的影响宣布调整。&lt;/p&gt;
-&lt;p&gt;上海火车站也已暂停部分服务以确保乘客安全，深圳政府表示，上海至深圳的列车也将停止运行。&lt;/p&gt;
-&lt;p&gt;上海的度假胜地，包括上海迪士尼度假区、金吉姆游乐场和上海野生动物园，均已临时关闭，同时多数渡轮也已经停止，以便前往中国第三大岛屿崇明岛——被称为“长江的门户”。&lt;/p&gt;
-&lt;p&gt;在浙江省，船只也已召回，该省省会杭州的几座公园宣布关闭。&lt;/p&gt;
-&lt;p&gt;贝碧卡的到来将与中秋佳节重合，这是全国性的三天假期，许多人会在这一时期出行或从事户外活动。&lt;/p&gt;
-&lt;p&gt;中国水利部周六发布了四级应急响应——中国四级应急响应体系中最低级别——以应对上海及江苏、浙江、安徽三省潜在的水灾风险。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="People walk with umbrellas on a bridge amid rains" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFMZUUYAJ5PT7NA36QHYILOFZQ.jpg" /&gt;
-         &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在2022年9月14日的上海，人们在风雨中打着伞走过一座桥。图片由路透社/王聪拍摄。&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 07:57:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/shanghai-braces-direct-hit-typhoon-bebinca-2024-09-15/</guid></item><item><title>菲律宾向萨比纳浅滩派遣替换船，誓言继续存在</title><link>https://www.reuters.com/world/asia-pacific/philippines-vessel-contested-south-china-sea-shoal-returns-port-2024-09-15/</link><description>
-&lt;p&gt;菲律宾声明称，将派出一艘船只前往南中国海争议地区沙bin法礁，以替换周日返回港口的巡逻舰，此举显然将激怒中国。此前，菲方在该争议区域内部署了五个月的巡逻舰特蕾莎·马甘奴亚号，现在任务已完成，该舰已返回港口。另一艘船只将立即接替其任务，确保在这一地区的存在。&lt;/p&gt;
-&lt;p&gt;北京方面曾要求菲律宾撤回其声称遭“非法搁浅”于该环礁、被菲方声称拥有主权、作为中国对整个南中国海广泛所有权声索一部分的97米（318英尺）巡逻舰特蕾莎·马甘奴亚号。&lt;/p&gt;
-&lt;p&gt;周日发布的声明中，中国海警局发言人刘德军表示，“菲律宾方面的行动严重侵犯了中国的领土主权”。&lt;/p&gt;
-&lt;p&gt;特蕾莎·马甘奴亚号被部署于沙bin法礁以监控菲律宾怀疑中国在该地区进行的小规模填海造地活动。菲海岸警卫队和国家海事委员会（NMC）表示，巡逻舰已返回港口，其任务已经完成。NMC发言人亚历山大·洛佩兹表示，根据菲律宾海警局局长的命令，“另一艘船只将立即接替任务，确保我们继续在那里保持存在”。&lt;/p&gt;
-&lt;p&gt;位于菲律宾巴拉望省西150公里（93英里）的沙bin法礁，在中国称为仙宾礁，在菲律宾称为埃斯科達礁，位于菲律宾专属经济区范围内。&lt;/p&gt;
-&lt;p&gt;特蕾莎·马甘奴亚号在当地的停留引发了北京的愤怒，使其成为有争议水域的最新热点。&lt;/p&gt;
-&lt;p&gt;上周在北京举行的高级别会谈中，马尼拉再次确认了对沙bin法礁的立场，中国则重申了要求该舰撤退的诉求。而为补充在第二托马斯礁搁浅的菲律宾海军舰艇的物资，双方刚刚达成协议。&lt;/p&gt;
-&lt;p&gt;菲律宾海警局和国家海事委员会执行秘书兼主席卢卡斯·贝萨明在一次声明中表示，Teresa Magbanua号返回的原因是船员医疗需求和进行维修。一旦补充物资并完成维修，它将重新开始执行任务，与其他海岸警卫队和军事资产一起，作为保卫主权的防御者。&lt;/p&gt;
-&lt;p&gt;此次行动是在上周马尼拉与北京举行的高级别会谈之后进行的，此次会谈中，菲律宾再次确认了对沙bin法礁的立场，而中国则重申了要求该舰撤退的诉求。&lt;/p&gt;
-&lt;p&gt;中国海警局表示，将继续在根据北京管辖权的海域内依法执行执法活动，并维护其领土主权和海洋权益。&lt;/p&gt;
-&lt;p&gt;中国声称对绝大多数南中国海拥有主权，该主张与文莱、印度尼西亚、马来西亚、菲律宾和越南的海域重叠。&lt;/p&gt;
-&lt;p&gt;2016年，海牙仲裁法庭宣布中国广泛及其历史性的声索无效，北京对此决定表示反对。&lt;/p&gt;</description><pubDate>Sun, 15 Sep 2024 05:10:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-vessel-contested-south-china-sea-shoal-returns-port-2024-09-15/</guid></item><item><title>米索伊、埃德萨在悉尼马拉松比赛中创造了新的赛道记录</title><link>https://www.reuters.com/sports/athletics/misoi-edesa-set-new-course-records-sydney-marathon-wins-2024-09-15/</link><description>
-&lt;p&gt;肯尼亚选手布林·米索伊Ethiopia的沃克嫩什·埃塞萨在第32届悉尼马拉松上，分别刷新了男子和女子组别的赛程纪录。周日，这对选手在比赛中一举夺魁。&lt;/p&gt;
-&lt;p&gt;米索伊以2小时6分17秒的成绩，超越悉尼歌剧院，将两位同胞两年前创下的纪录缩短了46秒。&lt;/p&gt;
-&lt;p&gt;来自肯尼亚的米索伊以1分44秒的优势，领先第二名来自埃塞俄比亚的查卢·德索·格尔米萨。另外一名来自肯尼亚的费利克斯·基普托获得第三名。&lt;/p&gt;
-&lt;p&gt;另一方面，埃塞萨几乎将2019年由斯泰拉·巴索希奥在悉尼赛道创下的旧纪录缩短了三分钟，埃塞俄比亚选手在这场锦标赛中完成了对领奖台的全面掌控。&lt;/p&gt;
-&lt;p&gt;32岁的埃塞萨今年早些时候获得了大阪马拉松的冠军，以2小时21分40秒的成绩完赛，领先同胞鲁蒂·阿加和戈提托姆·盖布雷斯莱，两人也都打破了旧纪录。&lt;/p&gt;
-&lt;p&gt;悉尼马拉松角逐24,000名跑者在港城周围竞赛，成为澳大利亚举办的这场耐力经典赛事中规模最大的编排。&lt;/p&gt;
-&lt;p&gt;此次赛事正处于第二年的评估阶段，该评估将引导其自2025年起加入东京、波士顿、伦敦、柏林、芝加哥和纽约马拉松，成为精英世界马拉松大满贯赛事的一员。&lt;/p&gt;
+&lt;p&gt;加拿大在今年戴维斯杯的比赛中，继连续两年之后，凭借周日对英国的胜利，再次挺进四分之一决赛。与此同时，荷兰队在即便遭受意大利卫冕冠军的险胜后，仍成功晋级。&lt;/p&gt;
+&lt;p&gt;仅需在曼彻斯特赢得一场比赛即可淘汰东道主并锁定D组头名的加拿大，在双打赛场中以丹尼斯·沙波瓦洛夫以6-0、7-5横扫丹·埃文斯，并在胜利之后直接在场上享用冰淇淋的方式，迅速完成了任务。&lt;/p&gt;
+&lt;p&gt;沙波瓦洛夫在面对约15000名狂热的观众时，保持冷静表示：“与众多英国球员比赛肯定并不轻松。”&lt;/p&gt;
+&lt;p&gt;“我之前也有过这样的经历……我只是尽量保持专注，尽量保持自我封闭，并尽可能地领先，因为我能感觉到丹的士气高涨以及观众的热情高涨。&lt;/p&gt;
+&lt;p&gt;“比赛确实开始逐渐陷入困境，所以我非常高兴能够以两盘横扫的方式完成比赛。”&lt;/p&gt;
+&lt;p&gt;费利克斯·奥古尔-阿里亚西姆在一场高质量的对决中以7-6(8)、7-5的比分击败英国一哥杰克·德雷珀，为2022年的赢家赢得了不可撼动的2-0领先优势。&lt;/p&gt;
+&lt;p&gt;随后，亨利于·帕顿和尼尔·斯库普斯克力克加布里埃尔·代阿洛和亚历克西·加拉尔诺，以7-5、6-4击败对手，确保球迷有所欢呼。&lt;/p&gt;
+&lt;p&gt;八强淘汰赛将于11月19日至24日在马拉加举行，本周将举行抽签以确定具体的比赛对阵。&lt;/p&gt;
+&lt;p&gt;意大利、荷兰、西班牙、澳大利亚、美国、德国、加拿大和阿根廷均已晋级。&lt;/p&gt;
+&lt;p&gt;在波洛尼亚的世界第一选手延尼克·辛纳观战之际，意大利在马泰奥·贝雷蒂尼以3-6、6-4、6-4击败博蒂奇·范德赞斯胡普之后，以2-0领先确保了他们在A组的领先地位，同时弗拉维奥·科博利以7-6(4)、4-6、6-3击败塔隆·格里克斯波。&lt;/p&gt;
+&lt;p&gt;荷兰队并未丧失希望，并以黑马之姿晋级，尽管他们在双打比赛中以7-6(6)、7-5击败西蒙·博列利和安德烈亚·瓦瓦索里。&lt;/p&gt;
+&lt;p&gt;西班牙在与澳大利亚的比赛中休息了世界排名第三的卡洛斯·阿尔卡拉斯，但在瓦伦西亚以2-1的艰难胜利锁定B组头名，马塞洛·格兰诺勒斯和佩德罗·马丁内斯在第三盘激战后以5-7、6-4、6-4反败为胜。&lt;/p&gt;
+&lt;p&gt;帕布洛·卡雷尼奥·布斯塔以2-6、6-2、7-6(3)的胜利为西班牙赢得领先，但阿列克谢·波皮林以6-4、6-4击败马丁内斯，将去年的亚军拉回到同一起跑线上。&lt;/p&gt;
+&lt;p&gt;早些时候，在珠海，智利在一场2-1的胜利中结束了他们在C组的征战，尽管两支球队都已退出争冠行列，但仍以小组第三的身份结束战斗。&lt;/p&gt;
 &lt;figure&gt;
-	&lt;img alt="Athens Marathon" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PIVL3Q6LK5PQDGJGOIN7J3GPHM.jpg" /&gt;
-	&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Kenyan runner Brimin Kipkorir Misoi (C) competes during the 36th Athens Classic Marathon in Athens, Greece, November 11, 2018. REUTERS/Alkis Konstantinidis/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 01:01:21 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/athletics/misoi-edesa-set-new-course-records-sydney-marathon-wins-2024-09-15/</guid></item><item><title>美国队战胜德国队夺得戴维斯杯小组第一</title><link>https://www.reuters.com/sports/tennis/united-states-overcome-germany-stay-perfect-davis-cup-2024-09-14/</link><description>
-&lt;p&gt;美国二级选手在周六于珠海以小组C头名之姿结束了与德国的较量，此番胜利不仅延续了他们的戴维斯杯冠军征程，而且还确保了两国均进入了这场顶级男子团队赛事的八分之一决赛。&lt;a href="https://www.reuters.com/sports/tennis/united-states-seal-spot-davis-cup-final-8-2024-09-13/"&gt;成功晋级&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;作为32次夺冠的队伍，本周的美国队在决赛小组阶段的比赛中失去了诸如美国公开赛亚军泰勒·弗里茨、汤米·保罗和弗朗西斯·提亚福德等诸多名将，但他们依然展现了强大的火力，挫败德国队并实现了连续第三次胜利。&lt;/p&gt;&lt;p&gt;布兰登·中川在第二场单打比赛中，以6-4和6-2的比分轻松击败马克西米利安·玛特雷尔，使自己的戴维斯杯首秀保持完美，从而帮助美国队确立了不可动摇的2-0领先优势。&lt;/p&gt;&lt;p&gt;"整个星期都令人难以置信。能够成为这个团队的一员是一种特殊的荣誉。"中川表示。&lt;/p&gt;&lt;p&gt;“自我开始打网球以来，代表国家就一直是我的梦想，所以我非常高兴能够为球队贡献三场胜利。”&lt;/p&gt;&lt;p&gt;排名世界第309位的雷利·奥佩尔卡在本赛季回归赛场之前经历了髋部和手部的手术，他在本场比赛中通过挽救三个赛点并在关键时刻发挥强大的发球优势，以6-7(4)、7-6(9)和6-3击败了首次参赛的亨利·斯奎尔。&lt;/p&gt;&lt;p&gt;蒂姆·普特兹和凯文·克拉维茨在稍后进行的双打比赛中以6-1和7-6(4)战胜了拉ジェ夫·拉姆和奥斯汀·克拉吉切克，但美国队队长鲍勃·布莱恩对本周出色的表现感到满意，尤其称赞了球队的单一深度。&lt;/p&gt;&lt;p&gt;“目前美国有许多优秀的球员，这从排名中就可以看出。我们有很多人可以选择参加决赛，”布莱恩表示。&lt;/p&gt;&lt;p&gt;“向那些来到这里并将我们带到马拉加的球员表示敬意。我们还有两个月的时间可以放松和准备，但那将会很有趣。&lt;/p&gt;&lt;p&gt;“我们对此充满期待。”&lt;/p&gt;&lt;p&gt;基于不同城市的四个小组中的前两名国家将晋级至11月在马拉加举行的决赛8阶段的淘汰赛。&lt;/p&gt;&lt;p&gt;重量级大国西班牙和澳大利亚在周五的行动中，与美国和德国一同晋级。&lt;/p&gt;&lt;p&gt;他们在意大利的守护者们之后加入，后者在博洛尼亚以2-0领先比利时后晋级，若昂·丰塞卡以6-3、6-7(2)和6-3击败拉斐尔·科利永，之后塞巴斯蒂安·蒙特伊罗以4-6、7-6(5)和7-5险胜齐佐·贝格斯。&lt;/p&gt;&lt;p&gt;比利时在与A组的较量中保持生机，桑德·吉利和乔兰·弗利根以6-3、3-6和6-4战胜了拉斐尔·马托斯和费利佩·梅利根·阿尔维斯。&lt;/p&gt;&lt;p&gt;阿根廷在曼彻斯特以D组3-0战胜芬兰，自2019年以来首次进入八分之一决赛，马克西穆·冈萨雷斯和安德烈斯·莫尔蒂尼以6-3(7)、6-4和6-3击败了哈里·埃尔约瓦拉和帕特里克·高科瓦拉。&lt;/p&gt;&lt;p&gt;托马·马丁·埃切维里先前以7-6(5)和6-3战胜了埃罗·瓦萨，弗朗西斯科·塞伦多洛则以6-7(4)、6-1和6-0淘汰了奥托·维尔特南。&lt;/p&gt;&lt;p&gt;捷克共和国和法国在B组陷入激战，尽管两队均未能晋级，因为他们在瓦伦西亚的比赛中均告失利。&lt;/p&gt;  &lt;figure&gt;&lt;img alt="戴维斯杯 - 小组C - 德国对阵美国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UR4EB5CF35JZNKR2ECD2LUBLYM.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;布兰登·中川，戴维斯杯，珠海，中国，2024年9月14日，路透社/图伦·西乌&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - 小组C - 德国对阵美国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4H4H5SZH7VJHHJBFWE4PXL63OQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - 小组C - 德国对阵美国 - 恒大国际网球中心，珠海，中国 - 2024年9月14日   德国的马克西米利安·玛特雷尔在对阵美国布兰登·中川的单打比赛中&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - 小组C - 德国对阵美国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z6UPC55C55JCTCZDVAQIKY2HYA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - 小组C - 德国对阵美国 - 恒大国际网球中心，珠海，中国 - 2024年9月14日   美国的雷利·奥佩尔卡在单打比赛中对阵德国的亨利·斯奎尔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="戴维斯杯 - 小组C - 德国对阵美国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/U2ST4EJ2ZJKOTD53X6OBJ4HMFU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - 小组C - 德国对阵美国 - 恒大国际网球中心，珠海，中国 - 2024年9月14日   德国的亨利·斯奎尔在单打比赛中对阵美国的雷利·奥佩尔卡&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 11:13:06 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/tennis/united-states-overcome-germany-stay-perfect-davis-cup-2024-09-14/</guid></item><item><title>中国反对美国加征关税，誓言采取措施捍卫本国企业利益</title><link>https://www.reuters.com/markets/china-opposes-us-tariff-hikes-vows-steps-defend-its-firms-interests-2024-09-14/</link><description>
-&lt;p&gt;北京坚决反对美国对中国进口商品征收的提高关税，中国商务部周六在一份声明中表示，敦促美方立即纠正其“不当行为”，并取消对中国商品所设的一切关税。&lt;/p&gt;&lt;p&gt;声明指出，“中国将采取必要措施，坚定捍卫中国企业的利益”。&lt;/p&gt;
-
+    &lt;img alt="戴维斯杯 - D组 - 加拿大对英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZNEDNIW65JI7JK6Y2UDYEVKB2Q.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对英国 - AO竞技场，曼彻斯特，英国 - 2024年9月15日 加拿大的丹尼斯·沙波瓦洛夫在赢得对英国球员丹尼尔·埃文斯的单打比赛后庆祝，图片来源于路透社/埃德·赛克斯&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="插图展示美国和中国国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DIXBU6NRRVOWHC65IWSZIVAJRQ.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;此插图于2023年1月30日拍摄，展示美国和中国国旗。图片来源：路透社/Dado Ruvic/插画/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 11:33:41 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/china-opposes-us-tariff-hikes-vows-steps-defend-its-firms-interests-2024-09-14/</guid></item><item><title>中国1-8月FDI同比下降31.5%</title><link>https://www.reuters.com/markets/asia/chinas-jan-aug-fdi-down-315-yy-2024-09-14/</link><description>
-&lt;p&gt;中国商务部于周六公告，今年1月至8月，外资对华直接投资累计达5801.9亿元人民币（约合818亿美元），同比去年同期下降31.5%。&lt;/p&gt;&lt;p&gt;这一降幅超过了此前1月至7月份的29.6%。&lt;/p&gt;&lt;p&gt;（1美元折合7.0930元人民币）&lt;/p&gt;  &lt;figure&gt;&lt;img alt="上海股市信息展示" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V3NERNLLXJMFJJCGLV4SUC5JSQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年2月5日，中国上海陆家嘴金融贸易区上海塔附近，多座摩天大楼旁，汽车驶过展示上海和深圳股市指数的广告屏幕。路透社/邢昊 档案照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 09:28:21 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/asia/chinas-jan-aug-fdi-down-315-yy-2024-09-14/</guid></item><item><title>中国将对原产于加拿大、日本、印度的进口卤化丁基橡胶启动反倾销立案调查</title><link>https://www.reuters.com/markets/commodities/china-open-anti-dumping-probe-halogenated-butyl-rubber-imports-canada-japan-2024-09-14/</link><description>
-&lt;p&gt;我国商务部于周六宣布，将从本月起对自加拿大、日本和印度进口的卤化丁基橡胶启动反倾销调查。&lt;/p&gt;&lt;p&gt;卤化丁基橡胶广泛应用于轮胎、制药塞、密封剂等产品的生产制造。&lt;/p&gt;</description><pubDate>Sat, 14 Sep 2024 07:51:12 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/markets/commodities/china-open-anti-dumping-probe-halogenated-butyl-rubber-imports-canada-japan-2024-09-14/</guid></item><item><title>渴望的马塔决心为西悉尼球迷带来成功</title><link>https://www.reuters.com/sports/soccer/eager-mata-determined-bring-success-western-sydney-supporters-2024-09-14/</link><description>
-&lt;p&gt;西班牙世界杯冠军中场球员胡安·马塔表示，他在周六抵达澳大利亚加入西悉尼流浪者足球俱乐部后，对于久违重返绿茵场充满期待。&lt;/p&gt;
-&lt;p&gt;这位曾效力于曼联和切尔西的攻击型球员，与阿伦·斯塔吉奇执教的流浪者队签订了为期一年的合同，并渴望在仅仅为日本的清水 Pierce 上场了10分钟后，能够得到稳定出场机会。&lt;/p&gt;
-&lt;p&gt;“我真是太渴望重返球场了，”这位36岁的老将向澳大利亚媒体表示。&lt;/p&gt;
-&lt;p&gt;“我告诉教练，我非常期待再次触摸球，与我的新队友们一起训练，并且我觉得自己的身心状态良好，对于这将是一个美好赛季的我充满信心。&lt;/p&gt;
-&lt;p&gt;“我只想要享受足球。我愿意为球队竭尽全力。在每一天的训练中，我希望展示我有高标准、专业精神和在比赛中积累的所有经验和知识，当然，我也希望为球队带来精彩的比赛。&lt;/p&gt;
-&lt;p&gt;”马塔加入的流浪者队是A联赛中最受支持的球队之一，但近年来在将球迷的支持转化为奖杯方面一直饱受挑战。&lt;/p&gt;
-&lt;p&gt;流浪者队在2013年首次参赛时就赢得了A联赛冠军，次年更是夺得了亚洲冠军联赛的冠军，但自从那时起，西悉尼队陷入了挣扎，在上一赛季的12队国内竞赛中以第七名结束。&lt;/p&gt;
-&lt;p&gt;十年来的不成功对俱乐部忠实的球迷基础的热情并没有多少削减，周六，数十位身着红黑色球衣的支持者在悉尼机场迎接这位2010年世界杯的冠军。&lt;/p&gt;
-&lt;p&gt;“我喜欢踢球，我仍然渴望比赛，”马塔表示，他希望在10月19日A联赛开赛日对西悉尼流浪者队的同城死敌悉尼FC的比赛中完成自己的处子秀。&lt;/p&gt;
-&lt;p&gt;“我今天早上已经见过球迷了，我迫不及待地想看到他们为某件事情庆祝——我希望在赛季第一场比赛中，这也是一场重大比赛。”&lt;/p&gt;
+    &lt;img alt="戴维斯杯 - D组 - 加拿大对英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SRQZXKM5DRMEPK6SXZGNWN4CYQ.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对英国 - AO竞技场，曼彻斯特，英国 - 2024年9月15日 英国球员丹尼尔·埃文斯在对抗加拿大球员丹尼斯·沙波瓦洛夫的单打比赛中进行反应，图片来源于路透社/埃德·赛克斯&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="Juan Mata" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WAV3CFYTWBLHXGM366GJ4Z3VSU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年比赛后的胡安·马塔。美联社/约翰·西伯利/档案照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 14 Sep 2024 08:57:58 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/soccer/eager-mata-determined-bring-success-western-sydney-supporters-2024-09-14/</guid></item></channel></rss>
+    &lt;img alt="戴维斯杯 - D组 - 加拿大对英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GTIPOBFAMNOVHNBPNMSB2S2HKA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对英国 - AO竞技场，曼彻斯特，英国 - 2024年9月15日 加拿大的费利克斯·奥古尔-阿里亚西姆在他的单打比赛中对抗英国球员杰克·德雷珀，图片来源于路透社/埃德·赛克斯&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="戴维斯杯 - D组 - 加拿大对英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VC3IGIQO3JK6FA2RMJEBETWDSE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对英国 - AO竞技场，曼彻斯特，英国 - 2024年9月15日 英国球员杰克·德雷珀在他的单打比赛中对抗加拿大球员费利克斯·奥古尔-阿里亚西姆，图片来源于路透社/埃德·赛克斯&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="戴维斯杯 - D组 - 加拿大对英国" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5WJUAZMJC5KEJFJNMH2F5NKNZE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;网球 - 戴维斯杯 - D组 - 加拿大对英国 - AO竞技场，曼彻斯特，英国 - 2024年9月15日 英国球员亨利·帕顿和尼尔·斯库普斯在中国香港球员埃利克斯·加拉尔诺和加布里埃尔·代阿洛的双打比赛中进行反应，图片来源于路透社/埃德·赛克斯&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 19:11:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/sports/tennis/canada-beat-britain-reach-davis-cup-quarter-finals-2024-09-15/</guid></item><item><title>美国国务院表示，中国释放了美国声称被错误监禁的美国牧师</title><link>https://www.reuters.com/world/china-frees-american-pastor-who-us-claims-was-wrongly-jailed-state-dept-says-2024-09-15/</link><description>
+&lt;p&gt;据美国政府声明，美国牧师大卫·林自2006年以来一直被囚禁，中国已将其释放，该消息于周日公布，标志着一位据华盛顿方面称被错误拘留的人被释放。&lt;/p&gt;
+&lt;p&gt;多年来，美国政界人士一直敦促北京释放林，他被以合同诈骗罪判处终身监禁。&lt;/p&gt;
+&lt;p&gt;“我们欢迎大卫·林从中华人民共和国监狱中被释放。他已返回美国，现在终于可以近20年后首次见到他的家人了，”一位国务院发言人表示。&lt;/p&gt;
+&lt;p&gt;林的女儿爱丽丝先前告诉《政治报》，她的68岁父亲将抵达德克萨斯州的圣安东尼奥。&lt;/p&gt;
+&lt;p&gt;《政治报》援引她的话说：“没有任何言语能够表达我们的喜悦——我们有许多时间需要弥补。”&lt;/p&gt;
+&lt;p&gt;去年11月，美国参议院外交关系委员会主席&lt;a href="https://www.reuters.com/world/us/senior-us-lawmaker-pushes-biden-prisoners-ahead-xi-meeting-letter-2023-11-14/" target="_blank"&gt;敦促&lt;/a&gt;美国总统乔·拜登在与中国国家主席习近平会晤时推动释放林及其他两名被拘留者——李凯和马克·西德安。&lt;/p&gt;
+&lt;p&gt;华盛顿方面称这三人被错误拘留，而中国方面则表示此类案件均依法处理。&lt;/p&gt;
+&lt;p&gt;美国国会委员会计划于下周三举行听证会，讨论在美国被囚禁的美国公民案件，特别是林、李和西德安的案件，委员会指出他们均面临健康问题。&lt;/p&gt;</description><pubDate>Sun, 15 Sep 2024 18:36:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china-frees-american-pastor-who-us-claims-was-wrongly-jailed-state-dept-says-2024-09-15/</guid></item><item><title>上海准备迎接台风“贝宾卡”的直接袭击</title><link>https://www.reuters.com/world/china/shanghai-braces-direct-hit-typhoon-bebinca-2024-09-15/</link><description>
+&lt;p&gt;上海于周日暂停交通路线、召回船只，并关闭包括上海迪士尼度假村在内的旅游景点，以应对即将来袭的台风贝碧嘉，此举可能是自1949年以来袭击中国金融中心的强度最大的热带气旋。&lt;/p&gt;
+&lt;p&gt;这股一级台风在中心附近的最大持续风速约为144公里每小时（89英里），截至当地时间下午5点（GMT 0900），其距离上海东南方向约400公里。预计它将在周一午夜后在中国东部沿海登陆。&lt;/p&gt;
+&lt;p&gt;中国气象局周日下午发布了台风红色预警，警告中国东部地区将遭遇大风和暴雨。&lt;/p&gt;
+&lt;p&gt;近几十年来，登陆上海的强度最大的风暴为1949年的台风葛洛丽亚，其风速达到144公里每小时，横扫城市。上海上一次遭到直接袭击是在2022年，强台风穆伊法登陆，但它在浙江省舟山市登陆，距离300公里。&lt;/p&gt;
+&lt;p&gt;上海通常能避开中国南部地区强台风的影响，包括上周掠过海南岛南部的破坏性四级风暴雅吉。但上海及其邻近省份对一级台风贝碧嘉并不掉以轻心。&lt;/p&gt;
+&lt;p&gt;从当地时间周日下午8点起，上海的两个机场将取消所有航班，机场运营商上海机场（集团）有限公司表示，将根据台风的影响宣布调整措施。&lt;/p&gt;
+&lt;p&gt;上海火车站也已暂停部分服务以确保乘客安全，深圳政府表示，上海方向的列车也将停止运行。&lt;/p&gt;
+&lt;p&gt;上海包括上海迪士尼度假村、金桥游乐场和上海野生动物园在内的度假村均已暂时关闭，与此同时，大多数渡轮也暂停了通往崇明岛的服务——中国第三大岛屿，亦被称为“长江门户”。&lt;/p&gt;
+&lt;p&gt;在浙江，船只已被召回，而省会杭州的多处公园宣布关闭。&lt;/p&gt;
+&lt;p&gt;贝碧嘉的到来将与中秋佳节巧合，这是一个全国性的为期三天的长假，许多中国人在这个期间出行或参加户外活动。&lt;/p&gt;
+&lt;p&gt;中国水利部周六发布了四级应急响应——中国四级应急响应系统中的最低级别——应对上海及江苏省、浙江省和安徽省可能发生的洪水。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="人们在暴雨和风中打着雨伞走过桥梁" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFMZUUYAJ5PT7NA36QHYILOFZQ.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2022年9月14日，中国上海，人们在暴雨和风中打着雨伞走过桥梁。REUTERS/Aly Song/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sun, 15 Sep 2024 07:57:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/shanghai-braces-direct-hit-typhoon-bebinca-2024-09-15/</guid></item></channel></rss>
