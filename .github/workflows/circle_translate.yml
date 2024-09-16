@@ -6,9 +6,9 @@ on:
   # 每月26号4点4分 #
   schedule:
    - cron: '4 8 * * *'
-   - cron: '34 15 * * *'
-   - cron: '39 19 * * *'
-   - cron: '39 4 * * *'
+   - cron: '38 13 * * *'
+   - cron: '18 17 * * *'
+   - cron: '39 6 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
