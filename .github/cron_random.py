@@ -19,10 +19,10 @@ YML = ".github/workflows/circle_translate.yml"
 f = open(YML, "r+", encoding="UTF-8")
 list1 = f.readlines()
 # 设置四个时间段的时间点
-list1[7] = "   - cron: '%d %d * * *'\n" % (min_morning, h_morning)
-list1[8] = "   - cron: '%d %d * * *'\n" % (min_afternoon, h_afternoon)
-list1[9] = "   - cron: '%d %d * * *'\n" % (min_evening, h_evening)
-list1[10] = "   - cron: '%d %d * * *'\n" % (min_midnight, h_midnight)
+list1[15] = "   - cron: '%d %d * * *'\n" % (min_morning, h_morning)
+list1[16] = "   - cron: '%d %d * * *'\n" % (min_afternoon, h_afternoon)
+list1[17] = "   - cron: '%d %d * * *'\n" % (min_evening, h_evening)
+list1[18] = "   - cron: '%d %d * * *'\n" % (min_midnight, h_midnight)
 
 f = open(YML, "w+", encoding="UTF-8")
 f.writelines(list1)
