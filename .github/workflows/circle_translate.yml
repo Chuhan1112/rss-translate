@@ -36,7 +36,8 @@ jobs:
       - name: ls_show
         env:
           API_KEY: ${{ secrets.API_KEY }}
-          MODEL: "THUDM/glm-4-9b-chat"
+          MODEL: "Vendor-A/Qwen/Qwen2-72B-Instruct"
+          #MODEL: "THUDM/glm-4-9b-chat"
           #MODEL: "Qwen/Qwen2-7B-Instruct"
         run: |
           python main3.py
