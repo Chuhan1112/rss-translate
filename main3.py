@@ -60,7 +60,6 @@ def get_subtitle(e):
         sub = ""
     return sub
 
-
 class GoogleTran:
     def __init__(self, url, source="auto", target="zh-CN"):
         self.url = url
@@ -94,21 +93,34 @@ class GoogleTran:
         except:
             return ""
 
+    def process_entry(self, entry):
+        if not entry.title:
+            return None
+        des = self.gpt_tr(entry.summary)
+        return Item(
+            title=self.tr(entry.title),
+            link=entry.link,
+            description=des,
+            guid=Guid(entry.link),
+            pubDate=get_time(entry),
+        )
+
     def get_new_content(self, max=2):
-        item_list = []
+        item_list = [None] * max
         if len(self.d.entries) < max:
             max = len(self.d.entries)
-        for entry in self.d.entries[:max]:
-            if not entry.title:
-                continue
-            one = Item(
-                title=self.tr(entry.title),
-                link=entry.link,
-                description=self.gpt_tr(entry.summary),
-                guid=Guid(entry.link),
-                pubDate=get_time(entry),
-            )
-            item_list += [one]
+
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            futures = {executor.submit(self.process_entry, entry): i for i, entry in enumerate(self.d.entries[:max])}
+            for future in concurrent.futures.as_completed(futures):
+                index = futures[future]
+                result = future.result()
+                if result:
+                    item_list[index] = result
+
+        # 过滤掉 None 值
+        item_list = [item for item in item_list if item is not None]
+
         feed = self.d.feed
         if not feed.title:
             return ""
