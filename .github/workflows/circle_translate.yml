@@ -13,10 +13,10 @@ on:
   # 每月26号4点4分 #
   schedule:
    - cron: '55 11 * * *'
-   - cron: '21 9 * * *'
-   - cron: '1 15 * * *'
-   - cron: '56 18 * * *'
-   - cron: '4 1 * * *'
+   - cron: '18 11 * * *'
+   - cron: '58 13 * * *'
+   - cron: '47 20 * * *'
+   - cron: '13 2 * * *'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
