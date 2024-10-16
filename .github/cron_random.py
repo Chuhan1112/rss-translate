@@ -1,29 +1,29 @@
 import random
 
-# coding:utf-8 
-
-# 生成一个在早上的小时数、中午的小时数、晚上的小时数和凌晨的小时数
-h_morning = random.randint(7, 11)
-h_afternoon = random.randint(12, 16)
-h_evening = random.randint(17, 20)
-h_midnight = random.randint(0, 6)
-
-# 分钟数可以固定，也可以随机
-min_morning = random.randint(0, 59)
-min_afternoon = random.randint(0, 59)
-min_evening = random.randint(0, 59)
-min_midnight = random.randint(0, 59)
-
 YML = ".github/workflows/circle_translate.yml"
 
-f = open(YML, "r+", encoding="UTF-8")
-list1 = f.readlines()
-# 设置四个时间段的时间点
-list1[15] = "   - cron: '%d %d * * *'\n" % (min_morning, h_morning)
-list1[16] = "   - cron: '%d %d * * *'\n" % (min_afternoon, h_afternoon)
-list1[17] = "   - cron: '%d %d * * *'\n" % (min_evening, h_evening)
-list1[18] = "   - cron: '%d %d * * *'\n" % (min_midnight, h_midnight)
+# 生成白天的小时数列表（8点到20点）
+day_hours = list(range(8, 21))
 
-f = open(YML, "w+", encoding="UTF-8")
-f.writelines(list1)
-f.close()
+# 生成晚上的小时数列表（0点到7点）
+night_hours = list(range(0, 8))
+
+# 随机选择晚上的两个小时数
+random_night_hours = random.sample(night_hours, 2)
+
+# 分钟数可以固定，也可以随机
+minute = random.randint(0, 59)
+
+with open(YML, "r+", encoding="UTF-8") as f:
+    list1 = f.readlines()
+
+# 设置白天每小时的时间点
+for i, hour in enumerate(day_hours):
+    list1[15 + i] = "   - cron: '%d %d * * *'\n" % (minute, hour)
+
+# 设置晚上的两个随机时间点
+list1[15 + len(day_hours)] = "   - cron: '%d %d * * *'\n" % (minute, random_night_hours[0])
+list1[16 + len(day_hours)] = "   - cron: '%d %d * * *'\n" % (minute, random_night_hours[1])
+
+with open(YML, "w+", encoding="UTF-8") as f:
+    f.writelines(list1)
