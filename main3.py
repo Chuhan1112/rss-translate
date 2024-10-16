@@ -31,7 +31,7 @@ MODEL = os.getenv("MODEL")  # "Qwen/Qwen2-7B-Instruct"
 
 # Define system prompt for GPT translation
 system_prompt = "下面你将扮演一位 20 年的网页新闻翻译员，将下列新闻内容翻译至中文，希望你用专业、准确的中文词汇和句子替换简化的 A0 级单词和句子，保留原文中的专有名词和术语，并提供相应的注释。保持相同的意思，但使它们更符合简洁、专业的中文新闻语言的风格,直接返回翻译结果，不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式；存在多个段落时，段落之间使用p 标签,确保返回格式符合html规范,但不要返回html代码，直接返回翻译结果，不要添加任何额外信息;"
-
+title_prompt = "下面你将扮演一位 20 年的新闻翻译员，请将以下新闻标题翻译成中文,直接返回翻译结果，不要添加任何额外信息: "
 
 def remove_html_tags(text):
     # Use regular expressions to remove HTML tags
@@ -68,14 +68,14 @@ class GoogleTran:
         self.d = feedparser.parse(url)
         self.GT = Translate()
 
-    def tr(self, content):
+    def google_tr(self, content):
         if not content:
             return content
         return self.GT.translate(
             content, target=self.target, source=self.source
         ).translatedText
 
-    def gpt_tr(self, content):
+    def gpt_tr(self, promt,content):
         if not content:
             return content
         if self.source == "proxy":  # Proxy
@@ -84,7 +84,7 @@ class GoogleTran:
             response = openai_translator.chat.completions.create(
                 model=MODEL,
                 messages=[
-                    {"role": "system", "content": system_prompt},
+                    {"role": "system", "content": promt},
                     {"role": "user", "content": "{tt}".format(tt=content)},
                 ],
                 stream=False,
@@ -96,9 +96,10 @@ class GoogleTran:
     def process_entry(self, entry):
         if not entry.title:
             return None
-        des = self.gpt_tr(entry.summary)
+        des = self.gpt_tr(system_prompt,entry.summary)
         return Item(
-            title=self.tr(entry.title),
+            # title=self.google_tr(entry.title),
+            title=self.gpt_tr(title_prompt,entry.title),
             link=entry.link,
             description=des,
             guid=Guid(entry.link),
@@ -125,9 +126,10 @@ class GoogleTran:
         if not feed.title:
             return ""
         new_feed = Feed(
-            title=self.tr(feed.title),
+            title=self.google_tr(feed.title),
+            # title= self.gpt_tr(title_prompt,feed.title),
             link=feed.link,
-            description=self.gpt_tr(get_subtitle(feed)),
+            description=self.gpt_tr(system_prompt,get_subtitle(feed)),
             lastBuildDate=get_time(feed),
             items=item_list,
         )
