@@ -27,7 +27,7 @@ on:
    - cron: '39 19 * * *'
    - cron: '39 20 * * *'
    - cron: '39 3 * * *'
-   - cron: '39 5 * * *'
+   - cron: '39 7 * * *'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
