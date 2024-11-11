@@ -80,8 +80,12 @@ class RSSTranslator:
             items = [future.result() for future in as_completed(futures) if future.result()]
 
         feed = self.feed.feed
+        title = getattr(feed, 'title', None)
+        if not title:
+            # If there is no title, skip processing
+            return None
         return Feed(
-            title=self.tran_with_google(feed.title),
+            title=self.tran_with_google(title),
             link=feed.link,
             description=self.trans_with_gpt(SYSTEM_PROMPT, self.get_subtitle(feed)),
             lastBuildDate=self.get_datetime(feed),
