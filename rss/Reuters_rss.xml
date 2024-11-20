@@ -1,149 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Wed, 20 Nov 2024 13:41:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>加拿大连环杀手罗伯特·皮克顿在监狱袭击中去世</title><link>https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</link><description>&lt;p&gt;加拿大连环杀手罗伯特·皮克顿于周五去世，享年74岁。他在本月早些时候于一座超级监狱遭受其他囚犯袭击后去世，狱政当局表示。&lt;/p&gt;
-&lt;p&gt;加拿大最臭名昭著的连环杀手之一，皮克顿于2007年被判处杀害吸毒者和卖淫女，并在其位于不列颠哥伦比亚省沿海地区的猪场残害其尸体。&lt;/p&gt;
-&lt;p&gt;他被判杀害六名妇女，部分尸体残骸在其位于温哥华近郊的破旧地产上被发现。政府检察官在判处其终身监禁后，放弃了对其另外20起谋杀罪的指控。&lt;/p&gt;
-&lt;p&gt;加拿大狱政服务表示，皮克顿是在魁北克监狱遭受袭击后于5月19日去世的。袭击后，他已被送往医院接受治疗。&lt;/p&gt;
-&lt;p&gt;“我们注意到这名罪犯的案件对不列颠哥伦比亚省乃至全国各地的社区造成了毁灭性的影响，”狱政服务部门在声明中表示。&lt;/p&gt;
-&lt;p&gt;受害者中还包括温哥华贫困、毒品泛滥的东温哥华地区唐人街（Downtown Eastside）超过十年内失踪的60多名女性。&lt;/p&gt;
-&lt;p&gt;在皮克顿于2002年初被捕之前，33名妇女的遗体或DNA样本在其位于温哥华市区东边约25公里处的普特科克兰（Port Coquitlam）猪场被发现，其中许多是原住民。&lt;/p&gt;
-&lt;p&gt;2016年，出版商在亚马逊上市几小时内便撤回了皮克顿声称自己无辜并被警方陷害的书籍。据《温哥华太阳报》当时报道。&lt;/p&gt;
-&lt;p&gt;出版商要求亚马逊下架该书籍并向受害家属道歉。&lt;/p&gt; 
-&lt;figure&gt;&lt;img alt="罗伯特·威廉·皮克顿的电视照片显示他是本图克兰家园的未标明日期的档案照片。路透社/Global TV/资料照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AANYAJS4E5NY5CIFS5PEUQPVRQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;罗伯特·威廉·皮克顿的未标明日期的电视照片显示他是本图克兰家园的档案照片。 REUTERS/Global TV/ File Photo&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:28:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</guid></item><item><title>世卫组织称全球大流行病条约将于2025年达成</title><link>https://www.reuters.com/business/healthcare-pharmaceuticals/global-pandemic-treaty-be-concluded-by-2025-who-says-2024-06-01/</link><description>&lt;p&gt;世卫组织表示，旨在达成一项全球协议以更有效地抗击流行病的谈判将在2025年前完成，若条件允许，可能会提前完成。&lt;/p&gt;
-&lt;p&gt;世卫组织的194个成员国已就一项协议进行两年谈判，该协议可能在流行病前后加强国际合作，以应对2019冠状病毒病期间认识到的失败。&lt;/p&gt;
-&lt;p&gt;联合国机构原定本周达成协议，但在疫苗共享和准备等方面的分歧加深后，谈判被延长。&lt;/p&gt;
-&lt;p&gt;尽管如此，各国仍达成了一项平行协议，更新现有的具有法律约束力的卫生规则，即《国际卫生条例（IHR）》，其中包括一个新的“流行病紧急状态”分类，用于描述最严重和全球威胁最大的公共卫生危机。&lt;/p&gt;
-&lt;p&gt;世卫组织总干事谭德塞（Tedros Adhanom Ghebreyesus）在一份声明中说道：“今天的具有历史意义的决定体现了成员国共同保护本国人民及全世界人民免受公共卫生紧急事件和未来流行病风险共担愿望。”&lt;/p&gt;
-&lt;p&gt;美国健康和人类服务部部长贝塞拉（Xavier Becerra）周六表示：“通过这项协议，我们采取了措施来问责各国，并加强措施以在威胁到美国人民安全之前阻止疫情爆发。”&lt;/p&gt;
-&lt;p&gt;根据世卫组织数据，更新全球卫生规则的变动旨在增强世界对新冠大流行后新病原体的防御能力，新冠大流行导致逾700万人死亡。&lt;/p&gt;  
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Wed, 20 Nov 2024 14:34:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>加拿大连环杀人犯罗伯特·皮克顿在监狱袭击后死亡</title><link>https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</link><description>&lt;p&gt;加拿大著名连环杀手罗伯特·皮克顿在本月早些时候另一囚犯对其实施袭击后，于周五在魁北克一所超级监狱逝世，终年74岁。&lt;/p&gt;
+&lt;p&gt;作为加拿大历史上最臭名昭著的连环杀手之一，皮克顿于2007年被定罪，承认在不列颠哥伦比亚省的猪场屠杀和肢解吸毒者及妓女的身体，并残害其遗体。&lt;/p&gt;
+&lt;p&gt;他被定罪杀害了六名妇女，其部分遗体在距离温哥华市不远的地方被发现。在判处其终身监禁后，政府检控方撤回了额外20起谋杀案的指控。&lt;/p&gt;
+&lt;p&gt;加拿大矫正服务表示，皮克顿是在5月19日被另一囚犯袭击后死亡。袭击后，他被送往医院接受治疗。&lt;/p&gt;
+&lt;p&gt;“我们深知这名罪犯案件对不列颠哥伦比亚及其全国各地社区产生的毁灭性影响，”服务部门在一份声明中说。&lt;/p&gt;
+&lt;p&gt;这些受害女性是超过60名自2002年初皮克顿被捕前在温哥华市中心贫困、毒品泛滥的唐人街东区失踪的女性。&lt;/p&gt;
+&lt;p&gt;在距离市中心以东约25公里的波特科克兰，警方在其猪场发现了33名受害女性的遗体或DNA，其中许多人是土著人。&lt;/p&gt;
+&lt;p&gt;2016年，据称皮克顿撰写的一本书在其上线后不到几小时就被亚马逊下架。当时，《温哥华太阳报》报道说，在这本书中，连环杀手声称自己清白并被抓捕者陷害。&lt;/p&gt;
+&lt;p&gt;出版商请求亚马逊下架该书并向受害者的家属道歉。&lt;/p&gt;  
 &lt;figure&gt;
-&lt;img alt="世卫组织（WHO）标志，在日内瓦总部附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WZNEIM47DFJ5ZKHYW6POFEUDNY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-图片说明：2023年2月2日，瑞士日内瓦，世卫组织（WHO）标志在其总部附近。路透社/Denis Balibouse/资料图片/资料图片
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Sat, 01 Jun 2024 20:28:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/healthcare-pharmaceuticals/global-pandemic-treaty-be-concluded-by-2025-who-says-2024-06-01/</guid></item><item><title>南非拉马福萨因执政党选举失利而处境艰难</title><link>https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</link><description>&lt;p&gt;南非总统西里尔·拉马福萨在任满非洲国民大会（ANC）自种族隔离制度结束以来最差的选举结果后，将面临严重的削弱。&lt;/p&gt;
-&lt;p&gt;周三选举结果显示，约71%的选区结果显示，ANC的得票率低于42%，这一数字比2019年上次选举时的57.5%大幅下降，也是三十多年来首次未能获得多数。&lt;/p&gt;
-&lt;p&gt;选举失利意味着，作为纳尔逊·曼德拉的前解放运动组织，ANC将不得不与其他较小政党谈判结成联盟或采取其他形式的合作来执政，可能需要在政策上做出让步或放弃关键内阁职位。&lt;/p&gt;
-&lt;p&gt;ANC前工会领袖转企业家拉马福萨可能会面临反对党和党内的批评者要求其辞职的压力，但ANC的一名高层官员支持其留任，并且分析家们认为目前没有明显的继任者。&lt;/p&gt;
-&lt;p&gt;“目前没有一个能够接替拉马福萨的统一候选人。”政治学教授安托尼·博特勒这样说，他在拉马福萨的传记中写过一篇文章。&lt;/p&gt;
-&lt;p&gt;三月的一项民意调查显示，拉马福萨在此次选举中拥有最高的批准率，ANC内部的派系斗争可能使得对他采取行动变得复杂。&lt;/p&gt;
-&lt;p&gt;拉马福萨尚未就ANC的选举表现发表评论。他的发言人表示，周日当正式初步结果公布时，他将发表声明。&lt;/p&gt;
-&lt;p&gt;拉马福萨之前曾因2022年的一项报告指控他在庄园的家具中发现一笔现金而面临指控，但对此予以否认，这一事件被称为“农门”。当时，他后来赢得了一个新的五年任期。&lt;/p&gt;
-&lt;p&gt;今年周三的选举被认为是ANC迄今为止最严峻的考验，因为选民对失业率高、犯罪率和电力供应中断等问题感到愤怒。&lt;/p&gt;
-&lt;p&gt;拉马福萨于2017年末当选ANC领导人，承诺为修复该党形象和振兴经济而努力，他的前任雅各布·祖马在其任期内经历了丑闻、贪腐和经济衰退长达九年。&lt;/p&gt;
-&lt;p&gt;然而，他成为总统后的最初的激动情绪在2018年很快就消退了。&lt;/p&gt;
-&lt;p&gt;据六年来，经济仍在停滞，顶级ANC官员仍然面临多项丑闻。&lt;/p&gt;
-&lt;p&gt;本周选举中的致命打击由其竞争对手祖马发起，祖马支持新党姆科托瓦，民粹主义者，该党超出预期的表现，对ANC的支持造成了重大影响，特别是在祖马的故乡夸祖鲁-纳塔尔省。&lt;/p&gt;
-&lt;p&gt;“雅各布·祖马将其棋局逼至绝境，ANC和拉马福萨。他知道自己在夸祖鲁-纳塔尔省是脆弱的，”政治分析师拉尔夫·马特凯加说，“这是拉马福萨计划的终结……你不能在选举失利后还期望一切像以前一样。”&lt;/p&gt;
-&lt;p&gt;拉马福萨被批评为擅自推迟了关键改革，避免加剧其党内的裂痕，与上世纪80年代他作为工会领导时的果断形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;然而，他的支持者们称赞他的磋商技巧和推动南非作为所谓“全球南方”代言国的角色，简称“全球南方”是对低收和中收国家的统称。&lt;/p&gt;
-&lt;p&gt;在新冠疫情大流行期间，拉马福萨是全球最突出的呼吁公平分配疫苗的声音之一。&lt;/p&gt;
-&lt;p&gt;最近，南非在国际法院针对以色列提起了种族灭绝诉讼的请求，本月判决以色列必须终止对加沙城市拉法的军事打击。面对这一指控，以色列坚称其合理性并继续其在拉法的军事行动。&lt;/p&gt;
-&lt;p&gt;在竞选期间，拉马福萨试图强调ANC在过去三十年中的成就，但批评者认为他对解决南非面临的最大挑战提供了解决方案不多。&lt;/p&gt;
-&lt;p&gt;ANC在选举前的最后一次竞选集会上，拉马福萨承诺“做得更好”，面对成千上万支持者的集会。许多人在他演讲未结束前就散去了。&lt;/p&gt;
-        
-        &lt;figure&gt;
-            &lt;img alt="南非总统西里尔·拉马福萨在索韦托投票" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPC7JX6VYJJV7BW4LHAIYAYLTM.jpg" /&gt;
-            &lt;figcaption style="text-align: center;"&gt;2024年5月29日，南非，索韦托。路透社/Oupa Nkosi&lt;/figcaption&gt;
-        &lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 15:29:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</guid></item><item><title>愤怒的特朗普承诺将继续抗争 после有罪判决后</title><link>https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</link><description>&lt;p&gt;(本故事第17段包含强烈语言)&lt;/p&gt;&lt;p&gt;唐纳德·特朗普在特朗普大厦内部面对一组摄像机，传达了一个符合他法律和政治斗争的信息：他已准备好斗争。&lt;/p&gt;&lt;p&gt;就在纽约陪审团裁定他因伪造文件以掩盖支付成人电影明星沉默费而有34项指控成立的一天后，这位共和党总统候选人列举了一系列对手和怨言，发言中怒气冲冲、语无伦次。&lt;/p&gt;&lt;p&gt;他称其主审法官胡安·梅伦恰为“不义的”和“恶魔”。他形容民主党总统候选人乔·拜登，其在11月5日选举中的对手，为“美国历史上最糟糕的总统”。他抨击了作证反对他的证人、投票弹劾他的国会议员，并重申了他集会上的说辞，称非法入境移民正在涌入美国。&lt;/p&gt;&lt;p&gt;特朗普敦促支持者捐款资助其竞选活动，将他所面临的挑战描绘得远超个人。&lt;/p&gt;&lt;p&gt;“做这件事，”他说，“因为我们在为美国而战。”&lt;/p&gt;&lt;p&gt;尽管他在其他竞选演讲中经常夹杂着幽默，但这场演讲主要显得阴郁沉闷。特朗普仅在新闻发布会上拿着一张小巧的纸条。最后，他没有回答问题，并在儿子埃里克·特朗普的陪同下迅速离开了演讲台。&lt;/p&gt;&lt;p&gt;在摄像机之外，通过筹款倡议和社交媒体，前总统的盟友们对司法系统和任何质疑特朗普犯罪行为的人进行了猛烈抨击。&lt;/p&gt;&lt;p&gt;在这场选战中，两位主要候选人互相描绘对方是对美国的威胁，拜登团队抓住了特朗普的评论作为新的证据，表明他不具备担任总统的资格。&lt;/p&gt;&lt;p&gt;“美国刚目睹了唐纳德·特朗普这个混乱、绝望、彻底失败的人对自己的私人恩怨喋喋不休，并且歪曲了美国的司法系统，让任何在场的人都能得出一个清晰的结论：这个男人不适合成为美国的总统。”拜登竞选团队的通讯部长迈克尔·泰勒在一份声明中说。&lt;/p&gt;&lt;p&gt;特朗普的支持者——多数来看，他们认为纽约的判决是冤假错案——在周四单日为他的竞选活动捐赠了3480万美元，特朗普团队表示。这是一天内的最高记录，发生在共和党的数字筹款平台WinRed上。&lt;/p&gt;&lt;p&gt;鉴于其总筹款额落后于拜登的竞选活动，该竞选活动试图保持快速节奏，发送了多条预示着麻烦筹款短信给支持者。&lt;/p&gt;&lt;p&gt;“美国史上最黑暗的日子！”一条信息写道。&lt;/p&gt;&lt;p&gt;“我永远不会投降！”另一条信息在特朗普新闻发布会后大喊。&lt;/p&gt;&lt;p&gt;除了前任总统本人及其盟友以外，几乎所有共和党官员和组织都一致站在前总统一边，认为审判存在瑕疵，指控不应被提起，陪审团由民主党占多数的曼哈顿地区挑选的因而受到影响，主审法官偏袒——当地当局否认了这些指控。&lt;/p&gt;&lt;p&gt;对于共和党人的批评不够迅速或有力时，特朗普的盟友和竞选助手进行了攻击。&lt;/p&gt;&lt;p&gt;特朗普副竞选经理克里斯·拉切维塔对一家全国性大学共和党团体在社交媒体平台上的帖子进行了嘲讽，该帖子称应该尊重陪审团 verdict。&lt;/p&gt;&lt;p&gt;“每个人都有自己的看法，”拉切维塔写道。&lt;/p&gt;&lt;p&gt;他还对马里兰州共和党中度派候选人、前共和党州长拉里·霍根进行了攻击，在审判结果之前他曾警告美国民众“不要在火上加油，越发党派性的言论只会更加毒害局势。”&lt;/p&gt;&lt;p&gt;“你刚刚结束了竞选活动，”拉切维塔在社交媒体上回应道。&lt;/p&gt;&lt;p&gt;在宾夕法尼亚州和佐治亚州等摇摆州的共和党选民访谈中，几位受访者表示，特朗普的有罪判决让他们重新考虑对他的支持。&lt;/p&gt;&lt;p&gt;这种背离可能会对他与拜登的重赛造成危害，鉴于特朗普在多个摇摆州的领先地位微弱。&lt;/p&gt;&lt;p&gt;但大多数受访的共和党人听起来和特朗普很像，称这次审判是一个骗局。&lt;/p&gt;&lt;p&gt;“这都是政治性的，只是想伤害他并尽可能多地让他远离竞选舞台。”来自佐治亚州玛丽塔市、62岁的退休警察斯科特·克莱顿说。&lt;/p&gt;&lt;p&gt;“如果他们能对他这么做，他们就能对任何人这样做。绝对没有人是安全的。”&lt;/p&gt;
+&lt;img alt="罗伯特·威廉姆斯·皮克顿的电视播出示意图" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AANYAJS4E5NY5CIFS5PEUQPVRQ.jpg"&gt;
+&lt;figcaption style="text-align: center;"&gt;罗伯特·威廉姆斯·皮克顿在这张未标注日期的文件照片中出现在他的波特科克兰住处。图片来源：路透社/环球电视网/档案照片&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:28:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</guid></item><item><title>世卫组织称全球大流行病条约有望于2025年达成</title><link>https://www.reuters.com/business/healthcare-pharmaceuticals/global-pandemic-treaty-be-concluded-by-2025-who-says-2024-06-01/</link><description>&lt;p&gt;旨在就如何更好地应对流行病达成全球共识的谈判有望于2025年或更早时间完成，世界卫生组织在周六表示。&lt;/p&gt;
+&lt;p&gt;世卫组织的194个成员国在应对新冠肺炎疫情的失败后，已历时两年就相关协议进行谈判，旨在增加流行病前后及期间的国际合作。&lt;/p&gt;
+&lt;p&gt;联合国机构最初计划本周达成协议，但因富裕国家和较贫穷国家在疫苗共享和准备等问题上的分歧，谈判已被延长。&lt;/p&gt;
+&lt;p&gt;尽管如此，各国还是达成了一项平行协议，旨在更新现有的具有法律约束力的全球健康规则，即《国际卫生条例》(IHR)，其中包括一个针对最具显著性和全球威胁性的健康危机的“流行病紧急状态”新类别。&lt;/p&gt;
+&lt;p&gt;“今天做出的具有历史意义的决策展示了成员国共同保护本国人民及全世界免受公共卫生紧急事件和未来流行病风险的愿望，”世界卫生组织总干事Tedros Adhanom Ghebreyesus在声明中说。&lt;/p&gt;
+&lt;p&gt;“通过此协议，我们正致力于对各国承担责任，并加强措施，以防突发疫情威胁到美国和国家安全，”美国卫生与人类服务部长Xavier Becerra周六表示。&lt;/p&gt;
+&lt;p&gt;这些全球卫生规则的修订旨在加强世界各国对新病原体的防御能力，据世卫组织数据，新冠肺炎疫情导致超过700万人丧生。&lt;/p&gt;    
+&lt;figure&gt;
+&lt;img alt="世卫组织文件照片：日内瓦总部外的世卫组织标志" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WZNEIM47DFJ5ZKHYW6POFEUDNY.jpg"&gt;
+&lt;figcaption style="text-align: center;"&gt;文件照片：2023年2月2日，在瑞士日内瓦世界卫生组织（WHO）总部外，路透社/迪尼兹·巴利博斯&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Sat, 01 Jun 2024 20:28:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/healthcare-pharmaceuticals/global-pandemic-treaty-be-concluded-by-2025-who-says-2024-06-01/</guid></item><item><title>南非的拉马福萨因执政党大选表现不佳而声势衰弱</title><link>https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</link><description>&lt;p&gt;南非总统西里尔·拉马福萨在监管非洲国民大会（ANC）党自种族隔离结束以来最糟糕的选举成绩后，其地位将大幅削弱。&lt;/p&gt;
+&lt;p&gt;周三选举结果显示，大约71%的投票站结果显示，ANC的得票率低于42%，这比2019年上次选举时的57.5%大幅下降，并首次在30年内未获得大多数支持。&lt;/p&gt;
+&lt;p&gt;此次选举结果意味着，作为纳尔逊·曼德拉的前解放运动，ANC可能不得不与其他较小政党结成联盟或达成某种形式的协议来执政，这可能需要做出政策让步或让出重要内阁职位。&lt;/p&gt;
+&lt;p&gt;前工会领袖转型为企业家的拉马福萨可能会面临反对党和党内批评者的辞职要求。但ANC的一位高层官员支持他继续留任，分析师表示没有明确的继任者。&lt;/p&gt;
+&lt;p&gt;“并没有一个明确的团结候选人能够取代拉马福萨。”开普敦大学政治学教授安东尼·布尔特说，他撰写过拉马福萨的传记。&lt;/p&gt;
+&lt;p&gt;三月份的一项民意调查显示，拉马福萨在此次选举中对主要政要的满意度最高。ANC内部的派系争斗可能使阻止他成为一项复杂任务。&lt;/p&gt;
+&lt;p&gt;拉马福萨尚未就ANC的选举表现发表评论。他的发言人表示，他将在周日全体临时结果公布时发表评论。&lt;/p&gt;
+&lt;p&gt;拉马福萨的总统之位曾在2022年因一份调查报告指出他可能因存放在他狩猎场家具中的现金而存在不当行为时而摇摇欲坠。&lt;/p&gt;
+&lt;p&gt;他否认对此次争议案——“农场门”——的不当指控，并在同年赢得了新的五年ANC领导人任期。&lt;/p&gt;
+&lt;p&gt;此次选举被描绘为ANC迄今为止面对的最严峻考验，因为选民因高失业率、犯罪和电力短缺等问题感到愤怒。&lt;/p&gt;
+&lt;p&gt;2017年底，拉马福萨被选为ANC领导人，承诺将改善该党的形象并重振经济，这之前，他的前任雅各布·祖马在九年的丑闻、贪腐和经济衰退期间任职。&lt;/p&gt;
+&lt;p&gt;但在他成为国家元首后的初潮热情很快消退。&lt;/p&gt;
+&lt;p&gt;六年多之后，经济仍然停滞不前，关于ANC高层官员的丑闻仍然不断。&lt;/p&gt;
+&lt;p&gt;本周选举中的决定性打击来自他的主要对手祖马。祖马支持新党“姆康托乌西韦”（uMkhonto we Sizwe），该党超出预期的表现严重削弱了ANC的支持，特别是在祖马的家乡夸祖鲁-纳塔尔省（KZN）。&lt;/p&gt;
+&lt;p&gt;“祖马成功地将拉马福萨和ANC置于僵局。他知道他们在夸祖鲁-纳塔尔省很脆弱，”政治分析师拉尔夫·马特凯加说，“这标志着拉马福萨项目的终结……输掉选举后，一切都无法恢复正常。”&lt;/p&gt;
+&lt;p&gt;拉马福萨因其在关键改革上显得模棱两可，以避免加剧其党内的裂痕而受到批评。这一点与他作为工会领袖在20世纪80年代所展现出的果断形成了鲜明对比。&lt;/p&gt;
+&lt;p&gt;然而，他的支持者称赞他建立共识的能力，以及他推动南非作为所谓“全球南”（指一批低收入和中等收入国家）的代表的角色。&lt;/p&gt;
+&lt;p&gt;在新冠疫情期间，拉马福萨是全球最呼声最高的声音之一，呼吁公平分配疫苗。&lt;/p&gt;
+&lt;p&gt;最近，南非向国际法院提起了针对以色列的种族灭绝指控，促使法官裁定以色列必须暂停对加沙城市拉法的军事行动。以色列坚决否认这些指控，并继续其在拉法的军事行动。&lt;/p&gt;
+&lt;p&gt;竞选期间，拉马福萨强调ANC在过去三十年取得的成绩，但批评者指出，他对解决南非最大挑战几乎没有提出新的解决方案。&lt;/p&gt;
+&lt;p&gt;在此次选举前ANC的最后一场竞选集会上，拉马福萨对十几万人承诺会“做得更好”。然而，许多人在他演讲还没结束前就离开了。&lt;/p&gt;
 
-&lt;figure&gt;&lt;img alt="前美国总统特朗普出席新闻发布会，纽约" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSVKG6B3SBLNZCJZJRVUDMKFNQ.jpg" /&gt;    &lt;figcaption style="text-align: center;"&gt;纽约市，美国，2024年5月31日。路透社/Brendan McDermid&lt;/figcaption&gt;&lt;/figure&gt;
+![南非总统西里尔·拉马福萨在Soweto投票](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPC7JX6VYJJV7BW4LHAIYAYLTM.jpg)
+&lt;i&gt;拍摄日期：2024年5月29日；Soweto；Reuters/Oupa Nkosi&lt;/i&gt;</description><pubDate>Fri, 31 May 2024 15:29:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</guid></item><item><title>拜登在武器决定中逐步介入乌克兰冲突</title><link>https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登放宽乌克兰在俄罗斯境内使用美制武器的限制，这标志着拜登政府在医报告侵乌的两年战争中迈出了一小步，但意义深远，有助于缓解俄罗斯针对赫尔松地区的跨境攻势。&lt;/p&gt;
+&lt;p&gt;自2022年俄罗斯入侵乌克兰以来，拜登政府一直在避免乌克兰使用美国提供的武器打击俄领土上的目标，担心这可能导致与拥有核武器的俄罗斯直接冲突。&lt;/p&gt;
+&lt;p&gt;这是一个与之前对基辅禁供高端武器的规则相符的做法，包括禁供美国先进的战斗机和远程ATACM导弹。&lt;/p&gt;
+&lt;p&gt;拜登政府官员表示，最新决定于本周四生效，旨在针对赫尔松地区的战斗。美国官员称，该决定允许基辅使用美方提供的武器反击从边境攻击或正准备攻击的俄方部队。&lt;/p&gt;
+&lt;p&gt;专家认为，这给了前线乌克兰部队一个使用如高机动多管火箭发射系统（HIMARS）发射器发射美国提供的“精确制导多管火箭系统”（GMLRS）导弹的绿色信号，以及其他武器。&lt;/p&gt;
+&lt;p&gt;“这可以稳定前线，并可能在俄罗斯人在我方赫尔松地区尚未固守前创造条件，迫使他们撤退，”乌克兰国立战略研究所研究员米科尔·比莉列科夫表示。&lt;/p&gt;
+&lt;p&gt;前英国军事情报官员菲利普·英格兰认为，拜登的这一决定将减少基辅在东部顿巴斯的关键战场上的兵力调动需求。&lt;/p&gt;
+&lt;p&gt;“现在，俄罗斯人会在边境附近处于守势，不得不重新考虑他们针对赫尔松地区的攻势战术，”他补充道。&lt;/p&gt;
+&lt;p&gt;拜登的决策追溯至数周前。&lt;/p&gt;
+&lt;p&gt;据美国官员透露（匿名），5月13日，乌克兰在一次安全视频会议上向白宫国家安全顾问杰克·沙利文、国防部长劳埃德·奥斯汀和联合参谋长主席C.Q.布朗上将提出跨境使用美制武器的要求。&lt;/p&gt;
+&lt;p&gt;沙利文、奥斯汀和布朗随后提出放松禁令的建议，沙利文在5月15日向拜登提出这一建议。拜登同意乌克兰可以在俄罗斯境内安全地区反击俄罗斯军队，相关决定此后一直在最终确定。&lt;/p&gt;
+&lt;p&gt;乌克兰总统沃洛迪米尔·泽连斯基在5月20日接受路透社采访时公开呼吁其合作伙伴采取类似行动，但他当时表示：“到目前为止，还未有积极进展。”&lt;/p&gt;
+&lt;p&gt;英国东欧项目资深学者罗伯·李指出，俄罗斯利用拜登关于境内打击的禁令作为安全避风港，频繁对赫尔松地区发动攻击。&lt;/p&gt;
+&lt;p&gt;距离乌克兰第二大城市赫尔松仅19英里（30公里），赫尔松正与边境相对接。&lt;/p&gt;
+&lt;p&gt;“俄罗斯能够将大炮等军事设施置于边境对面，保持着空气防御、电子战和指挥控制系统，潜在地享受了一定程度的安全感，”李补充道。&lt;/p&gt;
+&lt;p&gt;然而，李和其他专家认为，这项决定本身短期内可能不会显著改变前线局势。&lt;/p&gt;
+&lt;p&gt;“我不认为这一决定会大幅改变前线的变动，但会增加俄罗斯继续跨境作战的难度，”李表示。&lt;/p&gt;
+&lt;p&gt;英格兰表示，俄罗斯没有足够的兵力来对赫尔松发动大规模攻势。&lt;/p&gt;
+&lt;p&gt;“俄罗斯没有足够的能力从东北方向生成足够的战斗能力来威胁赫尔松。为做到这一点，他们需要在东部战场显著减少兵力，”他解释道。&lt;/p&gt;
+&lt;p&gt;俄罗斯总统弗拉基米尔·普京警告北约成员国不要允许乌克兰向其境内发射武器，并在周二再次提到了核战争的风险。&lt;/p&gt;
+&lt;p&gt;尽管如此，乌克兰似乎准备在未来几周和几个月内扩大其使用美国武器的范围，特别是在俄军在战场上掌握主动权的一年之后。&lt;/p&gt;
+&lt;p&gt;在华盛顿宣布政策调整的前一天，泽伦斯基在《卫报》的一次采访中提及其寻求美国批准以攻击俄罗斯境内更深层次目标。&lt;/p&gt;
+&lt;p&gt;华盛顿战略与国际问题研究中心高级研究员马克·坎齐安表示，拜登此举只是第一步。&lt;/p&gt;
+&lt;p&gt;“这不是政策上的重大转变，但是一步，”坎齐安表示。&lt;/p&gt;
+&lt;p&gt;“乌克兰人及其政府官员会为下一步辩解，争取打击更广泛的目标——可能不仅是直面临赫尔松威胁的目标，还包括其他区域的目标。”&lt;/p&gt;
+&lt;p&gt;美国国务卿安东尼·布林肯在上周五于布拉格的讲话中拒绝评论拜登政府是否可能扩大政策以允许在其他俄罗斯地区打击，但他没有排除这种可能性。&lt;/p&gt;
+&lt;p&gt;“未来我们将继续做我们一直在做的事情，即必要时调整和适应，”布林肯表示。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="赫尔松地区导弹袭击后的痕迹" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HXOYPJEBFFNVTLQAC7JUPTP2NM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;灭火员在瓦尔琴科拍摄的定居地马拉达尼利亚夫卡村的儿童和青年体育骑操学校的废墟现场工作，该学校是5月30日在俄罗斯袭击乌克兰时受损严重，赫尔松，乌克兰。路透社/瓦伦廷·奥格里内科/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:37:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</guid></item><item><title>拜登提出新的以色列停火计划，呼吁哈马斯接受</title><link>https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登周五表示，以色列提议在释放人质作为交换的情况下达成新的加沙 ceasefire，并呼吁哈马斯同意这一新提议，称这是结束冲突的最佳途径。&lt;/p&gt;
+&lt;p&gt;“战争该结束了，新的一天该开始了，”拜登表示。他面临着在选举年停止加沙冲突的压力，该冲突已持续八个月。&lt;/p&gt;
+&lt;p&gt;由埃及、卡塔尔及其他国家斡旋的调停努力旨在在加沙冲突中安排以色列与哈马斯激进组织停火，但双方均指责对方阻碍谈判取得进展，谈判屡次陷入僵局。&lt;/p&gt;
+&lt;p&gt;这一提议是在以色列多次侵入拉法数周后提出的，且在国内和国际上对内塔尼亚胡政府施加了新的压力，尤其是关于加沙死亡事件和人质持续被俘的问题。&lt;/p&gt;
+&lt;p&gt;内塔尼亚胡办公室于周五表示，以色列已授权谈判代表呈现加沙停火协议，拜登透露了停火计划。&lt;/p&gt;
+&lt;p&gt;这是唐纳德·特朗普被判处34项重罪之后一天提出的，这突显了两位候选人的鲜明反差，特朗普是拜登的共和党竞争对手。&lt;/p&gt;
+&lt;p&gt;拜登提出的这项新计划由三个阶段组成，并与此前的提议有所不同，因为停火将在所有三个阶段继续进行。&lt;/p&gt;
+&lt;p&gt;在第一阶段，为期六周的停火期间，以色列军队将撤离加沙平民区，释放包括老人和妇女在内的人质，与数百名巴勒斯坦囚犯交换。巴勒斯坦平民将返回加沙，包括北部加沙，每天将有600辆货卡车进入加沙运送人道主义援助，拜登表示。&lt;/p&gt;
+&lt;p&gt;在第二阶段，哈马斯和以色列将谈判永久停火条款。“只要谈判继续，停火将继续进行，”总统说，这是一个新的发展。&lt;/p&gt;
+&lt;p&gt;在第三阶段，将包括一项重大的加沙重建计划。&lt;/p&gt;
+&lt;p&gt;拜登表示，这一提案已通过卡塔尔传达给哈马斯。&lt;/p&gt;
+&lt;p&gt;他呼吁以色列那些主张“无限”战争的人改变想法，他表示：“我知道，有一些人不赞同这个计划，他们将呼吁战争无限期地继续下去。有些甚至在政府联合体内。他们非常明确地表示，他们希望占领加沙，希望多年继续战斗。人质对他们来说不是优先事项。我敦促以色列的领导层支持这项协议，尽管会面临各种压力。”&lt;/p&gt;
+&lt;p&gt;“作为以色列终身承诺者的美国总统，作为第一位在战争期间访问以色列的美国总统，作为刚刚派美国部队直接保卫以色列不受伊朗攻击的美国总统，我希望你们能退一步想一想，如果错过这个时刻将会发生什么。我们不能错失这个时刻。”&lt;/p&gt;
+&lt;p&gt;一位匿名的美国高级官员表示，以色列能够提出新的提议是因为最近在战场上取得了重大进展。&lt;/p&gt;
+&lt;p&gt;“现在真的有一条通往危机结束的道路。这是一项详细的四页半协议，”该官员说。“这是一次费心周详的谈判。现在桌上的是整个过程的最终结局。”&lt;/p&gt;
+&lt;p&gt;根据该计划，每个阶段将延长42天，该官员补充说。&lt;/p&gt;
+&lt;p&gt;数家以色列媒体将拜登周五的讲话描述为戏剧性的，并将其视为直接向以色列民众进行游说的企图。领先的12频道中断了晚间新闻节目，现场直播了拜登的讲话。根据肯杜罗的说法，以色列审查员此前已禁止发布这份提议的具体细节。&lt;/p&gt;
+&lt;p&gt;得克萨斯大学奥斯汀分校的历史和公共事务教授杰里米·苏里认为这项提议比之前的提议更容易成功。&lt;/p&gt;
+&lt;p&gt;“以色列给哈马斯造成了显著的损害，哈马斯能够发动任何严重袭击或攻击恐怖袭击的可能性不容忽视，但比以前低得多，”苏里说。&lt;/p&gt;
+&lt;p&gt;此外，全球公众舆论已开始“反对”以色列，苏里说，这可能会促使以色列人希望结束冲突，同时拜登的影响也会发挥作用。“当美国总统全力支持某项事务时，他会创造很多激励因素。”&lt;/p&gt;
+&lt;p&gt;今年早些时候提出的一项人质提议呼吁，如果以六周的停火为基础，允许运送更多援助到该区域，则释放加沙的病重、老人和伤员人质。&lt;/p&gt;
+&lt;p&gt;本月早些时候德国一项提议失败，主要原因是以色列拒绝满足哈马斯关于作为谈判一部分永久终止战争的要求，并对拉法南部城市的攻势加强袭击。&lt;/p&gt;
+&lt;p&gt;哈马斯周四表示，它告诉调停人，不会在目前的持续攻击期间进行更多的谈判，但如果以色列停止战争，哈马斯愿意达成一项全面协议，包括人质和囚犯交换。&lt;/p&gt;
+&lt;p&gt;一位匿名的美国高级官员表示，白宫国家安全顾问杰克·沙利文将在周五与有公民被关押在哈马斯手中的17个国家的外交官会面。&lt;/p&gt;
+&lt;p&gt;周日发生在拉法的以军空袭造成45名巴勒斯坦人丧生引发国际愤怒，但美国未将其视为断供军事援助的红线。&lt;/p&gt;
+&lt;p&gt;“加沙战争给巴勒斯坦人民造成了巨大的苦难，”拜登周五表示。“我们看到了本周早些时候因以色列针对哈马斯的袭击引起的致命大火，……导致了致命的火焰。”&lt;/p&gt;
+&lt;p&gt;据巴勒斯坦卫生当局估计，自以色列因10月7日南部以色列的一次哈马斯袭击行动而对加沙发动军事攻势以来，已有超过36,280人丧生。按照以色列的统计数据，这次哈马斯袭击造成约1,200人丧生。&lt;/p&gt;</description><pubDate>Fri, 31 May 2024 15:34:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</guid></item><item><title>美国石油生产商维持温和增长前景 奥佩克＋考虑延长减产</title><link>https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</link><description>&lt;p&gt;美国油井钻探公司继续遵守限制支出以减缓产量增长的承诺，这可能使全球最大原油生产国美国在2024年的增长步伐放缓，减轻OPEC+本周例行会议时进一步减产的压力。&lt;/p&gt;
 
-&lt;figure&gt;&lt;img alt="共和党总统候选人前美国总统特朗普出席新闻发布会，纽约" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZD5CL4WGJVJYFGBL37RISLOSPQ.jpg" /&gt;    &lt;figcaption style="text-align: center;"&gt;2024年5月31日，纽约市，美国。路透社/Brendan McDermid/文件图片&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 19:41:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</guid></item><item><title>拜登在武器决定中悄然加深对乌冲突的介入</title><link>https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登决定放宽美国武器在俄境内使用的限制，这是美国在俄乌战争中的一个小而重要的步骤，专家认为这有助于缓解俄罗斯在哈尔科夫方向的跨界进攻。&lt;/p&gt;
-&lt;p&gt;自2022年俄罗斯入侵乌克兰以来，拜登政府一直认为允许乌克兰使用美国提供的武器打击俄罗斯领土内的目标存在风险，担心这可能会引发与拥有核武器的俄罗斯直接冲突。&lt;/p&gt;
-&lt;p&gt;这一规定与美国对基辅供给更高端武器的其他限制相吻合，这些限制包括先进的美国战斗机和远程ATACM导弹。这些限制已相继被取消。&lt;/p&gt;
-&lt;p&gt;拜登政府官员表示，最新决定于本周生效，只针对哈尔科夫地区的战斗。美国官员指出，这一决定允许乌克兰使用美国提供的武器回击来自边境对它们发动攻击或预备发动攻击的俄罗斯军队。&lt;/p&gt;
-&lt;p&gt;这赋予前线乌克兰军队使用美国提供的HIMARS发射器以及GMLRS导弹和其他武器回击俄罗斯军队的合法权力，专家表示。&lt;/p&gt;
-&lt;p&gt;“这可以稳定前线，并可能在俄军在哈尔科夫地区站稳脚跟前推动他们退却，”乌克兰国家安全研究所研究员Mykola Bielieskov说，该研究所是基辅的一家官方智库。&lt;/p&gt;
-&lt;p&gt;前英国军事情报官Philip Ingram表示，拜登的决定将减少基辅需要从东部顿巴斯关键战场抽调兵力的情况。&lt;/p&gt;
-&lt;p&gt;“目前俄罗斯将陷入困境，需要重新考虑他们在哈尔科夫地区的进攻战术，”他说道。&lt;/p&gt;
-&lt;p&gt;拜登的决策过程始于几周前。&lt;/p&gt;
-&lt;p&gt;乌克兰于5月13日通过一次安全视频会议，与白宫国家安全顾问Jake Sullivan、国防部长Lloyd Austin以及联合参谋长C.Q. Brown上将讨论了在哈尔科夫地区使用美国武器的要求，一位不愿透露姓名的美国官员表示。&lt;/p&gt;
-&lt;p&gt;Sullivan、Austin和Brown制定了放宽限制的建议，Sullivan于5月15日向拜登提交了这一建议。一名官员表示，拜登同意让乌克兰在俄罗斯领土安全地带回击俄罗斯军队。此后，拜登政府一直在最后敲定这一决定。&lt;/p&gt;
-&lt;p&gt;乌总统泽连斯基曾在5月20日的一次采访中公开呼吁合作伙伴采取这一步骤，但在当时表示：“至今仍没有任何积极进展。”&lt;/p&gt;
-&lt;p&gt;Foreign Policy Research Institute的欧亚项目资深研究员Rob Lee表示，俄罗斯一直在利用拜登禁止打击俄罗斯领土内的限制，将其作为安全haven来进攻哈尔科夫地区。&lt;/p&gt;
-&lt;p&gt;哈尔科夫是乌克兰第二大城市，距离边境仅19英里（30公里）。&lt;/p&gt;
-&lt;p&gt;“俄罗斯可以将火炮保持在边境对面。它可以在那里保留防空系统、电子战系统、指挥和控制系统，”Lee表示，“可能具有某种程度的安全感。”&lt;/p&gt;
-&lt;p&gt;然而，Lee和其他专家表示，这一决定本身可能短期内不会大幅改变前线状况。&lt;/p&gt;
-&lt;p&gt;“我不认为这个决定会显著改变前线的移动情况，但如果能使乌克兰在跨境作战中变得更加困难，那也是有益的，”Lee说。&lt;/p&gt;
-&lt;p&gt;Ingram表示，俄罗斯缺乏足够的兵力对哈尔科夫发起大规模攻势。&lt;/p&gt;
-&lt;p&gt;“俄罗斯没有能力从东北方向产生足够战斗力以威胁哈尔科夫，”他说道，“那样做将使他们东部战场的部队空虚。”&lt;/p&gt;
-&lt;p&gt;俄罗斯总统普京已警告北约成员不要让乌克兰向俄罗斯发射武器，并在周二再次提出这可能导致核战的风险。&lt;/p&gt;
-&lt;p&gt;尽管如此，乌克兰似乎准备在未来几周和几个月寻求扩大其在美国武器使用范围，特别是在俄罗斯在战场上的动向逆转一年后。&lt;/p&gt;
-&lt;p&gt;周五，华盛顿刚宣布政策调整，泽连斯基在接受《卫报》采访时被引述称，要求获得美国批准打击俄罗斯境内的目标。&lt;/p&gt;
-&lt;p&gt;Center for Strategic and International Studies华盛顿智库的前五角大楼官员Mark Cancian表示，拜登的这一举动只是第一步。&lt;/p&gt;
-&lt;p&gt;“这不是政策的激进变化。但这是一步，”Cancian说。&lt;/p&gt;
-&lt;p&gt;“乌克兰人和行政部门官员将为下一步进行辩驳：打击更广泛的打击目标——可能是在不是直接威胁哈尔科夫，但在其他区域的目标。”&lt;/p&gt;
-&lt;p&gt;美国国务卿安东尼·布林肯在周五的布鲁日发表讲话时拒绝说，拜登政府是否可以扩大政策允许的其他地区打击。但他也没有排除这一可能性。&lt;/p&gt;
-&lt;p&gt;“未来，我们将继续做我们一直在做的事情：必要时适应和调整，”Blinken说。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="哈尔科夫地区的破坏景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HXOYPJEBFFNVTLQAC7JUPTP2NM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;乌克兰哈尔科夫地区楚尔库夫村，在俄罗斯攻乌期间，被俄罗斯导弹袭击严重破坏的儿童和青少年体育骑马学校的火灾现场，2024年5月30日。路透社/瓦伦廷·奥吉里诺夫/资料照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:37:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</guid></item><item><title>墨克西哥 Sheinbaum 获压倒性胜利，将成为该国首位女性总统</title><link>https://www.reuters.com/world/americas/mexicans-vote-election-seen-crowning-first-female-president-2024-06-02/</link><description>&lt;p&gt;克劳迪娅·希恩baum赢得 landslide（压倒性胜利），成为墨西哥首位女性总统，接过导师安德烈斯·曼努埃尔·洛佩斯·奥夫拉多尔的遗志，后者在贫困人群中的 popularity（人气）促进了她的胜利。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reuters.com/world/americas/mexicos-sheinbaum-activist-climate-scientist-presidential-frontrunner-2024-05-31/"&gt;希恩baum&lt;/a&gt;，一位气候科学家和墨西哥城前市长，根据墨西哥选举当局的快速计票结果，在总统选举中获得了58.3%至60.7%的选票。这将是墨西哥民主史上最高的得票率。&lt;/p&gt;&lt;p&gt;执政联盟还很可能在国会两院中赢得三分之二以上的超级多数，使得联盟可以不经反对党支持通过宪法改革。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.reuters.com/world/americas/xochitl-galvez-maverick-opposition-candidate-seeking-mexicos-presidency-2024-05-31/"&gt;Xochitl Galvez&lt;/a&gt;作为反对派候选人，在初步结果中得票率为26.6%至28.6%，承认败选。&lt;/p&gt;&lt;p&gt;“在我有生之年，我将会成为墨西哥的第一位女性总统，”希恩baum在支持者面前表示，引来阵阵欢呼“总统、总统”。 &lt;/p&gt;&lt;p&gt;希恩baum的胜利对墨西哥来说是一个重要的里程碑，这个国家以其 macho（粗犷的）文化著称，拥有世界第二大天主教人口，长期以来推崇传统价值观和女性角色。&lt;/p&gt;&lt;p&gt;她是第一次在美国、墨西哥或加拿大赢得普选的女性。&lt;/p&gt;&lt;p&gt;“我从没想过会有那么一天投票给女性，”87岁的埃德梅拉·蒙蒂尔说道，她是希恩baum的支持者，来自墨西哥最小的州特拉斯卡拉州。“以前我们甚至不能投票，或者你告诉妻子该投谁，如今赞美上帝，这一切都变了。”蒙蒂尔补充道。&lt;/p&gt;&lt;p&gt;希恩baum面前的征途充满挑战。她需要在提高受欢迎的社会福利政策和继承庞大的预算赤字和低经济增长之间取得平衡。&lt;/p&gt;&lt;p&gt;在初步结果宣布后，她表示，新政府将财政节制，并尊重中央银行的自主权。&lt;/p&gt;&lt;p&gt;她承诺改善安全，但仍缺乏具体细节，而此次选举是有记录以来墨西哥最为血腥的一次，38名候选人遭到谋杀。许多分析师认为，洛佩斯·奥夫拉多尔任期内，犯罪集团的影响力持续扩大。&lt;/p&gt;&lt;p&gt;周日的投票还因普埃bla州的选站发生两起杀人案而蒙上阴影。洛佩斯·奥夫拉多尔任职期间，墨西哥的谋杀数目超过任何其他时期的政府，尽管谋杀率有所下降。&lt;/p&gt;&lt;p&gt;“除非她承诺大幅投资于改进警务并减少腐败，否则希恩baum在整体安全水平上取得显著改善将会困难重重，”独立拉丁美洲政治风险分析师内厄米·帕里什·弗兰纳里称。&lt;/p&gt;&lt;p&gt;执政的MORENA党也在墨西哥市市长选举中赢得胜利，这是该国最重要的职位之一，根据初步结果。&lt;/p&gt;&lt;p&gt;面对新的总统的挑战包括与美国进行紧张谈判，其中美国正大量涌入墨西哥并前往美国的移民，以及打击毒品贩运的安全合作，此时美国恰处芬太尼Yepán毒品危机高峰期。&lt;/p&gt;&lt;p&gt;墨西哥官员预计，若今年11月美国总统选举由唐纳德·特朗普胜出，将会使这些谈判更加艰难。特朗普誓言对墨西哥制造的中国车征收100%关税，并表示要动员特种部队打击贩毒集团。&lt;/p&gt;&lt;p&gt;在国内，新总统将面临解决电力和水资源短缺的问题，以及吸引更多制造商移近市场的挑战。&lt;/p&gt;&lt;p&gt;希恩baum还将不得不应对佩梅克斯（墨西哥石油公司）的问题，该公司已连续20年减产，负债累累。&lt;/p&gt;&lt;p&gt;“这不能只是无止境的投入公共资金而公司从不盈利，”高盛首席拉丁美洲经济学家阿尔贝托·拉莫斯表示。“他们需要重新考虑佩梅克斯的业务模式。”&lt;/p&gt;&lt;p&gt;洛佩斯·奥夫拉多尔曾将最低工资翻倍，减少贫困，保持比索的强劲并维持低失业率——这些成就使他极为受欢迎。&lt;/p&gt;&lt;p&gt;希恩baum承诺扩大福利计划，但她面临墨西哥今年很可能出现大量财政赤字和2025年中仅1.5%的低迷经济增长的挑战。&lt;/p&gt;&lt;p&gt;洛佩斯·奥夫拉多尔试图利用这次选举作为对其政治议程的全民公决，寻求将选票转为选民共识。希恩baum多次否认反对党所谓她是“洛佩斯·奥夫拉多尔木偶”的指控，尽管她承诺继续许多他的政策，包括帮助墨西哥最贫困人口的政策。&lt;/p&gt;&lt;p&gt;在胜利演讲中，希恩baum感谢洛佩斯·奥夫拉多尔为“改进我们的国家的人”。 &lt;/p&gt;&lt;p&gt;然而，政治分析师维里·里欧斯认为这种怀疑是性别歧视所致：“不可思议的是，人们竟不认为她会做出自己的决定，我认为这与她是女性有很大的关系。”&lt;/p&gt;</description><pubDate>Sun, 02 Jun 2024 10:07:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/mexicans-vote-election-seen-crowning-first-female-president-2024-06-02/</guid></item><item><title>美国油企维持适度增长,OPEC+考虑延长减产</title><link>https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</link><description>&lt;p&gt;美国油井钻探商继续履行节制支出的承诺，旨在提高产出，这将使全球最大原油生产国的2024年增长步伐放缓。这可能有助于缓解OPEC+本周需要进一步减产的压力。&lt;/p&gt;
-&lt;p&gt;过去十年中，美国因页岩革命和技术创新的突破，在非OPEC产油国中驱动了全球原油供应的增长。&lt;/p&gt;
-&lt;p&gt;去年，美国原油产量超出预期，增加了一百多万桶/日，达到1293万桶/日，远超2023年初政府预计的约40万桶/日。&lt;/p&gt;
-&lt;p&gt;石油输出国组织及其盟友OPEC+去年进一步减产，部分原因是补偿美国及其他非OPEC产油国产量增长。OPEC+总减产量为586万桶/日，相当于全球需求的约5.7%。&lt;/p&gt;
-&lt;p&gt;OPEC+正努力达成一项复杂协议，该协议将允许该组织将部分减产延长至2025年，三位熟悉OPEC+讨论的消息人士周四透露。&lt;/p&gt;
-&lt;p&gt;在周日OPEC+会议上，将继续讨论供应政策，美国产量增长将继续推动非OPEC+产量增加，但这将不像2023年那样构成重大威胁。&lt;/p&gt;
-&lt;p&gt;政府最新预测显示，美国原油供应今年将增加约27万桶/日。这一数字与OPEC自身对美国原油和凝析油产量增长30万桶/日的估计相似。&lt;/p&gt;
-&lt;p&gt;国际能源署预计美国产量增长64万桶/日。这三个是最受关注的预测机构，它们在预测中都低于去年的水平。&lt;/p&gt;
-&lt;p&gt;OPEC预计2024年全球需求增长220万桶/日，将超过OPEC+之外的石油生产商的供应增长约100万桶/日。这意味着OPEC+原油的需求量应比2023年增加近90万桶/日，OPEC在5月份的月度《石油市场报告》中表示。&lt;/p&gt;
-&lt;p&gt;国际能源署预计全球需求增长将降至110万桶/日，OPEC原油需求几乎没有变化。国际能源署在5月份发布了这一预测。&lt;/p&gt;
-&lt;p&gt;今年以来，总体美国原油产量变化不大。四月份的产量约为1313万桶/日，比今年十二月下降了约2.4%。&lt;/p&gt;
-&lt;p&gt;业内高管和分析师表示，尽管油价目前接近每桶80美元，但美国生产商不太可能以去年那样超出预期的方式增长。&lt;/p&gt;
-&lt;p&gt;“我们的客户仍然非常保守和谨慎，”合同钻探公司Scandrill运营总监Paul Mosvold说。&lt;/p&gt;
-&lt;p&gt;“考虑到目前的价格，钻机数量没有上升更多，这有点令人惊讶。”&lt;/p&gt;
-&lt;p&gt;该公司将资本支出保持不变，推迟对其钻机的升级，以最好地适应较为平稳的钻探增长。计划年底前运营12台钻机，并在明年重新部署一些钻机。&lt;/p&gt;
-&lt;p&gt;贝克休斯数据显示，美国石油钻机数量已降至496台，比去年同期下降了约13%。&lt;/p&gt;
-&lt;p&gt;“美国在数年内可以以100万桶/日的速度增长，但目前没有意愿以这种方式增长，”标普分析师在周四的报告中说。&lt;/p&gt;
-&lt;p&gt;标普全球商品洞察预计，美国原油和凝析油产量今年将增加47万桶/日。&lt;/p&gt;
-&lt;p&gt;近年来，公开交易的美国生产商因投资者压力，减少了增长支出。在2010年代毫无节制的支出推动了快速增长，但限制了页岩油领域的回报。&lt;/p&gt;
-&lt;p&gt;近年来超过预期的产量增长部分得益于私人生产商，其中一些现在正被整合风潮席卷，他们通过钻更长的井并裂解岩石同时从更多井中提取原油来提高生产率。&lt;/p&gt;
-&lt;p&gt;“尽管最近一轮整合，我预计当前的油价将有助于支持适度的美国整体石油生产增长，”德克萨斯标准石油总裁Timothy Roberson说，他预计钻井和完井效率的持续改进将继续推动增长。&lt;/p&gt;
-&lt;p&gt;油田服务公司如SLB等预测，今年国际市场的增长将超过北美。SLB第一季度的国际收入增长了18%，而北美收入下降了6%，部分原因是矿场整合。&lt;/p&gt;
-&lt;p&gt;“近年来的战略转向了更强的资本纪律，从而产生了不同的反应，”瑞士联合银行分析师Giovanni Staunovo表示，他认为OPEC+将延长自愿减产。&lt;/p&gt;
-&lt;p&gt;尽管如此，美国、加拿大、巴西和圭亚那预计将引领今年的石油和液体产量增长，今年OPEC+的石油液体产量预计下降100万桶/日，而非成员国的供应将增长140万桶/日，据EIA在3月份表示。&lt;/p&gt;
-&lt;p&gt;“OPEC+学会了如何应对美国原油产量的增长，”UBS的Staunovo表示。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="钻井平台的操作楼层从奥古斯丁石油公司拥有的位于Permian盆地附近的Wink租赁的控制室中可见" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2W47RQDTZJPHLCRUQLYGQO5DQI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;钻井平台的操作楼层从奥古斯丁石油公司拥有的位于美国德克萨斯州Permian盆地附近Wink的租赁控制室中可见。2018年8月22日。路透社/Nick Oxford/资料照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 18:10:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</guid></item><item><title>加密“重新质押”平台蓬勃发展，交易者追逐更高回报</title><link>https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</link><description>&lt;p&gt;超过180亿美元的加密货币已转入一种新平台，该平台向存储加密货币代币的投资者提供奖励，这种复杂的计划令分析师警告用户和加密市场面临风险。&lt;/p&gt;&lt;p&gt;所谓的“重抵押”日益流行，是加密市场风险加剧的最新迹象。随着加密货币价格的飙升和交易者纷纷寻求收益，这种趋势愈发明显。比特币，作为最大的加密货币，接近历史最高价，而第二大加密货币以太坊今年价格上涨超过60%。&lt;/p&gt;&lt;p&gt;重抵押热潮的核心是西雅图初创公司EigenLayer。该公司在二月份从美国风投公司安德森·霍洛维茨基金的加密部门获得了1亿美元的融资，其平台吸引的加密货币价值达到188亿美元，比六个月前的不到4亿美元增长了数十倍。&lt;/p&gt;&lt;p&gt;EigenLayer的创始人Sreeram Kannan向路透社表示，该公司发明了重抵押这一概念，旨在扩大传统的加密货币“抵押”做法。&lt;/p&gt;&lt;p&gt;区块链是一种包含在网络中众多计算机中的数据库，它们负责验证和确认哪种加密货币归谁所有。为实现这一目标，加密货币代币的所有者允许其资产在验证过程中被锁定。持有者在参与抵押期间无法即时访问其代币，但会获得相应的收益。&lt;/p&gt;&lt;p&gt;一些抵押平台也会向用户发放代表所抵押的加密货币的新代币。重抵押使代币持有者可以使用这些新代币再抵押到不同的基于区块链的程序和应用中，期望获得更高的回报。&lt;/p&gt;&lt;p&gt;加密世界对于重抵押的风险意见不一，一些业内人士表示，由于这项实践仍处于起步阶段，因此难以评估风险。&lt;/p&gt;&lt;p&gt;但其他人士，包括分析师，则担心，如果作为再抵押加密货币的代表的新代币被用于加密借贷市场的抵押品，可能会出现基于少量底层资产无限循环借贷的局面。他们认为，如果每个人同时寻求退出，可能会导致更广泛的加密市场不稳定。&lt;/p&gt;&lt;p&gt;“当抵押品上有额外的担保品时，情况并不理想，这增加了新的风险因素，”加密数据提供商Kaiko的研究分析师Adam Morgan McCarthy表示。&lt;/p&gt;&lt;p&gt;对于投资者来说，吸引他们的是收益：以太坊区块链上的收益通常在3%-5%的范围内，但分析师认为，重抵押的收益可能会更高，因为投资者可以同时获得多重收益。&lt;/p&gt;&lt;p&gt;重抵押是去中心化金融（DeFi）领域发展中的最新环节，持币者投资于实验性方案，希望在不抛售持有资产的同时获得高额回报。&lt;/p&gt;&lt;p&gt;EigenLayer平台尚未直接向用户支付抵押奖励，因为支付机制尚未开发。用户则是出于对未来奖励或称为“空投”的其他赠品的期待加入了平台。&lt;/p&gt;&lt;p&gt;EigenLayer目前向平台用户发放其自己发行的新代币，用户希望这种名为“EIGEN”的代币未来会有价值。&lt;/p&gt;&lt;p&gt;加密数据提供商Kaiko的Morgan McCarthy表示，重抵押平台的增长是由用户寻求空投燃起的“非常、非常投机性”的热情推动的。&lt;/p&gt;&lt;p&gt;“这非常危险，”美国加密交易所Coinbase的研究负责人David Duong（COIN.O）表示，Coinbase提供抵押服务但不提供重抵押服务。&lt;/p&gt;&lt;p&gt;“他们现在是预先进行这种操作，（期待）会得到某种形式的回报，但他们不知道是什么，”Duong表示。&lt;/p&gt;&lt;p&gt;EigenLayer于去年在Sreeram Kannan的领导下推出，Kannan曾是西雅图华盛顿大学的前助理教授，并参与了一个团队在印度发射的第一个学生设计的航天微卫星项目。&lt;/p&gt;&lt;p&gt;EigenLayer将其描述为一个验证服务的市场，旨在将潜在的抵押者与需要抵押代币的应用程序连接起来。&lt;/p&gt;&lt;p&gt;一系列新重抵押平台陆续出现，包括EtherFi、Renzo和Kelp DAO，这些平台为客户提供再抵押服务，并生成与这些重抵押资产对应的新人代币。这些代币可以在其他方面使用，例如作为抵押品进行借贷。&lt;/p&gt;&lt;p&gt;“我们与这些参与者没有官方关系，”Kannan表示，这是一种新兴现象。&lt;/p&gt;&lt;p&gt;Coinbase的Duong在一份报告中指出，重抵押可能会带来“潜在风险”，如果用于加密借贷的代币被强制清算，或者在市场下跌期间导致更多价格波动。&lt;/p&gt;&lt;p&gt;2022年加密市场的抛售加剧了高风险借贷造成的损失，由于作为抵押的加密代币价值迅速下跌，Terra和Luna代币崩溃后情况尤为严重。&lt;/p&gt;&lt;p&gt;Kannan与这些风险划清界限。&lt;/p&gt;&lt;p&gt;“风险不在于重抵押，而是在于借贷协议，借贷协议低估了风险，”他表示。&lt;/p&gt;&lt;p&gt;一些专家对重抵押不以为意，指出重抵押协议中的现金相对于全球价值2.5万亿美元的加密行业来说微不足道。&lt;/p&gt;&lt;p&gt;长期以来，监管机构一直担心加密市场的亏损可能蔓延到更广泛的金融市场。&lt;/p&gt;&lt;p&gt;“现阶段，我们认为重抵押问题不会对传统金融市场带来实质性风险传染，”标普全球评级的数字资产分析负责人Andrew O’Neill表示。&lt;/p&gt;&lt;p&gt;然而，加密市场与主流金融领域的联系正变得越来越紧密，机构投资者也开始关注重抵押。&lt;/p&gt;&lt;p&gt;Standard Chartered加密部门的Zodia Custody已经看到了机构投资者对抵押资产的显著兴趣，但认为重抵押过于冒险，因为难以建立一条可靠的“纸面证据链”来追踪这些资产和收益分配。&lt;/p&gt;&lt;p&gt;Nomura加密部门Laser Digital与Kelp DAO合作，对部分资金进行重抵押。Kelp DAO在一篇四月的博客中宣布了这一合作，Laser Digital未对路透社的评论请求做出回应。&lt;/p&gt;&lt;p&gt;专注于加密的瑞士银行Sygnum表示，其为客户加密资产进行抵押，并预期“围绕重抵押将会出现一个新生态体系”。 &lt;/p&gt;  
+&lt;p&gt;近十年来，美国凭借页岩革命和技术创新，驱动非OPEC国家的全球原油供应增长。&lt;/p&gt;
+
+&lt;p&gt;去年，美国原油产量超乎预期，日产量增至1293万桶，远高于政府年初预计的约40万桶。&lt;/p&gt;
+
+&lt;p&gt;OPEC+及其盟国在去年加深了减产幅度，部分原因在于补偿了美国及其他非OPEC国家产量的上升。OPEC+的整体减产幅度为586万桶/日，约占全球需求的5.7%。&lt;/p&gt;
+
+&lt;p&gt;据知情人士透露，OPEC+正在讨论一项复杂的协议，计划将部分减产措施延长至2025年。&lt;/p&gt;
+
+&lt;p&gt;尽管OPEC+将于周日会议讨论供应政策，但美国增产仍将驱动非OPEC+产量增加，但相比2023年，威胁可能较小。&lt;/p&gt;
+
+&lt;p&gt;政府最新预测显示，预计美国原油供应将增加约27万桶/日，这一增幅与OPEC自行预测的美国原油和凝析油产量增长30万桶/日类似。&lt;/p&gt;
+
+&lt;p&gt;国际能源署预计美国产量增长64万桶/日。上述三者是备受关注的预测者，他们的预测均低于去年水平。&lt;/p&gt;
+
+&lt;p&gt;OPEC预计2024年全球需求增长220万桶/日，将超过OPEC+以外的油生成国家供应增长近100万桶/日。OPEC+表示，这意味着OPEC+原油需求可能较2023年增加约90万桶/日。&lt;/p&gt;
+
+&lt;p&gt;国际能源署预计，全球需求增长为110万桶/日，对OPEC原油需求变化不大。&lt;/p&gt;
+
+&lt;p&gt;今年迄今，美国原油产量变化不大。4月份的产量为1313万桶/日，而12月份时为1326万桶/日。&lt;/p&gt;
+
+&lt;p&gt;行业高管和分析师表示，即使油价接近每桶80美元，美国生产者似乎也不会像2023年那样超出预期。&lt;/p&gt;
+
+&lt;p&gt;“我们的客户保持了非常保守和严谨的态度。”钻井公司Scandrill的首席运营官保罗·莫斯洛德表示。&lt;/p&gt;
+
+&lt;p&gt;“令人惊讶的是，钻机数量尚未增加更多，尽管当前价格处于高位。”&lt;/p&gt;
+
+&lt;p&gt;他表示，其公司保持资本开支不变，并推迟了对钻机的升级，以更好地符合钻井增长较为缓慢的走势。其计划年底运营12台钻机，并在明年部署更多钻机。&lt;/p&gt;
+
+&lt;p&gt;根据贝克休斯的数据，美国活跃钻机数量降至496台，比去年同期下降了13%。&lt;/p&gt;
+
+&lt;p&gt;“美国有能力多年每年增长100万桶/日，但目前并无意愿以这个速度增长。”标准普尔分析师在一份报告中表示。&lt;/p&gt;
+
+&lt;p&gt;标准普尔资源洞察预计，美国原油和凝析油产量今年将增加47万桶/日。&lt;/p&gt;
+
+&lt;p&gt;近年来，公开上市的美国石油生产商在股东的压力下限制了在增长方面的资本支出，之前的无节制支出虽然推动了页岩产业的快速增长，但也限制了回报。&lt;/p&gt;
+
+&lt;p&gt;近年来超出预期的产量增长部分来自私人生产商，随着一些公司被整合，这些私营生产商提升了钻井效率和产油率。&lt;/p&gt;
+
+&lt;p&gt;“尽管近年来整合浪潮较甚，但预计油价将保持稳定，并帮助支持钻井和完成效率持续改进下美国石油生产增长的温和攀升。”德克萨斯标准石油总裁蒂莫西·罗伯森表示。&lt;/p&gt;
+
+&lt;p&gt;石油服务公司，如SLB（SLB.N），预期今年国际市场将比北美带来更多增长。其一季度国际收入增长18%，而北美收入则下降6%，部分原因在于整合。&lt;/p&gt;
+
+&lt;p&gt;“近年来，战略重心转向资本纪律，导致了不同的反应。”瑞银银行分析师乔瓦尼·斯塔诺夫表示，他预测OPEC+将继续执行自愿减产。&lt;/p&gt;
+
+&lt;p&gt;美国、加拿大、巴西和圭亚那预计将引领今年的石油和液体产量增长。3月的能源信息署报告称，OPEC+的石油液体产量预计今年将减少100万桶/日，而非成员国的供应则预计将增长140万桶/日。&lt;/p&gt;
+
+&lt;p&gt;“OPEC+已经学会了适应美国原油产量的增长。”瑞银银行的斯塔诺夫表示。&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img alt="加密货币比特币的象征性代表" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDNBRQLOFNJHDHEBMROWDKW3CE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加密货币比特币的象征性代表，巴黎，2024年3月9日。REUTERS/Benoit Tessier/Illustration/文件照片/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+    &lt;img alt="钻井平台的操作层从奥克西斯石油在德克萨斯州温克附近拥有的一片租赁地的控制室中可以看到" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2W47RQDTZJPHLCRUQLYGQO5DQI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;钻井平台操作层从奥克西斯石油在德克萨斯州温克附近租赁地的控制室中可见，2018年8月22日。路透/Nick Oxford/资料图片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 18:10:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</guid></item><item><title>愤怒的特朗普宣誓将继续抗争 после被判有罪后-awaiting official verdict</title><link>https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</link><description>&lt;p&gt;(本故事包含第17段强烈语言)&lt;/p&gt;&lt;p&gt;唐纳德·特朗普周五在特朗普大厦面对一组摄像机，传达了一个适合他当前法律和政治斗争的信息：他已然准备好了战斗。&lt;/p&gt;&lt;p&gt;在纽约的一个陪审团于上周五裁定他因伪造文件隐藏封口费支付而涉及的34项罪名成立一天后，这位共和党总统候选人列举了一连串对手和怨恨，情绪激动地、罗列式地发表了一通演说。&lt;/p&gt;&lt;p&gt;他称他的审判法官胡安·梅尔罕为“骗子”和“魔鬼”。他把对手乔·拜登描述为“美国历史上最糟糕的总统”。他抨击了作证反对他的人证、指控他弹劾的参议员，以及被称为“非法移民”的移民——这是他为拉选票而在竞选集会上经常使用的又一言论。&lt;/p&gt;&lt;p&gt;特朗普恳求支持者捐款支持他的竞选，将摆在面前的挑战描述为超越他个人的事。&lt;/p&gt;&lt;p&gt;“你们这么做吧，”他说道，“因为我们是在为美国而战。”&lt;/p&gt;&lt;p&gt;尽管他在其他竞选演讲中常常掺杂着幽默，但此次演讲基本是对今天来宾们的控诉。他在新闻发布会上仅手持一张小页内容。发言结束时，他没有回答任何问题，迅速随其子埃里克·特朗普离开讲台。&lt;/p&gt;&lt;p&gt;在摄像机之外，通过筹款活动和社交媒体，前总统的盟友也对司法体系以及任何质疑特朗普犯罪的人发起了猛烈抨击。&lt;/p&gt;&lt;p&gt;两种主要候选人中，双双将对方视为国家威胁的拜登竞选团队利用特朗普的言论，将其视为进一步证明他不适合担任总统的新证据。&lt;/p&gt;&lt;p&gt;“美国刚刚目睹了一位混乱、绝望的唐纳德·特朗普满口谎言，肆意诽谤美国司法体系。观看的任何观众都应该得出一个显而易见的结论：这个人不适合成为美国的总统。”拜登竞选团队的通讯主管迈克尔·泰勒在一份声明中表示。&lt;/p&gt;&lt;p&gt;特朗普的支持者——他们中的大多数视纽约的裁决为司法不公——向特朗普团队捐赠了3480万美元，这就是前一日打破 Whatsapp 平台在共和党建档筹款领域单日记录的金额。共和党人一直在汇集这笔款项。&lt;/p&gt;&lt;p&gt;尽管民调显示拜登的总筹款额领先于他，但其竞选团队于周五设法追平了这一势头，向支持者们发出了一系列有关不祥的筹款文本信息。&lt;/p&gt;&lt;p&gt;“美国史上最黑暗的日子！”一则信息如此写道。&lt;/p&gt;&lt;p&gt;“我绝不会投降！”另一则消息在特朗普的新闻发布会后出现，宣传意味强烈。&lt;/p&gt;&lt;p&gt;几乎所有的共和党的领导机关和组织都站在前总统一边，指责审判不公，指控应当从未被提起，陪审团人员在民主党占多数的曼哈顿一带受到玷污，法官偏见——当地当局对此予以否认。&lt;/p&gt;&lt;p&gt;对于共和党的谴责反应不够迅速或不够强烈时，特朗普的盟友和竞选助手们立即采取反攻行动。&lt;/p&gt;&lt;p&gt;特朗普的竞选联合经理克里斯·拉科维塔对一个支持大学共和集团在社交媒体平台上发布的一则贴子尖锐批评道：“观点就像屁股一样，人人有。”&lt;/p&gt;&lt;p&gt;他还对特拉华州共和党前州长兰尼·霍根进行了反击，兰尼·霍根在裁决前警告美国人“不要因更多的党派性激化事态”。他声称兰尼霍根“已经结束了他的竞选活动”。在X平台上。&lt;/p&gt;&lt;p&gt;在宾夕法尼亚州和佐治亚州的关键战场州与共和党选民的采访中，多处报道显示，特朗普的定罪让一些共和党选民开始质疑其在11月的支持。&lt;/p&gt;&lt;p&gt;这种背离（而战）可能会对他与其拜登二度对决有所损害，鉴于他在多个摇摆州的领先优势十分微弱。&lt;/p&gt;&lt;p&gt;但多数接受采访的共和党选民都像特朗普本人一样，称此次审判是骗局。&lt;/p&gt;&lt;p&gt;“一切政治行动，目的是拖垮他，并尽可能多地让他不再上竞选舞台。”来自乔治亚州玛丽埃塔的一名62岁退休警察斯科特·克莱顿表示。&lt;/p&gt;&lt;p&gt;“如果他们能对他做这个，他们可以对任何人做到。绝对没有人是安全的。”&lt;/p&gt;  
+&lt;figure&gt;&lt;img alt="前美国总统特朗普参加一次新闻发布会” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSVKG6B3SBLNZCJZJRVUDMKFNQ.jpg" /&gt;&lt;/figure&gt;  
+&lt;figcaption style="text-align: center;"&gt;纽约市，美国，2024年5月31日。路透社/布伦丹·麦克德美德&lt;/figcaption&gt;  
+&lt;figure&gt;&lt;img alt="参加新闻发布会的前美国总统特朗普” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZD5CL4WGJVJYFGBL37RISLOSPQ.jpg" /&gt;&lt;/figure&gt;  
+&lt;figcaption style="text-align: center;"&gt;美国纽约市，2024年5月31日。路透社/布伦丹·麦克德美德/文件照&lt;/figcaption&gt;</description><pubDate>Fri, 31 May 2024 19:41:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</guid></item><item><title>加密货币“再质押”平台火热增长 投资者追寻更高回报</title><link>https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</link><description>&lt;p&gt;超过180亿美元的加密资产已转移到一种新型平台，投资者可将代币锁定在那里以获得奖励，这在被分析师警告存在用户风险和加密市场风险的复杂方案中占据一席之地。&lt;/p&gt;
+&lt;p&gt;所谓的“重锁”（re-staking）日益流行是加密货币市场风险行为的最新迹象，当价格飙升且交易者寻找收益时，这一趋势尤为突出。比特币，作为最大的加密货币，接近历史最高点，而以太币，作为第二大加密货币，今年迄今涨幅超过60%。&lt;/p&gt;
+&lt;p&gt;重锁热潮的核心是一位基于西雅图的初创企业EigenLayer。该公司于今年2月从美国风险投资公司安德森·霍洛维茨风投基金的加密部门筹集了1亿美元，目前平台上的加密资产达到188亿美元，较六个月前增长近45倍。&lt;/p&gt;
+&lt;p&gt;EigenLayer的创始人Sreeram Kannan告诉路透社，该公司发明了重锁，目的是扩展长久以来的加密实践——即代币押注（staking）。&lt;/p&gt;
+&lt;p&gt;区块链是一种数据库形式，涉及网络中的许多计算机来验证和确认谁拥有哪些加密货币。为此，代币持有者，如以太币持有者，会允许他们的资产在这个验证过程中被锁定，以获取验证权。持有者在参与押注期间会失去即时访问其代币的权利，但会获得收益作为回报。&lt;/p&gt;
+&lt;p&gt;一些押注平台还向用户发放新创建的加密货币代币，代表他们已经押注的代币。重锁使代币持有者可以将这些新代币再次押注到基于区块链的不同项目和应用程序中，以期获得更高的回报。&lt;/p&gt;
+&lt;p&gt;加密世界对于重锁的风险性存在分歧，一些业内人士表示，鉴于实践的新兴性，还无法确定其风险性。&lt;/p&gt;
+&lt;p&gt;但其他人士，包括分析师，则担心如果作为重新押注加密货币代表的新代币被用作加密借贷市场的抵押品，这种情况可能导致基于少量基础资产的借贷循环。如果所有人同时试图退出，这可能会影响更广泛的加密市场。&lt;/p&gt;
+&lt;p&gt;“当有抵押品在抵押品上时，这并不是理想的状况，这会增加新的风险因素，”加密数据提供商Kaiko的研究分析师Adam Morgan McCarthy说。&lt;/p&gt;
+&lt;p&gt;对于投资者而言，吸引力在于收益：以太坊区块链上的押注回报通常在3%-5%之间，但分析师表示，重锁的回报可能更高，因为投资者可以在同一时间获得多种收益。&lt;/p&gt;
+&lt;p&gt;重锁是活动存款金融（DeFi）领域中的最新发展之一，在这项领域中，加密货币持有者对实验性计划进行投资，希望在无需出售的情况下提高其头寸的回报。&lt;/p&gt;
+&lt;p&gt;然而，EigenLayer平台尚未直接向用户支付押注收益，因为支付机制还未开发。用户之所以加入该平台，是因为期待未来的奖励或其他被称为空投的赠品。&lt;/p&gt;
+&lt;p&gt;目前，EigenLayer正在向使用平台的人分发其自己新创建的代币。用户希望这种名为“EIGEN”的代币在未来能有所价值。&lt;/p&gt;
+&lt;p&gt;加密数据提供商Kaiko的Morgan McCarthy表示，重锁平台的增长受到用户寻求空投的驱动，称之为“非常投机，这就像免费获得金钱一样。”&lt;/p&gt;
+&lt;p&gt;“风险非常大，”美国加密交易平台Coinbase的研究主管David Duong表示（Coinbase提供押注服务但不提供重锁服务）。&lt;/p&gt;
+&lt;p&gt;“这是一个预判性行为，(他们的)预期是他们会获得某种回报，但不确定是什么，”Duong说。&lt;/p&gt;
+&lt;p&gt;Sreeram Kannan，EigenLayer的创始人，曾是西雅图华盛顿大学的助理教授，并且是第一颗由学生设计的微型卫星团队成员，他告诉路透社。&lt;/p&gt;
+&lt;p&gt;EigenLayer称自己为验证服务的市场平台，连接潜在的押注者与需要押注代币的应用程序。&lt;/p&gt;
+&lt;p&gt;新兴的重锁平台还包括EtherFi、Renzo和Kelp DAO，它们为客户的代币重新押注在EigenLayer上，并生成新的代币来代表这些重锁资产。这些代币可以在其他地方使用，例如作为贷款中的担保品。&lt;/p&gt;
+&lt;p&gt;Kannan表示，平台的目的是允许用户选择在哪里押注他们的代币，并帮助新的区块链服务增长，而不是鼓励更多的加密抵押借贷。&lt;/p&gt;
+&lt;p&gt;“我们与这些参与者没有任何正式关系...这是自发的现象，”他表示。&lt;/p&gt;
+&lt;p&gt;Coinbase的Duong表示，重锁可能带来“隐藏的风险”——如果重锁代币用于加密借贷，可能会导致被迫清算和市场下跌期间的更大波动，他在一份笔记中写道。&lt;/p&gt;
+&lt;p&gt;2022年加密市场的抛售很大程度上被高风险借贷加剧了，随着作为抵押品的加密代币在Luna和Terra代币崩溃后迅速失去价值。&lt;/p&gt;
+&lt;p&gt;Kannan与风险相分离。&lt;/p&gt;
+&lt;p&gt;“风险不在于重锁，而在于借贷协议，借贷协议对风险进行了错误的价格定位，”他表示。&lt;/p&gt;
+&lt;p&gt;一些专家对重锁并不担心，指出重锁协议中的资金相对于全球市值2.5万亿美元的加密行业而言非常小。&lt;/p&gt;
+&lt;p&gt;监管者长期以来一直担心加密领域损失外溢到更广泛的金融市场。&lt;/p&gt;
+&lt;p&gt;“目前，我们尚未看到重新押注问题引发对传统金融市场传染性的风险，”S&amp;P Global Ratings的数字资产分析负责人Andrew O’Neill表示。&lt;/p&gt;
+&lt;p&gt;然而，加密世界正变得日益与主流金融业相连，并且机构投资者也开始关注重锁。&lt;/p&gt;
+&lt;p&gt;专注于加密的Standard Chartered的子部门Zodia Custody已看到对押注的巨大机构兴趣，但因其难以建立资产来源和奖励分配的纸质记录，首席风险官Anoosh Arevshatian认为重锁仍是一个太大的一步。&lt;/p&gt;
+&lt;p&gt;Nomura的加密子部门Laser Digital与Kelp DAO合作为其部分资金进行重锁，Kelp DAO在四月发布的博客中表示。而Laser Digital并没有回应路透社的评论请求。&lt;/p&gt;
+&lt;p&gt;瑞士专注于加密的银行Sygnum表示已为客户押注加密资产，并预期“围绕重锁的新生态系统将出现”。&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="Illustration shows representations of cryptocurrency Bitcoin" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDNBRQLOFNJHDHEBMROWDKW3CE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;
+            这是巴黎法国，2024年3月9日。REUTERS/Benoit Tessier/Illustration。
+        &lt;/i&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="加密货币以太坊的象征性代表" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MWMP2HWMNNN3JGDR54RFHLDY54.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加密货币以太坊的象征性代表，2023年6月16日。REUTERS/Dado Ruvic/Illustration/文件照片/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 07:19:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</guid></item><item><title>拜登提出新的以色列停火计划，呼吁哈马斯接受</title><link>https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登周五表示，以色列已提议在释放人质的条件下实施新的加沙停火，并呼吁哈马斯同意这一新提议，称这是结束冲突的最佳途径。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;是时候结束这场战争，开启新生的日子了，&amp;rdquo;拜登总统说。他面临选举年的压力，需尽快结束 已持续八个月的加沙冲突。&lt;/p&gt;
-&lt;p&gt;由埃及、卡塔尔等国进行斡旋的旨在缓解加沙战争中以色列与哈马斯之间紧张关系的停火会谈，一再陷入僵局，双方都指责对方阻碍了停火进程。&lt;/p&gt;
-&lt;p&gt;此提议源于以色列数周对拉法的侵袭，以及对贝拉姆·内塔尼亚胡政府在国内和国际上的新压力，特别是在加沙的死者和扣留人质的问题上。&lt;/p&gt;
-&lt;p&gt;内塔尼亚胡办公室本周五表示，以色列已授权谈判人员向拜登透露的停火计划提出加沙停火协议。&lt;/p&gt;
-&lt;p&gt;该提议还发生在共和党总统候选人唐纳德·特朗普被定罪后一天。特朗普被裁定34项重罪，突显了两位候选人的鲜明对比。&lt;/p&gt;
-&lt;p&gt;拜登提出的这一新计划分为三个阶段，打破以往以往的分割，因为停火将持续到各方通过所有三个阶段。&lt;/p&gt;
-&lt;p&gt;在第一阶段，为期六周的停火中，以色列军队将撤出加沙居民区，扣留的人质，包括老年人和妇女，将与数百名巴勒斯坦囚犯交换。巴勒斯坦平民将返回加沙，包括北部加沙，每天将有600辆卡车运送人道主义援助进入加沙，拜登表示。&lt;/p&gt;
-&lt;p&gt;第二阶段，哈马斯和以色列将谈判制定永久停火的条款。“只要谈判进行，停火将继续”，总统说，这是一个新的发展。&lt;/p&gt;
-&lt;p&gt;第三阶段将包括重大重建计划。&lt;/p&gt;
-&lt;p&gt;拜登表示，这一新提议已被卡塔尔转达给哈马斯。&lt;/p&gt;
-&lt;p&gt;总统呼吁那些认为战争应无限期持续的人改变主意。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;我知道，在以色列有些人不会同意这一计划。他们会要求战争无限期持续。有些人甚至在政府联合阵线内，他们已经表明，他们想占领加沙，想继续战斗数年，并且人质对他们不是优先事项。然而，我一直敦促以色列领导层支持这一协议，不管是什么样的压力，&amp;rdquo;拜登说。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;作为一名对以色列有着终身承诺的美国总统，作为唯一一个在战争期间访问以色列的美国总统，作为刚刚派遣美国部队直接保卫以色列以免遭伊朗袭击的人，我恳请大家退一步想一想，如果这一时刻流失将会发生什么。我们不能错过这个时机，&amp;rdquo;他说。&lt;/p&gt;
-&lt;p&gt;一位匿名的美国高级官员告诉记者，以色列能做出新的提议是因为他们在战场上取得了一些进展。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;现在真的有了一份通往危机结束的路线图。这是一个详细的四页半协议，&amp;rdquo;这名官员说，“它是经过仔细谈判达成的，现在摆在桌面上的是这个过程的终局。”&lt;/p&gt;
-&lt;p&gt;根据计划，每个阶段将持续42天。&lt;/p&gt;
-&lt;p&gt;多位以色列媒体报道说，拜登周五的讲话具有戏剧性，被视为直接触动以色列民众之举。主导12频道的晚间新闻节目中断，全程直播了拜登的演讲。以色列审查员此前禁止发表该提议的详细信息，新闻主播丹尼·库什马诺说。&lt;/p&gt;
-&lt;p&gt;分析人士表示，与以往相比，这个提议的成功几率更大。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;以色列对哈马斯造成了重大损失，哈马斯能够对以色列进行任何认真攻击或恐怖袭击的可能性并不小，但比之前低得多，&amp;rdquo;德克萨斯大学奥斯汀分校历史与公共事务教授杰里米·索里说。&lt;/p&gt;
-&lt;p&gt;更重要的是，全球舆论“偏向”以色列，索里说，这可能会促使以色列人想要结束冲突，再加上拜登的影响。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;当美国总统全力支持某件事时，他可以制造巨大的激励因素，&amp;rdquo;索里说。&lt;/p&gt;
-&lt;p&gt;今年早些时候提出的早期扣留人质提议，要求在为期六周的停火内释放患病、年迈和受伤的人质，该提议本可以在上月延续，因为更多的援助可以运送进入加沙，但以色列拒绝了哈马斯要求结束战争的要求，并加强了对加沙南部城市拉法的攻击，导致提议最终瓦解。&lt;/p&gt;
-&lt;p&gt;哈马斯周四表示，它告诉斡旋人，其在当前持续的进攻期间不会参与进一步的谈判，但在以色列停止战争的情况下，只要涉及到扣留人质和囚犯的交换，他们愿意达成“完整协议”。一位匿名的美国官员表示，美国白宫国家安全顾问雅各布·苏利文周五将与17个国家的外交官会面，这些国家的公民被哈马斯扣留在加沙。&lt;/p&gt;
-&lt;p&gt;周六在拉法的一次空袭造成45名巴勒斯坦人死亡，引起了国际愤怒，但没有越过美国的红线，禁止向以色列断开军事援助。&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;加沙战争中，巴勒斯坦人民经历了极大的磨难，&amp;rdquo;拜登周五说。&amp;ldquo;我们目睹了本周蕾法致命大火中的可怕画面，这起火灾是针对哈马斯的以色列袭击……&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;巴勒斯坦卫生部门估计，自以色列10月7日南部袭击后，自袭击加沙以来，已有超过36280人丧生。据以色列统计，哈马斯袭击导致大约1200人丧生。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="一名巴勒斯坦人走在被毁建筑的废墟中" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5NDDRJFUNVAHPJR5EEG72B4BAY.JPG" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名巴勒斯坦人走在被摧毁的建筑物废墟中，这些建筑物是在以色列军事进攻期间被摧毁的，2024年6月12日，加沙北部的贝特拉赫亚。路透社/马哈茂德·艾萨&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 15:34:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</guid></item></channel></rss>
+    &lt;img alt="Illustration shows representation of cryptocurrency Ethereum" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MWMP2HWMNNN3JGDR54RFHLDY54.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;
+            这是2023年6月16日在巴黎法国，REUTERS/Dado Ruvic/Illustration。
+        &lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 07:19:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</guid></item><item><title>墨西哥Sheinbaum以压倒性胜利胜出，将成为该国首位女总统</title><link>https://www.reuters.com/world/americas/mexicans-vote-election-seen-crowning-first-female-president-2024-06-02/</link><description>&lt;p&gt;克莱尔德·希恩鲍姆在墨西哥成为首位女性总统的选举中赢得了压倒性的胜利，以58.3%至60.7%的得票率当选，这一得票率有望成为墨西哥民主历史上的最高得票率。&lt;/p&gt;
+&lt;p&gt;事实上，希恩鲍姆是一位气候科学家和前墨西哥城市长，墨西哥选举委员会进行的快速计票结果显示，她在大选中赢得了胜利。她的得票率将创下墨西哥民主选举的新纪录。&lt;/p&gt;
+&lt;p&gt;在墨西哥执政联盟的领导下，该联盟有望在两院中获得三分之二的超多数，这将使联盟能够不依赖反对党的支持通过宪法改革。&lt;/p&gt;
+&lt;p&gt;反对党候选人稍奇斯尔·加尔韦斯在初步结果显示她得票率为26.6%至28.6%后，承认了选举失败。&lt;/p&gt;
+&lt;p&gt;"在我的有生之年，我将第一次成为墨西哥的女性总统，"希恩鲍姆对支持者说，现场响起了"总统，总统"的欢呼声。&lt;/p&gt;
+&lt;p&gt;希恩鲍姆的胜利对于墨西哥来说意义重大，因为该国一直以男性为尊的文化和世界上第二大天主教人口国而闻名，妇女在传统价值观和角色上的地位长期受到限制。&lt;/p&gt;
+&lt;p&gt;希恩鲍姆是美国、墨西哥或加拿大首位通过普选获胜的女性。&lt;/p&gt;
+&lt;p&gt;"我从未想过我有一天会投给一位女性，"87岁的埃德尔米拉·蒙特伊尔在接受《路透社》采访时说，她是墨西哥最小型州—特拉亚卡州的支持者。&lt;/p&gt;
+&lt;p&gt;"此前我们甚至不能投票，即便能够投票，也只是按照丈夫的指示投票。但现在我们能够见证这一切的改变，这实在令人感恩，"蒙特伊尔补充道。&lt;/p&gt;
+&lt;p&gt;希恩鲍姆面临的挑战不少，她需要平衡增加受欢迎的社会福利政策，同时还要应对庞大的预算赤字和低经济增长率的问题。&lt;/p&gt;
+&lt;p&gt;在初步结果宣布后，她告诉支持者她的政府将致力于财政责任，并尊重中央银行的独立性。&lt;/p&gt;
+&lt;p&gt;她承诺增强安全性，但仍缺乏具体细节，此次选举是有史以来墨西哥最为暴力的大选之一，38名候选人遭到谋杀。许多分析师认为，在奥布拉多任期内，犯罪组织的影响力有所扩大。&lt;/p&gt;
+&lt;p&gt;周日的大选还出现了普埃布拉州投票站有人被杀的情况。奥布拉多任期期间，墨西哥政府官员认为该国此后的谋杀案数量超过现代史上任何一届政府的统计，尽管谋杀率有所下降。&lt;/p&gt;
+&lt;p&gt;"除非她承诺在改善执法和减少有罪不罚方面作出重大投资，否则希恩鲍姆在实现整体安全水平显著提升方面将面临困难，"独立拉美政治风险分析师纳特内尔·帕里什·弗兰内里说道。&lt;/p&gt;
+&lt;p&gt;执政的MORENA党也在墨西哥市长选举中胜出，这一职位是该国最为重要的职位之一。&lt;/p&gt;
+&lt;p&gt;面对美国的巨大挑战，新总统将不得不与美国就美墨边境的移民流动进行紧张的谈判，同时处理毒品走私的安全合作，尤其是在美国芬太尼危机肆虐的背景下。&lt;/p&gt;
+&lt;p&gt;墨西哥官员预计，如果美国总统大选尘埃落定，唐纳德·特朗普胜出，这些谈判将变得更加困难，因为特朗普誓言将对墨西哥生产的中国车征收100%的关税，并表示会动员特种部队打击毒枭。&lt;/p&gt;
+&lt;p&gt;在国内事务上，新总统还需解决电力和水资源短缺问题，并吸引制造商重建供应链，以顺应本土化趋势。&lt;/p&gt;
+&lt;p&gt;希恩鲍姆还需处理 PEMEX(墨西哥国油)的问题，这一国营石油巨擘已连续二十多年产量下降，负债累累。&lt;/p&gt;
+&lt;p&gt;"这只是进一步将公款投入无底洞，并让公司永远无法盈利，这不是长久之计，"高盛拉丁美洲首席经济学家阿尔贝托·拉莫斯说道，"他们必须重新审视 PEMEX 的商业模型。&lt;/p&gt;
+&lt;p&gt;奥布拉多提任最低工资翻倍、减少贫困、保持强劲的汇率及低失业率等政策，使得他在执政期间广受欢迎。&lt;/p&gt;
+&lt;p&gt;希恩鲍姆承诺扩大福利计划，但墨西哥正面临大型财政赤字，并在2025年预计经济增长率仅为1.5%。因此实现这一点将颇具挑战。&lt;/p&gt;
+&lt;p&gt;奥布拉多试图将此次大选塑造成对其政治议程的全民公投，希恩鲍姆又坚决拒绝对手声称她将是奥布拉多的"傀儡"的说法，尽管她承诺继续许多有利于墨西哥最贫困群体的政策。&lt;/p&gt;
+&lt;p&gt;在她的胜利演讲中，希恩鲍姆感谢了奥布拉多："他是一位独特的人物，他使我们的国家变得更好。&lt;/p&gt;
+&lt;p&gt;然而，政治分析师维里·里奥斯认为，这种批评某种程度上源于性别的歧视，"人们不信任她将作出独立决定，这样的怀疑主要还是因为她是女性，"她说道。&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img alt="克莱尔德·希恩鲍姆赢得墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TMUAPUAPKNKATLIV76IFGJJBBY.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        希恩鲍姆，墨西哥执政党 MORENA 的总统候选人，在赢得选举后的讲话中感谢奥布拉多，这里是她在墨西哥城的场景，日期未详。 来源：路透社/拉奎尔·昆哈
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="克莱尔德·希恩鲍姆赢得墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DQKIW4R4PFMADODLSKBWMUUC2E.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        希恩鲍姆，墨西哥执政党 MORENA 的总统候选人，赢得选举后向支持者挥手致意，这里是她在墨西哥城的场景，2024年6月3日。 来源：路透社/拉奎尔·昆哈
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GQ7JOVK5SFJGHLJPKYWLNG4LFA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        支持者在墨西哥城尤卡坦广场举着“总统克莱尔德·希恩鲍姆”的横幅，这里是墨西哥城大选后的场景，2024年6月2日。 来源：路透社/麦赫埃利佩
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5OCTE6CWDRK4RI2X6PAF2Z3SGY.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥城的场景，2024年6月2日。 来源：路透社/达尼埃尔·贝塞里尔
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CMXQEGZZ2BJRVFKVU2IRPIRV5M.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        反对党总统候选人稍奇斯尔·加尔韦斯在大选后向支持者发表讲话，这是在墨西哥城的场景，2024年6月2日。 来源：路透社/青特利-尼古伊-哈
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UF52PORS6BLC7N77JIXONH4HQA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        在墨西哥城的一处投票站，选举日结束前工作人员在关闭投票站，这里是墨西哥城的场景，2024年6月2日。 来源：路透社/何塞·路易斯·普拉塔
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B5I35ICQKRLTNLFWFH5QCZMLHI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        在墨西哥城一处投票站，选民们在投票日投票，这里是韦拉克鲁斯的场景，2024年6月2日。 来源：路透社/亚列夏尔·塞瓦布罗斯
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6J6X3LCRNVNIBLJUENMZQIUX3I.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        祝寿坦坦镇，墨西哥城，2024年6月2日。 来源：路透社/加布里埃拉·桑纳比拉
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYDHFVPDL5OYXLROMVH6IT643U.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        计票日结束前，投票者在墨西哥城投票站等待，这里是墨西哥城的场景，2024年6月2日。 来源：路透社 / 阿莱桑德雷·梅内格尼
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XOZJR5RBRZKGBEXRD64BVF4BDA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥反对党总统候选人稍奇斯尔·加尔韦斯投票日当天在投票站外与支持者合影，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 里奥斯·科特斯
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K324D2ADPJKBZMG6VATF7I66MY.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        在特卡瓦哈州的圣巴托洛梅·夸利亚纳，投票站工作人员在大选日前准备，这是在墨西哥城的场景，2024年6月2日。 来源：路透社/何塞·路易斯·普拉塔
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/APWKUY7RG5ODPDFCEYIC2MW76I.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥大选投票日，在特卡瓦哈州的诺罗加奇镇，鲁梅里女性等待投票，这是在墨西哥城的场景，2024年6月2日。 来源：路透社/何塞·路易斯·冈萨雷兹
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J6EOLGLXHBIQLNDWKQUZYKTX54.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        投票者在投票日结束前展示手指上的投票印记，这里是墨西哥城的场景，2024年6月2日。 来源：路透社 / 阿莱桑德雷·梅内格尼
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GWSR7JGWKBJSFHEN6HLTFGGFFI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        选民在投票日结束前在墨西哥圣胡安·查莫拉纳镇的投票站投票，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 加布里埃拉·桑纳比拉
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4SYFSHGE7BPJTAWYTTVAZSAD5E.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥大选选举日，一位旅客在本托·胡里奥·伊达尔戈国际机场的投票站投票，这里是墨西哥城的场景，2024年6月2日。 来源：路透社 / 赫尔南多·罗梅罗
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z4YUB7B2UVIIRMDVYYD6RWABX4.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥大选投票日，在墨西哥城的圣安德烈斯·拉里亚兰萨，选民投票，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 加布里埃拉·桑纳比拉
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FSY6PLNNWNIM3JXOTLTJLTHPJA.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥城，2024年6月2日。 来源：路透社 / 阿莱桑德雷·梅内格尼
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SKLO5IL4GBLX7HMV3JYLHGBASM.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥城萨南胡安·查莫拉纳镇，2024年6月2日。 来源：路透社 / 加布里埃拉·桑纳比拉
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YPM7PWSKUBIKPLMBWBAI3XYS64.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥大选投票日，特卡瓦哈镇，选民排队等待投票，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 伊万·阿里亚斯
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H2PHJ3N7HZOR3LDK6RHBRD4QEQ.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥总统安德烈斯·曼努埃尔·奥布拉多和妻子贝亚特丽丝·古铁雷斯·穆勒在投票日前往投票站投票，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 赫尔南多·罗梅罗
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OX4HTA7QLJLMTLLWVD3MSL3FWE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        支持墨西哥反对党总统候选人稍奇斯尔·加尔韦斯的支持者挥舞支持横幅，等待投票站开门，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 里奥斯·科特斯
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AVPTIAIDZFMMVD6ZGE2ILIFSJY.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        在投票日结束前，投票站工作人员在特卡瓦哈镇准备，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 何塞·路易斯·普拉塔
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MI2YBKZXUVOPJLNGBIT53HJ73A.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥大选选民在投票日排队，这是在墨西哥城的场景，2024年6月2日。 来源：路透社 / 里奥斯·科特斯
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选前期准备工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YDE6NS5UJZMZ3JD2JJANPCGZWE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        墨西哥城，2024年5月31日。 来源：路透社 / 达尼埃尔·贝塞里尔
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="墨西哥大选前期准备工作" src="https://cloudfront-us-east</description><pubDate>Sun, 02 Jun 2024 10:07:39 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/mexicans-vote-election-seen-crowning-first-female-president-2024-06-02/</guid></item></channel></rss>
