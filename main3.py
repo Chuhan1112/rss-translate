@@ -140,7 +140,9 @@ def translate_feed(config, section):
 
     output_path = os.path.join(BASE_DIR, name)
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(translated_feed.rss())
+        if translated_feed:
+            f.write(translated_feed.rss())
+        # f.write(translated_feed.rss())
     
     print(f"Translated: {url} > {output_path}")
     return f" - {section} [{url}]({url}) -> [{name}]({parse.quote(output_path)})\n"
