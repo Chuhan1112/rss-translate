@@ -27,8 +27,8 @@ SYSTEM_PROMPT = """
 不要添加任何额外信息; 对于内容中保持格式、所有HTML标签不变、保留链接和图片样式；存在多个段落时，段落之间使用p 标签,
 确保返回格式符合html规范,但不要返回html代码，直接返回翻译结果，不要添加任何额外信息;
 """
-TITLE_PROMPT = "下面你将扮演一位有着 20 年经验的新闻翻译员，希望你将以下新闻标题全部翻译成专业、准确的中文,直接返回翻译结果，不要添加任何额外信息"
-
+TITLE_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，希望你将以下新闻标题全部翻译成专业、准确的中文,直接返回翻译结果，不要添加任何额外信息"
+TITLE_PICK_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，根据新闻标题的英文原文和已翻译的两个备选结果，进行挑选和优化，直接返回翻译结果，不要添加任何额外信息"
 class RSSTranslator:
     def __init__(self, url, source="auto", target="zh-CN"):
         self.url = url
@@ -64,10 +64,14 @@ class RSSTranslator:
         if not entry.title:
             return None
         print(f"Translating: {entry.title}")
-        translated_title = self.trans_with_gpt(TITLE_PROMPT, entry.title)
+        translated_title1 = self.trans_with_gpt(TITLE_PROMPT, entry.title)
         translated_description = self.trans_with_gpt(SYSTEM_PROMPT, entry.summary)
+        translated_title2 = self.tran_with_google(entry.title)
+
+        pick_content = "原文："+ entry.title+ "备选 1：" + translated_title1 + "备选 2：" + translated_title2
+        title_picked = self.trans_with_gpt(TITLE_PICK_PROMPT, pick_content)
         return Item(
-            title=translated_title,
+            title=title_picked,
             link=entry.link,
             description=translated_description,
             guid=Guid(entry.link),
