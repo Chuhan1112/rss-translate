@@ -1,164 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Thu, 19 Dec 2024 11:40:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>韩国国会投票阻止总统宣布戒严令</title><link>https://www.reuters.com/world/asia-pacific/south-korea-parliament-votes-require-yoon-lift-martial-law-2024-12-03/</link><description>&lt;p&gt;韩国国会共有300名议员，其中有190人出席，在周三召开的会议上通过了要求解除尹锡悦总统宣布的戒严令的决议，现场电视台进行了直播。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Thu, 19 Dec 2024 12:00:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>韩国国会投票阻止总统宣布 martial law</title><link>https://www.reuters.com/world/asia-pacific/south-korea-parliament-votes-require-yoon-lift-martial-law-2024-12-03/</link><description>&lt;p&gt;韩国国会共有300名议员，其中190人出席，在电视直播中通过了一项决议，要求解除尹锡悦总统宣布的戒严令。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="韩国总统尹锡悦在首尔宣布戒严令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2FMWLL5VJFPWRIFJKVF4DYUICE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;韩国总统尹锡悦在首尔宣布戒严令，日期为2024年12月3日。青瓦台/路透社提供&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Tue, 03 Dec 2024 16:08:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-parliament-votes-require-yoon-lift-martial-law-2024-12-03/</guid></item><item><title>加拿大连环杀手罗伯特·皮克顿在一场监狱袭警事件后去世</title><link>https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</link><description>&lt;p&gt;加拿大 serial 杀手罗伯特·皮克顿于周五去世，享年74岁。据监狱当局称，本月早些时候，他在一所超级监狱中被其他囚犯袭击。&lt;/p&gt;
-&lt;p&gt;皮克顿是加拿大最著名的连环杀手之一。2007年，他因在不列颠哥伦比亚省本拿比附近的养猪农场谋杀毒品使用者和妓女并处置其遗体，被判有罪。&lt;/p&gt;
-&lt;p&gt;政府检察官在他被判终身监禁时撤回了对另外20起谋杀案的指控。他在位于不列颠哥伦比亚省伯克市的一所监狱中服刑的过程中，有6名女性的部分遗体在其破败的房产中被发现。&lt;/p&gt;
-&lt;p&gt;加拿大矫治服务表示，皮克顿是在5月19日于魁北克监狱受到袭击后去世的。袭击后，他被送往医院接受治疗。&lt;/p&gt;
-&lt;p&gt;“我们意识到，这名罪犯的案件给不列颠哥伦比亚省乃至全国的社区带来了毁灭性的影响，”服务部门在一份声明中说。&lt;/p&gt;
-&lt;p&gt;这些受害者包括在本拿比市中心东区一个贫困且毒品污染严重的社区失踪的超过60名女性，直到2002年初皮克顿被捕时，才结束失踪事件。&lt;/p&gt;
-&lt;p&gt;据不列颠哥伦比亚《太阳报》报道，2016年，据说皮克顿所写的书在亚马逊上架后不到几个小时就被移除了。在书中，这名连环杀手声称自己无罪，并被警察陷害。&lt;/p&gt;
-&lt;p&gt;该出版商要求亚马逊移除了这本书，并对受害人家属表示了歉意。&lt;/p&gt;
+    &lt;img alt="韩国总统尹锡悦在首尔发表宣布戒严令的演讲" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2FMWLL5VJFPWRIFJKVF4DYUICE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;韩国总统尹锡悦在首尔发表宣布戒严令的演讲，时间：2024年12月3日。青瓦台/路透社&lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Tue, 03 Dec 2024 16:08:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-parliament-votes-require-yoon-lift-martial-law-2024-12-03/</guid></item><item><title>加拿大连环杀手罗伯特·皮克顿在监狱袭击后去世</title><link>https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</link><description>&lt;p&gt;加拿大连环杀手Robert Pickton于周五在魁北克一所最高安全级别监狱内遭受另一名囚犯袭击后去世，终年74岁。&lt;/p&gt;
+&lt;p&gt;作为加拿大臭名昭著的连环杀人犯，Pickton于2007年因在不列颠哥伦比亚省不列颠哥伦比亚海湾杀害毒枭和妓女，并在其猪场处理其遗体被定罪。&lt;/p&gt;
+&lt;p&gt;他被指控杀害六名妇女，其中部分遗骸在其距温哥华市不远的破败物业上被发现。在判处其终身监禁后，政府检察官撤回了额外20起谋杀罪的指控。&lt;/p&gt;
+&lt;p&gt;加拿大矫正服务表示，Pickton死于5月19日在魁北克监狱遭受袭击后的治疗。该服务在声明中称：“我们深知，这名罪犯的案件对不列颠哥伦比亚及全国其他社区产生了毁灭性的影响。”&lt;/p&gt;
+&lt;p&gt;这些受害者是温哥华市东区约60名失踪的女性中的一部分，该地区自2002年初Pickton被捕前已有超过十年的时间，女性频繁失踪。&lt;/p&gt;
+&lt;p&gt;在Pickton的猪场Port Coquitlam，约位于市中心以东25公里的地方，发现了33名失踪女性的遗体或DNA，其中许多是原住民。&lt;/p&gt;
+&lt;p&gt;2016年，据报道Pickton写的一本书在亚马逊上线后数小时内被下架。据当年的《温哥华太阳报》报道，在该书中，连环杀手声称自己是无辜的，并遭到了警察的陷害。&lt;/p&gt;
+&lt;p&gt;出版社要求亚马逊下架并为此向受害者家属道歉。&lt;/p&gt;        
 &lt;figure&gt;
-&lt;img alt="罗伯特·威廉姆斯·皮克顿的电视文件照片，显示他居住在波特科克林姆的家中" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AANYAJS4E5NY5CIFS5PEUQPVRQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;罗伯特·威廉姆斯·皮克顿的电视文件照片，显示他居住在波特科克林姆的家中。REUTERS/全球电视/文件照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:28:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</guid></item><item><title>南非拉马福萨因非国大选举表现低迷而严重削弱</title><link>https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</link><description>&lt;p&gt;南非总统西里尔·拉马福萨在监督非洲国民党（ANC）自种族隔离结束以来最差的选举结果后，将受到严重削弱。&lt;/p&gt;
-&lt;p&gt;在周三选举中约71%的投票站结果显示，非洲国民党的得票率为不到42%，较2019年上一次选举时的57.5%大幅下降，并首次在30年内失去绝对多数。&lt;/p&gt;
-&lt;p&gt;这次选举失利意味着作为纳尔逊·曼德拉的解放运动组织，非洲国民党可能需要与其他较小政党进行联盟或其他形式的协议以执政。这可能意味着需要做出政策让步或放弃重要的内阁职位。&lt;/p&gt;
-&lt;p&gt;曾是工会领袖后来成为商人身份的拉马福萨可能将面临来自反对党和党内批评者的退出要求，但一位非洲国民党的高级官员表示支持他留任。分析人士称，目前没有显而易见的继任者。&lt;/p&gt;
-&lt;p&gt;“没有明确的能够接替拉马福萨的统一候选人，”开普敦大学政治学教授安东尼·布尔说，他曾撰写过拉马福萨的传记。&lt;/p&gt;
-&lt;p&gt;三月的一项民意调查显示，在此次选举的主要政治家中，拉马福萨拥有最高的认同率。而非洲国民党内的派系斗争可能使反对他变得更加复杂。&lt;/p&gt;
-&lt;p&gt;拉马福萨尚未就非洲国民党的选举表现发表评论。他的发言人表示，等周日正式结果宣布时，他将发表讲话。&lt;/p&gt;
-&lt;p&gt;拉马福萨的总统职位此前曾悬而未决，2022年一个审裁报告发现他可能因游戏场中装有现金的家具而违规。&lt;/p&gt;
-&lt;p&gt;他否认了“农场门”这一丑闻，并在同年晚些时候赢得了新的五年任期。&lt;/p&gt;
-&lt;p&gt;此次选举被广泛认为是对非洲国民党的最大考验，因为选民对高失业率、犯罪和频繁的停电问题感到愤怒。&lt;/p&gt;
-&lt;p&gt;2017年，拉马福萨以承诺重塑该党的形象并重振经济为由当选非洲国民党的领导，此前他的前任雅各布·祖马在九年的任期内因丑闻、贪腐和经济衰退而备受争议。&lt;/p&gt;
-&lt;p&gt;然而，当他于2018年成为国家元首时，最初的热潮迅速消失。&lt;/p&gt;
-&lt;p&gt;六年多来，经济停滞不前，高层非洲国民党组织官的丑闻仍充斥政坛。&lt;/p&gt;
-&lt;p&gt;本周选举中的决定性打击来自他的竞争对手祖马，祖马支持的新政党姆克通沃·韦齐扎韦（Umkhonto we Sizwe）超出了预期，严重削弱了非洲国民党的支持率，特别是祖马的家乡夸祖鲁－纳塔尔省。&lt;/p&gt;
-&lt;p&gt;“祖马已经把拉马福萨和非洲国民党制住了，他知道他们在夸祖鲁－纳塔尔省很脆弱，”政治分析师拉尔夫·马泰格尔说。“这是拉马福萨计划的终结……你不能在选举失败后还指望一切如常。”&lt;/p&gt;
-&lt;p&gt;拉马福萨因在关键改革上显得犹豫不决而受到批评，避免激化党内分裂，这与他作为工会领袖在20世纪80年代的果断形成鲜明对比。&lt;/p&gt;
-&lt;p&gt;然而，支持者们赞扬他的团结建设能力和他将南非打造为“全球南方”的倡导者之一的角色，后者是低收入和中等收入国家的代名词。&lt;/p&gt;
-&lt;p&gt;在新冠疫情期间，拉马福萨是全球最突出的声音之一，呼吁疫苗更公平的分配。&lt;/p&gt;
-&lt;p&gt;最近，南非向国际法院提起对以色列的种族灭绝案，本月，法官裁定以色列必须停止在拉法市长途军事打击。以色列否认这些指控并继续推进其在拉法省的军事行动。&lt;/p&gt;
-&lt;p&gt;在竞选活动中，拉马福萨试图强调过去三十年非洲国民党的成就，但批评者称他为解决南非面临的最大挑战乏善可陈。&lt;/p&gt;
-&lt;p&gt;在选举前的最后一次竞选集会上，拉马福萨向聚集在索韦托足球场的成千上万支持者许诺他“会做得更好”，但许多人在他演讲尚未结束时就散场了。&lt;/p&gt;
-
+    &lt;img alt="罗伯特·威廉姆斯·皮克顿，其案件在新威士明市开庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AANYAJS4E5NY5CIFS5PEUQPVRQ.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;罗伯特·威廉姆斯·皮克顿在加拿大温哥华市Port Coquitlam的家中。图/路透社/Global TV/文件照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:28:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/canadian-serial-killer-robert-pickton-dies-after-prison-attack-2024-05-31/</guid></item><item><title>南非拉马福萨因非国大选举表现疲弱而受损严重</title><link>https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</link><description>&lt;p&gt;南非总统西里尔·拉马福萨在主持非洲民族大会（ANC）党以来最差的选举结果后，将变得非常弱势。自种族隔离结束以来，这是ANC自1994年以来最糟糕的表现。&lt;/p&gt;
+&lt;p&gt;周三选举结果显示，从约71%的投票站统计的数据显示，ANC的得票率不到42%，比2019年上一次选举时的57.5%有了显著下降，这标志着30年来第一次未能获得大多数支持。&lt;/p&gt;
+&lt;p&gt;选举的挫败意味着，作为纳尔逊·曼德拉的解放运动，ANC将不得不与其他较小政党谈判结盟或其他形式的合作，以治理国家。这可能需要做出政策让步或放弃显要职位。&lt;/p&gt;
+&lt;p&gt;前工会领导人转型为企业家的拉马福萨可能面临反对党和党内批评者的辞职要求，但ANC高层官员表示支持他留任，而分析师认为没有明显的继任者。&lt;/p&gt;
+&lt;p&gt;“没有任何明确的统一候选人可以接替拉马福萨的位置。”被誉为拉马福萨传记作者的政治学教授安东尼·伯勒斯说。&lt;/p&gt;
+&lt;p&gt;一项3月的民调显示，拉马福萨在重大政治人物中获得最高的支持率，党内派系内斗可能使反对他的联合行动复杂化。&lt;/p&gt;
+&lt;p&gt;拉马福萨尚未对ANC的选举结果发表评论。他的发言人表示，他将于周日发表声明，届时将公布完整的初步结果。&lt;/p&gt;
+&lt;p&gt;拉马福萨的总统职位在此之前曾悬而未决，2022年一份报告称，他可能曾在农场对现金进行不当处理（该丑闻被称为“Farmgate”），但他否认不当行为。并在同年晚些时候赢得了ANC五年期的续任。&lt;/p&gt;
+&lt;p&gt;这次选举被认为是ANC迄今为止最难的一次考验，因为选民对高失业率、犯罪和断电等问题感到愤怒。&lt;/p&gt;
+&lt;p&gt;拉马福萨于2017年底被选为ANC领导人，承诺重振党的形象并振兴经济，这之前他的前任雅各布·祖马及其支持的政党导致了长达九年的丑闻、腐败和经济下滑。&lt;/p&gt;
+&lt;p&gt;然而，成为国家元首后的初期兴奋很快消退。&lt;/p&gt;
+&lt;p&gt;六年多以来，经济依然停滞，而ANC高层官员仍在面临一连串的丑闻。&lt;/p&gt;
+&lt;p&gt;本周选举中的这一决定性挫折是由他的竞争对手祖马造成的。祖马支持新党姆科托韦斯瓦（uMkhonto we Sizwe），该党出人意料地表现出色，对ANC的支持造成了巨大打击，尤其是在祖马的家乡夸祖鲁纳塔尔省（KwaZulu-Natal）。&lt;/p&gt;
+&lt;p&gt;“雅各布·祖马已经把拉马福萨和ANC死死卡住。他知道他们在夸祖鲁纳塔尔省很脆弱，”政治分析师拉尔夫·马特凯加说。“这是拉马福萨项目的结束，你不可能在选举中失利，并要求一切如故。”&lt;/p&gt;
+&lt;p&gt;拉马福萨被批评在关键改革问题上显得犹豫不决，以避免加剧党内分歧——这与他作为工会领袖在1980年代的果断态度形成了鲜明对比。&lt;/p&gt;
+&lt;p&gt;然而，拉马福萨的支持者们赞扬他的协商技能，并称他在推动南非作为所谓的“全球南方”的代言人方面担任了重要作用——这一术语代表了低收入和发展中国家。&lt;/p&gt;
+&lt;p&gt;在COVID-19疫情期间，拉马福萨是全球最突出的声音之一，呼吁更公平地分配疫苗。&lt;/p&gt;
+&lt;p&gt;最近南非向国际法院提起针对以色列的种族灭绝诉讼，导致法官在本月裁定以色列必须停止针对加沙城市拉法的军事进攻。以色列坚决否认这些指控，并继续进行其在拉法的攻势。&lt;/p&gt;
+&lt;p&gt;在竞选活动中，拉马福萨试图强调过去三十年ANC取得的成就，但批评者说，他对解决南非最大的挑战提出了很少的新解决方案。&lt;/p&gt;
+&lt;p&gt;在选举前ANC的最后竞选集会，他在西索托足球场前聚会上承诺将达到“更胜一筹”的效果。当他还没讲完时，许多支持者就已经离开了。&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img alt="南非总统西里尔·拉马福萨在索韦托投票" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPC7JX6VYJJV7BW4LHAIYAYLTM.jpg" /&gt;
-    &lt;figcaption&gt;索韦托，2024年5月29日。路透社/Oupa Nkosi&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 15:29:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</guid></item><item><title>拜登在武器决定中逐渐深化对乌冲突的介入</title><link>https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登解除乌克兰在俄罗斯境内使用美国武器的某些限制，标志着美俄两国两年战场关系的进一步深化，专家认为这有助于缓解俄罗斯在哈尔科夫方向的跨境攻势。&lt;/p&gt;
-&lt;p&gt;自2022年俄罗斯入侵乌克兰以来，拜登政府一直认为允许乌克兰使用美国提供的武器打击俄罗斯境内目标是过于冒险的。他们担心一场大规模的乌克兰进攻可能会引发与拥有核武器的俄罗斯直接冲突。&lt;/p&gt;
-&lt;p&gt;这是一个符合美国此前一系列对基辅实施武器禁运规定的做法——包括禁售先进的美国战机构型、巡航导弹等高精尖装备。&lt;/p&gt;
-&lt;p&gt;拜登政府官员表示，最新决定自本周四起生效，旨在针对哈尔科夫地区的战斗。美国官员表示，该决定允许基辅使用美国提供的武器反击跨境攻击其或即将攻击其的俄罗斯部队。&lt;/p&gt;
-&lt;p&gt;据专家分析，这将允许在前线乌克兰士兵使用美国提供的高机动多管火箭炮系统（HIMARS）发射增程制导火箭系统（GMLRS）导弹及其他作战装备。&lt;/p&gt;
-&lt;p&gt;乌克兰国立战略研究所研究员米科拉·比列斯科夫表示：“这能稳定前线，并可能在俄罗斯军队在哈尔科夫地区巩固位置之前，迫使他们撤退。”&lt;/p&gt;
-&lt;p&gt;前英国军事情报官菲尔·英格拉姆认为，拜登的这一决定将减少基辅在东部顿巴斯地区关键战场的兵力调动需求。&lt;/p&gt;
-&lt;p&gt;“俄罗斯现在将陷入被动，必须重新考虑他们在哈尔科夫地区的进攻战术。”他说道。&lt;/p&gt;
+&lt;img alt="南非总统西里尔·拉马福萨在西索托投票" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JPC7JX6VYJJV7BW4LHAIYAYLTM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;西索托，2024年5月29日。路透社/Oupa Nkosi&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 15:29:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/africa/south-africas-ramaphosa-badly-weakened-by-anc-election-slump-2024-05-31/</guid></item><item><title>欧佩克+考虑延长减产，美国石油生产商维持温和增长</title><link>https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</link><description>&lt;p&gt;美国油井钻探商继续履行减少增加产量支出的承诺，这或将使全球最大原油生产国在未来一年的增长速度放缓。在这一背景下，成员国和非成员国组织OPEC+可能在本周末无需进一步削减供应。&lt;/p&gt;
+&lt;p&gt;美国在过去十年中通过页岩革命和技术创新大幅提升了原油产量，在非OPEC国家中始终是原油供应增长的主要驱动力。&lt;/p&gt;
+&lt;p&gt;去年，美国原油产量超出预期，日产量增长超过100万桶至1293万桶，远超政府年初预计的40万桶。&lt;/p&gt;
+&lt;p&gt;OPEC+及其成员国在去年部分通过进一步削减供应以对冲美国和其他非OPEC国家产量增长。OPEC+的整体削减量达到586万桶/日，约占全球需求的5.7%。&lt;/p&gt;
+&lt;p&gt;消息称，OPEC+正在商讨一项复杂的协议，允许该组织将这些削减措施延续至2025年。三位熟悉OPEC+讨论的人士在上周四透露。&lt;/p&gt;
+&lt;p&gt;随着OPEC+周末开会讨论供应政策，美国产量的增长将继续推动非OPEC+国家产量的增长，但威胁程度将低于2023年。&lt;/p&gt;
+&lt;p&gt;美国政府最新预测显示，今年美国原油供应量将增长约27万桶/日，这一数字与OPEC自身对美国原油和凝析油产量增长30万桶/日的预测相近。&lt;/p&gt;
+&lt;p&gt;国际能源署预计美国的产量增长速度为64万桶/日，这三位是最受关注的预测机构，其预测数据均低于去年。&lt;/p&gt;
+&lt;p&gt;OPEC预计2024年全球需求增长将达到220万桶/日，比非OPEC+集团成员的供应增长高出约100万桶/日。这意味着OPEC+原油需求量预计将比2023年增加约90万桶/日，OPEC+在5月份的月度&lt;em&gt;国际能源署&lt;/em&gt;原油市场报告中这样表示。&lt;/p&gt;
+&lt;p&gt;国际能源署预计全球需求增长仅为110万桶/日，并认为OPEC原油需求将保持稳定。&lt;/p&gt;
+&lt;p&gt;今年迄今为止，美国原油产量虽有小幅波动，但整体变化不大。4月份产量约为1313万桶/日，低于去年12月的1326万桶/日。&lt;/p&gt;
+&lt;p&gt;分析人士认为，即使原油价格徘徊在80美元/桶附近，美国生产商也不太可能像2023年那样带来意外的产量增长。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;我们的客户一直保持非常保守和自律，&amp;rdquo;合同钻机服务商Scandrill首席运营官保罗·莫斯尔德表示。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;考虑到目前的价格，钻机数量没有明显增加令人意外。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;他的公司保持资本支出不变，并暂时推迟升级钻机，以适应较低的钻井增长。预计年底将运营12台钻机，并计划在明年再部署几台。&lt;/p&gt;
+&lt;p&gt;据 Baker Hughes 数据，美国的钻机数量已降至496台，比去年同期下降13%。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;美国在过去几年内有潜力每年增长100万桶/日，但当前对以该速度增长没有兴趣，&amp;rdquo;标普分析师在上周四的报告中写道。&lt;/p&gt;
+&lt;p&gt;标普全球商品洞察预计美国原油和凝析油产量今年将增加47万桶/日。&lt;/p&gt;
+&lt;p&gt;近年来，公开上市的美国生产商在投资者的压力下限制了增长支出，此前无节制的支出虽然推动了页岩部门的激增增长，但收效甚微。&lt;/p&gt;
+&lt;p&gt;近几年里较高的产量增长部分来自于私营生产商，这些公司正在与其他企业整合并提高生产力，通过钻更长的井并在同一时间从更多的井中抽取更多石油。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;尽管最近出现一轮整合，但随着钻井和完成作业效率的持续改进，我们预计当前的油价将继续推动美国石油产量适度增长，&amp;rdquo;德克萨斯标准石油公司总裁蒂莫西·罗伯森表示。&lt;/p&gt;
+&lt;p&gt;油田服务公司，例如SLB，预计今年国际市场的增长将超过北美。SLB第一季度国际营收增长18%，而北美营收下降6%，部分原因是整合效应。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;近年来战略发生了转变，更加注重资本纪律，对市场反应也有所不同，&amp;rdquo;瑞士银行分析师乔凡尼·斯塔诺沃表示，他预计OPEC+将自愿延长其削减措施。&lt;/p&gt;
+&lt;p&gt;然而，美国、加拿大、巴西和圭亚那预期将引领今年的石油和液体产量增长。美国能源信息署报告显示，OPEC+的石油液体产量预计今年将减少100万桶/日，而非OPEC国家的供应将增加140万桶/日。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;OPEC+已经学会与美国石油产量增长共存，&amp;rdquo;瑞士银行的斯塔诺沃表示。&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="Permian盆地内Oasis Petroleum租赁地上的钻井平台操作楼层，从钻井控制室内拍摄" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2W47RQDTZJPHLCRUQLYGQO5DQI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;德克萨斯州温克附近Permian盆地Oasis Petroleum租赁地的钻井平台操作楼层，源自2018年8月22日路透社Nick Oxford摄&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 18:10:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</guid></item><item><title>愤怒的特朗普在获罪判决后誓言继续抗争</title><link>https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</link><description>&lt;p&gt;(本故事第17段包含强烈语言)&lt;/p&gt;
+&lt;p&gt;唐纳德·特朗普在其位于特朗普大厦内的摄影机前露面，并传达了一条适合其法律和政治战斗的信息：他已准备好战斗。&lt;/p&gt;
+&lt;p&gt;就在纽约陪审团认定他因伪造文件隐藏支付给一名成人电影明星的封口费而在34项指控中全部有罪的前一天，这位共和党总统候选人一口气列出了一连串对手和不满，并以愤怒而冗长的言辞发表了一通演讲。&lt;/p&gt;
+&lt;p&gt;他称监督他庭审的法官胡安·梅伦赫作为“歪曲事实的人”和“恶魔”。他将民主党的乔·拜登形容为“我们国家史上最差的总统”，这是他将在11月5日选举中的对手。他还抨击了那些作证反对他的人，那些投票弹劾他的国会议员，回响着他在竞选集会上的言论，将那些他称作非法入境的移民形容为异端。&lt;/p&gt;
+&lt;p&gt;特朗普恳请支持者捐款支持他的竞选活动，并将其面临的挑战视为不仅仅是自己的。&lt;/p&gt;
+&lt;p&gt;他说：“这样做，因为我们正在为了美国而战。”&lt;/p&gt;
+&lt;p&gt;尽管他此前的其他竞选演讲中常常夹杂着一些幽默，但这番讲话大多数时候却显得阴郁。在新闻发布会上，特朗普仅手握一张薄纸的简要笔记。在会议结束时，他没有回答问题，与儿子埃里克·特朗普一起迅速退场。&lt;/p&gt;
+&lt;p&gt;在摄影机之外，通过筹款呼吁和社交媒体，前总统的盟友也对司法系统和任何暗示特朗普犯下罪行的人发起了猛烈抨击。&lt;/p&gt;
+&lt;p&gt;在两位主要候选人之间都视对方为对国家的威胁的大选中，拜登阵营抓住了特朗普的言论作为新的证据，证明他不适合担任总统。&lt;/p&gt;
+&lt;p&gt;比尔·泰勒，拜登阵营的通讯主任，表示：“美国刚刚目睹了一个困惑、绝望和失败的唐纳德·特朗普对自己的个人怨言大吐苦水，并撒谎抹黑美国司法制度，任何观看的人都可以得出一个显而易见的结论：这个人无法成为美国的总统。”&lt;/p&gt;
+&lt;p&gt;特朗普的支持者——其中大多数将纽约的判决视为司法不公——通过他们的筹款活动向他的竞选活动捐款3480万美元。特朗普团队表示这是他们通过共和党筹款平台WinRed在一天内的记录。&lt;/p&gt;
+&lt;p&gt;尽管整体筹款落后于拜登的竞选活动，特朗普的团队在周五试图保持这一态势，向支持者发出了汹涌的募捐短信。&lt;/p&gt;
+&lt;p&gt;“美国历史上最黑暗的一天！”一条短信这样写道。&lt;/p&gt;
+&lt;p&gt;特朗普的记者招待会后，另一条短信直奔主题：“我绝不会投降！”&lt;/p&gt;
+&lt;p&gt;几乎所有的共和党官员和组织都站在前总统一方，声称审判有缺陷，指控本不应提出，曼哈顿——一个民主党占主导的区——的陪审团库中存在错误，而法官也带有偏见——地方当局否认了这些指控。&lt;/p&gt;
+&lt;p&gt;对于诋毁不够或不够强硬的共和党人，特朗普的支持者和竞选助手就加以攻击。&lt;/p&gt;
+&lt;p&gt;特朗普竞选副经理克里斯·拉克维塔对一个社交媒体平台上发布新闻称陪审团判决应得到尊重的全美大学生共和党组织表示鄙视。&lt;/p&gt;
+&lt;p&gt;“观点就像屁股一样，每个人都有一个。” 拉克维塔在其推特上发文补充道。&lt;/p&gt;
+&lt;p&gt;他还对另一位候选人、在马里兰州竞选参议员的中间偏右前共和党州长拉里·霍根发起了攻击，这位前州长在判决前警告美国人“不要因更多的党派恶言而助长仇恨的火焰”。拉克维塔回应：“您已经结束了自己的竞选。”&lt;/p&gt;
+&lt;p&gt;在接受了宾夕法尼亚州和佐治亚州战场选区的几名共和党选民采访时，多位受访者表示特朗普的判决令他们重新考虑是否支持他参加11月的竞选。&lt;/p&gt;
+&lt;p&gt;这种背离可能会在特朗普在多个摇摆州微弱领先的背景下对其与拜登的重赛造成损害。&lt;/p&gt;
+&lt;p&gt;但大多数接受采访时的共和党人听起来与特朗普自己差不多，称这笔账单是一场骗局。&lt;/p&gt;
+&lt;p&gt;“这都是政治行为，目的是伤害他，并尽可能地让他远离竞选摊场。”62岁的退休警察斯科特·克莱顿，来自佐治亚州玛丽塔市，如是说。&lt;/p&gt;
+&lt;p&gt;“如果他们都能对他这么做，他们也能对任何人这么做。绝对没有人是安全的。”&lt;/p&gt;　
+&lt;figure&gt;&lt;img alt="前美国总统特朗普参加新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSVKG6B3SBLNZCJZJRVUDMKFNQ.jpg" /&gt; 
+&lt;figcaption style="text-align: center;"&gt;纽约市，美国，2024年5月31日。路透社/Brendan McDermid&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="前美国总统特朗普参加新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZD5CL4WGJVJYFGBL37RISLOSPQ.jpg" /&gt; 
+&lt;figcaption style="text-align: center;"&gt;共和党总统候选人和前美国总统唐纳德·特朗普在纽约市特朗普大厦举行的新闻发布会上，照片摄于前一周，他在一场有关指控他篡改商业记录以掩盖2016年向成人电影明星斯托米·戴维斯支付封口费的刑事审判中有罪的判决后。路透社/Brendan McDermid/资料照&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 19:41:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</guid></item><item><title>拜登在武器决定中渐入乌克兰冲突深处</title><link>https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登决定放宽乌克兰使用美国武器打击俄罗斯领土的限制，这一决定标志着美国在两年战争中的介入更为深入，专家认为这有助于缓解俄罗斯在哈尔科夫地区的攻势。&lt;/p&gt;
+&lt;p&gt;自2022年俄罗斯入侵乌克兰以来，拜登政府一直认为允许乌克兰使用美国武器打击俄罗斯领土是太危险的。美国担心，大规模的乌克兰攻击可能会引发与核武大国俄罗斯的直接冲突。&lt;/p&gt;
+&lt;p&gt;这一规定与其后不久崩溃的其他美国向基辅提供高阶武器的禁令相吻合，包括先进的美国战斗机和远程ATACM导弹等。&lt;/p&gt;
+&lt;p&gt;拜登政府官员表示，最新决定自本周四起生效，仅针对哈尔科夫地区的战斗。美国官员称，该决定允许乌方使用美国提供的武器回击从边境攻击或准备攻击他们的俄罗斯部队。&lt;/p&gt;
+&lt;p&gt;专家认为，这一决定允许前线的乌克兰士兵使用由美国提供的高机动火箭炮系统（HIMARS）发射增程多管火箭炮系统（GMLRS）导弹和其他武器打击跨越边境的俄罗斯军队。&lt;/p&gt;
+&lt;p&gt;“这可以使前线稳定，并且可能在俄罗斯军队在哈尔科夫地区扎稳营之前推动他们撤退。”乌克兰国立战略研究所研究员米科拉·比里艾斯基莉耶夫在接受基辅官方智库采访时说。&lt;/p&gt;
+&lt;p&gt;英国前军事情报官员菲利普·英格拉姆认为，拜登的决定将减少基辅从东部顿巴斯关键战区调兵的风险。&lt;/p&gt;
+&lt;p&gt;“俄罗斯军队现在将发现自己处于被动，不得不重新考虑他们在哈尔科夫地区的进攻战术。”他说。&lt;/p&gt;
 &lt;p&gt;拜登的决策始于几周前。&lt;/p&gt;
-&lt;p&gt;据一位不愿透露姓名的美国官员称，乌克兰在5月13日的安全视频会议上向白宫国家安全顾问杰克·沙利文、国防部长劳埃德·奥斯汀和联合参谋长主席克·Q·布朗将军提出在哈尔科夫地区跨境使用美国武器的要求。&lt;/p&gt;
-&lt;p&gt;沙利文、奥斯汀和布朗提出了放宽限制的建议，沙利文将该建议呈交给了拜登。据这名官员透露，拜登同意基辅可在俄罗斯领土上安全反击俄罗斯部队。&lt;/p&gt;
-&lt;p&gt;自那时起，拜登政府一直在最终确定这一决策。&lt;/p&gt;
-&lt;p&gt;2024年5月20日，乌克兰总统泽连斯基在与路透社的一次采访中公开呼吁西方伙伴采取类似的步骤，但当时他说道：“至今没有什么积极进展。”&lt;/p&gt;
-&lt;p&gt;欧亚研究中心高级研究员罗布·莱认为，俄罗斯一直在利用拜登禁止对俄领土内部攻击的禁令为其在哈尔科夫地区的进攻提供保护。&lt;/p&gt;
-&lt;p&gt;哈尔科夫是乌克兰第二大城市，距离边境仅19英里（30公里）。&lt;/p&gt;
-&lt;p&gt;“俄罗斯能够将大炮摆在边境附近，维持空防、电子战及指挥控制（功能）。”因此，俄罗斯可能有一种某种程度的‘避风港’。”莱说。&lt;/p&gt;
-&lt;p&gt;不过，莱和其他专家认为，单凭这一决定短期内不会显著改变战线格局。&lt;/p&gt;
-&lt;p&gt;“这一决定不会对战线位置产生太大影响，甚至可能不会改变战线位置。但它将使俄罗斯难以继续进行这种跨境作战行动。”莱说。&lt;/p&gt;
-&lt;p&gt;英格拉姆认为，俄罗斯当前不具备大规模推进至哈尔科夫所需的兵力。&lt;/p&gt;
-&lt;p&gt;“俄罗斯无法生成足够的战斗能力来威胁东北部的哈尔科夫。”他说道。“如果要实现这一点，它将不得不在东部战场疏散其部队。”&lt;/p&gt;
-&lt;p&gt;俄罗斯总统弗拉基米尔·普京曾警告北约国家不得允许乌克兰向俄罗斯境内发射武器，并于周二再次警告存在引发核战争的风险。&lt;/p&gt;
-&lt;p&gt;然而，鉴于俄罗斯在战场上的优势，乌克兰显然准备在未来几周和几个月寻求进一步扩展使用美国武器的地区。&lt;/p&gt;
-&lt;p&gt;周五，泽连斯基在接受《卫报》采访时呼吁美国批准其打击俄罗斯境内深处的目标。&lt;/p&gt;
-&lt;p&gt;战略与国际研究中心华盛顿分支机构前五角大楼官员马克·坎西亚认为，拜登的这一举动只是第一步。&lt;/p&gt;
-&lt;p&gt;“这不是政策上的激进变革，但它是一个步骤。”坎西亚说。&lt;/p&gt;
-&lt;p&gt;“乌克兰人和政府官员将主张下一步：打击更广泛的、不仅仅是威胁哈尔科夫的其他俄罗斯目标。”&lt;/p&gt;
-&lt;p&gt;美国国务卿安东尼·布林肯周五在布拉格表示，拜登政府目前拒绝说是否将扩大政策，允许打击俄罗斯境内的其他目标。但他也没有排除这种可能。&lt;/p&gt;
-&lt;p&gt;“未来，我们将继续进行必要的调整和适应。”布林肯说。&lt;/p&gt;
+&lt;p&gt;据一位要求匿名的美国官员称，5月13日的一次安全视频会议上，乌克兰提出了使用美国武器跨越边境在哈尔科夫地区发起攻击的请求，与白宫国家安全顾问杰克·沙利文、国防部长劳埃德·奥斯汀以及联合参谋长主席科特·布朗将军进行了讨论。&lt;/p&gt;
+&lt;p&gt;沙利文、奥斯汀和布朗制定了一份放宽限制的建议，沙利文于5月15日向拜登汇报了这一建议。美国官员表示，拜登同意即使在俄罗斯本土，乌方也应能够回击俄罗斯军队的攻击。此后，拜登政府一直在为这一决定做最后准备。&lt;/p&gt;
+&lt;p&gt;乌克兰总统泽连斯基在5月20日接受路透社采访时公开呼吁合作伙伴采取类似步骤，但当时表示：“迄今为止，还没有积极进展。”&lt;/p&gt;
+&lt;p&gt;英国欧亚项目高级研究员罗布·李指出，俄罗斯利用拜登关于禁止在美国领土内打击的禁令，将其作为在哈尔科夫地区发起攻击的安全避风港。&lt;/p&gt;
+&lt;p&gt;哈尔科夫是乌克兰第二大城市，距离边境仅19英里（约30公里）。&lt;/p&gt;
+&lt;p&gt;“俄罗斯可以在边境保留其炮兵，保持防空系统、电子战系统、指挥和控制中心。”李说，“它可能拥有一定程度的安全庇护。”&lt;/p&gt;
+&lt;p&gt;尽管如此，李和专家认为，这一决定本身短期内可能不会改变前线态势。&lt;/p&gt;
+&lt;p&gt;“我认为（这一决定）将不会大幅改变前线的运动。但它会让俄罗斯更难以继续进行这种跨境行动。”李说。&lt;/p&gt;
+&lt;p&gt;英格拉姆表示，俄罗斯缺乏足够的兵力发动大规模向哈尔科夫的攻势。&lt;/p&gt;
+&lt;p&gt;“俄罗斯没有能力生成足够的战斗力来东北方向威胁哈尔科夫。”他说，“要这样做，他们必须在东部战区的兵力空虚。”&lt;/p&gt;
+&lt;p&gt;俄罗斯总统弗拉基米尔·普京警告北约成员国不要让乌克兰对俄罗斯领土使用武器，并在周二再次警告存在爆发核战争的风险。&lt;/p&gt;
+&lt;p&gt;尽管如此，乌克兰似乎准备在未来数周和数月寻求扩大其使用美国武器的能力，尤其是在俄罗斯在一整年战斗中取得主动权之后。&lt;/p&gt;
+&lt;p&gt;周五，在华盛顿宣布这一政策调整后不到一天，据路透社报道，泽连斯基在接受《卫报》采访时呼吁美国批准其攻击俄罗斯境内的目标。&lt;/p&gt;
+&lt;p&gt;战略与国际研究中心华盛顿智库访员马克·坎西安表示，拜登的举动只是第一步。&lt;/p&gt;
+&lt;p&gt;“这不是一场政策的激进变化。但它是一个步骤。”坎西安说。&lt;/p&gt;
+&lt;p&gt;“乌克兰人和行政机构官员将要求下一步：打击更多的目标——也许是在不直接威胁哈尔科夫的俄罗斯境内目标，而在其他地区。”&lt;/p&gt;
+&lt;p&gt;美国国务卿安东尼·布林肯周五在布拉格发表讲话时没有说拜登政府是否会扩大政策允许在俄罗斯其他地区发起攻击。但他没有排除这一可能性。&lt;/p&gt;
+&lt;p&gt;“今后，我们将继续进行我们一直在做的事情，即灵活适应和调整。”布林肯说。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="哈尔科夫附近空袭后的景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HXOYPJEBFFNVTLQAC7JUPTP2NM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt; &lt;i&gt;消防员在俄罗斯导弹袭击严重损坏的儿童和青年体育骑术学校工作现场工作。这是对俄罗斯对乌克兰的攻击的回应。照片拍摄于2024年5月30日，乌克兰哈尔科夫市郊 валяни Мала Даниловка。REUTERS/瓦列尼·奥赫里佐诺&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:37:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</guid></item><item><title>愤怒的特朗普在有罪判决后发誓将继续抗争</title><link>https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</link><description>&lt;p&gt;(本故事在第17段包含强烈语言)&lt;/p&gt;&lt;p&gt;唐纳德·特朗普在特朗普大厦内面对一排摄像机，发表了一番既符合其法律斗争，也符合其政治斗争的言辞：他已做好战斗的准备。&lt;/p&gt;&lt;p&gt;继纽约陪审团裁定他因伪造文件以掩盖对一名色情女郎的封口费支付而被判34项罪名后，这位共和党总统候选人忿忿不平地列出了他的对手和不满，言语粗犷且条理混乱。&lt;/p&gt;&lt;p&gt;他称主审此案的法官胡安·梅尔罕为“歪曲事实者”和“恶魔”。他称与他在11月5日选举中的对手、民主党总统候选人乔·拜登为“美国历史上最糟糕的总统”。他猛烈攻击作证反对他的证人、谴责他的众议员、以及他所说的非法涌入美国的移民。&lt;/p&gt;&lt;p&gt;特朗普呼吁支持者捐款支持他的竞选活动，将面临的挑战视作比个人更大的问题。&lt;/p&gt;&lt;p&gt;“你们这样做，”他说，“因为我们要为美国而战。”&lt;/p&gt;&lt;p&gt;尽管他此前的竞选演讲中经常夹杂着幽默，但此次则主要是阴郁的语气。他仅在新闻发布会上参考了一份简短的笔记。结束时，他拒绝对记者提问并在其子埃里克·特朗普的陪同下迅速回撤。&lt;/p&gt;&lt;p&gt;在摄像机之外，通过筹款申请和社交平台，前总统的盟友对司法系统和任何暗示特朗普有犯罪行为的人进行了猛烈抨击。&lt;/p&gt;&lt;p&gt;在两位顶级候选人彼此视为国家威胁的选举中，拜登竞选团队抓住了特朗普的言论作为他不适任的新证据。&lt;/p&gt;&lt;p&gt;“美国刚见证了一个心烦意乱、不得志的唐纳德·特朗普对司法系统的谎言进行歪曲，所有人都能得出一个显而易见的结论：这个人不适任美国总统的职位。”拜登竞选团队的通讯总监迈克尔·泰勒在一份声明中说道。&lt;/p&gt;&lt;p&gt;特朗普的支持者——他们大多认为纽约裁决是不公正的——周四单日为他的竞选活动捐赠了3480万美元，特朗普团队宣布。这是共和党募捐平台WinRed创下的单日纪录。&lt;/p&gt;&lt;p&gt;尽管在筹款总额上落后于拜登，他的竞选团队仍努力维持这种速度，在星期五发起了一系列令人不安的筹款短信攻势。&lt;/p&gt;&lt;p&gt;“美国历史上最黑暗的一天！”一则短信如此写道。&lt;/p&gt;&lt;p&gt;“我永不屈服！”另一则短信在特朗普的新闻发布会后发出。&lt;/p&gt;&lt;p&gt;资深共和党官员和组织几乎都对前总统的裁决提出批评，称审判有缺陷，指控本不应被提出，陪审团来自民主党占多数的纽约曼哈顿因而被污染，且法官存在偏见——这是当地官方否认的指控。&lt;/p&gt;&lt;p&gt;当共和党人的批评不够迅速或有力时，特朗普的盟友和竞选助手便出面攻击。&lt;/p&gt;&lt;p&gt;特朗普全权副竞选经理克里斯·拉西维塔塔嘲讽了一起在社交媒体平台X上发表声明支持陪审团裁决的全国性大学生共和团组织。&lt;/p&gt;&lt;p&gt;“意见就像屁股孔，人人都是有意见的……”他在X平台上发帖。&lt;/p&gt;&lt;p&gt;他还指责了前马里兰州共和党温和派州长拉里·霍根，在宣判前霍根曾警告美国人“不要因更多的党派性攻击而加油添火”。拉西维塔塔在X平台上回应道：“你已经结束了竞选。”&lt;/p&gt;&lt;p&gt;在宾夕法尼亚和乔治亚等战场州对共和党选民进行的采访中，许多人表示，特朗普的有罪判决使他们这个十一月重新考虑对其的支持。&lt;/p&gt;&lt;p&gt;这样的转变可能在他和拜登的交锋中对他不利，特别是他在多个摇摆州的领先幅度微乎其微。&lt;/p&gt;&lt;p&gt;但大多数接受采访时的共和党人听起来像极了特朗普自己，称审判为一场骗局。&lt;/p&gt;&lt;p&gt;“这全是政治，只是为了伤害他，让他尽可能长时间地远离竞选活动。”62岁的退役警官斯科特·克莱顿在乔治亚州马里埃塔说道。&lt;/p&gt;&lt;p&gt;“如果他们能这样做对他，也能这样做对任何人。绝对没有人是安全的。”&lt;/p&gt;  
-&lt;figure&gt;&lt;img alt="前美国总统特朗普参加新闻发布会，纽约" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SSVKG6B3SBLNZCJZJRVUDMKFNQ.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;纽约市，2024年5月31日。路透社/Brendan McDermid&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;  
-&lt;figure&gt;&lt;img alt="前美国总统唐纳德·特朗普参加新闻发布会，纽约" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZD5CL4WGJVJYFGBL37RISLOSPQ.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;11月5日选举中的共和党总统候选人、前美国总统唐纳德·特朗普在特朗普大厦举行的新闻发布会上。2024年5月31日，纽约市，路透社/Brendan McDermid/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 19:41:35 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/an-angry-trump-vows-keep-fighting-after-guilty-verdict-2024-05-31/</guid></item><item><title>拜登提出新的以色列停火计划，呼吁哈马斯接受</title><link>https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</link><description>&lt;p&gt;美国总统乔·拜登于周五表示，以色列提议在释放人质的条件下终止加沙地带冲突，并呼吁哈马斯接受这一新提议，称这是结束冲突的最佳途径。&lt;/p&gt;
-&lt;p&gt;“是时候结束这场战争，开始新的一天了，”拜登总统说。作为处于选举年的总统，拜登在停止加沙冲突方面的压力显著，而加沙冲突已持续了八个月。&lt;/p&gt;
-&lt;p&gt;埃及、卡塔尔和其他国家为促成以色列与哈马斯停火的调解持续失败，双方相互指责为谈判缺乏进展的原因。&lt;/p&gt;
-&lt;p&gt;这一提议是在以色列对拉法进行多次军事行动之后提出的。此外，在拉法死亡事件及人质持续被扣的情况引发国内外新的压力背景下，以色列政府的处境愈发困难。&lt;/p&gt;
-&lt;p&gt;以色列总理内塔尼亚胡的办公室周五声称，以色列已授权谈判代表在拜登透露停火计划后，向加沙地带提出一份停火协议。&lt;/p&gt;
-&lt;p&gt;另外，来自共和党的拜登总统的竞选对手唐纳德·特朗普前一天被判有34项重罪，突显了两位候选人的显著分歧。&lt;/p&gt;
-&lt;p&gt;拜登提出的这一新提议分为三个阶段，与以前的提议不同，因为停火将在此期间保持有效，直到谈判结束。&lt;/p&gt;
-&lt;p&gt;在第一阶段中，为期六周的停火将使以色列军队从加沙人口中心撤出，人质（包括老人和妇女）将与数百名巴勒斯坦囚犯交换。同时，平民将返回加沙，包括北部加沙，并每天有600辆卡车运送人道主义援助物资进入加沙地带，拜登如是说。&lt;/p&gt;
-&lt;p&gt;在第二阶段中，哈马斯和以色列将就永久结束敌对行为的条件进行谈判。“当谈判进行时，停火也会持续，”总统说道，这是一种新的发展。&lt;/p&gt;
-&lt;p&gt;在第三阶段，将包括一项重大重建计划。&lt;/p&gt;
-&lt;p&gt;拜登提到，这份提议已经通过卡塔尔传达给了哈马斯。&lt;/p&gt;
-&lt;p&gt;“我深知在以色列中有人不会同意这个计划，并会要求战争无期限持续下去。其中一些人甚至在政府联盟中，他们已经表明，他们想占领加沙，继续战斗数年并将人质优先考虑问题。然而，尽管有种种压力，我敦促以色列领导层支持这项协议，”拜登说。&lt;/p&gt;
-&lt;p&gt;“作为一个终生致力于以色列的人，作为唯一一位在战争期间前往以色列的美国总统，作为一位刚刚派遣美国部队直接保护以色列免受伊朗攻击的人，我要求你们停下脚步，考虑一下，如果我们错过这一刻将会发生什么。我们不能错过这一刻。”&lt;/p&gt;
-&lt;p&gt;一位匿名的美国高级官员告诉媒体，以色列能够提出这个新提议是因为最近战场上的收获。&lt;/p&gt;
-&lt;p&gt;“现在确实有一个走向危机结束的清晰路线图。”这位官员说，“它是一份详细的四页半的协议，经过了精雕细琢的谈判。现在摆到桌面上的是一份达成协议的关键。”&lt;/p&gt;
-&lt;p&gt;根据该计划，每个阶段将持续42天，如该官员所说。&lt;/p&gt;
-&lt;p&gt;几位以色列媒体将拜登周五发表的演讲描述为戏剧性的，并认为这是一次试图直接向以色列公众发表演讲的努力。以色列12台当晚新闻节目中的一个频道中断了其节目，以现场播放拜登的演讲。以色列审查官员此前已禁止公布提议的细节，广播员达尼·库什玛罗说。&lt;/p&gt;
-&lt;p&gt;“同以往相比，这一提议有更高的成功几率，”德克萨斯大学奥斯汀分校的历史与公共事务教授杰里米·苏里说。&lt;/p&gt;
-&lt;p&gt;“以色列已经对哈马斯造成了严重破坏，哈马斯能够发起严重袭击或攻击或恐怖袭击的可能性虽然仍然不容忽视，但已经大幅降低。”苏里说。&lt;/p&gt;
-&lt;p&gt;此外，全球公众观念已经开始“转向”以色列，苏里说，这可能会促使以色列人希望结束冲突，并与拜登的观点相呼应。&lt;/p&gt;
-&lt;p&gt;“当美国总统全力支持某件事情时，他可以制造出许多激励因素，”苏里说。&lt;/p&gt;
-&lt;p&gt;今年早些时候提出的一个早期人质提议建议，交换包括生病、年老和受伤的人质在内的人质，在换取六周停火的同时可以延长停火时间，以便将更多人道主义援助物资运送至加沙地带。&lt;/p&gt;
-&lt;p&gt;正如上月早些时候报道的那样，谈判破裂，以色列拒绝同意哈马斯要求的作为谈判一部分的永久结束冲突的要求，随后以色列加大了对加沙地带南方拉法的打击力度。&lt;/p&gt;
-&lt;p&gt;哈马斯在周四表示，它已经告诉调解人，不会参与在持续的侵略期间进行更多谈判，但愿意在以色列停止战争的情况下达成一份完整的协议，包括人质和战俘的交换。&lt;/p&gt;
-&lt;p&gt;一位匿名的美国官员说，白宫国家安全顾问杰克·苏利文将于周五与17个国家的外交官会面，这些国家的公民被哈马斯扣留在加沙地带。&lt;/p&gt;
-&lt;p&gt;6月12日，以色列对拉法进行的一次空袭造成45名巴勒斯坦人死亡，引发国际愤慨，但未触及美国的关键红线，即切断对以色列的军事援助。&lt;/p&gt;
-&lt;p&gt;“巴勒斯坦人民在这场战争中经历了无尽的苦难，”拜登周五说道。“我们看到了几天前拉法致命炮火中的可怕画面，以色列针对哈马斯发起攻击……&lt;/p&gt;
-&lt;p&gt;巴勒斯坦卫生部门估计，自以色列对加沙地带发动军事行动以来，已经有超过36,280人丧生，这是对10月7日南部以色列发生的哈马斯袭击的回应。根据以色列的统计数据，哈马斯袭击造成了约1,200人死亡。&lt;/p&gt;</description><pubDate>Fri, 31 May 2024 15:34:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</guid></item><item><title>黎巴嫩的伯里在停火协议中重拾关键调解角色</title><link>https://www.reuters.com/world/middle-east/lebanons-berri-reprises-key-mediator-role-ceasefire-deal-2024-11-27/</link><description>&lt;p&gt;黎巴嫩议长纳比赫·伯里重申他在美国与真主党 mediated 停火协议中的关键调解角色，借助他数十年的丰富经验，帮助达成了这项协议。&lt;/p&gt;&lt;p&gt;这一角色突显了这位86岁的长者在黎巴嫩及其什叶派穆斯林社区仍拥有极高的影响力，并自2024年9月以色列空袭导致真主党领导人哈桑·纳斯拉allah丧生以来，被视为稳定这一地区的关键力量。&lt;/p&gt;&lt;p&gt;伯里周三在一次电视讲话中对黎巴嫩人民表示：“我们正在关闭黎巴嫩所经历的最危险的历史时刻”，并呼吁黎巴嫩人民为了国家的利益表现出团结。&lt;/p&gt;&lt;p&gt;伯里在黎巴嫩1975-1990年内战期间担任什叶派阿马尔运动负责人，自1992年以来一直担任议长——这是什叶派在黎巴嫩宗派制度中的最高职位。&lt;/p&gt;&lt;p&gt;真主党新领导人纳伊姆·卡尔萨姆肯定了伯里作为调解者的角色，并称他为真主党的“大哥”。美国特使阿莫斯·霍奇斯坦在其访问贝鲁特的多次会面中，试图促成双方停火，这次停火与加沙战争同时进行，并在9月份进一步升级。&lt;/p&gt;&lt;p&gt;这与伯里在2006年帮助结束真主党和以色列之间大规模战争争端时所扮演的角色相对应。&lt;/p&gt;&lt;p&gt;外交官表示，由于黎巴嫩至今没有总统，内阁仅具有部分权限，且很难接触真主党（美国列为恐怖组织），伯里的作用显得尤为重要。&lt;/p&gt;&lt;p&gt;“现在，当你来到黎巴嫩，他确实是唯一值得会面的人。他就是国家。”一位基于贝鲁特的外交官说道。&lt;/p&gt;&lt;p&gt;在1985年，伯里通过协助谈判释放被什叶派武装分子劫持并挟持美国客机的39名美国公民，使他一举成为国际名人。&lt;/p&gt;&lt;p&gt;内战后的伯里当选为议长与纳斯拉allah的真主党崛起领导层相吻合。他们两人共同领导了“什叶派双子星座”，指的是两大主导什叶派政治代表和国家权力的政党。&lt;/p&gt;&lt;p&gt;一名经常访问伯里的外交官说：“他是与真主党互信的伙伴，这使他变得非常重要，但他也清楚地意识到，由于真主党和伊朗的政治立场，他所能做的事情也存在限制。”&lt;/p&gt;&lt;p&gt;以色列的炮火也波及了阿马尔运动势力范围的地方，包括提尔市。&lt;/p&gt;&lt;p&gt;伯里1938年出生于塞拉利昂，父母是来自蒂布宁的移民商人。他在黎巴嫩成长，并在大学时期就开始投身政治。&lt;/p&gt;&lt;p&gt;长期被边缘化的什叶派社区许多成员赞扬伯里帮助改善了他们在宗派制度中的地位，这一制度长期以来偏向基督徒和逊尼派穆斯林。&lt;/p&gt;&lt;p&gt;作为受过法律训练的律师，伯里在阿马尔运动创始人穆萨·萨德尔在访问利比亚时失踪后接过了该组织的领导权。&lt;/p&gt;&lt;p&gt;伯里推动了阿马尔运动的军事崛起，该组织在内战期间几乎与所有主要政党作战，包括后来成为盟友的真主党。&lt;/p&gt;&lt;p&gt;内战后，伯里的什叶派追随者加入了政府和安全部门，并且似乎与真主党保持了政治步调一致。&lt;/p&gt;&lt;p&gt;2006年，当美国大使馆电缆质疑他对真主党的真实感情时，他否认了这一说法，声称纳斯拉allah“如同我自己”。 &lt;/p&gt;&lt;p&gt;2023年，在哈马斯袭击以色列南部后，伯里的阿马尔派战士与真主党一起对以色列发射火箭表示支持，以此表示对加沙的声援。&lt;/p&gt;&lt;p&gt;外国特使开始访问贝鲁特并与伯里会面，试图停止双方在以色列与黎巴嫩边境的交火，也尝试说服真主党将阵地北撤至利塔尼河北部。这条河位于边境约30公里（20英里）北侧。&lt;/p&gt;&lt;p&gt;伯里对一位外国官员说，“移山比把真主党从利塔尼河以北推进更加容易”。一位接近伯里的消息源告诉路透社。&lt;/p&gt;&lt;p&gt;但伯里的反对者们也批评他是导致2019年黎巴嫩经济陷入崩溃的部分宗派精英之一，当时的金融体系因数十年的贪腐而崩溃。&lt;/p&gt;&lt;p&gt;一些人指责伯里因拒绝召集议会会议，使政府中至关重要的总统职位空缺长达两年以上。&lt;/p&gt;&lt;p&gt;作为外交渠道的伯里在真主党政治对手，如黎巴嫩力量基督教派方面的不满中表现突出，他们认为任何谈判都必须由总统来进行。&lt;/p&gt;
+&lt;img alt="俄罗斯导弹攻击后哈尔科夫的景象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HXOYPJEBFFNVTLQAC7JUPTP2NM.jpg"&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;哈尔科夫郊外米拉达尼利夫卡村的儿童和青年体育骑术学校遭俄罗斯导弹袭击严重受损，路透社/瓦伦丁·奥吉伦科拍摄的文件照片，2024年5月30日乌克兰。&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 20:37:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-tip-toes-deeper-into-ukraine-conflict-with-arms-decision-2024-05-31/</guid></item><item><title>黎巴嫩贝里再次在停火协议中担任关键调解人角色</title><link>https://www.reuters.com/world/middle-east/lebanons-berri-reprises-key-mediator-role-ceasefire-deal-2024-11-27/</link><description>&lt;p&gt;黎巴嫩议会议长纳比勒·伯里重申了他在美国与以色列和解过程中作为 Hezbollah 和美国之间关键沟通者的角色，利用数十年的经验促成了停火协议。&lt;/p&gt;&lt;p&gt;这再次突显了86岁的伯里在黎巴嫩，尤其是什叶派穆斯林群体中的影响力，自9月以色列杀死了伊朗支持的 Hezbollah 首领哈桑·纳斯里拉后，他被视为稳定影响。&lt;/p&gt;&lt;p&gt;周三，伯里在电视演讲中对黎巴嫩民众说：“我们正在结束黎巴嫩历史上最危险的时刻”，并呼吁黎巴嫩民众团结一致，为了黎巴嫩共同奋斗。&lt;/p&gt;&lt;p&gt;伯里在1975-1990年的黎巴嫩内战期间作为什叶派阿马尔运动的领导人脱颖而出。自1992年起，他担任议会议长，成为黎巴嫩教派秩序中最高级别的什叶派官员。&lt;/p&gt;&lt;p&gt;Hezbollah 新领导人谢赫·纳伊姆·卡塞姆支持伯里作为谈判代表，称他为该组织的“长兄”。&lt;/p&gt;&lt;p&gt;美国特使阿莫斯·霍奇斯坦在多次访问贝鲁特期间屡次与伯里会面，试图促成停火，这些停火同时与加沙冲突同步发生并在9月紧张升级。&lt;/p&gt;&lt;p&gt;这与伯里在2006年帮助结束Hezbollah与以色列之间大规模战争中所扮演的角色相呼应。&lt;/p&gt;&lt;p&gt;外交官称，伯里在当前黎巴嫩无总统、内阁无完全权力和无法直接接触Hezbollah（被美国列为恐怖组织）的情况下，其作用显得尤为重要。&lt;/p&gt;&lt;p&gt;“当你现在来到黎巴嫩，他就真的是唯一值得关注的人。他是国家。”一名驻贝鲁特的外交官表示。&lt;/p&gt;&lt;p&gt;1985年，他因帮助谈判释放被什叶派激进分子劫持的人质而获得全球关注，这些人质是被劫持机长期间在美国航空公司的航班上。&lt;/p&gt;&lt;p&gt;内战后当选议长时，正值纳斯里拉崛起成为Hezbollah的领导人，他们共同领导了被称为“什叶派二重唱”的两个政党，这两个政党主导了什叶派的政治代表，并几乎控制了整个政府。&lt;/p&gt;&lt;p&gt;经常拜访伯里的外交官说：“他是Hezbollah可信赖的伙伴，这让他非常重要，但他的所能所为也有一条明确的界限，这或许是因为Hezbollah或伊朗的立场。”&lt;/p&gt;&lt;p&gt;以色列的火力袭击了伯里的阿马尔运动有影响力的地区，包括提尔市。&lt;/p&gt;&lt;p&gt;1938年生于西非塞拉利昂的一个从提宾纳移民的商人家庭，伯里在黎巴嫩长大，大学时就开始活跃于政界。&lt;/p&gt;&lt;p&gt;一度卑微的什叶派社群中的人们对伯里帮助改善他们在宗派制度下地位表达了赞赏，此时的特权倾向于基督徒和逊尼派穆斯林。&lt;/p&gt;&lt;p&gt;伯里拥有律师学位，在其创始人、伊玛目穆萨·萨德失联后接任阿马尔运动的领导。&lt;/p&gt;&lt;p&gt;伯里策动了阿马尔军事崛起，该运动在内战期间与几乎所有主要党派作战，包括后来成为盟友的Hezbollah。&lt;/p&gt;&lt;p&gt;内战结束后，伯里的什叶派追随者相继加入了政府官僚机构和安全部门，他似乎与Hezbollah的政治路线步调一致。&lt;/p&gt;&lt;p&gt;2006年，当美国大使馆电报质疑他对Hezbollah的真实感情时，2010年发布的这份电报被伯里驳回，他宣称纳斯里拉“像是我自己”。 &lt;/p&gt;&lt;p&gt;2023年，在哈马斯10月7日袭击以色列南部后，伯里的阿马尔战斗组织与Hezbollah一起发射火箭炮作为对加沙的支持。&lt;/p&gt;&lt;p&gt;外国特使们开始访问贝鲁特，与伯里会面，试图遏制跨黎巴嫩和以色列边界的炮火交火，也试图说服Hezbollah撤回黎亚non河以北，这条河流向边境以北约30公里。&lt;/p&gt;&lt;p&gt;伯里对一位外国官员说：“移到黎亚non河以南到边境将比促使Hezbollah向北撤退容易”，一位亲近伯里的消息人士向路透社透露。&lt;/p&gt;&lt;p&gt;但伯里的反对者也批评他是引导黎巴嫩陷入2019年经济危机的一部分，这时金融体系因数十年的腐败而崩溃。&lt;/p&gt;&lt;p&gt;一些人指责他拒绝召集议会会议让立法者选举总统，留下基督教最高职位空缺超过两年。&lt;/p&gt;&lt;p&gt;伯里作为外交渠道的角色引起了Hezbollah政治对手，如基督教力量黎巴嫩部队等的不满，这些对手认为任何谈判都必须由黎巴嫩总统执行。&lt;/p&gt;  
 
-&lt;figure&gt;&lt;img alt="黎巴嫩议长纳比赫·伯里与伊朗前众议院议长阿里·拉里贾尼会面" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GGP4GOGYDVN2BAR3V7BLASZKSE.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;黎巴嫩议长纳比赫·伯里与伊朗前众议院议长阿里·拉里贾尼（未 pictured）会面于2024年11月15日在贝鲁特。路透社/泰亚尔·阿尔苏达尼 文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="黎巴嫩议会议长纳比勒·伯里与伊朗议会前任主席阿里·拉里贾尼在贝鲁特会面" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GGP4GOGYDVN2BAR3V7BLASZKSE.jpg" /&gt; 
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;黎巴嫩议会议长纳比勒·伯里与伊朗议会前任主席阿里·拉里贾尼（未图）在贝鲁特会面。2024年11月15日，路透社/萨德尼·阿尔-苏达尼/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt; 
+&lt;figure&gt;&lt;img alt="一幅印有黎巴嫩议会议长纳比勒·伯里肖像的横幅悬挂在贝鲁特建筑物上，活动纪念1978年在前往利比亚旅行后失联的阿马尔运动创始人伊玛努尔·穆萨·萨德的第45周年” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZU326E2AYFIK3JE4PEKGB2TOKI.jpg" /&gt; 
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一幅印有黎巴嫩议会议长纳比勒·伯里肖像的横幅悬挂在贝鲁特一座建筑物上，活动纪念1978年在前往利比亚旅行后失联的阿马尔运动创始人伊玛努尔·穆萨·萨德的第45周年。2023年8月31日，路透社/莫罕默德·阿扎基/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 27 Nov 2024 15:25:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/lebanons-berri-reprises-key-mediator-role-ceasefire-deal-2024-11-27/</guid></item><item><title>拜登提出新的以色列停火计划，呼吁哈马斯接受</title><link>https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</link><description>&lt;p&gt;美国总统拜登周五表示，以色列提出了新的加沙停火提案，作为人质获释的交换条件，并呼吁哈马斯接受该新提议，认为这是结束冲突的最好途径。&lt;/p&gt;
+&lt;p&gt;“是时候结束这场战争，开始新的一天了。”&lt;a href="https://www.reuters.com/topic/person/joe-biden/"&gt;拜登&lt;/a&gt;说，他正处于总统竞选压力之下，需要停止目前持续八个月的加沙冲突。&lt;/p&gt;
+&lt;p&gt;由埃及、卡塔尔以及其他国家斡旋的旨在在加沙冲突中安排停火的谈判多次陷入僵局，双方均指责对方阻碍了进展。&lt;/p&gt;
+&lt;p&gt;该提案是在以色列对拉法的多次入侵之后提出的，并伴随着对以色列政府的新压力，尤其是在加沙死亡事件和人质持续被俘的情况之下。&lt;/p&gt;
+&lt;p&gt;以色列总理内塔尼亚胡的办公室表示，经过拜登披露这一停火计划后，以色列已授权谈判代表提出加沙停战协议。&lt;/p&gt;
+&lt;p&gt;这还发生在前总统特朗普当选美国总统的共和党对手——&lt;a href="https://www.reuters.com/topic/person/donald-trump/"&gt;特朗普&lt;/a&gt;——被判有罪后的前一天，凸显了两位候选人的巨大差异。&lt;/p&gt;
+&lt;p&gt;拜登提出的新提案分为三个阶段，与之前的提案不同，因为停火将贯穿所有三个阶段。&lt;/p&gt;
+&lt;p&gt;在第一阶段，为期6周的停火期间，以色列军队将从加沙居民区撤出，人质，包括老人和妇女，将被交换给数百名巴勒斯坦囚犯。巴勒斯坦平民将返回加沙，包括北部加沙，并且将每天有600辆卡车通过人道主义援助进入加沙地带，拜登说。&lt;/p&gt;
+&lt;p&gt;在第二阶段，哈马斯和以色列将谈判永久结束敌对状态的条款。“只要谈判继续，停火就会继续，”总统说，这是一个新的发展。&lt;/p&gt;
+&lt;p&gt;第三阶段将包括一项重建加沙的重大计划。&lt;/p&gt;
+&lt;p&gt;拜登称，该提案已通过卡塔尔向哈马斯传达。&lt;/p&gt;
+&lt;p&gt;“我知道在以色列有那些不会同意这个计划的人，并会继续呼吁战争的人，即使压力很大，我也敦促以色列领导层支持这个协议。”拜登说。&lt;/p&gt;
+&lt;p&gt;“作为唯一一个与以色列在战争期间访问以色列的美国总统，以及最近向以色列增派美军的美国总统，我要求你们退一步，想想如果错过这个时机会发生什么，”他说，“我们不能错过这个时机。”&lt;/p&gt;
+&lt;p&gt;一位匿名的美国高级官员表示，以色列能够提出新提议的原因在于近期战场上的进展。&lt;/p&gt;
+&lt;p&gt;“我们现在有了结束危机的道路图，这是一份详尽的四页半协议，已经经过了仔细的谈判。”该官员说，“如今摆在桌面上的，实际上是这一过程的最终阶段。”&lt;/p&gt;
+&lt;p&gt;根据该计划，每个阶段将持续42天，该官员补充说。&lt;/p&gt;
+&lt;p&gt;几位以色列媒体形容，拜登于周五发表的讲话极为精彩，被视为直接向以色列民众展开游说。主流电视台12频道中断了晚间新闻播报，实时转播了拜登的演讲。此前，通过以色列审查员禁止出版这一提议的细节，主播丹尼·库什玛罗说。&lt;/p&gt;
+&lt;p&gt;这项提议比以前的提议更容易取得成功，得克萨斯大学奥斯汀分校历史和公共事务教授杰里米·苏里说。&lt;/p&gt;
+&lt;p&gt;“哈马斯遭受了重大损失，其有能力对以色列发动任何类似攻击的可能性大大降低。”他说。&lt;/p&gt;
+&lt;p&gt;此外，全球民众的看法正在转向反对以色列，苏里说，这可能会促使以色列寻求结束冲突，而成因素还有拜登的影响。&lt;/p&gt;
+&lt;p&gt;“当美国总统全力以赴支持某件事时，他可以创造很多激励因素。”苏里说。&lt;/p&gt;
+&lt;p&gt;早些时候提出的人质提议建议，交换被释放的病患、老人和伤员，在加沙实施为期六周的停火，最多延长至允许更多物资进入无险境。&lt;/p&gt;
+&lt;p&gt;这项提议于本月早些时候因以色列拒绝接受哈马斯的要求，作为谈判的部分内容达成永久停火，以及加强了对南部加沙市拉法的袭击而破裂。&lt;/p&gt;
+&lt;p&gt;哈马斯周四表示，它告诉斡旋方，不会在当前的军事行动中参与更多谈判，但如果以色列停止战争，哈马斯愿意达成一个完整的协议，包括人质和囚犯交换。&lt;/p&gt;
+&lt;p&gt;一位匿名的美国官员说，白宫国家安全顾问杰克·苏利文周五将与有公民被哈马斯囚禁的17个国家的外交官会面。&lt;/p&gt;
+&lt;p&gt;周日，以色列对拉法的空袭导致45名巴勒斯坦人丧生，引发了国际愤怒，但没有达到美国划设的取消向以色列提供军事援助的红线。&lt;/p&gt;
+&lt;p&gt;“加沙地区的巴勒斯坦人民在此次战争中经历了地狱般的灾难。”拜登周五说，“我们看到本周早些时候发生在拉法的一场致命火灾的可怕画面，以色列轰炸机针对的是哈马斯……”&lt;/p&gt;
+&lt;p&gt;巴勒斯坦卫生部门估计，自以色列对加沙地带发动袭击以来，已有超过36,280人丧生，而以色列统计的哈马斯于10月7日对南部以色列的袭击共造成约1,200人死亡。</description><pubDate>Fri, 31 May 2024 15:34:59 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/</guid></item><item><title>随着交易者追逐更大的回报，加密“重新质押”平台蓬勃发展</title><link>https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</link><description>&lt;p&gt;超过180亿美元的加密货币已转入一种新平台，在该平台上投资者通过锁定自己的代币可以获得奖励，这是一种复杂的计划，分析师警告称其可能对用户和加密市场构成风险。&lt;/p&gt;
 
-&lt;figure&gt;&lt;img alt="黎巴嫩议长纳比赫·伯里的画像悬挂在建筑上，纪念阿马尔运动创始人穆萨·萨德尔在1978年前往利比亚旅行后失踪的45周年活动在贝鲁特举行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZU326E2AYFIK3JE4PEKGB2TOKI.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;纪念阿马尔运动创始人穆萨·萨德尔在1978年前往利比亚旅行后失踪的45周年活动，在贝鲁特，黎巴嫩议长纳比赫·伯里画像悬挂在建筑上。路透社/莫罕默德·阿扎基 文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Wed, 27 Nov 2024 15:25:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/lebanons-berri-reprises-key-mediator-role-ceasefire-deal-2024-11-27/</guid></item><item><title>美国石油生产商维持适度增长 欧佩克+考虑延长减产期限</title><link>https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</link><description>&lt;p&gt;美国石油钻探公司坚持减少支出以提高产量的承诺，这将使世界最大的原油生产商在2024年的增长放缓，可能减轻欧佩克+周六再次削减供应的压力。&lt;/p&gt;
-&lt;p&gt;美国在过去十年中一直是全球非欧佩克原油供应增长的主要推动力，这得益于页岩革命以及生产技术和效率的突破。&lt;/p&gt;
-&lt;p&gt;去年，美国原油产量出人意料地大幅增长，日产量超过百万吨，达到1293万桶，远远超过政府在2023年初预计的约40万桶。&lt;/p&gt;
-&lt;p&gt;欧佩克及其盟友——欧佩克+在去年部分削减了产量，以应对美国和其他非欧佩克产油国产量的上升。总体而言，欧佩克+的削减幅度约为586万桶/日，占全球需求的5.7%。&lt;/p&gt;
-&lt;p&gt;据三位了解欧佩克+讨论情况的消息人士透露，欧佩克+正在探讨一项复杂的协议，该协议可能允许该集团将这些削减措施延续至2025年。&lt;/p&gt;
-&lt;p&gt;周日，欧佩克+将考虑供应政策时，美国产量的增长继续推动非欧佩克+产量的增加，但相对于2023年将带来较小威胁。&lt;/p&gt;
-&lt;p&gt;政府最新预测显示，美国原油供应今年将增加约27万桶/日。这与欧佩克自己对美国原油和凝析油产量增长30万桶/日的预测相似。&lt;/p&gt;
-&lt;p&gt;国际能源署预计，美国产量增长将达到64万桶/日。这三个机构是最受关注的预测者，他们的预测均低于去年的数字。&lt;/p&gt;
-&lt;p&gt;欧佩克预计，全球需求增长将超过非欧佩克+集团产油国的供应增长220万桶/日。这意味着，相对于2023年，市场对欧佩克+原油的需求将增加约90万桶/日，该集团在5月发布的月度&lt;sup&gt;&lt;a href="https://www.reuters.com/business/energy/opec-sticks-oil-demand-view-sees-potential-economic-upside-2024-05-14/"&gt;石油市场报告&lt;/a&gt;&lt;/sup&gt;中指出。&lt;/p&gt;
-&lt;p&gt;据&lt;sup&gt;&lt;a href="https://www.reuters.com/business/energy/iea-trims-2024-oil-demand-growth-forecast-widening-gap-with-opec-view-2024-05-15/"&gt;国际能源署&lt;/a&gt;&lt;/sup&gt;预计，2024年全球需求增长将大幅降低至110万桶/日，对欧佩克原油的需求变化不大。&lt;/p&gt;
-&lt;p&gt;今年截至目前，美国总体原油产量几乎没有变化。4月份的产量约为1313万桶/日，较12月份的1326万桶/日略有下降。&lt;/p&gt;
-&lt;p&gt;石油行业高管和分析师表示，美国生产商似乎不太可能像2023年那样出人意料地增加产量，尽管油价徘徊在每桶80美元附近。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;“我们的客户保持非常谨慎和自律的态度。”&lt;/q&gt;钻井承包商Scandrill首席运营官Paul Mosvold表示。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;“令人惊讶的是，钻井数量没有更明显地上升，考虑到当前的价格水平。”&lt;/q&gt;&lt;/p&gt;
-&lt;p&gt;该公司计划保持资本支出不变，并推迟对其钻机进行升级，以更好地与较平坦的钻井增长相匹配。该公司计划到年末运营12台钻机，并计划在明年重新部署更多的钻机。&lt;/p&gt;
-&lt;p&gt;据贝克休斯数据显示，美国石油钻井数量已降至496台，较去年同期下降了13%。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;“美国有能力在未来几年内以每天100万桶的速度增长，但目前没有以这种速度增长的意愿。”&lt;/q&gt;标普分析师在一份报告中指出。&lt;/p&gt;
-&lt;p&gt;标普全球商品洞察预计，今年美国原油和凝析油产量将增加47万桶/日。&lt;/p&gt;
-&lt;p&gt;近年来，上市公司美国生产商对增长的支出受到限制，此前在页岩领域疯狂扩张导致的高额支出局限了回报。&lt;/p&gt;
-&lt;p&gt;近年来高于预期的产量激增部分归因于私营生产商，其中一些现在被卷入了&lt;sup&gt;&lt;a href="https://www.reuters.com/business/energy/us-permian-deal-frenzy-adds-lower-oil-output-growth-2024-2024-02-07/"&gt;该领域兼并浪潮&lt;/a&gt;&lt;/sup&gt;。他们通过钻更长的井和使岩石裂缝以同时从更多的井中产出石油来提高产量。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;尽管最近兼并潮仍在进行，但预计当前的油价将继续支持美国石油总体产量的温和增长，随着钻探和完成效率的持续改进，这种情况将继续保持。&lt;/q&gt;&lt;/p&gt; &lt;q&gt;——Texas Standard Oil总裁Timothy Roberson&lt;/q&gt;&lt;/p&gt;
-&lt;p&gt;像SLB这样的油田服务提供商预测，今年国际市场的增长将高于北美市场。SLB第一季度国际市场收入增长了18%，而北美地区的收入下降了6%，部分原因是为了适应兼并活动。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;过去几年的战略重点转向资本纪律，这导致了不同的回应。&lt;/q&gt;&lt;/p&gt; &lt;q&gt;——UBS银行分析师Giovanni Staunovo认为欧佩克+将延长其自愿减产。&lt;/q&gt;&lt;/p&gt;
-&lt;p&gt;尽管如此，美国、加拿大、巴西和圭亚那仍然预期将在今年引领石油和液体产量的增长。据能源信息署3月的数据显示，预计欧佩克+的石油液体产量今年将下降100万桶/日，而非成员国的供应将增加140万桶/日。&lt;/p&gt;
-&lt;p&gt;&lt;q&gt;欧佩克+已经学会了如何适应美国石油产量的增长。&lt;/q&gt;&lt;/p&gt; &lt;q&gt;——UBS的Staunovo表示。&lt;/q&gt;&lt;/p&gt;
+&lt;p&gt;所谓的“重质押”日益流行，是加密货币市场波动的最新迹象。随着价格飙升，交易者寻找收益，加密货币人气大增。比特币作为最大的加密货币，接近历史最高价，而以太坊作为第二大加密货币，今年以来已上涨超过60%。&lt;/p&gt;
+
+&lt;p&gt;重质押热潮的核心在于西雅图初创公司EigenLayer。该公司今年2月从美国风险投资公司Andreessen Horowitz的加密货币部门获得了1亿美元的投资，其平台已吸引了价值188亿美元的加密货币，而六个月前这一数字还不到4亿美元。&lt;/p&gt;
+
+&lt;p&gt;EigenLayer的创始人Sreeram Kannan向路透社表示，该公司发明了重质押来扩展长存的加密货币实践——质押。&lt;/p&gt;
+
+&lt;p&gt;区块链是一种数据库，涉及网络中的许多计算机来验证并确认谁拥有哪种加密货币。为了做到这一点，加密货币代币的所有者，例如以太坊，允许他们的资产在验证过程中被锁定。持有者在此期间无法立即访问他们的代币，但他们会获得收益作为回报。&lt;/p&gt;
+
+&lt;p&gt;一些质押平台还为用户提供了新创的加密货币，以代表他们质押的加密货币。重质押使代币的所有者可以将这些新代币再次质押到不同的区块链程序和应用中，希望获得更高的回报。&lt;/p&gt;
+
+&lt;p&gt;加密世界对于重质押的风险存在分歧，一些内行人认为这种做法尚处于初级阶段，不足以确定其风险。&lt;/p&gt;
+
+&lt;p&gt;但其他人，包括分析师，担心如果作为重质押加密货币代表的新代币被用作加密货币庞大借贷市场的质押物，可能会形成基于少量基础资产的无尽借贷循环。如果每个人都同时试图退出，这可能会破坏整个加密市场。&lt;/p&gt;
+
+&lt;p&gt;“当有任何质押物以质押物的形式存在时，这并不理想，它增加了新的风险因素，”加密数据分析提供商Kaiko的研究分析师Adam Morgan McCarthy表示。&lt;/p&gt;
+
+&lt;p&gt;投资者对收益的吸引力显现：通常在以太坊区块链上的质押收益在3%-5%之间，但分析师认为重质押可能提供更多收益，因为投资者可以同时赚取多个利率。&lt;/p&gt;
+
+&lt;p&gt;重质押是去中心化金融（DeFi）世界的最新发展，投资者投入试验性方案以不售出代币的情况下为其持有资产赚取大量回报。&lt;/p&gt;
+
+&lt;p&gt;EigenLayer平台尚未直接向用户支付质押奖励，因为支付机制尚未开发。用户是出于对未来奖励或其他空投的期待而加入平台。&lt;/p&gt;
+
+&lt;p&gt;目前，EigenLayer正在向使用平台的人发放其自创的代币EIGEN。用户希望这些代币在未来会有所价值。&lt;/p&gt;
+
+&lt;p&gt;Kaiko的Morgan McCarthy表示，重质押平台的增长是由寻求空投的用户驱动的，称这“非常投机，这是一笔免费的钱。”&lt;/p&gt;
+
+&lt;p&gt;“这是非常冒险的，”美国加密交易平台Coinbase的研究负责人David Duong表示，“他们现在是预防性地这么做，（预期）会获得某种奖励，但不知道会是什么。”&lt;/p&gt;
+
+&lt;p&gt;EigenLayer由Sreeram Kannan创立，他是西雅图大学的前助理教授，并参与了印度首颗学生设计的微卫星的设计，据其学术网站所示。&lt;/p&gt;
+
+&lt;p&gt;EigenLayer把自己描述为一个验证服务的市场，连接潜在的质押者与需要质押代币的应用。&lt;/p&gt;
+
+&lt;p&gt;新的重质押平台也出现了，包括EtherFi、Renzo和Kelp DAO，这些平台为客户在EigenLayer中重新质押代币，并产生新代币来替代这些重新质押的资产。这些代币可以用于其他地方，例如作为借贷的质押物。&lt;/p&gt;
+
+&lt;p&gt;Kannan表示，平台的目的是让用户选择在哪里质押其代币，并帮助新的区块链服务增长，而不是鼓励更多加密货币抵押借款。&lt;/p&gt;
+
+&lt;p&gt;“我们与这些玩家没有任何正式关系……这是一种新兴的现象，”他说。&lt;/p&gt;
+
+&lt;p&gt;Coinbase的Duong表示，重质押可能带有“隐藏风险”——如果重质押代币用于加密借贷，那么在市场下跌期间可能会出现被迫清算，并带来更多的波动性，他在一份报告中写道。&lt;/p&gt;
+
+&lt;p&gt;2022年加密市场崩盘部分是由于高风险借贷，当时作为质押物的加密代币在Terra和Luna崩盘后迅速丧失了价值。&lt;/p&gt;
+
+&lt;p&gt;Kannan将EigenLayer与这些风险区分开来。&lt;/p&gt;
+
+&lt;p&gt;“风险不在于重质押，而在于借贷协议。借贷协议错误定价了风险，”他说。&lt;/p&gt;
+
+&lt;p&gt;一些专家对重质押并不担心，指出重质押协议中的现金相对于全球2.5万亿美元的净加密资产而言微不足道。&lt;/p&gt;
+
+&lt;p&gt;监管机构长期以来一直担心加密世界的损失波及到更广泛的金融市场。&lt;/p&gt;
+
+&lt;p&gt;“就目前而言，我们没有看到由于重质押问题而传染给传统金融市场的重要风险，”S&amp;amp;P全球评级的数字资产分析负责人Andrew O’Neill表示。&lt;/p&gt;
+
+&lt;p&gt;然而，加密世界正变得越来越与主流金融相连，而重质押也开始吸引机构投资者的兴趣。&lt;/p&gt;
+
+&lt;p&gt;Standard Chartered加密公司的Zodia Custody部门已经看到机构投资者对质押产生了显著兴趣，但首席风险官Anoosh Arevshatian表示，他仍认为重质押是一个太大的步骤，难以确定资产流向和收益分配的“纸面跟踪记录”。 &lt;/p&gt;
+
+&lt;p&gt;Nomura的加密部门Laser Digital与Kelp DAO合作重新质押部分基金，Kelp DAO在4月份的博客中表示。Laser Digital未对路透社的评论请求作出回应。&lt;/p&gt;
+
+&lt;p&gt;专注于瑞士加密货币的银行Sygnum表示，其正在为客户提供资金质押，并预计“围绕重质押的新生态系统将出现”。 &lt;/p&gt; 
 
 &lt;figure&gt;
-&lt;img alt="钻井平台的操作室从控制室在一个由Oasis Petroleum拥有的Permian盆地内的租赁地可以看到" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2W47RQDTZJPHLCRUQLYGQO5DQI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;钻井平台的操作室从控制室在一个由Oasis Petroleum拥有的Permian盆地内的租赁地可以看到，Texas, USA, August 22, 2018.  REUTERS/Nick Oxford/File Photo&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 18:10:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/energy/us-oil-producers-maintain-modest-growth-opec-eyes-extended-cuts-2024-05-31/</guid></item><item><title>加密‘重新质押’平台蓬勃发展 交易者追逐更高收益</title><link>https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</link><description>&lt;p&gt;超过180亿美元的加密货币已转入一种新型平台，在该平台中投资者可以通过锁定其代币来获得奖励，这是一种复杂的方案，分析师警告称其可能会给用户和加密货币市场带来风险。&lt;/p&gt;
-&lt;p&gt;所谓的“再质押”现象的不断流行，反映了加密货币市场中风险偏好的不断增加。随着价格的回暖，交易者都在寻找收益，比特币作为最大的加密货币，接近历史最高值；以太币作为第二大加密货币，今年迄今涨幅已超过60%。&lt;/p&gt;
-&lt;p&gt;再质押热潮的核心在于位于西雅图的初创公司EigenLayer。该公司于今年2月从 Andreessen Horowitz 的加密货币部门筹集了1亿美元，吸引了188亿美元的加密货币到其平台上——而在六个月内，这一数字还不到4亿美元。&lt;/p&gt;
-&lt;p&gt;EigenLayer的创始人Sreeram Kannan向路透社表示，该公司发明了再质押，以扩展一种长期存在的加密货币实践——质押。质押涉及许多计算机在网络中验证和确认谁拥有哪种类型的加密货币，而拥有加密货币资产的用户允许其作为验证过程的一部分被锁定。持有者在参与质押期间将失去立即访问其资产的权利，但会获得回报。&lt;/p&gt;
-&lt;p&gt;一些质押平台还会给予用户代表他们已经质押的加密货币的新代币。再质押使代币所有者可以将这些新代币重新质押到不同的基于区块链的程序和应用程序中，以期获得更高的回报。&lt;/p&gt;
-&lt;p&gt;加密世界对于再质押的风险程度意见不一，一些业内人士认为这种做法尚为初步，尚无法确定其风险。&lt;/p&gt;
-&lt;p&gt;但分析师等其他人士担忧，如果再质押代币被用作加密借贷市场中的抵押品，那么可能会产生基于少数底层资产的借贷循环。如果所有人都试图同时退出，可能会给更广泛的加密市场带来不稳定。&lt;/p&gt;
-&lt;p&gt;“当有抵押品的抵押品时，这并不是理想的情况，它引入了新的风险因素。”加密数据提供商Kaiko的研究分析师Adam Morgan McCarthy指出。&lt;/p&gt;
-&lt;p&gt;对于投资者来说，吸引力在于收益：以太坊区块链上的质押回报通常在3%-5%之间，但分析师认为再质押的回报可能更高，投资者可以同时获得多种收益。&lt;/p&gt;
-&lt;p&gt;再质押是去中心化金融（DeFi）领域最新发展之一，在该领域中，加密货币持有者投资于实验性方案，希望在无需出售任何资产的情况下，获得其持有资产的大量回报。&lt;/p&gt;
-&lt;p&gt;然而，EigenLayer平台还没有直接向用户支付质押奖励，因为这一机制尚未开发完成。用户是因为预期未来的奖励，或者说是所谓的空投而加入该平台的。&lt;/p&gt;
-&lt;p&gt;目前，EigenLayer正在向平台使用者发放其自行创建的代币EIGEN，使用者希望该代币在将来可以有所价值。&lt;/p&gt;
-&lt;p&gt;Kaiko的Morgan McCarthy认为再质押平台的增长是由用户寻求此类空投所驱动的，称其为“极其投机的免费资金行动”。他说：“这非常冒险。”&lt;/p&gt;
-&lt;p&gt;Coinbase的David Duong表示：“他们目前是在预先预期自己会得到奖励，但并不知道具体是什么。”他补充说，Coinbase提供质押但不提供再质押。&lt;/p&gt;
-&lt;p&gt;Kannan表示，EigenLayer的目标是让用户选择在哪里质押自己的资产，而不是鼓励更多基于加密货币保障的借贷。&lt;/p&gt;
-&lt;p&gt;“我们并没有与这些参与者建立任何正式关系……这是一种新兴的现象。”&lt;/p&gt;
-&lt;p&gt;Coinbase的Duong表示，再质押可能会带来“隐藏风险”，如果再质押代币被用于加密借贷，可能会导致被迫清算和市场低迷期间更多的波动。&lt;/p&gt;
-&lt;p&gt;2022年加密市场崩盘加剧了高风险的借贷，因为用作抵押的加密代币迅速失去了价值。&lt;/p&gt;
-&lt;p&gt;Kannan将EigenLayer的风险与借贷协议的风险区分开来，他说：“风险不在于再质押，而是在于借贷协议，借贷协议正在错误定价风险。”&lt;/p&gt;
-&lt;p&gt;一些专家对再质押并不担心，指出再质押协议中的现金在相对于全球2.5万亿美元净资产的加密行业中的比例微乎其微。&lt;/p&gt;
-&lt;p&gt;监管机构长期以来一直担心，加密世界的亏损可能蔓延到更广泛的金融市场。&lt;/p&gt;
-&lt;p&gt;“目前来看，再质押问题对传统金融市场并不存在实质性风险的传染。”标准普尔全球评级的数字资产分析负责人Andrew O’Neill说。&lt;/p&gt;
-&lt;p&gt;尽管如此，加密世界正变得越来越与主流金融相连，机构投资者对再质押也越来越感兴趣。&lt;/p&gt;
-&lt;p&gt;Zodia Custody（Standard Chartered加密部门）的首席风险官Anoosh Arevshatian指出，该公司已看到了显著的机构对质押的兴趣，但认为再质押是个太大的步骤，难以建立一份详细的资产流转记录以及奖励分配情况。&lt;/p&gt;
-&lt;p&gt;Nomura加密部门Laser Digital已与Kelp DAO合作，对部分资金进行再质押，Kelp DAO在4月份的一篇博文中表示。Laser Digital未回复路透社的评论请求。&lt;/p&gt;
-&lt;p&gt;瑞士专注于加密货币的银行Sygnum表示，其为客户进行加密资产质押，并预计“会有一个新的再质押生态系统出现”。 &lt;/p&gt;
-&lt;figure&gt;&lt;img alt="示意图展示了代表加密货币比特币的形象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDNBRQLOFNJHDHEBMROWDKW3CE.jpg" /&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="示意图展示了代表加密货币以太坊的形象" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MWMP2HWMNNN3JGDR54RFHLDY54.jpg" /&gt;&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 07:19:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</guid></item></channel></rss>
+    &lt;img alt="Illustration shows representations of cryptocurrency Bitcoin" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDNBRQLOFNJHDHEBMROWDKW3CE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;Illustration picture of cryptocurrency Bitcoin taken in Paris, France, March 9, 2024. REUTERS/Benoit Tessier/Illustration/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img alt="Illustration shows representation of cryptocurrency Ethereum" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MWMP2HWMNNN3JGDR54RFHLDY54.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;A representation of cryptocurrency Ethereum is placed on a PC motherboard in this illustration taken June 16, 2023. REUTERS/Dado Ruvic/Illustration//File Photo/File Photo&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 31 May 2024 07:19:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/technology/crypto-re-staking-platforms-boom-traders-chase-bigger-returns-2024-05-31/</guid></item></channel></rss>
