@@ -1,719 +1,556 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Fri, 03 Jan 2025 12:00:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>政府称，维珍澳大利亚航空员工在斐济被盗和性侵投诉后未被拘留</title><link>https://www.reuters.com/world/asia-pacific/virgin-australia-staff-not-detained-fiji-after-theft-sexual-assault-complaint-2025-01-03/</link><description>&lt;p&gt;据斐济政府称，三位维珍澳大利亚航空公司（Virgin Australia）IPO-VIR.AX的工作人员并未被斐济警方拘留，正在进行性侵犯和盗窃事件的调查，但斐济政府补充说，航空公司总部建议这些工作人员留在酒店。&lt;/p&gt;
-&lt;p&gt;斐济政府在一份声明中表示，国际媒体关于该机组人员被拘留的报道是不正确的。&lt;/p&gt;
-&lt;p&gt;“该机组人员身体状况良好，目前被安置在当地一家酒店，这是落地过夜指定的机组人员住宿点。”斐济副总理兼旅游部长维里阿米·加沃卡（Viliame Gavoka）在声明中说。&lt;/p&gt;
-&lt;p&gt;“另外，这三名机组人员还被建议留在酒店附近，以便保持联系并协助警方的调查；他们应在本周末前返回家中。”&lt;/p&gt;
-&lt;p&gt;当路透社联系维珍时，维珍拒绝发表评论。&lt;/p&gt;
-&lt;p&gt;斐济政府表示，警方正在调查1月1日凌晨发生在纳迪市（Nadi City）的涉及维珍机组人员的其他事件。&lt;/p&gt;
-&lt;p&gt;澳大利亚广播公司（Australian Broadcasting Corp, ABC）报道说，这三位维珍员工是一位男性和一位女性，其中女性在接受夜店外发生的性侵犯指控，男性在接受附近夜店盗窃指控。&lt;/p&gt;
-&lt;p&gt;据报道，维珍派遣了额外的员工来执飞返程航班，而不是让参与事件的员工继续执飞。&lt;/p&gt;
-&lt;p&gt;澳大利亚广播公司提到的据说发生事件的夜店名为Bar One，截至发稿时，该夜店没有对路透社的评论请求作出回应。斐济警察也未对评论请求作出回应。&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 05:51:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/virgin-australia-staff-not-detained-fiji-after-theft-sexual-assault-complaint-2025-01-03/</guid></item><item><title>波斯尼亚和平特使宣布塞尔维亚议会的命令非法</title><link>https://www.reuters.com/world/europe/bosnia-peace-envoy-declares-serb-parliaments-orders-illegal-2025-01-02/</link><description>&lt;p&gt;巴尔干地区波斯尼亚的国际和平特使克里斯蒂安·施密特于周四采取行动，拒绝了塞族共和国议会上周发出的阻碍波斯尼亚加入欧盟进程的指令，力图确保该国的欧盟融入进程得以延续。&lt;/p&gt;
-&lt;p&gt;上周，波斯尼亚塞族占主导地位的地区议会议员要求中央政府的塞族代表抵制必要的法律改革，这些改革对于波斯尼亚加入欧盟至关重要。&lt;/p&gt;
-&lt;p&gt;克里斯蒂安·施密特高代表拥有塞族不认可的权力，他周四禁止任何实施那些指令危险内容的企图。&lt;/p&gt;
-&lt;p&gt;1995年结束巴尔干地区历时3年半的种族战争的《代顿协议》赋予高代表最终决定权，判断这些决定是否符合和平协议。&lt;/p&gt;
-&lt;p&gt;《代顿协议》将波斯尼亚分为两个自治地区：塞族占主导地位的塞族共和国和克罗地亚天主教徒与波斯尼亚穆斯林共同主导的联邦，二者由一个弱化的中央政府联合。这确保了和平，但使得波斯尼亚作为一个国家的功能性缺失。&lt;/p&gt;
-&lt;p&gt;施密特的这一举动是为了阻止波斯尼亚陷入新的政治危机，并确保欧盟融入进程继续推进。&lt;/p&gt;
-&lt;p&gt;塞族共和国总统米洛拉德·久德罗维奇多年来一直试图让该地区脱离波斯尼亚，并试图让国家机构停摆。他因违背施密特的决定正面临波斯尼亚法庭的审判。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Fri, 03 Jan 2025 12:48:01 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>俄罗斯向乌克兰发射新一轮无人机袭击，造成一人死亡，基辅称</title><link>https://www.reuters.com/world/europe/russia-launches-new-barrage-drones-ukraine-kills-one-kyiv-says-2025-01-03/</link><description>&lt;p&gt;俄罗斯于周五半夜对乌克兰发动了无人机袭击，乌克兰军事和区域官员称，此次袭击造成了基辅地区一人死亡，四人受伤。&lt;/p&gt;
+&lt;p&gt;据空军称，乌克兰防空系统击落了93架俄罗斯无人机中的60架。他们还说，另26架无人机“失联”，这是指乌方使用电子战技术使俄罗斯无人机偏离原定目标。&lt;/p&gt;
+&lt;p&gt;空军补充说，仍有1架俄罗斯无人机在天空中。&lt;/p&gt;
+&lt;p&gt;基辅地区代理负责人米科拉·卡拉什尼科夫表示，一名卡车司机被无人机碎片击中而身亡。碎片还损坏了数栋民宅，其中包括一名16岁少年在内的四人受伤。&lt;/p&gt;
+&lt;p&gt;空军表示，俄罗斯无人机袭击了全国九个地区的目标。据军方通报，顿涅茨克地区东部及钦net羽夫地区北部的居民住宅和商业建筑遭到损坏。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="俄罗斯无人机袭击在基辅的爆炸" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MLCV6MOVOBPXAHFX3NWFMFEJ4.jpg" style="text-align: center;"&gt;&lt;br&gt;&lt;i&gt;2025年1月3日，乌克兰基辅，一次俄罗斯无人机袭击期间，无人机爆炸在城市上空。REUTERS/Gleb Garanich&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="俄罗斯无人机袭击在基辅的爆炸" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DCKPUGILN5M7VFLVAD5LCMK3VU.jpg" style="text-align: center;"&gt;&lt;br&gt;&lt;i&gt;2025年1月3日，乌克兰基辅，一次俄罗斯无人机袭击期间，无人机爆炸在城市上空。REUTERS/Gleb Garanich&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="俄罗斯无人机袭击在基辅的搜索行动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DDGSGFIYDVLB7A4GDCQEORYCBU.jpg" style="text-align: center;"&gt;&lt;br&gt;&lt;i&gt;2025年1月3日，乌克兰基辅，空军人员使用探照灯在一次俄罗斯无人机袭击期间搜索无人机。REUTERS/Gleb Garanich&lt;/i&gt;&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 07:55:57 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russia-launches-new-barrage-drones-ukraine-kills-one-kyiv-says-2025-01-03/</guid></item><item><title>韩国紧急部门称数十人在大厦火灾中获救</title><link>https://www.reuters.com/world/asia-pacific/people-reported-trapped-building-fire-south-koreas-seongnam-ytn-2025-01-03/</link><description>&lt;p&gt;当地时间周五，韩国首尔市松川区一栋八层高的建筑物发生火灾并伴有浓重烟雾，12人因吸入烟雾被送至医院，大约30人已被安全救出，消防部门表示。&lt;/p&gt;
+&lt;p&gt;火灾始于该商业建筑的一层餐厅，该建筑内还设有一个儿童游泳池。火灾发生后，消防部门出动82辆消防车和装备，将火势控制住。&lt;/p&gt;
+&lt;p&gt;早前，YTN电视台报道称多名人员被困室内，视频显示浓烟已笼罩了建筑的大部分区域。&lt;/p&gt;
+    
+&lt;figure&gt;&lt;img alt="韩国松川区建筑物火灾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GIGQANZCFZP7FLELOUTXWJZNOQ.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption&gt;韩国松川区，2025年1月3日，一起火灾现场的消防队员。图片来源：路透社/金洪基&lt;/figcaption&gt;
+    
+&lt;figure&gt;&lt;img alt="韩国松川区的火灾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6XGHCZ2HNJO5VBJRDYZQM5ALQY.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption&gt;2025年1月3日，韩国松川区一场火灾现场。图片来源：路透社/社媒视频截图&lt;/figcaption&gt;
+    
+&lt;figure&gt;&lt;img alt="韩国松川区建筑物火灾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/M7DYGULEJRISLDVIXAFZKXGKVA.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption&gt;2025年1月3日，韩国松川区火灾现场的消防队员。图片来源：路透社/金洪基&lt;/figcaption&gt;
+    
+&lt;figure&gt;&lt;img alt="韩国松川区建筑物火灾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UIXT6SGWQFPITPS6WE7OV2ERXA.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption&gt;2025年1月3日，韩国松川区火灾现场一名消防队员手持手电筒行走。图片来源：路透社/金洪基&lt;/figcaption&gt;
+    
+&lt;figure&gt;&lt;img alt="韩国松川区的建筑物火灾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H4MJXHHNWNLHZB7IHLHBRTL5YU.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption&gt;2025年1月3日，韩国松川区一场火灾现场。图片来源：路透社/社媒视频截图&lt;/figcaption&gt;</description><pubDate>Fri, 03 Jan 2025 08:20:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/people-reported-trapped-building-fire-south-koreas-seongnam-ytn-2025-01-03/</guid></item><item><title>格陵兰领导人加大了争取从丹麦独立的努力</title><link>https://www.reuters.com/world/greenlands-leader-steps-up-push-independence-denmark-2025-01-03/</link><description>&lt;p&gt;格陵兰总理穆特·埃格德在新年演讲中强调了格陵兰追求脱离丹麦——其前殖民统治者——独立的愿望，这标志着对北极岛屿未来前景言论的重大转变。&lt;/p&gt;
+&lt;p&gt;埃格德的演讲正值美国总统-elect唐纳德·特朗普表达希望“拥有并控制”格陵兰的意愿后不久，他也表达了加强格陵兰与其他国家合作的意愿。&lt;/p&gt;
+&lt;p&gt;“是时候我们自己迈出一步，塑造我们的未来，特别是在确定紧密合作的对象和贸易伙伴方面，”他说。&lt;/p&gt;
+&lt;p&gt;近年来，随着丹麦当局在20世纪的一些不当行为的揭露——其中包括1960年代开始的一项强制性避孕运动——格陵兰的独立运动有所增强。&lt;/p&gt;
+&lt;p&gt;格陵兰曾在1953年之前是丹麦的殖民地，但现在是丹麦的自治领地。2009年，通过投票，格陵兰获得了通过宪法声明独立的权利。2023年，格陵兰政府提交了其首部宪法草案。&lt;/p&gt;
+&lt;p&gt;“历史和当前情况表明，我们与丹麦王国的合作未能实现平等，”埃格德表示。&lt;/p&gt;
+&lt;p&gt;“现在是我们国家迈出下一步的时候了。与其他世界上的国家一样，我们必须共同努力消除合作障碍——我们可以将其描述为殖民主义的桎梏——向前迈进。”他补充道。&lt;/p&gt;
+&lt;p&gt;他强调，格陵兰的独立最终将由格陵兰人民自己决定，但未说明投票的时间。&lt;/p&gt;
+&lt;p&gt;尽管格陵兰5.7万居民中有大多数支持独立，但对未来时机及对生活水平的影响仍存在分歧。&lt;/p&gt;
+&lt;p&gt;格陵兰政府拒绝了特朗普两次购买岛屿的提议。埃格德坚称，“格陵兰是我们的，我们不会出售，也不会被出售。”&lt;/p&gt;
+&lt;p&gt;特朗普和美国此次未在演讲中被提及。格陵兰首府努克与纽约的距离比与丹麦首都哥本哈根更近。&lt;/p&gt;
+&lt;p&gt;尽管格陵兰蕴藏着丰富的矿物、石油和天然气资源，但其经济依然脆弱，很大程度上依赖渔业和丹麦年度补助。&lt;/p&gt;
+&lt;p&gt;格陵兰将于4月6日前举行议会选举。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="波斯尼亚国际高代表克里斯蒂安·施密特在与路透社记者在萨拉热窝的采访中” src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JE3RYUOL3RKP3LQ7ABAZKHSSMI.jpg" /&gt;
+&lt;img alt="欧盟办事处在格陵兰开幕" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2SCNKWQMMVJHXA6S42FV2VCP5A.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;格陵兰总理穆特·博乌普·埃格德在努克出席欧盟新办事处开幕式，2024年3月15日。Ritzau Scanpix/Leiff Josefsen via REUTERS/资料照片&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 10:17:05 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/greenlands-leader-steps-up-push-independence-denmark-2025-01-03/</guid></item><item><title>发动机制造商通用电气加入韩国致命空难调查</title><link>https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/</link><description>&lt;p&gt;GE Aerospace，其合资公司制造了坠毁在韩国土地上死难人数最多的航空灾难中的波音飞机发动机，加入了由首尔延长一周对所有101架波音737-800飞机进行特别检查的调查。&lt;/p&gt;
+&lt;p&gt;交通部将检查期限延长至1月10日，这是在济州航空（089590.KS）运营的一架波音737-800坠毁事件之后，该事件导致179人死亡。民用航空副部长刘正完在新闻发布会上告知了这一消息。&lt;/p&gt;
+&lt;p&gt;“调查人员正在通过拼凑证据来探查事故原因。”刘正完补充道。&lt;/p&gt;
+&lt;p&gt;原本预计检查工作将于周五完成，但另一位政府官员表示，进一步检查将包括航空公司维护时间是否充足以及是否进行了修复件的保证等方面。&lt;/p&gt;
+&lt;p&gt;社交媒体上发布的视频显示，在坠机前，飞机右发动机似乎冒出烟雾。&lt;/p&gt;
+&lt;p&gt;周日从曼谷飞往韩国最南端县道——木原地区的航班，以机腹着陆方式坠毁并冲出跑道，在撞击堤岸后起火爆炸。&lt;/p&gt;
+&lt;p&gt;交通部表示，将检查所有737-800飞机的发动机、维护记录和起落架，严重违规将导致航空公司运营被暂停。&lt;/p&gt;
+&lt;p&gt;该飞机的发动机由GE Aerospace与Safran共同合资的CFM International制造。GE Aerospace的媒体代表对路透社邮件询问的调查事宜未立即作出回应。&lt;/p&gt;
+&lt;p&gt;GE代表的加入使调查组成员增至23人，包括12名韩国调查员以及波音和美国国家运输安全委员会（NTSB）的美国代表。&lt;/p&gt;
+&lt;p&gt;尽管事故原因尚未明确，但这一坠机事件有可能为波音公司制造的飞机恢复客户信任带来新的问题，该公司正因两起致命的737 MAX坠机事故、一次空中板件爆裂以及为期七周的罢工而苦苦挣扎。&lt;/p&gt;
+&lt;p&gt;尚待解答的问题包括：为何飞机未能展开起落架，飞行员为何在向空中交通管制报告飞机遭遇鸟击并宣布紧急情况后，似乎匆忙尝试第二次着陆。&lt;/p&gt;
+&lt;p&gt;韩国调查团队表示，将于周一运回的飞行数据记录器的两名成员将与美国国家运输安全委员会一同分析关键数据。&lt;/p&gt;
+&lt;p&gt;刘正完预计调查人员将在未来几天内完成对失事飞机驾驶舱语音记录的转录，并决定是否披露转录內容。&lt;/p&gt;
+&lt;p&gt;交通部还与包括韩空军（003490.KS）和大韩航空（020560.KS）在内的11家航空公司首席执行官进行了紧急会晤，对加强航空安全进行了讨论。&lt;/p&gt;
+&lt;p&gt;韩国代理总统崔政赫在周五要求调查人员迅速从事故现场收集证据，并分析驾驶舱语音记录的数据。&lt;/p&gt;
+&lt;p&gt;周四，警方表示正在搜查济州航空及其运营的木原国际机场，禁止济州航空首席执行官Kim E-bae及其一名未确定身份的官方人员离开韩国。&lt;/p&gt;
+&lt;p&gt;调查人员计划在1月8日前对韩国其他机场的跑道系统位置和材料进行特别检查。&lt;/p&gt;
+&lt;p&gt;安全专家指出，该堤岸是为支撑协助飞行员进行安全下降的导航系统而设计的，但其刚度过硬且距离跑道尽头太近。&lt;/p&gt;
+&lt;p&gt;调查人员将分析从事故现场回收的107部手机上的数据，包括短信内容，以寻求坠机前发生情况的线索。（Yonhap News报道）&lt;/p&gt; 
+&lt;p&gt;&lt;figure&gt;
+&lt;img alt="Jeju Air坠机现场" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RCBDFTL2K5KGDJLQQNANTOP6BM.jpg" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-波斯尼亚国际高代表克里斯蒂安·施密特在与路透社记者在萨拉热窝的采访中。照片摄于2023年10月10日，波黑，萨拉热窝。路透社/安东尼奥·布罗尼奇/文件照片。
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 21:25:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/bosnia-peace-envoy-declares-serb-parliaments-orders-illegal-2025-01-02/</guid></item><item><title>FBI 寻求有关2021年1月6日华盛顿管道炸弹事件新的嫌疑人线索</title><link>https://www.reuters.com/world/us/fbi-seeks-new-leads-washington-suspect-jan-6-2021-pipe-bombs-2025-01-02/</link><description>&lt;p&gt;联邦调查局（FBI）于周四发布了新的监控视频，旨在重新激发四年未果的调查任务，寻找在2021年1月5日晚向美国国会大厦附近放置管道炸弹的嫌疑人。&lt;/p&gt;
-&lt;p&gt;这份此前尚未公布的监控视频显示，2021年1月5日晚，一名嫌疑人将炸弹置于民主党全国委员会大楼外的长凳附近。另一枚炸弹放置在共和党总部。这两处地点均靠近国会大厦。&lt;/p&gt;
-&lt;p&gt;警方成功拆除了这些炸弹，均未爆炸。&lt;/p&gt;
-&lt;p&gt;尽管收到来自公众超过600条线索，并提供了50万美元的悬赏，但自2021年1月6日发现炸弹以来的四年间，联邦调查局仍未成功确认嫌疑人身份。当时，特朗普支持者冲入国会，试图阻止认证其2020年大选败选结果。&lt;/p&gt;
-&lt;p&gt;“我们希望激起某人的记忆，”联邦调查局华盛顿特别事务办公室代理主管大卫·桑德伯格在接受采访时说，“我们相信，确实有更多的人知道更多信息，但未被分享出来。”&lt;/p&gt;
-&lt;p&gt;目前尚不清楚这些炸弹是否与国会暴乱有关，但它们在2021年1月6日发现于临近国会大厦的位置，抽调了大量警力，至今仍是当天的一大悬案。&lt;/p&gt;
-&lt;p&gt;特朗普胜选后的2024年美国总统选举即将于周一在国会认证，他在1月20日将正式宣誓就任第二任期。&lt;/p&gt;
-&lt;p&gt;联邦调查局表示，嫌疑人身高约5英尺7英寸（约170厘米），并公布了当晚其行走路线的地图。&lt;/p&gt;
-&lt;p&gt;嫌疑人的普通着装，一件灰色运动衫和裤子，以及从放置到发现途中长达15小时的间隔，限制了调查进程。&lt;/p&gt;
-&lt;p&gt;联邦调查局此前已发布其他监控视频，显示该嫌疑人穿着独特的黑色和灰色耐克Air Max Speed Turf运动鞋。&lt;/p&gt;
-&lt;p&gt;2021年1月6日，国会大厦内部发生混战，暴徒突破警方路障，袭击了约140名执法人员，并造成超过280万美元的财产损失。特朗普承诺将至少赦免参与暴乱的约1600名人员中的部分人。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="美国国会大厦穹顶在华盛顿的阳光中投下轮廓" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QVANRN5YRNPGXITPC2LPCFTI4I.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;美国国会大厦穹顶在华盛顿的阳光中投下轮廓, 2025年1月2日。路透社/埃velyn Hockstein/资料照片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 23:04:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/fbi-seeks-new-leads-washington-suspect-jan-6-2021-pipe-bombs-2025-01-02/</guid></item><item><title>韩国在致命空难后延长波音 737-800 的检查</title><link>https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/</link><description>&lt;p&gt;韩国交通部已将对所有由国内航空公司运营的101架波音737-800飞机的特别检查延长一周，这一延长得益于通用电器（GE.N）加入了对韩国境内最严重航空灾难的调查。&lt;/p&gt;
-&lt;p&gt;事故发生后，韩国交通部于周日推出了一架波音737-800飞机在济州航空（089590.KS）运营下坠毁，造成179人死亡的调查行动。&lt;/p&gt;
-&lt;p&gt;原本计划在本周五完成的检查已延长至1月10日，以进行额外检查，例如航空公司是否充分确保了维修时间，以及是否已经为维修准备了足够替换零件，交通部官员向记者透露。&lt;/p&gt;
-&lt;p&gt;该架从泰国曼谷飞往韩国南端全罗南道穆安郡的济州航空航班在跑道外着陆且跑道尽头，撞上堤岸后爆炸起火。&lt;/p&gt;
-&lt;p&gt;交通部表示，将会检查所有737-800飞机的发动机、维修记录和起落架，航空公司的运营若有严重违规将可能被暂停。&lt;/p&gt;
-&lt;p&gt;该飞机的发动机由通用电气的CFM国际与赛峰共同生产。&lt;/p&gt;
-&lt;p&gt;目前尚不清楚导致这次灾难的原因是什么，但这起济州航空事故为波音公司再次带来困扰，波音正努力重建客户信任，之前波音737 MAX多次致命事故、机翼中段破损事件及长达七周的罢工已令其面临信任危机。&lt;/p&gt;
-&lt;p&gt;韩国交通部还召开了紧急会议，与包括韩国航空公司（003490.KS）和大韩航空（020560.KS）在内的11家航空公司首席执行官讨论了增强航空安全的措施。&lt;/p&gt;
-&lt;p&gt;韩国调查团队宣布，将于下星期派出二人前往美国，与美国国家运输安全委员会（NTSB）合作分析坠机时的飞行数据记录器。&lt;/p&gt;
-&lt;p&gt;该团队还正在研究飞机残骸，并与机场管制塔人员进行访谈。&lt;/p&gt;
-&lt;p&gt;调查人员将分析在坠机现场检索到的107部手机数据，包括短信等，以寻找导致坠机的线索，据韩联社报道。&lt;/p&gt;
-&lt;p&gt;韩国代理总统崔始木（Choi Sang-mok）在周五敦促调查人员迅速收集现场证据，并分析飞机上的语音记录。&lt;/p&gt;
-&lt;p&gt;悬而未决的问题包括为什么该飞机未展开起落架，以及为何飞行员在向空中交通管制报告飞机遭遇鸟类撞击并宣布紧急情况后，匆忙进行第二次落地尝试。&lt;/p&gt;
-&lt;p&gt;警方表示，正在对济州航空和穆安国际机场运营者进行搜查，同时禁止济州航空首席执行官金艺才（Kim E-bae）和其他未具名官员离境。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="济州航空坠机事故现场" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RCBDFTL2K5KGDJLQQNANTOP6BM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;被困在穆安国际机场跑道外坠机现场的济州航空飞机残骸，2024年12月30日，韩国全罗南道穆安。路透社/金永植&lt;/i&gt;
+&lt;em&gt;2024年12月30日，韩国木原国际机场，发生坠机事故的济州航空飞机残骸。路透社／金洪基摄&lt;/em&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;figure&gt;
+&lt;img alt="韩国航空检查" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QKR4RKTK7FIATMBHU73BVEY4NM.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;em&gt;2024年12月31日，韩国木原国际机场，坠机后冲出跑道的飞机残骸。路透社／金洪基摄（文件照）&lt;/em&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 03:50:04 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/</guid></item><item><title>奥地利自由派退出联盟谈判，使进程陷入混乱</title><link>https://www.reuters.com/world/europe/austrian-liberals-quit-three-party-coalition-talks-2025-01-03/</link><description>&lt;p&gt;在奥地利联合政府谈判中，作为三方中偏中心派最小的政党，自由党（Neos）已宣布退出谈判，Neos党魁贝塔·迈林-雷辛格在周五的声明中表示，这将使谈判陷入混乱，而这些谈判此前排除了极右翼的自由党（FPO）。&lt;/p&gt;
+&lt;p&gt;此次政治变革进一步蒙上阴影，极右翼的自由党（FPO），在最近的议会选举中以29%的得票率高居榜首，但未获组阁任务，如今正积极挑战现状，等待时机。&lt;/p&gt;
+&lt;p&gt;根据最新的民调，极右翼的自由党（FPO）的民意支持持续增长。该党将其批评谈判的行为描述为一种没有民主基础且不顾整体利益的决定，称之为“失败者联盟”。&lt;/p&gt;
+&lt;p&gt;自由党（Neos）党魁贝塔·迈林-雷辛格在一场仓促召开的新闻发布会上表示，与总理卡尔·内哈默领导的传统派人民党（OVP）及社会民主党（SPO）的谈判缺乏雄心，进度缓慢。&lt;/p&gt;
+&lt;p&gt;不过，她补充说，Neos党仍愿意在议会中支持此前在谈判中已经达成一致的项目，暗示即使拥有简单多数，社会民主党（SPO）与传统派人民党（OVP）两党也有可能形成联盟政府。&lt;/p&gt;
+&lt;p&gt;传统派人民党和社会民主党（OVP 和 SPO）的相关发言人目前尚未就此事发表评论。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="联合政府谈判后维也纳选举" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X4GNPCI35BLJ5HLFXSPYAW3ATY.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;i&gt;2024年12月20日，奥地利维也纳，自由党（Neos）党魁贝塔·迈林-雷辛格与记者在联合政府谈判后交谈。图片来源：REUTERS/Elisabeth Mandl/档案照片&lt;/i&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 10:19:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/austrian-liberals-quit-three-party-coalition-talks-2025-01-03/</guid></item><item><title>加纳议会通过临时预算，避免政府关门</title><link>https://www.reuters.com/world/africa/ghanas-parliament-passes-provisional-budget-averts-government-shutdown-2025-01-03/</link><description>&lt;p&gt;加纳议会已通过一项临时预算，使政府能够在3月底之前花费681亿加纳塞地（约合46.5亿美元）。议会议长阿兰·巴金表示，这一预算的通过避免了前所未有的政府停摆。&lt;/p&gt;
+&lt;p&gt;议会议长阿兰·巴金指出，议会在一个深夜进行了审议，并通过了这项临时预算。&lt;/p&gt;
+&lt;p&gt;约翰·德拉尼·马哈马将于下周就职成为西非国家加纳的总统，他在12月7日的选举中胜出，结束了近六年的总统任期。&lt;/p&gt;
+&lt;p&gt;现任总统纳纳·阿库福-阿多将于周五晚些时候发表任期内的最后一份国情咨文，此前他已掌舵八年的该国是一个黄金和石油出口国。&lt;/p&gt;
+&lt;p&gt;临时预算通常在选举年份的11月通过，以覆盖直至总统就职前的财政缺口。&lt;/p&gt;
+&lt;p&gt;但此次临时预算的提交时间推迟，因为出现了关于议会议席多数归属的僵局，即是由现任的新民族党（NPP）还是即将上任的全国民主大会党（NDC）掌握多数席位。&lt;/p&gt;
+&lt;p&gt;财政部长穆罕默德·阿明·阿دم在联合商业和财政委员会表示，临时预算的晚出不会影响政府的正常运作。&lt;/p&gt;
+&lt;p&gt;“这避免了政府停摆，并减少了加纳债务违约悲剧可能加剧的可能性。”前财政部长塞斯·特尔珀向路透社表示。&lt;/p&gt;
+&lt;p&gt;根据临时预算，批准的资金中有近三分之一用于支付能源部门服务提供商的款项。&lt;/p&gt;
+&lt;p&gt;马哈马，即将就任的总统，在上个月表示，加纳正面临能源领域的严峻形势，初步估计显示，当电力供应不稳定时，欠款已超过25亿美元。&lt;/p&gt;
+&lt;p&gt;作为主要反对党领袖的马哈马正在回归权力，此时正值加纳从一代人中最严重危机中复苏的经济复甦期。&lt;/p&gt;
+&lt;p&gt;(1美元=14.6500加纳塞地)&lt;/p&gt;
+    &lt;figure&gt;&lt;img alt="加纳总统当选人约翰·德拉尼·马哈马与路透社记者交谈" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IYIVCB6R2FNULP6OWR5P4GNDMU.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加纳总统当选人约翰·德拉尼·马哈马，66岁，在加纳首都阿克拉的办公室内与路透社记者交谈，图摄于12月13日。路透社/弗朗西斯·科科罗科/图文&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 10:04:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/africa/ghanas-parliament-passes-provisional-budget-averts-government-shutdown-2025-01-03/</guid></item><item><title>韩国尹锡悦支持者采用“停止盗窃”口号，希望特朗普能提供帮助</title><link>https://www.reuters.com/world/supporters-south-koreas-yoon-adopt-stop-steal-hope-trump-will-help-2025-01-03/</link><description>&lt;p&gt;支持被弹劾的韩国总统尹锡悦的人员采用了美国前总统当选人唐纳德·特朗普支持者常用的“Stop the Steal”标语，并表示希望下一任总统能够帮助他们的困境中的领导者。&lt;/p&gt;
+&lt;p&gt;周五凌晨，尹锡悦的支持者们在总统府外聚集，试图阻止其被捕。一些支持者举着用英语书写的“Stop the Steal”标语牌，与特朗普支持者用来质疑2020年美国总统选举结果的口号相同。&lt;/p&gt;
+&lt;p&gt;尽管尹锡悦周五没有被逮捕，但军警阻止了执行逮捕令的行动。此次行动涉及对尹锡悦在12月3日短时间内实施的军事状态的刑事叛乱调查。&lt;/p&gt;
+&lt;p&gt;将于1月21日就任的特朗普尚未就尹锡悦的处境发表评论，且其竞选团队与尹锡悦的支持者之间没有明确联系。&lt;/p&gt;
+&lt;p&gt;但韩国社交媒体平台X上关于#StopTheSteal或“选举舞弊”的#符号搜索结果显示，最近有来自韩国民众的帖子张贴了许多设计上似乎受到特朗普“让美国再次伟大”标语启发的 memes。&lt;/p&gt;
+&lt;p&gt;尹锡悦对其行动的辩护也与特朗普的政治言论有相似之处，他提到了投票环节可能存在不规范之处，并称国家内外的敌人构成了威胁。&lt;/p&gt;
+&lt;p&gt;尹锡悦在其最初宣布动用军事力量时，并未提及选举问题，但派遣了数百名士兵袭击了国民选举委员会(NEC)，后来还指控北韩入侵了该委员会的系统，却没有提供证据。&lt;/p&gt;
+&lt;p&gt;尹锡悦称此次攻击被国家安全局侦测到，但委员会作为一个独立机构，拒绝了全面配合调查和检查其系统。&lt;/p&gt;
+&lt;p&gt;这一入侵引发了对2024年4月议会选举公正性的怀疑，那次选举他所在的政党惨败，尹锡悦随后宣布动用军事力量。&lt;/p&gt;
+&lt;p&gt;选举委员会表示，去年他们曾咨询过国家安全局以应对“安全漏洞”，但并没有证据表明北韩的入侵破坏了选举系统，且投票是以纸质形式进行的。&lt;/p&gt;
+&lt;p&gt;这一事件现在成为了尹锡悦支持者们的主要讨论点，他们认为尹锡悦宣布动用军事力量是正当的，并希望这项行动可以得到特朗普的认可。&lt;/p&gt;
+&lt;p&gt;“他真能帮助尹锡悦总统。”首尔大学教授李孝松说道，补充道他的英文字样“Stop The Steal”标语吸引的受众既包括美国人也包括韩国人。&lt;/p&gt;
+&lt;p&gt;71岁的朴仁植举着韩美两国旗，上有“我们一起前进”二字（英韩双语），他表示期盼特朗普的回归能够拯救尹锡悦。&lt;/p&gt;
+&lt;p&gt;手持“Stop the Steal”标语牌并与中旗合影的崔惠京声称“中国人来我们国家偷走了我们的选票”。当被问及针对选举舞弊的官方拒绝声明时，她表示信任尹锡悦：“总统不会说错话的。”&lt;/p&gt;
+&lt;p&gt;数百名支持尹锡悦的抗议者围绕总统府，有些人彻夜在外，希望阻止逮捕行动。&lt;/p&gt;
+&lt;p&gt;“无效的弹劾”，抗议者们呐喊，其中一些人还展示了美国国旗，这在该国保守派抗议活动中常见。&lt;/p&gt;
+&lt;p&gt;特朗普曾两次遭到弹劾，但均被宣判无罪。&lt;/p&gt;
+    
+    &lt;figure&gt;&lt;img alt="支持尹锡悦抗议者在首尔举行集会，尹锡悦被调查官员未能在其府邸执行逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZTOTLFW36FJ7JMIJ6OAZGQ7JYA.jpg" /&gt; 
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;支持尹锡悦抗议者手持韩国国旗和“STOP THE STEAL”标语，于其府邸附近集会，根据高级官员反腐败调查局的说法，调查人员周五未能执行逮捕令，此事件发生在2025年1月3日的首尔，韩国。路透社/金洙贤&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+    
+    &lt;figure&gt;&lt;img alt="韩国法院对尹锡悦发出逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QZCK4HXP4FPENCLPCZBHJFWTRI.jpg" /&gt; 
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;53岁的朴彩沅，尹锡悦被弹劾总统的支持者，在法院周二批准对他发出逮捕令后，在尹锡悦府邸附近的一次集会上挥动着标语牌，该标语牌上写着“STOP THE STEAL”，此次集会发生在2025年1月3日的韩国首尔。路透社/金茂锡&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+    
+    &lt;figure&gt;&lt;img alt="支持尹锡悦抗议者在首尔举行集会，尹锡悦被调查官员未能在其府邸执行逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LYQ7UA7TORKMHLYPDJCLXLTH2Q.jpg" /&gt; 
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在调查人员周五未能在其府邸执行逮捕令的事件中，一位支持尹锡悦的抗议者在尹锡悦官邸附近集会上挥动着一张标语牌，上面写着“调查选举舞弊”。该事件发生在2025年1月3日的韩国首尔。路透社/金洙贤&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 08:25:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/supporters-south-koreas-yoon-adopt-stop-steal-hope-trump-will-help-2025-01-03/</guid></item><item><title>波兰表示不欢迎匈牙利大使参加欧盟轮值主席国活动开幕式</title><link>https://www.reuters.com/world/europe/poland-says-hungarian-envoy-not-welcome-event-start-eu-presidency-2025-01-03/</link><description>&lt;p&gt;波兰决定不邀请匈牙利大使参加于周五举行华沙欧盟轮值主席国活动的招待会，此前布达佩斯为一名涉嫌挪用公款的前副总理提供庇护。&lt;/p&gt;
+&lt;p&gt;波兰副总理兼欧盟事务副部长玛加莱娜·索布科维卡-扎尔内卡亚表示，匈牙利总理维克托·奥鲍尔及其匈牙利总理府部门事务部副部长也未被邀请参加华沙大剧院举行的仪式。&lt;/p&gt;
+&lt;p&gt;华沙对中国本月早些时候授予波兰前司法部副部长马辛·罗曼科夫斯基政治庇护一事反应强烈。&lt;/p&gt;
+&lt;p&gt;罗曼科夫斯基于去年7月因涉嫌挪用公款被捕，并迅速获释，当时欧洲权利会议主席称其因作为该会议代表团成员享有豁免权。罗曼科夫斯基否认这些指控。&lt;/p&gt;
+&lt;p&gt;索布科维卡-扎尔内卡亚在周五晚间电视采访中表示：“当我们在一个月前的招待会邀请嘉宾时，我们邀请了全部外交使团。”&lt;/p&gt;
+&lt;p&gt;“但罗曼科夫斯基的情况发生后，外交部长席克尔斯基决定今天华沙大剧院中不再欢迎匈牙利大使出席。”&lt;/p&gt;
+&lt;p&gt;波兰总理唐纳德·图斯克和欧洲理事会主席安东尼奥·科斯塔本应参加在华沙举行的欧盟轮值主席国就职典礼，并将在典礼上发表演讲。欧盟成员国每半年轮值一次。&lt;/p&gt;
+&lt;p&gt;匈牙利在2024年下半年担任欧盟轮值主席国。&lt;/p&gt;
+&lt;p&gt;图斯克曾对奥鲍尔在乌克兰战争问题上的立场和波兰认为的亲俄罗斯政策持批评态度。奥鲍尔曾对匈牙利媒体表示，图斯克政府认为匈牙利人是敌人。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="工人在华沙为安德列齐·杜达宣誓就任波兰总统前熨欧盟和波兰国旗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VD3Z2M57UJJMLI74YEA52L4VRU.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;工人在2020年8月6日华沙熨欧盟和波兰国旗，为安德列齐·杜达宣誓就任波兰总统做准备。Slawomir Kaminski/Agencja Gazeta via REUTERS/资料照片&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 09:29:24 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/poland-says-hungarian-envoy-not-welcome-event-start-eu-presidency-2025-01-03/</guid></item><item><title>联邦调查局称，得克萨斯州男子在新奥尔良发动的袭击是独立进行的，与伊斯兰国无关。</title><link>https://www.reuters.com/world/us/police-probe-motive-new-orleans-truck-rampage-2025-01-02/</link><description>&lt;p&gt;一名前美国陆军老兵在新奥尔良新年庆典活动中，驾驶卡车冲撞人群后杀害14人，他曾宣誓效忠伊斯兰国并录制视频谴责音乐、毒品和酒精。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reuters.com/world/us/suspect-deadly-new-orleans-truck-attack-served-us-army-2025-01-01/"&gt;沙姆苏德丁·贾巴尔&lt;/a&gt;，这位42岁的得克萨斯州原住民曾在阿富汗服役， FBI 在周四表示，袭击是一名独自行动，此前曾有说法称其可能有同谋。&lt;/p&gt;
+&lt;p&gt;在事件的激进对峙中，他被警方击毙，事件导致数十人受伤， FBI 将此案定性为恐袭案件。&lt;/p&gt;
+&lt;p&gt;FBI 副助理署长克里斯托弗·莱亚在周四的新闻发布会上表示：“这是一个事前有预谋并充满邪恶的行为。”他重申 FBI 的结论，即沙姆苏德丁·贾巴尔受伊斯兰国激进主义的启发。&lt;/p&gt;
+&lt;p&gt;莱亚还表示，调查人员正在调查贾巴尔的“&lt;a href="https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/"&gt;激进化路径&lt;/a&gt;”，不确定他是如何从军事老兵、房地产经纪人以及曾在知名企业德勤工作的员工转变为完全为伊斯兰国所激励的人。&lt;/p&gt;
+&lt;p&gt;在袭击用的租用车辆后面横杆上悬挂着伊斯兰国的旗帜。&lt;/p&gt;
+&lt;p&gt;尽管在持续的美国领导的联盟军事行动打击下，伊斯兰国的力量已经大大削弱，但专家认为，该组织继续通过互联网招募支持者。&lt;/p&gt;
+&lt;p&gt;贾巴尔的同父异母兄弟也在寻找答案，他说沙姆苏德丁·贾巴尔最近从离婚中挣扎，但在袭击发生前几周没有表现出任何愤怒情绪。&lt;/p&gt;
+&lt;p&gt;“他是聪明、有趣的、有魅力的、充满爱心和同情心的，而且绝对像是不会伤害任何生命的。” 阿德尔·拉赫曼·贾巴尔在接受路透社采访时在其位于得克萨斯州贝阿摩恩的家中表示，“这就是为什么这如此令人震惊。这种程度的恶意不像他。我们也在试图理解发生了什么变化。”&lt;/p&gt;
+&lt;p&gt;他说，他们的父亲听到这个消息后悲痛欲绝。&lt;/p&gt;
+&lt;p&gt;“（我们的爸爸）开始哭泣。他在说‘不，不，不是我 oldest 的儿子。’”阿德尔·贾巴尔表示。&lt;/p&gt;
+&lt;p&gt;在庆祝假期的日子里，新奥尔良著名法区街区布朗街的圣诞节庆祝活动和拉斯维加斯特朗普国际酒店外的爆炸事件，使得新年的第一天在美国显得格外紧张不安。&lt;/p&gt;
+&lt;p&gt;FBI 表示，迄今尚未在新奥尔良袭击与第二天晚些时候在拉斯维加斯的特斯拉爆炸事故之间找到明确联系，该爆炸事故导致司机身亡，另有7人受轻伤。&lt;/p&gt;
+&lt;p&gt;全美各地的执法机构承诺，在即将到来的活动中提高安全性。&lt;/p&gt;
+&lt;p&gt;据称为新年前传统的新年庆典被重新安排在周四举行的“糖碗”美式足球比赛中，在加大拿脊球场比赛时实行了加强安全和纪念袭击遇难者一分钟的静默时间。最终，南加州大学特洛伊人队以23比10击败了圣母大学。&lt;/p&gt;
+&lt;p&gt;新年前夕，布朗街重新对公众开放。新奥尔良也为即将到来的为期数周的狂欢节庆祝活动做准备，狂欢节以1月6日开始，本月还将举办职业橄榄球联盟的超级碗赛事，市政府承诺将为这些拥挤的活动加强安保。&lt;/p&gt;
+&lt;p&gt;在最近几年，贾巴尔重新确认了他的伊斯兰教信仰，此前他曾在他的20多岁和30多岁时放弃了信仰。&lt;/p&gt;
+&lt;p&gt;11个月前，他似乎录制了一系列宗教录音，其中包含了对音乐危害的激进观点，以及更主流的伊斯兰教观点，例如谴责毒品和酒精。&lt;/p&gt;
+&lt;p&gt;阿德尔·贾巴尔向路透社证实，发布在SoundCloud平台上的是他同父异母兄弟的录音。&lt;/p&gt;
+&lt;p&gt;“音乐是撒旦的声音。……撒旦的声音也误导人们远离真主的道路。”沙姆苏德丁·贾巴尔在其中一段录音中说。&lt;/p&gt;
+&lt;p&gt;“一些穆斯林团体将认为播放音乐不再是罪行之一现象将标志着末日的开始，……”，他说， 并补充说，“真主将用地震和转变惩罚他们。”&lt;/p&gt;
+&lt;p&gt;他还会厌弃“大麻、酒精、镇静剂、阿片类药物、兴奋剂等各类令人上瘾的物质。”&lt;/p&gt;
+&lt;p&gt;FBI 和 SoundCloud 对这些录音暂未予以置评。&lt;/p&gt;
+&lt;p&gt;根据公开记录和采访，贾巴尔近年来面临家庭和财务困境。&lt;/p&gt;
+&lt;p&gt;他的父亲在2023年中风，他在安排父亲的护理事宜，阿德尔·贾巴尔表示。这发生在2022年9月他与第二任妻子的离婚之后，两人育有一名子女。&lt;/p&gt;
+&lt;p&gt;据 FBI 称，贾巴尔12月31日从休斯敦驾车前往新奥尔良。攻击当天早上，他在1:29至3:02之间发布了5段Facebook视频，声称支持伊斯兰国， FBI 表示。&lt;/p&gt;
+&lt;p&gt;在第一段视频中，贾巴尔说他之前计划对家人和朋友进行伤害，但担心媒体的报道将不会着重于“信徒与异教徒之间的战争”，莱亚介绍说。&lt;/p&gt;
+&lt;p&gt;贾巴尔在视频中还表示，他夏末之前加入了伊斯兰国，还留下了遗嘱，莱亚说。&lt;/p&gt;
+&lt;p&gt;监控录像显示，贾巴尔在攻击前的几个小时在布朗街的交叉路口放置了两个简易爆炸装置，但都被当场排除。&lt;/p&gt;</description><pubDate>Thu, 02 Jan 2025 10:04:05 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/police-probe-motive-new-orleans-truck-rampage-2025-01-02/</guid></item><item><title>政府称，维珍澳大利亚航空员工在斐济因盗窃和性侵投诉后未被拘留</title><link>https://www.reuters.com/world/asia-pacific/virgin-australia-staff-not-detained-fiji-after-theft-sexual-assault-complaint-2025-01-03/</link><description>&lt;p&gt;三位维珍澳大利亚IPO-VIR.AX工作人员在斐济警察调查一起涉嫌性侵犯和盗窃案件期间未被拘留，斐济政府表示，但补充说明这些工作人员被告知留在酒店内。&lt;/p&gt;
+&lt;p&gt;斐济政府在一份声明中表示，国际媒体关于这些机组人员被拘留的报道不准确。&lt;/p&gt;
+&lt;p&gt;“这些机组人员身体健康，正在一家当地酒店住宿，该酒店为过境机组人员指定的住宿地点。”斐济副总理兼旅游部长威利阿梅·加沃卡在声明中说道。&lt;/p&gt;
+&lt;p&gt;“这三位机组人员还被告知在酒店附近停留，以确保通讯畅通并协助警方调查；他们应在本周结束前回国。”&lt;/p&gt;
+&lt;p&gt;维珍澳大利亚在接受路透社采访时未予置评。&lt;/p&gt;
+&lt;p&gt;斐济政府表示，警察正在调查涉及维珍机组人员的事件，这些事件发生于新年前夕的纳迪市。&lt;/p&gt;
+&lt;p&gt;澳大利亚广播公司报道，这三位工作人员包括一名男性和一名女性，女乘客涉嫌遭遇性侵犯，而男乘客则在一家他们曾光顾的夜总会外被涉嫌盗窃。&lt;/p&gt;
+&lt;p&gt;据报道，维珍澳大利亚派遣了额外的员工来执飞回程航班，而不是由涉事人员执飞。&lt;/p&gt;
+&lt;p&gt;澳大利亚广播公司指出了 allege 事件发生的夜总会为 Bar One，该夜总会拒绝对路透社周五的询问做出回应。斐济警方也未对路透社的提问作出回应。&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 05:51:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/virgin-australia-staff-not-detained-fiji-after-theft-sexual-assault-complaint-2025-01-03/</guid></item><item><title>波斯尼亚和平特使宣布塞尔维亚议会的命令非法</title><link>https://www.reuters.com/world/europe/bosnia-peace-envoy-declares-serb-parliaments-orders-illegal-2025-01-02/</link><description>&lt;p&gt;波黑的国际和平特使在周四努力保持该国欧盟一体化进程的顺利进行，拒绝了塞族共和国议会上周提出的阻止进展的命令。&lt;/p&gt;
+&lt;p&gt;上周，波黑塞族占主导地位的地区议会命令中央政府的塞族代表阻挠所需法律改革，这些改革对于波黑加入欧盟至关重要。&lt;/p&gt;
+&lt;p&gt;高代表克里斯蒂安·施密特，其权威不被塞族人认可，周四禁止执行“这些命令中的危险内容”。&lt;/p&gt;
+&lt;p&gt;1995年结束波斯尼亚巴尔干国家历时3年半的族裔战争的《代顿协议》赋予高代表在和平协议下决定此类决定是否可行的最终权柄。&lt;/p&gt;
+&lt;p&gt;和平协议将波黑划分为两个自治地区，塞族人占主导地位的塞族共和国和克罗地亚天主教和穆斯林波什尼亚克人占主导地位的联邦，这两个地区通过一个弱化的中央政府相连接。这一划分确保了和平，但也使波黑作为国家的功能性减弱。&lt;/p&gt;
+&lt;p&gt;克里斯蒂安·施密特的举动是为了防止波黑陷入新的政治危机，推动欧盟一体化进程继续前进。&lt;/p&gt;
+&lt;p&gt;塞族共和国总统米洛拉德·多迪克多年来试图将该地区从波黑中撤出，并试图阻止国家机构运作。他在波黑法庭上因反抗施密特的决定而受审。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="波黑国际高代表克里斯蒂安·施密特在接受路透社采访时的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JE3RYUOL3RKP3LQ7ABAZKHSSMI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;波黑国际高代表克里斯蒂安·施密特在接受路透社采访时的照片，拍摄于波黑首都萨拉热窝，2023年10月10日。路透社/安东尼奥·布罗尼奇/文件照片&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 21:25:32 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/bosnia-peace-envoy-declares-serb-parliaments-orders-illegal-2025-01-02/</guid></item><item><title>FBI 寻求华盛顿 2021 年 1 月 6 日管道炸弹嫌疑人的新线索</title><link>https://www.reuters.com/world/us/fbi-seeks-new-leads-washington-suspect-jan-6-2021-pipe-bombs-2025-01-02/</link><description>&lt;p&gt;联邦调查局（FBI）于周四发布新的监控视频，以重振其自2021年1月6日国会大厦袭击事件前夕在华盛顿放置管道炸弹的嫌疑人搜索行动。&lt;/p&gt;
+&lt;p&gt;这部之前未公开的2021年1月5日的视频显示，一名嫌疑人将炸弹放置在民主党全国委员会大楼外的长椅旁。该嫌疑人还在共和党总部放置了另一枚炸弹。两处地点均靠近国会大厦。&lt;/p&gt;
+&lt;p&gt;警方成功拆除了这两枚炸弹，均未爆炸。&lt;/p&gt;
+&lt;p&gt;尽管自2021年1月6日支持唐纳德·特朗普的示威者试图阻止认证其2020年选举失败结果以来，FBI收到了超过600条线索并悬赏50万美元，但仍未确认该嫌疑人的身份。&lt;/p&gt;
+&lt;p&gt;“我们真心希望能激发一些人的记忆，”负责FBI华盛顿特区办事处的助理局长大卫·桑德伯格在一次采访中表示，“我们相信有些人知道的信息比已分享的更多。”&lt;/p&gt;
+&lt;p&gt;尽管这些炸弹与国会大厦骚乱事件的关系尚不明确，但它们于2021年1月6日在国会大厦附近的发现，使警方资源产生偏离，并成为该事件持久不解之谜的一部分。&lt;/p&gt;
+&lt;p&gt;美国总统当选人特朗普的2024年选举胜利将在周一提交国会认证，在其2024年1月20日宣誓就任第二任期之前。&lt;/p&gt;
+&lt;p&gt;FBI表示，该嫌疑人身高约1.7米，发布了该嫌疑人当晚行走路线的地图。&lt;/p&gt;
+&lt;p&gt;该嫌疑人的普通着装，如灰色运动衫和长裤，以及放置和发现炸弹之间长达15小时的时间差，都阻碍了调查进展。&lt;/p&gt;
+&lt;p&gt;FBI此前还发布过该嫌疑人的其他视频，他穿着具有标志性的黑色和灰色耐克Air Max Speed Turf运动鞋。&lt;/p&gt;
+&lt;p&gt;2021年1月6日在国会大厦附近发生的混乱中，骚乱者突破警方障碍，袭击了约140名警官，造成超过280万美元的财产损失。特朗普承诺会为至少部分因参与骚乱而被刑事指控的近1600人提供特赦。&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img alt="韩国交通部下令立即行动，航空检查升温" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QKR4RKTK7FIATMBHU73BVEY4NM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;凌晨时分，一架坠机后偏离跑道的飞机位于穆安国际机场。2024年12月31日，韩国全罗南道穆安。路透社/金永植/文件图片&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 03:50:04 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-extends-boeing-737-800-inspections-following-fatal-crash-2025-01-03/</guid></item><item><title>印度村庄改名致敬吉米·卡特，举行纪念活动</title><link>https://www.reuters.com/world/india/indian-village-that-changed-its-name-honour-jimmy-carter-pays-tribute-2025-01-03/</link><description>&lt;p&gt;数千英里之外，华盛顿将在下周为前总统吉米·卡特举办国葬之际，印度一个以他命名的村庄——卡特普里村，仍在温暖地怀念他五十年前的访村之行。&lt;/p&gt;
-&lt;p&gt;作为1977年唯一一届总统，卡特于周日100岁高龄去世。按照安排，他将于12月最后一周在华盛顿国家大教堂举行国葬。&lt;/p&gt;
-&lt;p&gt;“卡特普里”或“卡特村”，位于德里以北约20英里（32公里）处，当时卡特的母亲莉莲曾于20世纪60年代在这座村庄短暂居住和志愿工作。&lt;/p&gt;
-&lt;p&gt;一位居民莫蒂·拉姆回忆说：“村民们给他的妻子穿上了传统服装……卡特在接受妻子罗莎琳陪同的情况下，走过村子时还尝试抽了水烟。”&lt;/p&gt;
-&lt;p&gt;据ANI新闻机构报道，Jan. 3日，1978年访村前数月，村民们做了充分准备。村庄进行了翻新，还在其主要广场上举办了欢迎仪式。&lt;/p&gt;
-&lt;p&gt;村民如此被卡特夫妇的到来所震撼，以至于他们为了纪念这位尊贵的客人，把村子改名为“卡特普里”。本周，卡特离世的消息传来，村民们庄重地挂起了他照片花环，并献上鲜花。&lt;/p&gt;
-&lt;p&gt;美国驻印度大使埃里克·加西提在推特上提到了这个村子，并称它是这位前总统“在这里印度受到高度尊重的证明”。推文中附有一张卡特夫妇穿着传统服装在村民们簇拥下欢笑的照片。&lt;/p&gt;
-&lt;p&gt;卡特后来写给村民感谢他们让活动取得“成功且极具个人意义”的信件也是村庄最珍贵的物品之一，与这些照片一起被珍藏。&lt;/p&gt;
+&lt;img alt="华盛顿，美国，2025年1月2日，国会大厦穹顶在日落中轮廓分明。路透社/Evelyn Hockstein/资料照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QVANRN5YRNPGXITPC2LPCFTI4I.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;华盛顿，美国，2025年1月2日，国会大厦穹顶在日落中轮廓分明。路透社/Evelyn Hockstein/资料照片&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 23:04:29 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/fbi-seeks-new-leads-washington-suspect-jan-6-2021-pipe-bombs-2025-01-02/</guid></item><item><title>英国再次誓言改革社会护理体系，但无具体计划直至2028年</title><link>https://www.reuters.com/world/uk/britain-vows-again-reform-social-care-no-plan-until-2028-2025-01-03/</link><description>&lt;p&gt;英国最新计划对日益昂贵的老龄化和残疾人护理进行全面改造，最早也要到2028年才能实施，政府于周五对此表示。同时，政府宣布将进行为期三年的独立审查，以提出相关建议。&lt;/p&gt;
+&lt;p&gt;于7月上台的工党政府在其竞选宣言中表示，将建立“国家级护理服务”以满足弱势群体的需求，并更好地整合社会护理与国家资助的国民医疗保健服务。&lt;/p&gt;
+&lt;p&gt;英国卫生和社会护理大臣韦斯·斯特里廷表示，他已任命前高级官员、此前曾领导过多个重要审查项目的露丝·凯西为委员会主席，负责决定社会护理应该如何组织和融资。&lt;/p&gt;
+&lt;p&gt;本世纪以来，已经有多项政策文件、调查和报告聚焦社会护理问题，但政府一直未能找到解决该领域问题的方法，也未能在长期融资安排上达成共识。&lt;/p&gt;
+&lt;p&gt;前首相特蕾莎·梅曾在2017年大选期间提出了让有能力的人承担更多护理费用的计划，但这一提议被反对者称为“痴呆税”，她在民调领先优势减半后放弃了这项计划，她的执政党也失去了多数优势。&lt;/p&gt;
+&lt;p&gt;新成立的委员会将向反对党开放，政府表示，该委员会将在2026年中之前确定关键问题，并在2028年提出长期建议。&lt;/p&gt;
+&lt;p&gt;斯特里廷表示，政府部门已经开始着手稳定社会护理领域，此前在九月的立法报告中指出，该领域面临严重的资金不足、工作人员短缺和等待时间增加的问题。&lt;/p&gt;
+&lt;p&gt;他说，随着社会老龄化日益加剧，护理费用预计在接下来的二十年中翻倍，因而需要更长期的行动计划。&lt;/p&gt;
+&lt;p&gt;“独立委员会将致力于建立一个全国共识，支持一种满足21世纪老龄和残疾人群体需求的新国家级护理服务，”他说。&lt;/p&gt;
+&lt;p&gt;“我们正任命我们国家最领先的公共服务改革者之一和白厅最能攻坚的人，以最终应对社会护理改革这一棘手问题。”&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="国王查尔斯在访苏格兰中部洛锡安的长者意义活动中心" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5LUFD25V2BN6NO23O3FN34ZH3A.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;英国国王查尔斯三世和王后卡米拉在访问苏格兰爱丁堡皇家爱丁堡医学中心的洛锡安晚年有意义活动中心，拍摄日期为2023年7月4日星期二。照片由Jane Barlow/池/路透社/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="国王查尔斯和王后卡米拉在访苏格兰中部洛锡安的长者意义活动中心" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WYR5G5GX3RLQDCRU6TL6TTK444.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;英国国王查尔斯三世和王后卡米拉在访问苏格兰爱丁堡皇家爱丁堡医学中心的洛锡安晚年有意义活动中心，拍摄日期为2023年7月4日星期二。照片由Jane Barlow/池/路透社/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="财政大臣拉塞尔·雷维斯和卫生大臣韦斯·斯特里廷探访圣乔治医院" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UH4JDZTJCJJYDKJBSO2XFIFJFY.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年10月28日在伦敦圣乔治医院，财政大臣拉塞尔·雷维斯和卫生大臣韦斯·斯特里廷与医务人员交谈。照片由Leon Neal/池/路透社/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="伦敦的地平线风光" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2EG6ID76V5OM5PSEXRGHFMI3LM.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年10月18日，一对情侣在伦敦史特拉特福德区的Primrose Hill与伦敦天际线合影。照片由Mina Kim/路透社/文件照&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 09:54:25 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/uk/britain-vows-again-reform-social-care-no-plan-until-2028-2025-01-03/</guid></item><item><title>菲律宾马科斯解除与杜特尔特副总统的关系，并将其从国家安全理事会中移除</title><link>https://www.reuters.com/world/asia-pacific/philippines-marcos-drops-estranged-vp-duterte-security-council-2025-01-03/</link><description>&lt;p&gt;菲律宾副总统萨拉·杜特尔特不再担任国家安全委员会成员，总统费迪南德·马科斯·JR签署一项命令，将她的办公室从该机构移除，这是两人去年同盟关系破裂后的一场激烈的分歧。&lt;/p&gt;
+&lt;p&gt;马科斯表示，国家安全委员会（NSC）的重组是为了“确保其委员能够维护和保护国家安全与主权”。副总统办公室未立即对此表态。&lt;/p&gt;
+&lt;p&gt;总统府幕僚长卢卡斯·P·贝尔斯ˈ丹在声明中说：“目前，副总统并不被认为与NSC成员的职责相关。”&lt;/p&gt;
+&lt;p&gt;据命令称，这次重组还旨在确保一个能够应对新挑战的韧性国家安全机构。该命令于12月30日签署，周五公布。&lt;/p&gt;
+&lt;p&gt;除了排除前总统外，重组还赋权马科斯可根据需要任命其他政府官员和私人公民加入委员会。&lt;/p&gt;
+&lt;p&gt;杜特尔特，菲利普斯前总统Rodrigo Duterte的女儿，现正面临弹劾投诉，指控她在任期间涉嫌贪污、无能以及非法积累财富。她对此予以否认。&lt;/p&gt;
+&lt;p&gt;杜特尔特曾在接受采访时声称，如果她被暗杀，她将雇佣一名杀手暗杀总统、他的妻子及另一位已故的众议院议长表亲。她后来声称自己的言论被误解了。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="菲律宾副总统萨拉·杜特尔特在众议院" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/G64MFU4XKRJTJAAZOUY74IMTPI.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;菲律宾副总统萨拉·杜特尔特出席众议院对其办公室使用公共资金的立法调查，地点位于菲律宾奎松市，2024年11月25日。路透社/埃洛伊萨·洛佩兹/资料图&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 08:42:14 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-marcos-drops-estranged-vp-duterte-security-council-2025-01-03/</guid></item><item><title>俄罗斯法院要求Yandex隐藏乌克兰袭击后有关油 refinery的图像，塔斯社报道</title><link>https://www.reuters.com/world/europe/russian-court-tells-yandex-hide-images-oil-refinery-after-ukrainian-attacks-tass-2025-01-03/</link><description>&lt;p&gt;俄罗斯一家法院命令互联网公司Yandex隐藏对俄罗斯最大油 refinery设施的访问权限，因为该炼油厂频繁受到乌克兰无人机的攻击。这一决定由俄塔斯社在周五报道。&lt;/p&gt;
+&lt;p&gt;Yandex，常被称为“俄罗斯的谷歌”，运营着俄罗斯最大的搜索引擎和其他在线服务，如地图、翻译和电子邮件，以及叫车和食品配送。&lt;/p&gt;
+&lt;p&gt;莫斯科法庭要求Yandex将炼油厂基础设施的相关信息从搜索结果中删除，并从Yandex地图中移除和编辑相关的车间、压缩机站和其他工厂部分的图像。这一决定由俄塔斯社报道。&lt;/p&gt;
+&lt;p&gt;至于法院下令的是哪一家炼油厂尚不明确，但俄塔斯社表示，该设施在2024年已被乌克兰无人机四次袭击。&lt;/p&gt;
+&lt;p&gt;乌克兰多次对俄罗斯石油存储设施和炼油厂发动袭击，作为对2022年2月莫斯科入侵和对乌克兰城市及基础设施反复攻击的回应。&lt;/p&gt;
+&lt;p&gt;该决定可以上诉。Yandex未就此发表评论。&lt;/p&gt;
+&lt;p&gt;据俄塔斯社报道，该炼油厂曾在向Yandex直接寻求解决办法无果后才诉诸法律途径。申诉方认为，网络上关于炼油厂的信息可以削弱俄罗斯的防御能力，负面影响军队。&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 08:34:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russian-court-tells-yandex-hide-images-oil-refinery-after-ukrainian-attacks-tass-2025-01-03/</guid></item><item><title>警方确认爆炸特斯拉Cybertruck司机为美军士兵</title><link>https://www.reuters.com/world/us/fbi-looks-any-link-between-tesla-explosion-new-orleans-attack-2025-01-02/</link><description>&lt;p&gt;官员们在周四确定，被发现死于 cybertruck 之外并导致爆炸的_overlay_ 人员是一位来自科罗拉多州的美国陆军士兵。联邦调查局表示，在爆炸发生在拉斯维加斯特朗普国际酒店同一天的纽厄尔斯卡车袭击事件中，尚未找到证据表明爆炸是一起恐怖袭击。&lt;/p&gt;&lt;p&gt;联邦调查局表示，尽管发生了卡车袭击事件导致15人死亡，但其与拉斯维加斯当天稍晚发生的Cybertruck爆炸事件之间的直接联系尚未确定。该爆炸事件导致7人轻伤。&lt;/p&gt;&lt;p&gt;卡车司机被确认为37岁的马修·里尔斯贝格（Matthew Livelsberger），他是一名现役陆军士兵，来自科罗拉多斯普林斯，且此次行动属于其个人行为。&lt;/p&gt;&lt;p&gt;里尔斯贝格是在预报自焚时用手枪击中了自己嘴巴，据拉斯维加斯大都会警察局在X平台发布的一篇帖子称，依据克拉克县法医办公室的报告。&lt;/p&gt;&lt;p&gt;据称，里尔斯贝格是在车中时，车载汽油罐和卡车上大型烟花弹爆炸所致。警察表明。&lt;/p&gt;&lt;p&gt;此前，警方在新闻发布会上推测发现卡车中的死者应是里尔斯贝格，但由于尸体烧毁严重无法辨认身份，调查人员正在等待DNA证据和医疗记录的进一步确认。&lt;/p&gt;&lt;p&gt;据拉斯维加斯大都会警察局副警长凯文·麦克马希尔报道，里尔斯贝格在车辆内自焚之前引爆了卡车内的爆炸物。在他的脚边找到了一把手枪。这把小口径手枪是里尔斯贝格在12月30日合乎法律途径购买的两把之一。执法部门在车内还发现了军用身份证、护照、一部iPhone和信用卡。&lt;/p&gt;&lt;p&gt;一名军方官员表示，在他去世时，里尔斯贝格被分配给美国特种作战司令部。另一名发言人在发言时表示，美国特种作战司令部不愿对正在进行的调查发表评论。&lt;/p&gt;&lt;p&gt;一位美国官员告诉路透社，里尔斯贝格曾因杰出表现获得铜星勋章和陆军英勇勋章，并持有个战斗步兵徽章。这位官员称，里尔斯贝格曾五次前往阿富汗执行军事任务。&lt;/p&gt;&lt;p&gt;一位不愿透露身份的里尔斯贝格亲戚告诉路透社，里尔斯贝格从小就梦想成为一名陆军士兵，甚至在小时候就想成为一名特种部队成员。当他终于实现这一愿望时，他成了标准意义上的士兵。&lt;/p&gt;&lt;p&gt;这位亲戚继续说道，里尔斯贝格在特朗普当选总统期间支持唐纳德·特朗普，还认为特朗普是军人眼中最伟大的人。&lt;/p&gt;&lt;p&gt;里尔斯贝格在俄亥俄州北部的巴克里斯高中接受教育，在那里他参加了美式足球和棒球活动，并且表现得十分开心和受欢迎。&lt;/p&gt;&lt;p&gt;他的亲戚称，家庭中没有迹象表明里尔斯贝格在袭击前有类似意图。他无法理解作为一名熟悉孩子的他心智已成年的里尔斯贝格会做出这样的举动。&lt;/p&gt;&lt;p&gt;据俄亥俄州媒体报导，里尔斯贝格在2005年毕业后立即加入军队。他的亲戚表示。&lt;/p&gt;&lt;p&gt;矗立在拉斯维加斯酒店、赌场区的特朗普国际酒店门口，当地时间（英国夏令时间）周三上午8时40分，一辆特斯拉Cybertruck进行的爆炸片段由目击者在酒店内外拍摄，该车在酒店大门前爆炸并喷发出火焰。&lt;/p&gt;&lt;p&gt;一位特朗普发言人没有在周四回应评论请求。&lt;/p&gt;&lt;p&gt;特朗普国际酒店是唐纳德·特朗普旗下特拉华州公司的组成部分之一，在他重返白宫之际，特拉华州公司将返回白宫。唐纳电凯·特朗普，该公司的执行副总裁，对爆炸后消防人员和执法部门行动的迅速表示表扬。&lt;/p&gt;&lt;p&gt;特斯拉首席执行官埃隆·马斯克是特朗普2024年竞选时期的大力支持者，也是即将上任总统的顾问。&lt;/p&gt;&lt;p&gt;副警长凯文·麦克马希尔说，“我们当然清楚这车停在特朗普大厦的对外面，而这辆车是特斯拉。但是目前还缺乏信息明确告诉我们这是由于什么具体理念或任意理由。”&lt;/p&gt;&lt;p&gt;警方表示，利尔斯贝格于12月28日在丹佛租赁了Cybertruck，并在行驶过程中停在了几个城市，包括新墨西哥州的阿尔伯克基和亚利桑那州的菲尼克斯，然后在1月1日凌晨抵达了拉斯维加斯。&lt;/p&gt;&lt;p&gt;这辆卡车沿着那里的酒店、赌场金色大道行驶，通过了特朗普酒店的道闸后又返回了整洁的停车位区域。爆炸后，特朗普酒店被清空且大多数客人被转移到了另一家酒店。&lt;/p&gt;&lt;p&gt;麦克马希尔说，这辆Cybertruck与新奥尔良袭击所用车辆都是通过Turo拼车服务获取的。&lt;/p&gt;&lt;p&gt;Turo一位发言人在声明中表示，他们不认为租车的租车人有犯罪背景使其成为安全威胁。&lt;/p&gt;
+
 &lt;figure&gt;
-    &lt;img alt="前美国总统吉米·卡特在埃及开罗接受路透社采访" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DREOGPTG25K2TLCXH4RJQYIBFI.jpg"&gt;
+    &lt;img alt="联邦与地方当局调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NQRBUVIBWVIBLACBCFXKC43MCI.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;2012年1月12日，前美国总统吉米·卡特在埃及开罗接受路透社采访。路透社/阿姆·阿卜杜拉·达尔什/文件照片&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 04:06:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/indian-village-that-changed-its-name-honour-jimmy-carter-pays-tribute-2025-01-03/</guid></item><item><title>中国设立新的国家级体育仲裁中心</title><link>https://www.reuters.com/world/china/china-sets-up-new-national-sports-arbitration-centre-2025-01-03/</link><description>&lt;p&gt;中国本周在京都开启了首个国家级体育仲裁中心，这一举措标志着中国在强化体育争议解决机制和保护运动员权益方面迈出重要一步。&lt;/p&gt;
-&lt;p&gt;此举是中国推动体育职业化和规范化的重要一步，紧随足球等热门体育项目频发的腐败案件。&lt;/p&gt;
-&lt;p&gt;由中国国家体育总局（GAS）管理的仲裁中心将负责管理2023年2月成立的全国体育仲裁委员会的日常运营，据中国官方报纸《环球时报》报道。&lt;/p&gt;
-&lt;p&gt;该仲裁委员会处理了涵盖国际象棋、足球、冰球、曲棍球、跆拳道和马拉松等各类体育赛事的100起纠纷案件。&lt;/p&gt;
-&lt;p&gt;纠纷涉及运动员注册和转会、青年培训补偿、纪律处分、比赛资格和结果等具体问题，《环球时报》补充道。&lt;/p&gt;
-&lt;p&gt;设立仲裁中心是在中国体育治理方面的一项“里程碑成就”，GAS副主任李静在启动仪式上表示。&lt;/p&gt;
-&lt;p&gt;“这一举措确保了体育发展的秩序，并在该领域加强了法治，”《环球时报》引用李静的话说道。&lt;/p&gt;
-&lt;p&gt;国内足球将成为重点关注对象，该项目饱受腐败困扰，球迷指责其是导致国家队表现不佳的原因。&lt;/p&gt;
-&lt;p&gt;九月，中国足球管理部门在历时两年调查后，对38名球员和5名官员处以终身禁赛，这是针对赌球和操控比赛行为的处罚。&lt;/p&gt;
-&lt;p&gt;八月，前中国足球协会副主席因受贿获刑11年，另有前官员因相同罪名获刑7年。&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 06:45:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-sets-up-new-national-sports-arbitration-centre-2025-01-03/</guid></item><item><title>马来西亚宫称赦免申请须提交赦免委员会处理</title><link>https://www.reuters.com/world/asia-pacific/malaysian-palace-says-clemency-bids-must-go-pardons-board-2025-01-03/</link><description>&lt;p&gt;马来西亚王宫周五表示，任何寻求减刑的囚犯必须向由国王主持的特赦委员会提交上诉，这一声明与上周末发布的政府声明一致。&lt;/p&gt;&lt;p&gt;上周一，上诉法院将听取被监禁的前总理纳吉布·拉扎克关于推翻去年七月的判决的申请。当时，法院驳回了他要求确认并执行减刑为在家中服刑的王室命令的请求。&lt;/p&gt;&lt;p&gt;纳吉布因与数十亿美元的1MDB丑闻相关的腐败罪，正接受六年监禁。去年二月，王宫委员会将他的判决减半。&lt;/p&gt;&lt;p&gt;马来西亚宪法赋予国王赦免、减刑、暂停或改判刑罚的权力，王宫在其声明中表示。&lt;/p&gt;&lt;p&gt;声明称：“囚犯应将其申请减刑或减刑的申请提交给由国王主持的特赦委员会审议。”&lt;/p&gt;&lt;p&gt;在12月28日类似的声明中，总检察长办公室表示，马来西亚所有寻求在家中服刑的囚犯的请求，包括纳吉布的请求，都必须提交给特赦委员会。&lt;/p&gt;&lt;p&gt;在王宫的声明中未提到任何囚犯的名字。&lt;/p&gt;</description><pubDate>Fri, 03 Jan 2025 06:15:40 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/malaysian-palace-says-clemency-bids-must-go-pardons-board-2025-01-03/</guid></item><item><title>韩国尹锡悦：饱经挫折的幸存者面临前所未有的逮捕</title><link>https://www.reuters.com/world/asia-pacific/south-koreas-yoon-embittered-survivor-facing-unprecedented-arrest-2025-01-03/</link><description>&lt;p&gt;韩国总统尹锡悦正面临其短暂但充满坎坷的政治生涯中最大的威胁。在遏制一项前所未有的刑事调查过程中，他试图阻止对其进行逮捕。该调查指控他领导了一场叛乱。&lt;/p&gt;
-&lt;p&gt;这位强硬的政治幸存者，在其五年的任期过半时变得日益孤立。64岁的尹锡悦一直被个人丑闻、不屈的反对党和党内裂痕困扰。&lt;/p&gt;
-&lt;p&gt;自2022年艰难赢得选举以来，尹锡悦不断被内斗所困扰，这导致了他先前对手所说的其标志性的特征——一种不断显现的鲁莽。&lt;/p&gt;
-&lt;p&gt;尹锡悦在2024年12月3日短暂宣布实施戒严令时，他的政治形象已经严重受损。他在12月14日因企图宣布戒严令被国会弹劾，此后未能履行职责。他的政治命运现在取决于宪法法院的裁决，因为他面临的法律风险不断加剧，检察官在周五尝试逮捕他未果。&lt;/p&gt;
-&lt;p&gt;本周，尹锡悦被其官邸围堵。他向支持者发出呼吁，表示他将“战斗到底”，并动员铁杆支持者与他一起对抗所谓的“反体制力量”，拯救国家。&lt;/p&gt;
-&lt;p&gt;一封署名“尹锡悦”的简短信件和之前声明他出于“热爱国家的热情”行事以挽救民主的反制言论，引发了对他可能已经失控的担忧。有人担心他的判断力受到损害，可能对韩国构成了威胁，韩国是全球工业强国之一，也是民主韧性最成功的典范之一。&lt;/p&gt;
-&lt;p&gt;反对党一名议员表示，尹锡悦证明他是一个“妄想”的人。即使是那些相对同情他的人也表示，他因无休止的政治攻击而承受了极大的压力，其中一部分攻击可能是他个人化的。&lt;/p&gt;
-&lt;p&gt;“我希望我们记得反对党如何极其且残忍地威胁总统及其家人，迫使他们陷入困境，并以此为借口进行特别检察官调查和弹劾。”尹锡悦的亲民党议员尹贤完说。&lt;/p&gt;
-&lt;p&gt;尹锡悦妻子卷入的一场丑闻让他的总统任期充满阴影。她被指控接受了一件高档的迪奥手袋作为礼物，而这被视为议会选举失败的主要原因之一。尽管他为此道歉，但他拒绝就此事展开调查，并拒绝了对妻子及其母亲涉嫌股票操纵的调查要求。&lt;/p&gt;
-&lt;p&gt;调查机关决定不对第一夫人提起指控。&lt;/p&gt;
-&lt;p&gt;尽管尹锡悦在国内遭遇困难，但他在国际舞台上取得的相对成功却掩盖了这些困难。&lt;/p&gt;
-&lt;p&gt;他积极推动解决与邻国日本长达数十年的外交争端，并与东京联合美国进行三方安全合作，这些被广泛视为他的外交政策遗产。&lt;/p&gt;
-&lt;p&gt;2023年的一次白宫活动中，尹锡悦亲身演唱了70年代流行歌曲《American Pie》，这充分展示了他个人交往的能力——这一特质在早些年为他赢得了早期的成功。&lt;/p&gt;
-&lt;p&gt;尹锡悦生于首尔一个富裕的家庭，他是一名性格开朗的青年，学业优秀。他进入首尔国立大学攻读法律，但由于频繁醉酒，他未能通过律师资格考试，直到第九次才通过。&lt;/p&gt;
-&lt;p&gt;2016年，尹锡悦以调查时任总统朴槿惠贪污案的首席调查官的身份成名。当他被问及是否出于报复时，他回答说检察官不是黑帮分子。&lt;/p&gt;
-&lt;p&gt;三年前，朴槿惠暂停了尹锡悦的工作，并将他从调查该国情报机构重要案件的团队中开除。这被认为是对挑战其权威的惩罚。&lt;/p&gt;
-&lt;p&gt;他因监禁在职总统而发挥的作用以及其后重回首尔中央地方检察官办公室主任职位，标志着他政治职业生涯的急剧上升。&lt;/p&gt;
-&lt;p&gt;两年后，尹锡悦成为韩国的总检察官，领导调查与下一任总统文在寅亲密盟友有关的腐败案。这使他成为了对文在寅的温和政策感到失望的保守派心目中的宠儿，也让他成为2022年总统竞选的候选人。&lt;/p&gt;
-&lt;p&gt;但这届任期的伊始，尹锡悦因强行将总统办公室迁移到新的地点而引发争议，引发了人们对其是否因为风水考虑而搬迁的质疑。尹锡悦否认自己及其妻子与巫师有任何关系。&lt;/p&gt;
-&lt;p&gt;当尹锡悦拒绝在2022年万圣节期间发生的致命人群挤压事件后撤换高层官员时，他被指责保护了他的“坚定支持者”。其中一人是安全部长李相敏，也与尹锡悦是高中同学。&lt;/p&gt;
-&lt;p&gt;另一名毕业于首尔成均馆高中的校友是成均馆高中出身的金永均，他是推动总统办公室搬迁并随后成为国家安全服务负责人的人。9月份他还被任命为国防部长。一位高级军方官员表示，金永均和李相敏两人是建议尹锡悦宣布戒严令的人。&lt;/p&gt;  
-&lt;figure&gt;&lt;img alt="韩国总统尹锡悦在韩国首尔的官邸进行国家讲话" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQPKELEAKZIJVO66Y3GYLINPIU.jpg" /&gt;  
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年12月14日，韩国总统尹锡悦在韩国首尔的官邸向国民发表讲话。总统秘书室/分发的路透社/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 06:49:46 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-koreas-yoon-embittered-survivor-facing-unprecedented-arrest-2025-01-03/</guid></item><item><title>以色列空袭致加沙警察局局长及67人遇难，加沙当局称</title><link>https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-10-southern-gaza-medics-say-2025-01-02/</link><description>&lt;p&gt;以色列空军周四在加沙地带实施空袭，至少造成68名巴勒斯坦人死亡，其中包括加沙地带哈马斯控制警察部队首长、副首长和九名流离失所者。加沙当局表示。&lt;/p&gt;
-&lt;p&gt;以色列方面表示，被杀害的副首长是负责加沙南部巴勒斯坦激进团体哈马斯安全部队的负责人。&lt;/p&gt;
-&lt;p&gt;此次空袭发生在阿尔马维街区，该区在本轮已经持续了14个月的以巴战争中被指定为平民临时避难区。阿尔马维街区是哈马斯管理的加沙内政部所在地。&lt;/p&gt;
-&lt;p&gt;加沙警方主管默罕默德·萨拉赫和其助手胡萨姆·沙万正在检查帐篷营地的居民时，在此次袭击中丧生，哈马斯管理的加沙内政部表示。&lt;/p&gt;
-&lt;p&gt;“通过刺杀加沙地带警察局长的罪行，占领者正坚持在区内传播混乱，加剧市民的人道苦难。”该部在一份声明中补充道。&lt;/p&gt;
-&lt;p&gt;以色列军方表示，已对阿尔马维进行了一次基于情报的打击，消灭了沙万，声称他领导了加沙南部的哈马斯部队。军方没有提及萨拉赫的死亡。&lt;/p&gt;
-&lt;p&gt;“新年伊始，我们又得到…另一个提醒，即加沙缺乏人道主义保护区甚或安全区。”联合国巴勒斯坦难民事务署负责人菲利普·拉扎里尼在网络平台上发文说道。&lt;/p&gt;
-&lt;p&gt;“停火缺乏之日，悲剧必将延续。”&lt;/p&gt;
-&lt;p&gt;此次遇难人数是最近一周中最高的。&lt;/p&gt;
-&lt;p&gt;另一次以色列空袭造成至少57名巴勒斯坦人丧生，包括喀尼尤恩内部事务总部的六人，以及加沙北部杰巴利亚难民营、沙蒂难民营、加沙中部马格哈吉营区和加沙市的人。&lt;/p&gt;
-&lt;p&gt;以色列军方表示，已针对据情报认为驻扎于喀尼尤恩市政建筑内指挥控制中心的哈马斯武装分子实施打击。&lt;/p&gt;
-&lt;p&gt;当被问及周四报道的死亡人数时，以色列军方发言人表示，军方遵循国际法进行加沙战争，并采取了可行措施以减少平民伤亡。&lt;/p&gt;
-&lt;p&gt;以色列军方指责哈马斯使用住在区作为掩护，哈马斯予以否认。&lt;/p&gt;
-&lt;p&gt;哈马斯较小的盟友伊斯兰圣战组织宣布当天对加沙南部以色列科尔特基地发射火箭。以色列军方表示，拦截了一枚从南部加沙进入该地区的弹道导弹。&lt;/p&gt;
-&lt;p&gt;自战争开始以来，以色列军方杀死了超过45500名巴勒斯坦人，根据加沙医疗部的统计。加沙230万人口中有大部分因冲突而流离失所，该国这一狭长、人口密集的滨海地区已成一片废墟。&lt;/p&gt;
-&lt;p&gt;本轮战争是由哈马斯于2023年10月7日对以色列南部跨境发动攻击引发的，以色列官方统计，该次攻击造成1200余人遇难另有251人被带到加沙。&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img alt="以色列军方在加沙地带进行军事行动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UZP3WSEH6RJNPG5I62WB52347Q.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            加沙地带建筑残骸，以色列与哈马斯持续冲突中，从南部以色列视角所见。REUTERS/Kai Pfaffenbach
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="以色列军方在加沙地带进行军事行动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J42O5UF4SVJMBHWVETUZBUMPDA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            加沙地带贝特汉农建筑残骸，以色列与哈马斯持续冲突中，从南部以色列视角所见，2025年1月2日。 REUTERS/Kai Pfaffenbach
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="以色列军方在加沙地带进行军事行动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OW3QXMZPFVP7TDAARVVOSVUC6E.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            以色列坦克返回加沙地带，以色列与哈马斯持续冲突中，从南部以色列视角所见，2025年1月2日。 REUTERS/Kai Pfaffenbach
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="流离失所者在帐篷营地接受损害检测" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DHJY2SDHYRO2TFSHHLMLBKCR3Y.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名巴勒斯坦儿童站在美国加沙地带喀尼尤恩地区阿勒马维区帐篷营地损害现场附近，以色列空袭哈马斯——巴以冲突地区，2025年1月2日。REUTERS/哈塔姆·卡尔勒
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="流离失所者在帐篷营地接受损害检测" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IE2JZXGEYNMDBGM6RF4CUPK75I.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名巴勒斯坦人站在美国加沙地带喀尼尤恩地区阿勒马维区帐篷营地损害现场附近，以色列空袭哈马斯——巴以冲突地区，2025年1月2日。REUTERS/哈塔姆·卡尔勒
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="流离失所者在帐篷营地接受损害检测" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MIC5C25WR5ORLHOZ6LAC53WXPM.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名巴勒斯坦男子站在美国加沙地带喀尼尤恩地区阿勒马维区帐篷营地损害现场附近，以色列空袭哈马斯——巴以冲突地区，2025年1月2日。REUTERS/哈塔姆·卡尔勒
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="流离失所者在帐篷营地接受损害检测" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IURTB2IM7JITTIMWRXXPZJM35Y.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名巴勒斯坦人在美国加沙地带喀尼尤恩地区阿勒马维区帐篷营地损害现场附近，以色列空袭哈马斯——巴以冲突地区，2025年1月2日。REUTERS/哈塔姆·卡尔勒
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img alt="流离失所者在帐篷营地接受损害检测" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PD7YHPLZR5L3DELVLSC4JTPZCU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名巴勒斯坦儿童在加沙地带喀尼尤恩地区阿勒马维区帐篷营地，以色列空袭哈马斯——巴以冲突后反应，2025年1月2日。REUTERS/哈塔姆·卡尔勒
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 00:31:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-10-southern-gaza-medics-say-2025-01-02/</guid></item><item><title>古巴桑泰利亚神父敦促追随者在危机中保持警惕</title><link>https://www.reuters.com/world/americas/cubas-santeria-priests-urge-followers-hunker-down-amid-crisis-2025-01-02/</link><description>&lt;p&gt;古巴阿佛罗-库巴桑特里亚教宗教高级祭司在新年预测中告诉信徒，应关注健康和消费，照顾家庭，防范犯罪，并减少饮酒，同时面对已持续五年的令人窒息的经济危机。&lt;/p&gt;
-&lt;p&gt;“为了遏制日益严重的犯罪，必须采取措施。”政府认可的约鲁巴协会（Yoruba Association of Cuba）高级祭司，即被称为巴巴拉沃斯（Babalawos）的人，在哈瓦那举行的新闻发布会上宣读了《年度信函》的内容。&lt;/p&gt;
-&lt;p&gt;《年度信函》是一种预言不幸、疾病和其他事件及其应对方法的预言，每年桑特里亚信徒都会期盼它的到来。&lt;/p&gt;
-&lt;p&gt;数百万古巴人实践着融合了天主教和非洲古老信仰的仪式宗教，这种信仰是被奴隶带入古巴的。&lt;/p&gt;
-&lt;p&gt;《年度信函》中继续写道：“分析经济投资及其后果，消除堆积如山的垃圾，维护和尊重婚姻和家庭的完整”。&lt;/p&gt;
-&lt;p&gt;五年前，一场经济危机已令古巴人受到食品、药品、燃料和其他商品日益加重短缺的打击，电力和水资源短缺，公共交通运输和垃圾收集系统崩坏。&lt;/p&gt;
-&lt;p&gt;这个岛国的共产主义政府指责美国制裁是造成经济危机的主要原因，同时承认自己在管理危机上犯了一些错误。&lt;/p&gt;
-&lt;p&gt;多年来，一些团体从该协会分裂出来，并开始发行他们自己的《年度信函》。&lt;/p&gt;
-&lt;p&gt;《年度信函》独立编委会的负责人拉扎罗·库斯塔（Lazaro Cuesta）在距离哈瓦那几公里外的另一场新闻发布会上表示，信函传达的信息表明，很多同样的危险即将来临，同时也呼吁政府放弃冷战时期的观念和方法。&lt;/p&gt;
-&lt;p&gt;“对过去的依恋并不揭示当下的解决方案或未来计划。”信函警告着说，“弯曲的道路”。&lt;/p&gt;
-&lt;p&gt;库斯塔作为高级祭司的重要组织者表示，“弯曲的道路是我们在解决问题时做出的不恰当的决定，是我们提出的过时的想法，是寻求解决人类问题的错误方式”。 &lt;/p&gt;
-            
-![古巴桑特里亚宗教高级祭司在哈瓦那举行新年前夕仪式](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7Z6XZ37YZI73DNLLOAJHKBREE.jpg)
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2006年1月8日，古巴桑特里亚宗教高级祭司在哈瓦那举行新年前夕仪式，诵读赞美诗并与鼓手互动。图片来源：路透社/克拉乌迪娅·达乌特/文件照片&lt;/i&gt;&lt;/figcaption&gt;</description><pubDate>Thu, 02 Jan 2025 20:03:31 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/cubas-santeria-priests-urge-followers-hunker-down-amid-crisis-2025-01-02/</guid></item><item><title>调查人员寻找新奥尔良袭击者激进化路径的线索</title><link>https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/</link><description>&lt;p&gt;随着调查人员对在新奥尔良新年当天驾驶卡车撞击人群并导致14人死亡的男子了解更多情况，一个关键问题仍然存在：一名退伍军人和曾就职于大型企业的员工是如何走向极端化的？&lt;/p&gt;
-&lt;p&gt;联邦调查局副助理局长克里斯托弗·拉亚周四表示，据袭击前的视频显示，来自德克萨斯州的42岁男子沙姆苏德丁·贾巴尔效忠于伊斯兰国，并声称去年夏天之前就加入了该激进组织，相信“信徒与非信徒之间的战争”。 &lt;/p&gt;
-&lt;p&gt;尽管联邦调查局正在调查“他的极端化路径”，但拉亚指出，自袭击以来收集的证据表明，贾巴尔“100%受到ISIS的影响”。伊斯兰国是“伊斯兰国”的简称。&lt;/p&gt;
-&lt;p&gt;据当局透露，贾巴尔独自行动，在与警方的交火中被击毙。&lt;/p&gt;
-&lt;p&gt;他的同父异母兄弟阿布杜勒·贾巴尔在接受采访时表示，贾巴尔曾在德勤审计公司工作，尽管在20多岁或30多岁时放弃伊斯兰教，但最近又恢复了信仰。&lt;/p&gt;
-&lt;p&gt;阿布杜勒·贾巴尔在德克萨斯州贝约姆告诉记者，他不知道同父异母兄弟何时开始走向极端化。&lt;/p&gt;
-&lt;p&gt;前联邦调查局特工、国土安全部部长亚历杭德罗·马约尔卡斯咨询委员会成员阿利·苏法恩表示，贾巴尔不符合那些经伊斯兰国招募的典型特征。&lt;/p&gt;
-&lt;p&gt;苏法恩指出，贾巴尔服役10年并在40多岁时加入激进组织，这与其他受到伊斯兰国招募的人通常更为年轻这一特点不符。&lt;/p&gt;
-&lt;p&gt;“这是一位从爱国主义者变为ISIS恐怖袭击者的家伙，”苏法恩说。&lt;/p&gt;
-&lt;p&gt;策划一系列血腥袭击的袭击者都声称与伊斯兰国或其他圣战组织有关。&lt;/p&gt;
-&lt;p&gt;这包括2015年在巴黎伊斯兰主义小组杀害130人的幸存者；2016年在佛罗里达州同性恋夜总会枪杀49人的男子；以及2017年在纽约市拥挤的自行车道驾驶卡车冲撞致8人死亡的男子。&lt;/p&gt;
-&lt;p&gt;一些袭击，如2015年的巴黎袭击，是由受过训练的伊斯兰国成员策划的。但调查人员并未发现恐怖组织在其他袭击中直接起作用的证据。&lt;/p&gt;
-&lt;p&gt;贾巴尔可能与海外激进组织有过联系的具体情况仍不清楚。&lt;/p&gt;
-&lt;p&gt;美国官员和其他专家表示，随着伊斯兰国在2014年失去了在伊拉克和叙利亚的“伊教哈里发国”，该组织主要通过网络聊天室和加密通讯应用招募人员。&lt;/p&gt;
-&lt;p&gt;尽管美国领导的联合军事行动不断打击伊斯兰国的残余势力，但该组织在叙利亚加强了活动，并且在阿富汗和非洲的分支继续招募人员、扩大网络并激发袭击。&lt;/p&gt;
-&lt;p&gt;美国官员表示，伊斯兰国利用数千名巴勒斯坦人在以色列在加沙地带的战争中的死亡人数提升其招募。&lt;/p&gt;
-&lt;p&gt;前美国国土安全部反恐官员内特·辛德勒表示，国际和美国境内的极端组织遵循类似的招募方案。&lt;/p&gt;
-&lt;p&gt;这些组织利用社交媒体传播其观点，随后迁移到如Telegram等加密应用程序进行讨论，这可能演变为一对一的对话。&lt;/p&gt;
-&lt;p&gt;“这样的人会感觉自己成为了一个社区的一部分，”辛德勒说，他于2022年底离职并加入争取民主党全国委员会主席竞选。&lt;/p&gt;
-&lt;p&gt;招募人员可能会收到直接命令或自我极端化以采取行动，辛德勒说。&lt;/p&gt;
-&lt;p&gt;可能是“失业、心理危机，或者是无论他多么努力都感觉自己不属于这里”的个人容易受到招募，前英国外交官、联合国监测伊斯兰国和基地组织团队的负责人埃德蒙德·菲滕-布朗说。&lt;/p&gt;
-&lt;p&gt;菲滕-布朗现任反极端主义项目高级顾问说，伊斯兰国的主要吸引力在于其坚持建立一个由伊斯兰法统治的逊尼派穆斯林“伊教哈里发国”，而塔利班“卖身给阿富汗民族主义”，基地组织成员则与伊朗什叶派政府合作。&lt;/p&gt;
-&lt;p&gt;“令人执行袭击的人可能是他一生中从未见过一个伊斯兰国成员的，”菲滕-布朗说，“但这并不意味着他们不能执行ISIS启发下的袭击。”&lt;/p&gt;
-&lt;p&gt;驾车撞向人群或发动刺杀狂飙“都是原始的、低成本的攻击，几乎不可能防范，”他继续说，“如果决心要杀死毫无防备的公众，他们是可以做到的。”&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="阿布杜尔·拉赫姆·贾巴尔，德州袭击指控的同父异母兄弟，坐在他们位于贝约姆房屋的车库中" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T7TUHNLBQZPOTAD5BLV72YG63E.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;阿布杜尔·拉赫姆·贾巴尔，德克萨斯州遇袭指控的同父异母兄弟，坐在他们位于贝约姆房屋的车库中，2025年1月2日，美国。路透社/阿瑞斯·索马塞卡尔&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="阿布杜尔·拉赫姆·贾巴尔，德州袭击指控的同父异母兄弟，推着他们的父亲在他们位于贝约姆的房屋前" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5F6FY3PIJZNUFO6BZYK5IVJTQM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;阿布杜尔·拉赫姆·贾巴尔，德克萨斯州遇袭指控的同父异母兄弟，推着他们的父亲在他们位于贝约姆房屋的前面，2025年1月2日，美国。路透社/阿瑞斯·索马塞卡尔&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="联邦调查局通缉令上关于沙姆苏德丁·贾巴尔的信息" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X7RZ22A6GVPWLK6ANQ3UCKLVMM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;2020年7月11日拍摄的沙姆苏德丁·贾巴尔与调查人员所说的、他袭击新奥尔良路易斯安那州群众的现场监控视频画面。2025年1月1日在联邦调查局通缉令中。通缉令也显示了贾巴尔在奥尔良街和波旁街交叉路口附近放置简易爆炸装置（IED）的冷却器照片。联邦调查局/官方图片/路透社&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="联邦调查局通缉令上关于沙姆苏德丁·贾巴尔的信息" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EFXX4GO5UZMAZLJN5FKAL6JMAQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;联邦调查局通缉令显示，沙姆苏德丁·贾巴尔是德克萨斯州指控的新奥尔良新年庆祝活动人群撞击事件的嫌疑人。该通缉令的一部分新信息于2025年1月2日在联邦调查局发布。联邦调查局/官方图片/路透社&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="一名驾驶员在庆祝新年活动时驾驶卡车撞击人群" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TESNYCCE6ZKHFE4WFV3SJQR7HU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;新奥尔良路易斯安那州，在2025年1月2日的新年庆典活动中，一名男子驾驶卡车撞击人群时，警方在围观群众附近树立路障。路透社/埃德华多·穆诺兹&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="联邦调查局通缉令上关于沙姆苏德丁·贾巴尔的信息" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5X45ILEDIRJJ7HOCDWG6P75X5M.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;联邦调查局通缉令显示，沙姆苏德丁·贾巴尔是德克萨斯州指控的新奥尔良新年庆祝活动人群撞击事件的嫌疑人。该通缉令的一部分新信息于2025年1月2日在联邦调查局发布。联邦调查局/官方图片/路透社&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="一名驾驶员在庆祝新年活动时驾驶卡车撞击人群" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V4HTAV6VSVIAXMBUXVTG2HHMQY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;新奥尔良路易斯安那州，2025年1月2日，人们在新年庆祝活动中，就在一个驱动卡车撞击人群的事件之后，附近树立路障。路透社/埃德华多·穆诺兹&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 00:53:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/</guid></item><item><title>德国、法国外长将在大马士革会见叙利亚新统治者</title><link>https://www.reuters.com/world/germanys-foreign-minister-heads-damascus-one-day-trip-2025-01-03/</link><description>&lt;p&gt;欧盟外长安娜莱娜·贝尔博克与法国同行一同访问叙利亚，在为期一天的行程中，她将与叙利亚新统治者的领导人艾哈迈德·阿尔-夏拉阿会面。德国外交部在周五宣布。&lt;/p&gt;
-&lt;p&gt;“今天随同法国同行的访问，也是代表欧盟的访问，向叙利亚民众发出了明确信号：欧洲和叙利亚之间以及德国和叙利亚之间的新政治开端是可能的。”贝尔博克在出发前往大马士革前，根据外交部的消息发表上述言论。&lt;/p&gt;
-&lt;p&gt;贝尔博克和法国外长让-诺埃尔·巴罗特是自12月8日叛军占领大马士革以来，首次访问叙利亚的欧盟顶级外交官，当时总统巴沙尔·阿萨德在超过13年的内战后被迫流亡，结束了其家族数十年的统治。&lt;/p&gt;
-&lt;p&gt;“在叙利亚，我们希望能够促进和平而具有挑战性的过渡，这将服务于叙利亚人民和地区的稳定。”巴罗特在社交平台X上表示。&lt;/p&gt;
-&lt;p&gt;自推翻阿萨德后，由夏拉阿领导的伊斯兰主义叛军已经寻求向阿拉伯国家和地区及国际社会保证，他们将代表全体叙利亚人民治理，而不是输出伊斯兰教激进革命。&lt;/p&gt;
-&lt;p&gt;西方国家已经开始逐步与夏拉阿和其领导的哈卡蒂勒伊斯兰运动（HTS）建立联系，HTS原本是与基地组织关联的逊尼派穆斯林组织，并开始讨论是否移除该组织的恐怖主义标签。&lt;/p&gt;
-&lt;p&gt;贝尔博克表示，她此行带着开放的手和明确的期望与新统治者会面，她说这些统治者将根据其行为来接受评判。&lt;/p&gt;
-&lt;p&gt;“我们知道HTS在意识形态上的来源以及它过去所作所为。”贝尔博克说。&lt;/p&gt;
-&lt;p&gt;“但我们也听到并看到其寻求温和与理解其他重要行动者的愿望。”她补充道，提到与美国盟友库尔德人民保护部队（SDF）的会谈。&lt;/p&gt;
-&lt;p&gt;她的目标现在是使叙利亚再次成为国际社会的受尊重成员。&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="德国绿党2025年大选竞选纲领发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LAN3WNS7EBI35BDLPT3IH2HJY4.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;德国外长安娜莱娜·贝尔博克出席德国绿党2025年大选竞选纲领发布会，地点在德国柏林，2024年12月17日。路透社/Nadja Wohlleben 文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 05:55:23 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/germanys-foreign-minister-heads-damascus-one-day-trip-2025-01-03/</guid></item><item><title>2024年，超过30万移民穿越中美洲的达连Gap，同比下降42%</title><link>https://www.reuters.com/world/americas/over-300000-migrants-crossed-latin-americas-darien-gap-2024-down-42-2025-01-02/</link><description>&lt;p&gt;2024年，超过300,000名移民通过达连 Gap 翻越边境进入巴拿马，相比2023年创纪录的520,085人，减少了42%。巴拿马移民当局周四向路透社表示。&lt;/p&gt;
-&lt;p&gt;危险的达连 Gap 连接哥伦比亚和中美国家巴拿马，越来越多的移民正踏上北上美国的旅程。&lt;/p&gt;
-&lt;p&gt;自去年7月上任以来，巴拿马总统何塞·拉乌尔·穆林诺对移民问题采取了更为强硬的态度，包括在达连 Gap 的部分区域设置了铁丝网，处以罚款，并使用美国资助的航班遣返移民。&lt;/p&gt;
-&lt;p&gt;巴拿马国家移民局官员向路透社表示，去年有302,203名移民穿越达连 Gap，比2023年的创纪录数字520,085人下降了42%。其中2024年约69%的移民来自委内瑞拉。&lt;/p&gt;
-&lt;p&gt;许多委内瑞拉人正逃离这个曾经繁荣的南美石油生产国的长期经济崩溃。&lt;/p&gt;
-&lt;p&gt;“我们每天都在努力确保非法移民不会进入巴拿马城或全国其他地区，”穆林诺在对立法者发表演讲时说。&lt;/p&gt;
-&lt;p&gt;穆林诺补充说，他的政府通过与美国达成的协议，已遣返1,548名移民。&lt;/p&gt;
-&lt;p&gt;然而，去年有209,000名委内瑞拉人被允许继续他们的旅程，因为巴拿马和委内瑞拉在委内瑞拉7月有争议的选举后暂停了直接航班。&lt;/p&gt;
-&lt;p&gt;分析人士警告说，巴拿马的措施可能最终不会成功，因为这些措施并没有解决推动人们移民的根本问题，可能会使旅程更加危险。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="移民抵达移民接待中心，位于拉加斯布兰卡斯村" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X64I3G437NJN7KKBIJEJHMR3BQ.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;一名移民背着孩子在穿越达连 Gap 后抵达移民接待中心，位于巴拿马达连省拉加斯布兰卡斯村。路透社/埃内亚·莱布伦/资料图片&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 19:57:00 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/americas/over-300000-migrants-crossed-latin-americas-darien-gap-2024-down-42-2025-01-02/</guid></item><item><title>在中国经历了商业航空致命一年之后，敦促进行安全评估</title><link>https://www.reuters.com/world/china/china-urges-safety-assessments-after-deadly-year-commercial-aviation-2025-01-03/</link><description>&lt;p&gt;中国当局要求对航空业风险进行评估，以揭示从航线到跑道的任何“潜藏”的运营危险，这是自2018年以来全球商业航空最致命的一年。&lt;/p&gt;
-&lt;p&gt;据统计，去年全球商业航班事故中共有318人死亡，据美国飞行安全基金会旗下的航空安全网络&lt;sup&gt;[1]&lt;/sup&gt;数据显示，上一次死难人数超过300是在2018年。&lt;/p&gt;
-&lt;p&gt;周五，中国民航局表示已向中国航空公司预警潜在的安全威胁，并调整了飞行路线。&lt;/p&gt;
-&lt;p&gt;“中国民航局已在第一时间提醒航空公司注意飞行安全风险，并调整航线计划以确保安全运营。”中国民航局官员朱明江在例行新闻发布会上说。&lt;/p&gt;
-&lt;p&gt;12月29日，济州航空&lt;sup&gt;[2]&lt;/sup&gt;(代码089590.KS)的一架从泰国飞往韩国的飞机在经过鸟击后，在韩国木uan机场跑道外出现了腹部着陆并超出了跑道范围。这架波音&lt;sup&gt;[3]&lt;/sup&gt;(代码BA.N)737-800飞机在撞上路肩后爆炸起火，造成179人死亡。&lt;/p&gt;
-&lt;p&gt;在此之前，一架阿塞拜疆航空&lt;sup&gt;[4]&lt;/sup&gt;的航班在从南部俄罗斯改航至哈萨克斯坦阿克陶市附近坠毁。当时，乌克兰无人机正在袭击多个南部俄罗斯城市。阿塞拜疆总统称，飞机在俄罗斯境内被意外射击受损。&lt;/p&gt;
-&lt;p&gt;根据财经及调查新闻网站财新报道，包括中国东方航空&lt;sup&gt;[5]&lt;/sup&gt;(代码601111.SS)和中国南方航空&lt;sup&gt;[6]&lt;/sup&gt;(代码600029.SS)在内的中国航空公司已经开始避开该地区空域。自2022年俄罗斯-乌克兰战争以来，大多数西方航空公司和亚洲航空公司全部避免使用俄罗斯空域。&lt;/p&gt;
-&lt;p&gt;此外，中国民航局还要求机场采取防鸟击措施，并对跑道的安全隐患进行全面审查。&lt;/p&gt;
-&lt;p&gt;朱明江表示，机场将“加强在航空设施内外驱赶鸟类的运营”。&lt;/p&gt;
-&lt;p&gt;他还表示，机场被要求调查“潜藏”的危险，以提高跑道的安全性。&lt;/p&gt;
-&lt;p&gt;在2022年中国东方航空公司一架飞机在广西山区坠毁，造成132人遇难的民航史上最为致命的航空公司事故后，中国民航局于2022年启动了大规模的航空安全行动。&lt;/p&gt;
-&lt;p&gt;事故发生近三年后，仍未发布一份详尽的最终报告，概述事故原因。中国民航局在回应有关报告状态的请求时未立即回复。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="韩国木uan机场飞机坠毁现场" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PVAQQBUDZBI4HJ2C7QZ4JBCJUI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;2024年12月31日，韩国木uan国际机场，一架飞机于跑道外坠毁后的现场。路透社/Kim Hong-Ji/文件照&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 05:49:56 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/china-urges-safety-assessments-after-deadly-year-commercial-aviation-2025-01-03/</guid></item><item><title>韩国总统卫队在紧张对峙后阻止被弹劾的尹锡悦被捕</title><link>https://www.reuters.com/world/asia-pacific/south-korea-authorities-moving-arrest-president-yoon-yonhap-says-2025-01-02/</link><description>&lt;p&gt;韩国总统卫队和军事人员在首尔市中心尹锡悦总统官邸，阻止了调查人员8小时的激烈对峙，从而未能在周五逮捕被弹劾的总统尹锡悦。&lt;/p&gt;
-&lt;p&gt;尹锡悦因12月3日宣布实施戒严，引发韩国震惊，目前成为首个因任内行为被发出逮捕令的总统，遭到刑事调查。&lt;/p&gt;
-&lt;p&gt;高官反贪污调查局（CIO）在一份声明中表示：“鉴于持续的对峙，执行逮捕令几乎是不可能的。”&lt;/p&gt;
-&lt;p&gt;CIO官员与警方于周五黎明前，成功绕过聚集在尹锡悦住所周围的数百名支持者，支持者们誓言不惜生命阻止逮捕。&lt;/p&gt;
-&lt;p&gt;一些人高呼：“尹锡悦总统将由人民保护”，并要求CIO负责人被捕。&lt;/p&gt;
-&lt;p&gt;CIO官员在抵达总统官邸的门卫后，在清晨7点后不久一行人徒步进入，随即发现这里被总统安全服务人员及支援总统安全的军事人员严密警戒，一名CIO官员向记者透露。&lt;/p&gt;
-&lt;p&gt;多达200人围成人链，阻挠CIO和警方进入，该官员补充道。&lt;/p&gt;
-&lt;p&gt;韩国国防部分解释称，这些军事人员由总统安全服务人员控制。&lt;/p&gt;
-&lt;p&gt;大约下午1点30分，CIO因安全考虑取消了逮捕尹锡悦的行动，并表示“深刻遗憾”尹锡悦的态度不配合。&lt;/p&gt;
-&lt;p&gt;CIO表示将考虑下一步行动。&lt;/p&gt;
-&lt;p&gt;煽动叛乱是韩国总统唯一无法免于刑事追责的罪名。&lt;/p&gt;
-&lt;p&gt;法庭周二批准了一项针对尹锡悦的逮捕令，因为他无视多次传唤未按时到案回答问题，该逮捕令的有效期至2025年1月6日。&lt;/p&gt;
-&lt;p&gt;尹锡悦自12月14日被弹劾并被暂停职务以来一直处于孤立状态。&lt;/p&gt;
-&lt;p&gt;CIO暂停逮捕行动后，尹锡悦的法律顾问在声明中表示，CIO无权调查叛乱，这种“试图强行执行非法和无效的逮捕和搜查令”的尝试令人遗憾。该声明还警告警察不要支持此次逮捕行动。&lt;/p&gt;
-&lt;p&gt;尹锡悦被弹劾后所属的新国家党临时负责人欢迎暂停逮捕行动，并表示调查应避免拘留尹锡悦。&lt;/p&gt;
-&lt;p&gt;被捕令给予调查人员在尹锡悦被逮捕后的48小时内拘留他的时间，之后他们必须决定是否请求继续关押他或释放他。&lt;/p&gt;
-&lt;p&gt;尹锡悦在深夜宣布实施戒严，以突破政治僵局并根除“反体制势力”，这为亚洲第四大经济体——韩国这个地区最活跃的民主国家——带来了震惊。&lt;/p&gt;
-&lt;p&gt;然而，不到几个小时，190名立法者就打破了军事和警方的封锁，投票反对尹锡悦的命令。尹锡悦在最初行使权力六小时后撤销了命令。&lt;/p&gt;
-&lt;p&gt;他后来对自己的决定进行了反驳，指控国内政治对手对朝鲜友善，并援引了关于选举舞弊未经证实的说法。&lt;/p&gt;
-&lt;p&gt;韩国军方的两名官员，包括宣布戒严的军方总参谋长朴焕洙，因在调查中被捕而被控叛乱罪，Yonhap报道。&lt;/p&gt;
-&lt;p&gt;辞职后的尹锡悦国防部长尹 brag-keun 支持了戒严令的发布，后被拘留并被指控叛乱和滥用职权罪，上周被起诉。&lt;/p&gt;
-&lt;p&gt;除此之外，他的弹劾案仍由宪法法院审理，决定是否恢复弹劾或永久解除他的职务。第二次听证会计划于周五晚些时候举行。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="韩国法院对尹锡悦颁布逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2HLNG7B32BPVRBFOXWNOQ2WBGE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;韩国调查人员离开被弹劾总统尹锡悦的住所，调查人员因高官反贪污调查局的指示未能实施逮捕令，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="抗议者们聚集在被弹劾的尹锡悦总统的住处" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SBU2VBRYWVONBJPIOYZHWWNX7U.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;反对尹锡悦的抗议者们向被弹劾总统尹锡悦的住所进发，调查人员因高官反贪污调查局的指示未能实施逮捕令，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被弹劾的尹锡悦总统的律师尹 brag-keun 到达被弹劾总统尹锡悦的住所" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/47R7HVHUT5LGDHZBPWNCGWCR74.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;尹 brag-keun 律师抵达被弹劾总统尹锡悦的住所，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="韩国法院对尹锡悦颁布逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WEYJVF7ALRJQFPRCRDAQVWU5FU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;韩国调查人员离开被弹劾总统尹锡悦的住所，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被弹劾的尹锡悦总统的官方住所入口被巴士封锁" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5CY7RJN5KBJOROG6JPBTO3DAAQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被弹劾总统尹锡悦的官方住所入口被封锁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被弹劾的尹锡悦总统的官方住所前聚集的高官反贪污调查局成员" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/77F4R23ECBISZHKSIIOZV3EW4U.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;高官反贪污调查局成员在被弹劾总统尹锡悦的官方住所前聚集，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被弹劾的尹锡悦总统的官方住所入口前的车辆" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MMQ5OISBPZKKVN2DS5CCTDVSYE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被弹劾总统尹锡悦的官方住所入口前的车辆，2025年1月3日，韩国首尔。韩联社/通过路透社&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="警察在被弹劾的尹锡悦总统的官方住所前驻守" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/267V2K5N4ROVNC6N66V42MEP2M.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;警察在被弹劾总统尹锡悦的官方住所前驻守，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="记者们在韩国高官反贪污调查局办事处外等待被弹劾总统尹锡悦的到来" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EMBT6EQYC5NNZNGN3PLIVFQYBE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;记者们在被弹劾总统尹锡悦抵达韩国高官反贪污调查局办事处外等候，2025年1月3日，韩国广 rotary。路透社/金parsu-yeon&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被认为由韩国高官反贪污调查局成员驾驶的车辆到达被弹劾总统尹锡悦的官方住所" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LLNM2K3ZGVPULELYLWVZTZHRCI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被认为由高官反贪污调查局成员驾驶的车辆到达被弹劾总统尹锡悦的官方住所，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="韩国高官反贪污调查局成员进入被弹劾总统尹锡悦的官方住所" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DWUYAD7DXVIYLBUGB7AKASO2CI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;韩国高官反贪污调查局成员进入被弹劾总统尹锡悦的官方住所，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="被认为由韩国高官反贪污调查局成员驾驶的车辆抵达被弹劾总统尹锡悦的官方住所" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AL3VYR24NNPJHGLWOXH6CV6KOQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被认为由高官反贪污调查局成员驾驶的车辆抵达被弹劾总统尹锡悦的官方住所，尹锡悦面临逮捕威胁，2025年1月3日，韩国首尔。韩联网/通过路透社&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="在首尔总统办公室，尹锡悦总统发表全国讲话" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/G3IAPNI7JNLLFALMF3PL6KQR6I.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;韩国总统尹锡悦在2024年12月12日在首尔总统办公室发表全国讲话。总统办公室/手稿通过路透社/文件照片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="韩国法院对被弹劾总统尹锡悦颁布逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3DW3IJ5VY5JHNBNBYHQR7DSRUY.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;警察在被弹劾总统尹锡悦的官邸外驻守，抗议支持者聚集，尹锡悦面临逮捕威胁，2025年1月2日，首尔。路透社/金洪基&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 21:30:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-authorities-moving-arrest-president-yoon-yonhap-says-2025-01-02/</guid></item><item><title>枪手在黑山小城纵火造成12人死亡</title><link>https://www.reuters.com/world/europe/suspect-montenegro-shooting-dies-after-attempting-suicide-2025-01-01/</link><description>&lt;p&gt;一名男子在蒙特内哥罗一个小城镇进行袭击，导致12人死亡，随后自杀身亡，这是该国历史上最严重的群体性枪击事件之一。&lt;/p&gt;
-&lt;p&gt;警方将袭击者命名为45岁的阿科·马丁诺维奇。他在周三下午与一家餐馆发生争执后，首先射杀手四人。&lt;/p&gt;
-&lt;p&gt;随后，他在科蒂涅附近射杀手八人，其中包括两名儿童和他的妹妹，警察局长拉佐·谢潘诺维奇在首都波德戈里察的新闻发布会上表示。&lt;/p&gt;
-&lt;p&gt;谢潘诺维奇说：“所有受害者都是他的教父、朋友……他杀了他的妹妹，尽管他们关系很好，还一起度过了新年。”&lt;/p&gt;
-&lt;p&gt;他称，警方最初错误地得知了第一起枪击的现场信息，因此前往距离事发地点3公里的地方。&lt;/p&gt;
-&lt;p&gt;这是该镇近3年来发生的第二次大屠杀事件，距离波德戈里察以西约38公里。2022年8月，一名枪手射杀手10人，包括两名儿童，而后被击毙。&lt;/p&gt;
-&lt;p&gt;获警方包围后，马丁诺维奇试图自杀，但最终在前往医院途中因伤势过重身亡，谢潘诺维奇说。&lt;/p&gt;
-&lt;p&gt;谢潘诺维奇表示，“被警方命令放下武器时，他将枪抵向自己身体开枪自尽。”&lt;/p&gt;
-&lt;p&gt;警方在马丁诺维奇身上发现了一把手枪和90发子弹。&lt;/p&gt;
-&lt;p&gt;周三，科蒂涅街头几乎没有人出没，所有公共场所都关闭了。&lt;/p&gt;
-&lt;p&gt;“情形真是可怕。所有科蒂涅家庭都充满了不确定性，恐惧感。你不敢从窗户向外看。”43岁的居民斯拉维萨·瓦斯苏罗维奇说。&lt;/p&gt;
-&lt;p&gt;“当我……在电视上看到这一切时，我不禁落泪。”64岁的斯洛博多·马蒂奇说。&lt;/p&gt;
-&lt;p&gt;周三晚些时候，在波德戈里察和其他多数蒙特内哥罗城市，众多市民聚集在暗处点燃蜡烛，以纪念死者。&lt;/p&gt;
-&lt;p&gt;波德戈里察的中年妇女桑扎·约万诺维奇对政府不愿承认其在社会暴力事件中的责任感到愤怒。&lt;/p&gt;
-&lt;p&gt;“社会正处于危机之中。”约万诺维奇说。&lt;/p&gt;
-&lt;p&gt;警方表示，马丁诺维奇过分饮酒。&lt;/p&gt;
-&lt;p&gt;2022年，警方在其家中发现两把气枪和一枚自制炸弹。他被判监禁三月，但上诉加以申诉，案发时尚在审理中。&lt;/p&gt;
-&lt;p&gt;他还被命令接受精神评估。&lt;/p&gt;
-&lt;p&gt;阿莱克桑达尔·拉多维奇，波德戈里察临床中心负责人表示，袭击中其他人遭受了危及生命的伤势，其中包括一名处于危重状态的人。&lt;/p&gt;
-&lt;p&gt;总理米洛耶科·斯帕吉奇宣布为期三天的全国哀悼，并计划于周五召开国家安全委员会会议，讨论此次袭击后的后果以及如何限制非法武器的流通。&lt;/p&gt;
-&lt;p&gt;根据提议，将为拥有和携带枪支制定更严格的标准，并增加警力编制。&lt;/p&gt;
-&lt;p&gt;然而，更严格的枪支管制措施可能会面临强烈反对。所有西巴尔干国家——包括波黑、塞尔维亚、阿尔巴尼亚、科索沃和北马其顿——都充斥着武器，主要是来自20世纪90年代的战争。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗集体枪击事件纪念活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AVTAIZ2C5BJPVAQMUXWRIDO6ZY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在一场纪念活动中点燃蜡烛，蒙特内哥罗科蒂涅发生枪击事件，杀死多人，2025年1月2日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗集体枪击事件纪念活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4SJCNDKRDZMCRINQMJE7HFCCFE.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在一场纪念活动中点燃蜡烛，蒙特内哥罗科蒂涅发生枪击事件，杀死多人，2025年1月2日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗集体枪击事件纪念活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6ZKCP6ESAJONTLTSK6TOLFNNVU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一个人在一场纪念活动中点燃蜡烛，蒙特内哥罗科蒂涅发生枪击事件，杀死多人，2025年1月2日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3JHSCRI4PRK2LOSUGAMQWDFNJM.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名警察站在科蒂涅一家餐馆外，这里发生了枪击事件，有多人遇害，2025年1月2日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗集体枪击事件纪念活动" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IYZGBFJKXBKJFKVLXHXNQLGBOA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们在一场纪念活动中点燃蜡烛，蒙特内哥罗科蒂涅发生枪击事件，杀死多人，2025年1月2日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2LAHPCOC5JK4JEJJTZHC5ZEPXY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;工作人员在科蒂涅的餐馆外运送伤亡人员，那里发生了枪击事件，有多人遇害，2025年1月1日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/64YDALE2CJPJDDPSBKDP2IW4GA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名警察站在科蒂涅一家餐馆外，那里发生了枪击事件，有多人遇害，2025年1月1日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQHPHJ6JERP3BAVQ4BDPB2AUXY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;警察在科蒂涅一家餐馆外设置检查点，那里发生了枪击事件，有多人遇害，2025年1月1日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EDLGJRZSL5K7XIYVBY3O4BEOIY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;工作人员在科蒂涅的餐馆外运送伤亡人员，那里发生了枪击事件，有多人遇害，2025年1月1日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="蒙特内哥罗枪击事件中多人死亡" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EDZYAZMTNFMERJ7UJ2ZGQL3OOI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;警察在科蒂涅的一家餐馆外设置检查点，那里发生了枪击事件，有多人遇害，2025年1月1日，波德戈里察蒙特内哥罗，路透社/史特凡·瓦斯内科维奇&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Wed, 01 Jan 2025 23:52:36 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/suspect-montenegro-shooting-dies-after-attempting-suicide-2025-01-01/</guid></item><item><title>乌克兰军方称 its 去掉 对其 在俄罗斯库尔斯克地区 的指挥所 已袭击了</title><link>https://www.reuters.com/world/europe/ukraines-military-says-it-struck-command-post-russias-kursk-region-2025-01-02/</link><description>&lt;p&gt;乌克兰军方表示，在库尔斯克地区玛丽诺附近的一个俄方指挥所进行了高精度打击。乌方在大规模推进后仍控制着该地区的部分领土。&lt;/p&gt;
-&lt;p&gt;俄罗斯军方表示，防空部队在该地区击落了四枚乌克兰导弹，并称袭击损坏了玛丽诺附近一个村子的高层公寓楼及其他建筑。&lt;/p&gt;
-&lt;p&gt;五个月前，乌克兰部队越过边境进入库尔斯克地区后，乌方仍控制着该地区的部分领土，但俄罗斯军方声称已经重新占领了大部分失去的领土。&lt;/p&gt;
-&lt;p&gt;"这些袭击破坏了俄罗斯联邦在乌克兰无辜平民身上实施恐怖活动的能力，"乌克兰军方通过Telegram应用程序发表的声明中说道。&lt;/p&gt;
-&lt;p&gt;另一则帖子发布了一段视频，显示了军事人员声称的伊万诺夫斯科耶基地受损情况，该基地位于玛丽诺附近。&lt;/p&gt;
-&lt;p&gt;无法独立核实来自双方的战场信息。&lt;/p&gt;
-&lt;p&gt;库尔斯克地区行政长官阿列克谢·基恩斯廷称，玛丽诺附近的袭击破坏了多层公寓楼和私人住宅的窗户。同时遭破坏的还有学校、药店和商店。&lt;/p&gt;
-&lt;p&gt;视频展示了维修受损外立面的工作。&lt;/p&gt;
-&lt;p&gt;库尔斯克地区的军事官员后来报告称，防空部队在库尔斯克地区又击落了一枚导弹。&lt;/p&gt;
-&lt;p&gt;俄国防 ministry 表示，周四晚些时候，俄罗斯防空系统击落了多架无人机，目标包括靠近乌克兰边境的别尔哥罗德州的两架、布良斯克州的两架以及库尔斯克州的一架。&lt;/p&gt;
-&lt;p&gt;更北边的奥廖尔州州长表示，四架无人机被击落。&lt;/p&gt;
-&lt;p&gt;最新的事件中，未报告有损毁或伤亡。&lt;/p&gt;</description><pubDate>Thu, 02 Jan 2025 18:43:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/ukraines-military-says-it-struck-command-post-russias-kursk-region-2025-01-02/</guid></item><item><title>印度首都浓雾笼罩，威胁航班运行中断。</title><link>https://www.reuters.com/world/india/dense-smog-shrouds-indian-capital-threatening-disrupt-flights-2025-01-03/</link><description>&lt;p&gt;厚重的雾霾笼罩了印度首都新德里，导致机场和航空公司的官员发出警告，可能会影响航班的运行。随着空气质量和能见度恶化，在部分地区能见度降为零。&lt;/p&gt;
-&lt;p&gt;自冬季开始以来，新德里一直在与雾霾和空气质量差作斗争，据瑞士的空气质量监测机构IQAir周五实时排名，新德里在全球污染最严重的首都市排名第三。&lt;/p&gt;
-&lt;p&gt;尚无航班改道或取消的报告，机场发言人说，尽管当局在X社交媒体平台发布警告，称缺乏低能见度降落设备的航班可能会遇到困难。&lt;/p&gt;
-&lt;p&gt;在社交媒体上，印度最大的航空公司靛蓝和低成本航空公司 SpiceJet 均提醒乘客注意因天气原因可能引发的延误。&lt;/p&gt;
-&lt;p&gt;据航空网站 FlightRadar24 报道，截至上午10:14分，平均延误时间为8分钟，共有20个航班受到影响。&lt;/p&gt;
-&lt;p&gt;据媒体报道，新德里的部分列车服务也受到了延误影响。&lt;/p&gt;
-&lt;p&gt;新德里的空气质量在周五被评为“非常差”，指数得分为351，印度的最高污染控制机构表示，这一数值远远超过了他们认为“良好”的0至50之间水平。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="一个女孩在新德里恒河岸边的晨雾中拍照" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HD22VAWNRJI5HJM6EBZP2IOPMQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一个女孩于2025年1月3日清晨在印度新德里的恒河岸边拍照。路透社/阿丹·阿比迪&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="人们在新德里恒河上乘船穿越冬日晨雾" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H3527LJCMRILFPZTUVM52OGDEM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们于2025年1月3日清晨在印度新德里的恒河上乘船穿越冬日晨雾。路透社/阿丹·阿比迪&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="一位女孩在古老街区的露天地上折好毯子，其他人正围着火坐下" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Q72WNCHX2FOXRBSAZ6URE3PADU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一位女孩在2025年1月3日清晨的新德里古老街区的露天地上折好毯子，其他人正围着火坐下。路透社/阿丹·阿比迪 / 当日图片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="一个男孩用毛毯裹着自己坐在旧街区的一个停车场的床叠上" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/N5OIXCWKPBOWZAA7EQYALUJLFA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一个男孩用毛毯裹着自己，坐在2025年1月3日清晨的新德里古老街区的一个停车场的床叠上。路透社/阿丹·阿比迪 / 当日图片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="人们在旧街区市场的露天地上围着火坐" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X4LVVA3EJJOCTO4CW6EVIWHGGE.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们于2025年1月3日清晨在新德里古老街区市场的露天地上围着火坐。路透社/阿丹·阿比迪&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 04:54:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/dense-smog-shrouds-indian-capital-threatening-disrupt-flights-2025-01-03/</guid></item><item><title>FBI称，得克萨斯州男子单独在新奥尔良发动袭击，与伊斯兰国无关</title><link>https://www.reuters.com/world/us/police-probe-motive-new-orleans-truck-rampage-2025-01-02/</link><description>&lt;p&gt;一位美国退伍军人在新奥尔良新年庆典活动中用卡车冲撞人群，造成14人死亡的事件中，曾效忠伊斯兰国，并在袭击前录制了一些谴责音乐、毒品和酒精的视频。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.reuters.com/world/us/suspect-deadly-new-orleans-truck-attack-served-us-army-2025-01-01/"&gt;Shamsud-Din Jabbar&lt;/a&gt; 是一名42岁的得克萨斯州原住民，曾在阿富汗服役，联邦调查局（FBI）表示，此次袭击行动是由他独自实施的，这与最初认为他可能有同伙的说法相反。&lt;/p&gt;
-&lt;p&gt;他在与警方的枪战中被击毙，该袭击还造成数十人受伤，被联邦调查局认定为恐怖主义行为。&lt;/p&gt;
-&lt;p&gt;FBI副局长Christopher Raia在周四的记者会上表示：“这是蓄谋已久的恶行，表明Jabbar受到伊斯兰国的激励。”伊斯兰国是一个以伊拉克和叙利亚为基地的激进组织。&lt;/p&gt;
-&lt;p&gt;Raia表示，调查人员正在调查Jabbar的“&lt;a href="https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/"&gt;激进化路径&lt;/a&gt;”，还不能确定他如何从一个军事退伍军人、房地产经纪人和曾经在德勤（Deloitte）工作的员工转变为100%受到伊斯兰国激励的人。&lt;/p&gt;
-&lt;p&gt;袭击用的租卡车的车尾插着一面伊斯兰国旗帜。&lt;/p&gt;
-&lt;p&gt;尽管伊斯兰国在持续的美国领导的军事行动中受到重创，但专家认为，它仍然通过网络招募同情者。&lt;/p&gt;
-&lt;p&gt;Jabbar的同父异母兄弟Abdur Rahim Jabbar也在寻找答案，他表示Shamsud-Din Jabbar最近正努力从最近的离婚中恢复过来，但在袭击前几周并未表现出愤怒。&lt;/p&gt;
-&lt;p&gt;“他在世时聪明、风趣、有魅力、富有同情心、谦逊，根本不会伤害任何人。”Abdur Jabbar在接受路透社采访时在得克萨斯州贝奥丁家中说，“这就是为什么这如此令人心碎。这样的恶意程度不符合他的本性。我们也在试图理解他是如何变化的。”&lt;/p&gt;
-&lt;p&gt;他还提到，他们的父亲在听到这一消息后痛哭不已。&lt;/p&gt;
-&lt;p&gt;“（我们的父亲）开始哭泣。「不，不，不是我的长子。」”Abdur Jabbar说。&lt;/p&gt;
-&lt;p&gt;新年庆典期间，在新奥尔良的法尔茅斯区Bourbon街发生的袭击和随后在拉斯维加斯特朗普国际酒店外的爆炸，使得2025年新开年的第一周变得充满紧张氛围。&lt;/p&gt;
-&lt;p&gt;联邦调查局表示，他们尚未确认拉斯维加斯的爆炸与新奥尔良的袭击之间存在直接联系，而爆炸导致一名司机死亡，另有七人轻伤。&lt;/p&gt;
-&lt;p&gt;全国范围内的执法部门正在承诺加强即将到来的大型公共活动的安全措施。&lt;/p&gt;
-&lt;p&gt;原定于周三在新奥尔良举行的第95届甜菜碗大学橄榄球比赛罗斯按提高了安全级别，并在比赛中为受害者举行了哀悼一分钟的活动，最终耐德姆队以23比10击败佐治亚队。&lt;/p&gt;
-&lt;p&gt;Bourbon街在其早些时候重新向公众开放。与此同时，新奥尔良市也在筹备为期四周的狂欢节庆典，将于1月6日开始，计划在一个月后举办全国橄榄球联盟的超级碗比赛。城市官员保证将为这些拥挤的活动加强安全措施。&lt;/p&gt;
-&lt;p&gt;Shamsud-Din Jabbar近期重新皈依伊斯兰教，此前他在20多岁和30多岁时放弃了信仰。&lt;/p&gt;
-&lt;p&gt;他去年11月似乎录制了一系列宗教音频文件，其中包括对音乐的极端看法，也包括一些主流伊斯兰观点，如谴责毒品和酒精。&lt;/p&gt;
-&lt;p&gt;Abdur Jabbar确认，发布在SoundCloud平台上的一系列录音属于他同父异母的兄弟。&lt;/p&gt;
-&lt;p&gt;“音乐是邪魔的声音……邪魔的声音是使人偏离安拉正道的误导。”Shamsud-Din Jabbar在其录音中说。&lt;/p&gt;
-&lt;p&gt;“末日的一个迹象是，一些穆斯林群体将认为播放音乐不再是罪行，”他补充说，“安拉将会用地震和转变惩罚他们。”&lt;/p&gt;
-&lt;p&gt;他还谴责使用“大麻、酒精、镇静剂、类鸦片药物、兴奋剂”等致幻剂。&lt;/p&gt;
-&lt;p&gt;联邦调查局和SoundCloud均未立即对录音做出回应。&lt;/p&gt;
-&lt;p&gt;根据公开记录和访谈信息，Jabbar近期面临家庭和财务困境。&lt;/p&gt;
-&lt;p&gt;他的父亲在2023年中风，他正协助安排其护理，阿布杜·拉赫姆·贾布尔说。这发生在去年9月他从其第二任妻子离婚之后，这位妻子是他的一个孩子母亲。&lt;/p&gt;
-&lt;p&gt;根据联邦调查局的说法，Jabbar于2024年12月31日从休斯顿驾车前往新奥尔良。调查局表示，在袭击当天早上1:29至3:02之间，他发布了五段Facebook视频，表示支持伊斯兰国。&lt;/p&gt;
-&lt;p&gt;Raia在记者会上表示，Jabbar此前曾计划伤害家人和朋友，但担心媒体报道可能会关注“信徒与不信者之间的战争”。同时，Jabbar在录像中还说，他已于上一年夏天加入伊斯兰国，并提供了遗嘱。&lt;/p&gt;
-&lt;p&gt;监视视频显示，Jabbar在他袭击前几个小时在Bourbon街周边几个交叉路口放置了两个简易爆炸装置，但民警在现场将这些装置安全处置。&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B22PABTHHRMNXDRZJG6D7P5URM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名人士接近一个简易纪念地，众人在新奥尔良法尔茅斯区Bourbon街新年庆祝活动期间遭遇袭击身亡。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ULEOG4VPNNIF7MRPJKSGHGFKSU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名男子帮助准备一个简易纪念地，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/埃杜阿多·穆诺斯  &lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/33YBYAUHOBN6BIJPJQ64O3LIMQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名警察进入一辆车辆，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DYD5DBAKEFJ2NPHZLVZ6VSM7IU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名人士坐在一个简易纪念地附近，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NCFKKX2QVFMZVD4U47TMPBZKAM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;安保人员警戒，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="FBI通缉犯Shamsud-Din Jabbar的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X7RZ22A6GVPWLK6ANQ3UCKLVMM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;Shamsud-Din Jabbar现年71岁（实际年龄为42岁），2020年7月7日的犯罪嫌疑人为他拍摄的照片，摄入了他在德福皮街附近散步的视频监控画面，之后当局表示他在新奥尔良法尔茅斯区新年庆祝活动期间用卡车撞人。2025年1月1日，美国联邦调查局/哈杜特图片社 且图见一张被当局描述为放在Bourbon街与Orleans街交叉口附近的一个装有简易爆炸装置的冷却器照片&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NLCI5MV7SJO6BMRYXPMGAC4USA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名男子在法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群后吹奏乐器。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AIRHDTWDJNJC5AMRLICA4AGQWM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;新奥尔良警方车辆封锁进入Bourbon街的入口，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3DRFYOJ6CZLJBJ7IXIP35K4KNM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;一名女子在法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群后向临时纪念地献花。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7ELB555DQNISZBYAR2QR3234YM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;警察在法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群后站在守卫岗位上。2025年1月2日，美国路透社/埃杜阿多·穆诺斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FSVEYSAWDRNBPOHKUSANDKHOVQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;2025年1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗那天，路易斯安那州司法警官执法部队到达场上，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="仍旧展示犯罪嫌疑人Shamsud-Din Jabbar的图片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TJVZZVOVSFJ6HCEFO4GOTX5VE4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;2013年11月，路易斯安那州福特·约翰逊（原福特·波尔克）1兵种战斗旅82空降师一处获取社交媒体上发布的Shamsud-Din Jabbar的图片，查尔斯顿警备区via脸书 图克斯社访问/路透社/档案照片&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YQTBKIDLBVMLNK4XD52AG27D6U.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗那天，朱埃利西亚警局特种作战小组在对法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群进行巡逻。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PYVVOVZM7RMCTMIQ74JQ52MKOM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗那天，圣约翰警局特种作战小组到达球场，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/KIOM5LYGUFJELFM4AY7BF4I52U.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗当天，佐治亚大学红雀橄榄球队和耐德姆大学附属鹰军橄榄球队到达球场，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QGG5RNM73ZKPRCRB5VRZA63JGQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗当天，朱埃利西亚警局特种作战小组在对法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群进行巡逻。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C4NIEOY7KRM3RMAN2YHM2DTWIQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗当天，佐治亚大学红雀橄榄球队和耐德姆大学附属鹰军橄榄球队到达球场，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X7VYH6N5KNMUJMGRQ6MNOXYGUQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗当天，国家警备队军事警察在一月法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群的地方待命。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OTYPC2PYLFMCBI3TS6HVM6EY44.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，新奥尔良橘子盛开路超级穹顶球场2025年甜菜碗当天，路易斯安那州警察局车辆经过，法尔茅斯区Bourbon街新年庆祝活动期间，一名司机撞入人群。2025年1月2日，美国路透社/奥塔维奥·琼斯&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;img alt="司机撞入庆祝新年的群众" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C3XGVKRN4VMN3FMF7PUD4NSEN4.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;p&gt;1月2日，法尔茅斯区Bourbon街新年庆祝活动期间，几名执法成员在</description><pubDate>Thu, 02 Jan 2025 10:04:05 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/police-probe-motive-new-orleans-truck-rampage-2025-01-02/</guid></item><item><title>警方确认爆炸特斯拉Cybertruck司机为美军士兵</title><link>https://www.reuters.com/world/us/fbi-looks-any-link-between-tesla-explosion-new-orleans-attack-2025-01-02/</link><description>&lt;p&gt;周四，官方确认了在拉斯维加斯特朗普国际酒店外爆炸的特斯拉赛博卡车内的死者身份，此人是一名来自科罗拉多州的美国陆军士兵，而联邦调查局表示目前尚不清楚该爆炸是否为恐怖袭击事件。&lt;/p&gt;
-&lt;p&gt;联邦调查局表示，目前尚未找到将1月1日在新奥尔良发生的导致15人死亡的卡车袭击事件与当天晚些时候在拉斯维加斯发生的赛博卡车爆炸事件之间的直接联系，后者造成7人轻微受伤。&lt;/p&gt;
-&lt;p&gt;赛博卡车的司机被确认为马修·刘易斯伯格，37岁，科罗拉多斯普林斯现役军人。警方表示，他单独行动。&lt;/p&gt;
-&lt;p&gt;根据拉达维斯山河警局在推特上发布的一则消息称，刘易斯伯格在车中自杀，开枪至口部。警方引述克拉克县医学检查官办公室的报告称。&lt;/p&gt;
-&lt;p&gt;根据警方的说法，刘易斯伯格在卡车车厢内的汽油罐和大型烟花发射器爆炸时被卷入其中。&lt;/p&gt;
-&lt;p&gt;在一次记者会上，警方曾表示相信车内发现的死者就是刘易斯伯格，但由于尸体烧毁严重，调查人员正在等待DNA证据和医疗记录的确认。&lt;/p&gt;
-&lt;p&gt;刘易斯伯格在车辆爆炸前不久开枪自尽，拉达维斯山河警局局长凯文·麦克马希尔对记者说，手枪则在其脚边被发现。&lt;/p&gt;
-&lt;p&gt;警方还发现了两把半自动手枪，这两把枪据说是刘易斯伯格于12月30日合法购买的。执法部门还在卡车内发现了军人身份证明、护照、iPhone和信用卡。&lt;/p&gt;
-&lt;p&gt;一名陆军官员表示，刘易斯伯格被分配至陆军特种作战司令部，死前正处于批准休假状态。该部门发言人表示，陆军依然对正在进行的调查保持沉默。&lt;/p&gt;
-&lt;p&gt;美国官员向路透社透露，刘易斯伯格获得过勇敢奖章及战斗步兵徽章，并完成了五次阿富汗部署任务。&lt;/p&gt;
-&lt;p&gt;刘易斯伯格的一位亲缘关系者表示，刘易斯伯格从小就梦想成为“军人，特别部队成员”。这位亲属也指出，刘易斯伯格整个成年生涯都在支持特朗普，并视其为一个热爱军队的人。&lt;/p&gt;
-&lt;p&gt;这位亲属表示，刘易斯伯格高中毕业于俄亥俄州的布基斯镇，在高中毕业后立即加入了军队。&lt;/p&gt;
-&lt;p&gt;路透社称，一名目击者录制的视频显示，赛博卡车，这款具有独特棱角设计的电动汽车，在当地时间上午8点40分左右，即周二，距特朗普酒店不久的地方发生了剧烈爆炸。&lt;/p&gt;
-&lt;p&gt;特朗普发言人周四未就此事发表评论。&lt;/p&gt;
-&lt;p&gt;拉斯维加斯的特朗普国际酒店隶属于唐纳德·特朗普的特朗普组织，特朗普将于1月20日重返白宫。特朗普的儿子埃里克·特朗普现任特朗普组织执行官，他在爆炸后赞扬了拉斯维加斯消防和执法官员的工作迅速。&lt;/p&gt;
-&lt;p&gt;特斯拉首席执行官埃隆·马斯克在2024年特朗普总统竞选中是重要支持者，并且也是新任总统的顾问。&lt;/p&gt;
-&lt;p&gt;“我们并没有忽略它是在特朗普大楼对面发生的事情，这是一辆特斯拉车型，但目前我们没有信息能够明确告诉我们或暗示这是出于某种特定的意识形态，”拉达维斯山河警局局长麦克马希尔表示。&lt;/p&gt;
-&lt;p&gt;警方称，刘易斯伯格于12月28日在丹佛租车，并在前往拉斯维加斯的过程中途经新墨西哥州的阿尔伯奎克和亚利桑那州的菲尼克斯。&lt;/p&gt;
-&lt;p&gt;他在拉斯维加斯城的酒店大道、赌场区域驾驶，进入特朗普酒店的车道，并后返回酒店的停车场。爆炸后，特朗普酒店的客人被疏散并转移到另一家酒店。&lt;/p&gt;
-&lt;p&gt;警方表示，这两辆卡车——包括拉斯维加斯发生的赛博卡车事件中的车辆和新奥尔良发生的袭击事件中的车辆——都是通过租车共享服务Turo租赁的。&lt;/p&gt;
-&lt;p&gt;Turo官方表示，这两名租车者没有犯罪背景，不会将其视为安保威胁。&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img alt="联邦和地方当局的调查员在科罗拉多斯普林斯的小镇住宅区进行调查"&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;联邦和地方当局的调查员在拉斯维加斯赛博卡车爆炸现场附近进行调查，此照片摄于2025年1月2日。美通社/路透社/以利亚·J·唐宁&lt;/i&gt;
+        联邦与地方当局调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="调查员检查被特斯拉赛博卡车焚烧的车辆"&gt;
+    &lt;img alt="调查人员检查彤毁的Tesla Cybertruck，他们表示这是马修·里尔斯贝格驾驶的车辆" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BTLTPKDIEBMWFN45QK4KHA4WHI.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;调查员检查在拉斯维加斯特朗普国际酒店门前爆炸的特斯拉赛博卡车，该车据报为37岁的现役军人马修·刘易斯伯格驾驶。此照片摄于2025年1月2日。拉斯维加斯警察局/手稿/路透社&lt;/i&gt;
+        调查人员查看在拉斯维加斯特朗普国际酒店外爆炸且焚毁的Tesla Cybertruck，这是里尔斯贝格37岁、现役将军化士兵驾驶的车辆的照片。一名拉斯维加斯大都会警察局的调查人员提供了此照片。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="马修·刘易斯伯格的受损美国政府身份证明"&gt;
+    &lt;img alt="马修·里尔斯贝格，驾驶Tesla Cybertruck爆炸的美国陆军士兵的身份证明" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XZXX7W5E25IQPC5XBRJ4DWOSNU.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;一名调查员手持据报为37岁的现役军人马修·刘易斯伯格损坏的身份证明，他被认定为驾驶在拉斯维加斯特朗普国际酒店前爆炸的特斯拉赛博卡车的人，此照片摄于2025年1月2日，拉斯维加斯，美通社/路透社&lt;/i&gt;
+        拉斯维加斯大都会警察局的调查人员在黑客车内查看马修·里尔斯贝格的损坏身份证明，他是一名37岁的现役美国陆军士兵，居住地为科罗拉多斯普林斯且据警方所说是这辆特斯拉Cybertruck的驾驶员。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="拉斯维加斯特朗普国际酒店入口的特斯拉赛博卡车残骸"&gt;
+    &lt;img alt="拉斯维加斯特朗普大厦前Tesla Cybertruck的残留物被调查人员检查" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VERK6FKOIVMQNGHKHUSU6P6TTI.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;拉斯维加斯特朗普国际酒店入口处的特斯拉赛博卡车残骸在进行检查。美通社/路透社/罗南·彻奇&lt;/i&gt;
+        拉斯维加斯特朗普大厦入口处，调查人员检查所发生的Tesla Cybertruck爆炸后留下的残骸。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="联邦和地方当局的调查员在科罗拉多斯普林斯的小镇住宅区进行调查"&gt;
+    &lt;img alt="联邦与地方当局的调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A7Q4GFOMQBKTROVV27CFNQAFPQ.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;联邦和地方当局的调查员在科罗拉多斯普林斯的小镇住宅区进行调查，照片摄于2025年1月2日。美通社/路透社/以利亚·J·唐宁&lt;/i&gt;
+        联邦与地方当局调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="拉斯维加斯特朗普国际酒店入口前的特斯拉赛博卡车残骸"&gt;
+    &lt;img alt="拉斯维加斯特朗普大厦入口处Tesla Cybertruck烧毁后的景象，消防人员正在检查焊接痕迹" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LUEOABYMMJMRXMX3CP7SCHLOOA.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;拉斯维加斯特朗普国际酒店入口前的特斯拉赛博卡车残骸，一些车辆和警察于照片摄于2025年1月1日。美通社/路透社/罗南·彻奇&lt;/i&gt;
+        拉斯维加斯特朗普大厦入口处，消防人员正在检查发生爆炸前特斯拉Cybertruck的残留物。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="联邦和地方当局的调查员在科罗拉多斯普林斯的小镇住宅区进行调查"&gt;
+    &lt;img alt="联邦与地方当局的调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QIR5NW75URPYRD57U25JME2N3Q.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;背景为派克峰的美国国旗在拉斯维加斯赛博卡车爆炸现场附近，联邦和地方当局的调查员进行调查，此照片摄于2025年1月2日。美通社/路透社/以利亚·J·唐宁&lt;/i&gt;
+        背景中美国国旗与皮克山，调查人员在科罗拉多斯普林斯的小镇屋中进行调查，该小镇屋与拉斯维加斯Tesla Cybertruck的爆炸有关。
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img alt="马修·刘易斯伯格的受损美国护照"&gt;
+    &lt;img alt="马修·里尔斯贝格的护照，他是 poi 被雷斯贝格是驾驶 Tesla Cybertruck 在特朗普国际酒店外爆炸的美军现役士兵37岁" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AN62TNB675N35P2JUJMKAP5JSQ.jpg" /&gt;
     &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;一名调查员手持据报为37岁的现役军人马修·刘易斯伯格损坏的美国护照，他被认定为驾驶在拉斯维加斯特朗普国际酒店前爆炸的特斯拉赛博卡车的人，此照片摄于2025年1月2日，拉斯维加斯，美通社/路透社&lt;/i&gt;
+        一张损坏的马修·里尔斯贝格护照，他是37岁现役美国陆军士兵，并据称是他驾驶的特斯拉崔伯特撞击特朗普国际酒店外的大致情况。调查人员提供。
     &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 14:41:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/fbi-looks-any-link-between-tesla-explosion-new-orleans-attack-2025-01-02/</guid></item></channel></rss>
+&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 14:41:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/fbi-looks-any-link-between-tesla-explosion-new-orleans-attack-2025-01-02/</guid></item><item><title>河内被宣布为全球污染最严重城市，当局寻求采取行动</title><link>https://www.reuters.com/world/asia-pacific/hanoi-declared-worlds-most-polluted-city-authorities-seek-action-2025-01-03/</link><description>&lt;p&gt;越南首都河内在近期遭受浓重雾霾之困，使其成为全球污染最严重城市之一。政府表示将推动更多电动车辆（EVs）以缓解这一问题。&lt;/p&gt;
+&lt;p&gt;据AirVisual数据，河内在周五早上的PM2.5有害颗粒物浓度达到每立方米266微克，这是该数据列表中污染最严重城市中测量到的最高数值。&lt;/p&gt;
+&lt;p&gt;作为区域制造业中心，拥有亚洲最快经济增长之一的东南亚国家，其主要城市长期遭受严重的空气污染问题，尤其是河内。&lt;/p&gt;
+&lt;p&gt;浓重的雾霾主要由交通拥堵、垃圾焚烧和工业活动引起。“当我们的呼吸系统出现问题导致呼吸困难时，我能清楚地感受到这一点，尤其是作为老年人。”64岁的河内居民卢明德说，“情况似乎最近变得更糟了。”&lt;/p&gt;
+&lt;p&gt;年轻人也在抱怨。&lt;/p&gt;
+&lt;p&gt;“刚开始我以为是雾……但后来我意识到这实际上是降低了能见度的细小颗粒，让我觉得呼吸都不健康。”21岁的学生阮宁香说。据媒体报道，她在周四与交通部进行的会议上，副总理 Tran Hong Ha 要求加快电动车辆（EVs）的过渡，作为减少污染的努力之一。&lt;/p&gt;
+&lt;p&gt;截至2030年，河内将至少有50%的巴士和100%的出租车为电动车辆。&lt;/p&gt;
+&lt;p&gt;“这是对人民负责，必须有具体的和及时的行动。” Ha 在被提rotein Phong报引用时说。&lt;/p&gt;
+&lt;p&gt;自然资源、环境和健康部至今未对路透社的评论请求作出回应。&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="越南河内空气污染" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GEETLNZRTVK23AE2547YTSFMA4.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月3日，越南河内在空气污染中的景象。路透社/Thinh Nguyen&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img alt="越南河内空气污染" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HSRPDUVUNZMNRDROQCNWQJGPEE.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月3日，越南河内在空气污染中的景象。路透社/Thinh Nguyen&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Fri, 03 Jan 2025 08:26:18 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/hanoi-declared-worlds-most-polluted-city-authorities-seek-action-2025-01-03/</guid></item><item><title>以色列空袭造成加沙警察局长及另67人遇难，加沙当局称</title><link>https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-10-southern-gaza-medics-say-2025-01-02/</link><description>&lt;p&gt;以色列空袭在加沙带导致至少68名巴勒斯坦人死亡，其中包括哈马斯控制加沙地区警察部队负责人、其副手以及9名流离失所者，加沙当局表示。&lt;/p&gt;
+&lt;p&gt;以色列方面称，被击毙的巴勒斯坦武装派别哈马斯安全部队的副手负责南部加沙地区的行动。&lt;/p&gt;
+&lt;p&gt;该袭击发生于马瓦西区，自持续14个月的以色列与哈马斯冲突开始以来，该地区曾被指定为人道主义保护区。&lt;/p&gt;
+&lt;p&gt;据哈马斯管理的加沙内政部称，加沙警察总局局长沙玛赫·萨拉赫和助手胡萨姆·沙赫万在营地检查居民时被空袭击毙。&lt;/p&gt;
+&lt;p&gt;加沙内政部在一份声明中补充说：“通过暗杀加沙地带警察局长，占领者坚持在加沙领土上制造混乱，加剧民众苦难。”&lt;/p&gt;
+&lt;p&gt;以色列军方表示，此次针对马瓦西区的定点打击杀死了沙赫万，称他是南部加沙哈马斯力量的指挥官。但未提及萨拉赫的死亡。&lt;/p&gt;
+&lt;p&gt;联合国巴勒斯坦难民机构负责人、联合国近东巴勒斯坦难民救济和工程处负责人菲利普·拉扎伦尼在X平台上发文表示：“随着新一年的开始，我们又得到了……不要再有人道主义保护区、更不用说安全保护区”的又一次提醒。”&lt;/p&gt;
+&lt;p&gt;“每一天不休战都会带来更多的悲剧。”&lt;/p&gt;
+&lt;p&gt;周四的死亡人数是最近几周中最高的。&lt;/p&gt;
+&lt;p&gt;以色列其他空袭还导致至少57名巴勒斯坦人死亡，其中包括喀尼尤恩市内部政部门总部的6人和加沙北部贾巴利亚难民营、沙蒂营地、加沙中部马格赞营地和加沙市内的其他人。&lt;/p&gt;
+&lt;p&gt;以色列军方表示，袭击了据信在喀尼尤恩市政厅内设有指挥部的人道主义区域的武装人员。&lt;/p&gt;
+&lt;p&gt;当被问及周四的死亡人数时，以色列军方发言人表示，以色列在加沙的作战行动遵循国际法，并采取了切实可行的预防措施以减轻平民伤亡。&lt;/p&gt;
+&lt;p&gt;以色列军方指责加沙武装人员利用住宅区作为掩护。但哈马斯否认这一点。&lt;/p&gt;
+&lt;p&gt;哈马斯较小的盟友伊斯兰圣战组织表示，他们周四向靠近加沙地带的以色列利亚特堡投掷了火箭弹。以色列军方表示，他们拦截了一枚从南部加沙地带飞来的炮弹。&lt;/p&gt;
+&lt;p&gt;根据加沙卫生部门记录，以色列在冲突中已导致逾4.55万名巴勒斯坦人丧生。加沙的230万人口中大部分已被迫流离失所，这个狭小且人口密集的沿海地区大部分已成废墟。&lt;/p&gt;
+&lt;p&gt;冲突由哈马斯于2023年10月7日对南部以色列的越境攻击引发，导致1200多人死亡，另有251人被绑架至加沙，根据以色列官方统计。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="以色列军方在加沙地带执行任务" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UZP3WSEH6RJNPG5I62WB52347Q.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加沙地带遭到破坏的建筑，来自南部以色列拍摄的冲突期间景象。路透社/Kai Pfaffenbach&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="以色列军方在加沙地带执行任务" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J42O5UF4SVJMBHWVETUZBUMPDA.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加沙地带贝特哈农遭破坏的建筑，来自南部以色列拍摄的冲突期间景象，2025年1月2日。路透社/Kai Pfaffenbach&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="以色列军方在加沙地带执行任务" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OW3QXMZPFVP7TDAARVVOSVUC6E.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;以色列坦克从加沙地带返回，来自南部以色列拍摄的冲突期间景象，2025年1月2日。路透社/Kai Pfaffenbach&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="巴勒斯坦人在帐篷营地评估损害，位于喀尼尤恩" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DHJY2SDHYRO2TFSHHLMLBKCR3Y.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;在加沙地带马瓦西地区喀尼尤恩的帐篷营地遭受以色列袭击后，一名巴勒斯坦儿童在身旁查看损害。来自以色列冲突期间景象，2025年1月2日。路透社/哈特姆·凯勒赫&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="巴勒斯坦人在帐篷营地评估损害，位于喀尼尤恩" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IE2JZXGEYNMDBGM6RF4CUPK75I.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月2日，在以色列和哈马斯冲突期间，巴勒斯坦人在遭受以色列袭击的帐篷营地的保护下评估损害，在喀尼尤恩马瓦西地区，路透社/哈特姆·凯勒赫&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="巴勒斯坦人在帐篷营地评估损害，位于喀尼尤恩" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MIC5C25WR5ORLHOZ6LAC53WXPM.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月2日，一名巴勒斯坦男子在遭受以色列袭击的帐篷营地旁评估损害，在喀尼尤恩马瓦西地区，以色列和哈马斯冲突期间，路透社/哈特姆·凯勒赫&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="巴勒斯坦人在帐篷营地评估损害，位于喀尼尤恩" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IURTB2IM7JITTIMWRXXPZJM35Y.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月2日，巴勒斯坦人在遭受以色列袭击的帐篷营地旁评估损害，在喀尼尤恩马瓦西地区，以色列和哈马斯冲突期间，路透社/哈特姆·凯勒赫&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="巴勒斯坦人在帐篷营地反应，位于喀尼尤恩" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PD7YHPLZR5L3DELVLSC4JTPZCU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月2日，巴勒斯坦儿童在遭受以色列袭击的帐篷营地旁反应，在喀尼尤恩马瓦西地区，以色列和哈马斯冲突期间，路透社/哈特姆·凯勒赫&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 00:31:48 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-10-southern-gaza-medics-say-2025-01-02/</guid></item><item><title>调查人员寻找新奥尔良袭击者走向激进之路的线索</title><link>https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/</link><description>&lt;p&gt;随着调查人员对在新奥尔良新年当天用卡车撞人造成14人死亡的男子Shamsud-Din Jabbar有更多了解，一个重要问题依然悬而未决：一个退伍军人和曾就职于大型企业的员工是如何走向激进化的？&lt;/p&gt;
+&lt;p&gt;FBI副局长Christopher Raia周四表示，袭击事件前Shamsud-Din Jabbar制作的视频显示，这位42岁的得克萨斯州原籍人员支持伊斯兰国，声称在去年夏天之前加入激进团体，并相信“信徒与异教徒之间的战争”。&lt;/p&gt;
+&lt;p&gt;虽然FBI正在调查Jabbar的“激进化路径”，但Raia指出，自袭击事件以来收集的证据表明，Jabbar“百分之百地受到ISIS（伊斯兰国的简称）的启发”。&lt;/p&gt;
+&lt;p&gt;Jabbar被指控单独实施了此次袭击，后在与警方的交火中丧生。&lt;/p&gt;
+&lt;p&gt;Jabbar的同父异母兄弟Abdur Jabbar在接受采访时称，Jabbar曾在审计公司德勤工作，20多岁或30多岁时曾放弃伊斯兰教，但近期已重新信仰。&lt;/p&gt;
+&lt;p&gt;在得克萨斯州贝亚尔蒙市接受采访时，Abdur Jabbar表示，他不知道同父异母兄弟何时开始激进化。&lt;/p&gt;
+&lt;p&gt;曾在FBI工作并负责调查恐怖主义案件、现任国土安全部部长Alejandro Mayorkas顾问委员会成员的Ali Soufan表示，Jabbar不符合被伊斯兰国招募者的典型特征。&lt;/p&gt;
+&lt;p&gt;Soufan注意到，Jabbar曾在美国陆军服役10年，年逾40，这与通常被伊斯兰国招募者的年轻特征不符。&lt;/p&gt;
+&lt;p&gt;“此人从一名爱国者变成了一名ISIS恐怖分子，”Soufan说道。&lt;/p&gt;
+&lt;p&gt;一系列致命攻击的实施者都声称与伊斯兰国和其它激进组织有联系。&lt;/p&gt;
+&lt;p&gt;其中包括2015年巴黎圣坛组织发动的导致130人遇难的袭击中唯一的幸存者、2016年佛罗里达州一家gay吧的凶手、以及2017年在纽约市中心用卡车撞击人行道造成8人遇难的凶手。&lt;/p&gt;
+&lt;p&gt;部分攻击，如2015年巴黎的袭击，由训练有素的伊斯兰国特工执行，而调查人员并未发现伊斯兰国在其他袭击中扮演直接角色的证据。&lt;/p&gt;
+&lt;p&gt;目前仍有待查明Jabbar是否曾与海外极端组织有过接触。&lt;/p&gt;
+&lt;p&gt;美国官员和专家称，伊斯兰国主要在互联网聊天室和加密通讯软件中开展招募活动，自2014年失去其在伊拉克和叙利亚的“哈里发国”后，一直通过美国领导的军事联盟进行打击。&lt;/p&gt;
+&lt;p&gt;尽管军事联盟继续打击该组织的残余势力，伊斯兰国在叙利亚的活动升级，其在阿富汗和非洲的分支机构也在持续招募新成员、扩大组织网络和策划更多袭击。&lt;/p&gt;
+&lt;p&gt;美国官员指出，伊斯兰国利用数千名巴勒斯坦人在以色列加沙地区战争中的死亡，以促进其招募活动。&lt;/p&gt;
+&lt;p&gt;前国土安全部反恐官员Nate Snyder表示，国际和美国本土的极端组织均采用类似的招募手法。&lt;/p&gt;
+&lt;p&gt;这些组织利用社交媒体宣传其理念，随后将讨论转移到加密应用如Telegram，这可能会演变为一对一对话。&lt;/p&gt;
+&lt;p&gt;Snyder表示，“然后人们会觉得自己是某个社区的一员。”他已于去年12月离开国土安全部，目前正在竞选民主党全国委员会主席。&lt;/p&gt;
+&lt;p&gt;新招募者可直接接受命令，或自行激进化采取行动。&lt;/p&gt;
+&lt;p&gt;英国前外交官、监控伊斯兰国和基地组织的联合国团队负责人Edmund Fitton-Brown表示，“可能既失业又经历精神健康危机，也可能仅仅是感到无论如何努力也无法融入。”&lt;/p&gt;
+&lt;p&gt;Fitton-Brown表示，伊斯兰国的主要吸引力在于它致力于建立一个施行伊斯兰法的逊尼派穆斯林“哈里发国”。“而塔利班已经放弃了阿富汗民族主义，基地组织成员则与伊朗政府协调，”Fitton-Brown说道。&lt;/p&gt;
+&lt;p&gt;“执行这些攻击的人从来都不一定见过真正的ISIS成员，”Fitton-Brown说道。他是“反极端主义项目”的高级顾问，该项目是一个政策研究组织。&lt;/p&gt;
+&lt;p&gt;利用汽车撞击人群或进行刺杀攻击“是不复杂、预算极低的攻击手段，几乎无法防范，”Fitton-Brown继续说道，“只要你决心杀死无辜民众，你完全有能力做到。”&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="Shamsud-Din Jabbar的同父异母兄弟Abdur Rahim Jabbar在得克萨斯州贝亚尔蒙市的他们家的车库中坐着" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/T7TUHNLBQZPOTAD5BLV72YG63E.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;Abdur Rahim Jabbar，在得克萨斯州贝亚尔蒙市，是被指控在新奥尔良新年庆祝活动中驾驶卡车冲撞人群的Texas人。图片由路透社摄/Arathy Somasekhar&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="Shamsud-Din Jabbar的同父异母兄弟Abdur Rahim Jabbar推着他们的父亲在他们家的前院" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5F6FY3PIJZNUFO6BZYK5IVJTQM.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;Abdur Rahim Jabbar，得克萨斯州贝亚尔蒙市，是被指控在新奥尔良新年庆祝活动中驾驶卡车冲撞人群的Texas人的同父异母兄弟，推着他们的父亲在他们家的前院。图片由路透社摄/Arathy Somasekhar&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="FBI发布的Shamsud-Din Jabbar悬赏公告" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X7RZ22A6GVPWLK6ANQ3UCKLVMM.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;2025年1月1日美国路易斯安那州新奥尔良，在FBI悬赏公告中，Shamsud-Din Jabbar行走于新奥尔良街道的画面以及用于悬赏公告的部分监控视频截图。图片由FBI提供/路透社&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="FBI发布的Shamsud-Din Jabbar悬赏公告" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EFXX4GO5UZMAZLJN5FKAL6JMAQ.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;FBI 于2025年1月发布的新悬赏公告的部分内容，悬赏信息显示，Shamsud-Din Jabbar是被指控在新奥尔良新年庆祝活动中驾驶卡车冲撞人群的Texas人。图片由FBI提供/路透社&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="新年庆祝活动中卡车撞击人群的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TESNYCCE6ZKHFE4WFV3SJQR7HU.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;2025年1月2日，美国路易斯安那州新奥尔良，警察在新年庆祝活动中卡车撞击人群事件后，站在人群旁看守警察路障。图片由路透社摄/Eduardo Munoz&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="FBI发布的Shamsud-Din Jabbar悬赏公告" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5X45ILEDIRJJ7HOCDWG6P75X5M.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;2025年1月1日，美国路易斯安那州新奥尔良，在FBI悬赏公告中，Shamsud-Din Jabbar街道行走的画面。图片由FBI提供/路透社&lt;/figcaption&gt;
+
+&lt;figure&gt;&lt;img alt="新年庆祝活动中卡车撞击人群的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/V4HTAV6VSVIAXMBUXVTG2HHMQY.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;2025年1月2日，美国路易斯安那州新奥尔良，人们在新年庆祝活动中卡车撞击人群事件后，站在警察路障旁。图片由路透社摄/Eduardo Munoz&lt;/figcaption&gt;</description><pubDate>Fri, 03 Jan 2025 00:53:03 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/investigators-seek-clues-new-orleans-attackers-path-radicalization-2025-01-03/</guid></item><item><title>韩国总统卫队在紧张对峙后阻止弹劾后的尹锡悦被捕</title><link>https://www.reuters.com/world/asia-pacific/south-korea-authorities-moving-arrest-president-yoon-yonhap-says-2025-01-02/</link><description>&lt;p&gt;韩国总统警卫队和军队阻止了当局周五在首尔市中心尹锡悦官邸外与尹锡悦发生紧张的六小时对峙后，将其逮捕。&lt;/p&gt;
+&lt;p&gt;尹锡悦因12月3日宣布实施军事法令，震惊韩国，成为首名被逮捕令围堵在任总统，目前正在接受刑事案件调查。&lt;/p&gt;
+&lt;p&gt;韩国高级官员腐败调查处（以下简称“调查处”）在声明中表示：“鉴于持续的对峙，认为执行逮捕令实际上是不可能的。”&lt;/p&gt;
+&lt;p&gt;调查处官员与警方在黎明前避开数百名尹锡悦的支持者，这些支持者誓言以生命阻止逮捕，该调查处已宣布现在将不会违背这份限期四十八小时的逮捕令。&lt;/p&gt;
+
+&lt;p&gt;调查处在上午7点左右（即前一日22点）抵达尹锡悦官邸门口，并步行进入。&lt;/p&gt;
+&lt;p&gt;进入安保区后，调查处和警方被超过两百名总统安保服务（PSS）人员及被临时派来保护总统安全的部队人员包围，消息来自一名调查处的官员向记者透露。&lt;/p&gt;
+&lt;p&gt;PSS特工和士兵超过调查处人员和警方数量，据通报，双方发生争执，但PSS人员并没有拿出武器，尽管有报道称有人员携带枪械。&lt;/p&gt;
+&lt;p&gt;被弹劾后自12月14日起被隔离的尹锡悦在此过程中没有被看到，星期四报道。&lt;/p&gt;
+&lt;p&gt;韩国国防部表示，参与的部队受总统安保服务控制。&lt;/p&gt;
+&lt;p&gt;由于担心人员安全，调查处于当地时间13点30分左右宣布取消此次逮捕行动，并表示对于尹锡悦未能遵从，他们“深感遗憾”。&lt;/p&gt;
+&lt;p&gt;调查处将继续研究下一步行动。据报道，警方作为联合调查团队的一部分，已经将总统安保服务负责人及副负责人上列入妨碍公务罪的犯罪嫌疑人，并为其发出传票，要求他们星期六出现进行无人问讯，Yonhap报道。&lt;/p&gt;
+&lt;p&gt;对叛乱的指控是少数几种韩国总统没有豁免权的刑事指控。&lt;/p&gt;
+&lt;p&gt;法院已经批准了尹锡悦的逮捕令（详见&lt;https://www.reuters.com/world/asia-pacific/south-korea-court-issues-arrest-warrant-president-yoon-yonhap-reports-2024-12-31&gt;）。依据周二发布的逮捕令，这生效到1月6日。&lt;/p&gt;
+&lt;p&gt;尹锡悦的法律顾问（详见&lt;https://www.reuters.com/world/asia-pacific/impeached-south-korean-president-builds-legal-team-allies-former-co-workers-2024-12-27&gt;）在逮捕行动被暂停后的声明中表示，调查处对该案的调查超出了其权限，其试图在重要安全区执行非法逮捕是一种可耻的行为。&lt;/p&gt;
+&lt;p&gt;总统办公室已针对未经授权在总统居所外拍摄的三名电视广播公司和YouTube频道的负责人提出刑事诉讼，声称这些区域是“直接关系到国家安全的重要设施”。Yonhap报道。&lt;/p&gt;
+&lt;p&gt;为了执行逮捕令对PSS领导层进行人员攻击，这或许能在短期内削弱其反抗的能力，从而再次尝试执行逮捕令。这代表了调查的最后一招。Kim Seon-taek，韩国成均馆大学法学教授，认为这是对待这类情况最直接的方法。&lt;/p&gt;
+&lt;p&gt;却有其他观点认为，由代理总统Choi Sang-mok命令PSS配合可能是更好的解决方法。周五晚些时候，调查处已请求代理总统发出这样命令。&lt;/p&gt;
+&lt;p&gt;尹锡悦的深夜宣布启动军事法令的做法在经济上震动了韩国这部亚洲第四大经济体，以及当地蔚为壮观的民主国家，随后他的命令本身也遭到190名议员违反要塞式封锁抵制。&lt;/p&gt;
+&lt;p&gt;在宣布一字不差的命令只有大约六个小时后，尹锡悦撤销了命令。&lt;/p&gt;
+&lt;p&gt;稍后，他为这一决定进行了有力的辩护，并声称国内政治对手支持朝鲜，还提到了未经证实的关于选举作弊的传言。&lt;/p&gt;
+&lt;p&gt;周五报道，两位韩国士兵因其在短暂宣布军事法令期间担任军事法律顾问，也被指控叛乱。&lt;/p&gt;
+&lt;p&gt;尹锡悦的国防部长Kim Yong-hyun在参与这一法令后辞职，目前也以叛乱和滥用职权的罪名被拘留。&lt;/p&gt;
+&lt;p&gt;与刑事调查不同，尹锡悦被弹劾案就此问题CBD将做出终裁（详见&lt;https://www.reuters.com/world/asia-pacific/south-koreas-constitutional-court-decide-impeached-presidents-fate-2024-12-14&gt;）。再次听证会在1月3日进行，高级官员辩诉开庭第一天定于1月14日。&lt;/p&gt;
+&lt;p&gt;尹锡悦的顾问Yoon Kab-keun告诉媒体，尹锡悦可能不会出席第一次辩论，但在未来的辩论中可能会出席并提出自己的论点。&lt;/p&gt;
+&lt;p&gt;朝鲜官方媒体发表了对韩国内部政治动乱的详细报道，其中提道尹锡悦顽固拒绝接受调查，完全否认其罪行并撒谎（详见&lt;https://www.reuters.com/world/asia-pacific/south-koreas-corruption-investigation-office-reports-impeached-president-insists-denying-crimes-2025-01-03&gt;）。&lt;/p&gt;
+&lt;p&gt;朝鲜对其采取的是严厉的批评态度，称尹锡悦强硬的对朝政策将其视为首要对手，并表示放弃国家统一的目标。&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img alt="抗议者聚集在遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/QOSP3NELTFIOVLX7FX7XPPOXYQ.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      反对尹锡悦抗议者与警方发生冲突，在调查机关未能于周五在尹锡悦官邸执行逮捕令后，他们前往官邸附近
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="支持尹锡悦的抗议者聚集在遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZTOTLFW36FJ7JMIJ6OAZGQ7JYA.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      支持尹锡悦抗议者手举韩国国旗和“停止窃取”标语，前往要求在其官邸被调查机关逮捕令未能执行后前往尹锡悦官邸人群附近
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Soo-hyeon
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="抗议者聚集在遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SBU2VBRYWVONBJPIOYZHWWNX7U.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      集聚在要求调查机关未能执行周五尹锡悦官邸的逮捕令后，抗议者向尹锡悦官邸行进
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="抗议者聚集在遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L62SS3YFT5ODNKGIMJ3C742NQI.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      前往尹锡悦官邸并与调查机关未能执行周五尹锡悦官邸的逮捕令发生冲突后的抗议者行进
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="调查机关对位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/2HLNG7B32BPVRBFOXWNOQ2WBGE.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      调查机关人员离开被调查机关未能执行周五尹锡悦官邸的逮捕令后的抗议者行进附近的尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="调查机关对位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/47R7HVHUT5LGDHZBPWNCGWCR74.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      被调查机关未能执行周五尹锡悦官邸的逮捕令后的抗议者行进的尹锡悦官邸附近，尹锡悦的法律顾问尹家青山抵达
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="调查机关对位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5CY7RJN5KBJOROG6JPBTO3DAAQ.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      调查机关人员离开被调查机关未能执行周五尹锡悦官邸的逮捕令后的抗议者行进附近的尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="高级官员腐败调查处在位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/77F4R23ECBISZHKSIIOZV3EW4U.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      高级官员腐败调查处在前往位于遭到弹劾的韩国总统尹锡悦官邸附近的抗议者行进前的简短抗议
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="巴士阻塞赶到位于遭弹劾的韩国总统尹锡悦官邸入口附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MMQ5OISBPZKKVN2DS5CCTDVSYE.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      赶到位于遭到弹劾的韩国总统尹锡悦官邸入口并被调查机关未能执行周五尹锡悦官邸的逮捕令后的抗议者堵住流动
+      (2025年1月3日，韩国首尔)
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="调查机关对位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WEYJVF7ALRJQFPRCRDAQVWU5FU.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      调查机关人员离开被调查机关未能执行周五尹锡悦官邸的逮捕令后的抗议者行进附近的尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="警察在位于遭到弹劾的韩国总统尹锡悦官邸附近站岗" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/267V2K5N4ROVNC6N66V42MEP2M.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      警察在前往位于遭到弹劾的韩国总统尹锡悦官邸附近的抗议者行进前站在尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="媒体成员期待倒在位于遭到弹劾的韩国总统尹锡悦在位于位于相川的高级官员腐败调查办公室到达" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EMBT6EQYC5NNZNGN3PLIVFQYBE.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      记者在前往位于遭到弹劾的韩国总统尹锡悦在位于位于相川的高级官员腐败调查办公室后等待他的到来
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Soo-hyeon
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="高级官员腐败调查机关的车辆抵达位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LLNM2K3ZGVPULELYLWVZTZHRCI.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      认为是高级官员腐败调查机关的车辆抵达位于遭到弹劾的韩国总统尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="高级官员腐败调查机关成员走进位于弹劾的韩国总统尹锡悦官邸" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DWUYAD7DXVIYLBUGB7AKASO2CI.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      高级官员腐败调查机关成员走进位于弹劾的韩国总统尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="被认为是高级官员腐败调查机关的车辆到达位于遭到弹劾的韩国总统尹锡悦官邸附近" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AL3VYR24NNPJHGLWOXH6CV6KOQ.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      可能是高级官员腐败调查机关的车辆抵达位于遭到弹劾的韩国总统尹锡悦官邸
+      (2025年1月3日，韩国首尔)
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="遭到弹劾的韩国总统尹锡悦在总统官邸发表了国家讲话" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/G3IAPNI7JNLLFALMF3PL6KQR6I.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      遭到弹劾的韩国总统尹锡悦在总统官邸发表了国家讲话
+      (2024年12月12日，韩国首尔)
+      The Presidential Office/Handout via REUTERS/File Photo
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img alt="韩国法院发布对弹劾总统尹锡悦的逮捕令" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3DW3IJ5VY5JHNBNBYHQR7DSRUY.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;
+    &lt;i&gt;
+      韩国警方站岗，抗议者聚集在支持尹锡悦的抗议者在弹劾的韩国总统尹锡悦官邸外
+      (2025年1月2日，韩国首尔)
+      REUTERS/Kim Hong-Ji
+    &lt;/i&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Thu, 02 Jan 2025 21:30:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-korea-authorities-moving-arrest-president-yoon-yonhap-says-2025-01-02/</guid></item></channel></rss>
