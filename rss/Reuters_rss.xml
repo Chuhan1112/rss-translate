@@ -1,512 +1,409 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 20 Jan 2025 18:33:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>智库称俄罗斯 misinformation 针对德国选举活动</title><link>https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/</link><description>&lt;p&gt;俄罗斯正在策划一项虚假信息活动，旨在提升极右翼政党——德国另类选择党（AfD）的支持率，削弱主流德国政党，同时在德国2月23日的大选前制造经济担忧。 think-tank指出。&lt;/p&gt;
-&lt;p&gt;德国智囊团CeMAS表示，过去一个月内，在社交平台X上跟踪了数百个德语帖子，它们显示了俄罗斯双重身份者（Doppelgaenger）虚假信息活动的典型模式，这种活动之前已遭到德国、美国和法国当局的谴责。&lt;/p&gt;
-&lt;p&gt;据德国外交部去年6月发布的报告显示，此类宣传活动是在2022年俄罗斯对乌克兰的入侵之后建立的，旨在削弱西方国家支持基辅的态势。这些宣传活动传播虚假的西方新闻网站链接，分享错误信息。&lt;/p&gt;
-&lt;p&gt;俄罗斯方面始终否认参与针对西方的虚假信息活动。&lt;/p&gt;
-&lt;p&gt;最近几周，在X上的德国帖子将德国的经济困境归咎于绿党，猛烈批评总理奥拉夫·朔尔茨支持乌克兰的政策，将保守派描述为不可信赖的，但同时支持AfD。CeMAS称。&lt;/p&gt;
-&lt;p&gt;CeMAS跟踪的帖子通过虚假账号网络分享了指向伪造德语新闻网站链接或相关真实新闻网站文章支持其叙述的内容，或只是图片。CeMAS表示，这些帖子的总点击量超过280万次。&lt;/p&gt;
-&lt;p&gt;该报告发布之际，德国主要反对派保守党预计将在选举中获胜。然而，AfD的支持率高达第二位可能会使其成为阻碍少数党，从而在组建联盟以及整体治理上更复杂。&lt;/p&gt;
-&lt;p&gt;12月，反移民的AfD获得了社交媒体平台X的创始人埃隆·马斯克的认可，马斯克本月还在其平台上与该党总理候选人艾丽丝·韦德尔进行了现场对话。&lt;/p&gt;
-&lt;p&gt;民调机构INSA上周公布的调查显示，保守党支持率为29%，AfD为21%——是2021年大选时的两倍。排名第三的社民党支持率为16%，绿党支持率为13%。&lt;/p&gt;
-&lt;p&gt;德国国内情报机构（BfV）在11月表示，已组建工作组以应对任何外国政府试图影响联邦大选的企图。&lt;/p&gt;
-&lt;p&gt;德国是乌克兰仅次于美国的第二大经济和军事支持国，正在努力帮助乌克兰抵御始于三年前的俄罗斯全面入侵。&lt;/p&gt;
-&lt;p&gt;BfV表示，这导致莫斯科对德国及其他乌克兰盟友采取更加鲁莽的行为。&lt;/p&gt;
-&lt;p&gt;美国司法部此前表示，俄罗斯双重身份者（Doppelganger）活动由俄罗斯政府通过一些俄罗斯营销机构策划。&lt;/p&gt;
-
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>首页 |路透社</title><link>https://www.reuters.com</link><description></description><lastBuildDate>Mon, 20 Jan 2025 19:18:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>智库称俄罗斯虚假信息 targeting 德国选举活动 campaign</title><link>https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/</link><description>&lt;p&gt;一项来自俄罗斯的虚假信息运动正试图在德国的2月23日选举前提高极右翼政党“另 marginTop党（AfD）”的支持率，同时削弱主流德国政党和对经济前景的担忧，一个智库如是说。&lt;/p&gt;
+&lt;p&gt;德国智库CeMAS表示，该智库在过去一个月追踪到数百条在社交媒体平台X上发布的德语帖子，这些帖子展示了其所称的俄罗斯“双胞胎”虚假信息运动的典型模式。德国、美国和法国当局之前曾对此类行为提出谴责。&lt;/p&gt;
+&lt;p&gt;此类运动是在2022年俄罗斯对乌克兰的入侵后创建的，目的是削弱西方国家支持基辅的立场，根据德国外交部去年6月发布的一份报告，这类运动通过传播指向伪造西方新闻网站的链接，散布虚假信息。&lt;/p&gt;
+&lt;p&gt;俄罗斯方面一直否认参与针对西方的虚假信息活动。&lt;/p&gt;
+&lt;p&gt;最近几周，CeMAS指出，X平台上的德国帖子指责德国绿党造成经济问题，批评总理奥拉夫·朔尔茨支持乌克兰的行为，并称保守派不可信任，但同时支持另 marginTop党。&lt;/p&gt;
+&lt;p&gt;这些帖子被虚假账户网络传播后，已有超过280万次浏览量。&lt;/p&gt;
+&lt;p&gt;德国主要反对党保守派预计将在选举中获胜，但另 marginTop党的得票率使其位居次席，这可能给组阁带来困难，尤其是在形成阻击多数派时。&lt;/p&gt;
+&lt;p&gt;12月，移民排斥的政治力量另 marginTop党获得了X平台所有者埃隆·马斯克的支持，本月早些时候，马斯克还邀请该党总理候选人艾丽丝·韦德尔在其平台上进行了现场直播对话。&lt;/p&gt;
+&lt;p&gt;一项由市场研究公司INSA周六发布的民意调查显示，保守派的得票率为29%，而另 marginTop党的得票率为21%，是2021年选举成绩的两倍。社民党的得票率为16%，格林党的得票率为13%。&lt;/p&gt;
+&lt;p&gt;德国国家安全局(BfV)去年11月表示，该局已成立一支工作组，以应对任何外国试图影响联邦选举的企图。&lt;/p&gt;
+&lt;p&gt;作为乌克兰的第二大财务及军事支持国，德国正寻求帮助乌克兰抵御俄罗斯持续近三年的全面入侵。&lt;/p&gt;
+&lt;p&gt;这导致来自莫斯科方面的对德国及其他乌克兰盟友的“敌对行为”显著增多，BfV如是说。&lt;/p&gt;
+&lt;p&gt;美国司法部去年表示，俄罗斯“双胞胎”运营活动是由俄罗斯政府通过一组俄罗斯营销公司策划的。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="柏林德國大選宣传海报" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HC5UEH3ORZIMJEJKAFKCY56QSI.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一张柏林的德國大選宣传海报，展示德国社会民主党2025年大选候选人奥拉夫·朔尔茨，图片来源于2025年1月17日柏林，路透社/安内格雷特·希尔兹/文件照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 08:06:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/</guid></item><item><title>英国少年承认谋杀绍斯波特女孩和蓖麻毒素以及恐怖主义指控</title><link>https://www.reuters.com/world/uk/uk-teenager-changes-pleas-guilty-over-murder-southport-girls-2025-01-20/</link><description>&lt;p&gt;一名来自英国的青少年于周一承认策划了在英格兰北部一起刀杀三名女童的案件，这一案件震惊了全国，并引发了全国范围内的骚乱。&lt;/p&gt;
+&lt;p&gt;阿克塞尔·鲁达库布纳，18岁，已于四天前的庭审首日，在利物浦地方法院上将最初的不 guilty 变更为了 guilty。&lt;/p&gt;
+&lt;p&gt;鲁达库布纳承认杀害了贝比·金（6岁）、埃尔斯·多特·斯坦科姆（7岁）和阿里斯·达席尔瓦·阿吉亚尔（9岁），她们是在南普斯敦市参加一场泰勒·斯威夫特主题舞会时遇害的。&lt;/p&gt;
+&lt;p&gt;他还承认了企图谋杀的十项指控，以及制造致命毒药蓖麻毒素和持有基地组织训练手册等罪名。&lt;/p&gt;
+&lt;p&gt;法官朱利安·古斯表示将在周四对鲁达库布纳进行判决。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="据信载有嫌疑人鲁达库布纳的囚车，在Liverpool Crown Court接受押送抵达" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RUS2RGCP4ZO23P4WLYHZJB6YIU.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;据信载有嫌疑人阿克塞尔·鲁达库布纳的囚车，在利物浦地方法院接受押送抵达，英国，2025年1月20日。路透社/菲尔·诺布尔&lt;/figcaption&gt;
+&lt;figure&gt;&lt;img alt="在鲁达库布纳庭审开始时，抗议者们站在利物浦地方法院前的标语后面" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CGXOSFMNRJOYBJHEUY72Q5OZWA.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;抗议者们在利物浦地方法院前的标语后面，庭审开始，英国，2025年1月20日。路透社/菲尔·诺布尔&lt;/figcaption&gt;
+&lt;figure&gt;&lt;img alt="南普斯敦刺杀事件的鲜花献礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDG2JLLA7RKG7BKCLRHBV7E47U.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;在英国南普斯敦市中心的一处舞会活动中被刺杀的儿童埃尔斯·多特·斯坦科姆、贝比·金和阿里斯·达席尔瓦·阿吉亚尔的鲜花献礼。2024年8月4日。路透社/贝尔丁达·焦/文件照&lt;/figcaption&gt;
+&lt;figure&gt;&lt;img alt="在鲁达库布纳案件庭审开始时，警察站在利物浦地方法院前面" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K3LDYEQ3ZBI7HAFV3R26RZDXNM.jpg" /&gt;&lt;/figure&gt;
+&lt;figcaption style="text-align: center;"&gt;在利物浦地方法院前的庭审开始时，警察和其他人在场，英国，2025年1月20日。路透社/菲尔·诺布尔&lt;/figcaption&gt;</description><pubDate>Mon, 20 Jan 2025 11:41:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/uk/uk-teenager-changes-pleas-guilty-over-murder-southport-girls-2025-01-20/</guid></item><item><title>韩国尹锡悦在法院暴行后加强安保的情况下避免回答提问</title><link>https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/</link><description>&lt;p&gt;韩国弹劾总统尹锡悦拒绝在一项针对他叛乱行为的调查中接受审讯。同时，数十名支持者因上周一起针对法院大楼的暴力&lt;span&gt;袭击&lt;/span&gt;面临指控。&lt;/p&gt;
+&lt;p&gt;有关部门表示，正在加强首尔拘留中心的戒备，该中心目前拘留着尹锡悦作为预审囚犯，同时宪法法院正在审理一项弹劾审判，决定是否永久解除他的职务。&lt;/p&gt;
+&lt;p&gt;尹锡悦上周因短暂实施军事法而成为第一位被逮捕的在职韩国总统。&lt;/p&gt;
+&lt;p&gt;周日，他对拘留进行了正式处理，包括拍摄拘留照，这在法院批准逮捕令后进行，原因是担心嫌疑人可能销毁证据。&lt;/p&gt;
+&lt;p&gt;在午夜裁定后，愤怒的尹锡悦支持者冲进首尔西部地方法院大楼，破坏财产并与警员激烈冲突，部分警员一度被一群挥舞着破除路障的暴徒压倒。&lt;/p&gt;
+&lt;p&gt;据韩国联合通讯社报道，冲突后被捕的90人中，警方计划拘留66人，他们因入侵、妨碍公务和袭击警察而被起诉。&lt;/p&gt;
+&lt;p&gt;其他犯罪者仍在进行识别，警方也将对这些人采取法律行动，代理司法部长金德武在国会司法委员会表示。&lt;/p&gt;
+&lt;p&gt;代理总统徐阳麦对法院大楼发生这种非法暴力事件表示深切遗憾，并敦促警方严格执行法律以防止类似事件再次发生。&lt;/p&gt;
+&lt;p&gt;此次骚乱发生在韩国几十年来最严重的政治危机期间，这已经撼动了亚洲第四大经济体。&lt;/p&gt;
+&lt;p&gt;上周，韩国央行将2025年经济增长预期下调至1.6%至1.7%，低于上个月1.9%的预期，原因是政治不确定性。&lt;/p&gt;
+&lt;p&gt;数百名抗议者打破警戒线，冲进法院大楼，自周日凌晨3点裁定尹锡悦被拘留后不久。&lt;/p&gt;
+&lt;p&gt;据视频 footage 显示，一些抗议者在法官办公室的走廊里录制视频，呼叫批准拘留令的法官的名字。&lt;/p&gt;
+&lt;p&gt;至少一间法官办公室被强闯，韩国法院行政院长椿大宇表示。&lt;/p&gt;
+&lt;p&gt;有多名参与者在 YouTube 上直播入侵，现场画面显示抗议者破坏法院并高呼尹锡悦的名字。部分直播者在直播过程中被警方抓获。&lt;/p&gt;
+&lt;p&gt;尹锡悦周一对指控调查办公室（CIO）拒绝出现进行问询，这是他拒绝配合调查的一个延续。CIO 是负责此次刑事调查的机构。&lt;/p&gt;
+&lt;p&gt;尹锡悦的律师们认为，对他的逮捕和为拘留签发的逮捕令是非法的，理由是这些措施得到了既无管辖权的法院支持，且 CIO 本身并无进行调查的法律授权。&lt;/p&gt;
+&lt;p&gt;尹锡悦可被指控叛乱，这是韩国总统唯一不能免于追究的罪行，理论上可判处死刑。然而，韩国在近30年未执行死刑。&lt;/p&gt;
+&lt;p&gt;尹锡悦通过律师表示，对周日在法院大楼发生的袭击事件感到“震惊和遗憾”，他呼吁人们以和平方式表达意见。尹锡悦还表示，他理解许多人感到愤慨和不公，恳请警方采取宽容态度。&lt;/p&gt;
+        
+        &lt;figure&gt;
+            &lt;img alt="抗议者袭击法院大楼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/324ZFUFEQZJAHJKSGVTWBQ3HIQ.jpg" /&gt;
+            &lt;figcaption style="text-align: center;"&gt;
+                &lt;i&gt;2025年1月19日，韩国首尔，批尹锡悦的抗议者冲入法院大楼，破坏了大楼的墙体。法院裁定延长被弹劾总统尹锡悦拘留20天，韩国联合通讯社/路透社文件照片&lt;/i&gt;
+            &lt;/figcaption&gt;
+        &lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 07:24:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/</guid></item><item><title>俄罗斯就网上发布的军事警察殴打士兵视频展开调查</title><link>https://www.reuters.com/world/europe/russia-opens-investigation-after-video-military-police-beating-soldiers-is-2025-01-20/</link><description>&lt;p&gt;俄罗斯在社交媒体上发布了一段视频后展开了调查，视频显示，一名身穿俄罗斯军事警察制服的人员对前往乌克兰的合同兵进行暴力殴打，并使用电击枪进行电击。&lt;/p&gt;
+&lt;p&gt;在视频中，一名穿俄罗斯军事警察制服的人员走到一名士兵面前，用警棍将其打倒在地，并在大声爆粗的同时用电击枪对其进行电击。&lt;/p&gt;
+&lt;p&gt;另一名持拐杖的士兵随后被殴打并用电击枪电击，身穿军事警察制服的人员要求他们脱衣。&lt;/p&gt;
+&lt;p&gt;视频的发布时间为2025年1月16日，并由俄罗斯战地记者通过电报渠道发布。当地官员称，事件发生在位于西伯利亚地区图瓦的 khzylk 的军事单位。&lt;/p&gt;
+&lt;p&gt;尚不清楚为何会对这些士兵进行such的殴打。俄罗斯战地记者声称，这些士兵之前因伤从医院出院，正被要求返回乌克兰前线。&lt;/p&gt;
+&lt;p&gt;图瓦地区政府在其官方网站上发布声明称，视频出现后展开了调查。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“在2025年1月16日，俄罗斯55115军事单位发生的合同兵虐待事件得到记录，包括在派遣士兵前往SVO前线之前对其进行殴打和使用电击枪。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;SVO是俄罗斯官方称其“特别军事行动”在乌克兰的缩写。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“已确定行为人，并对其进行了初步调查，将根据俄罗斯刑法评估该事件的状况，并对行为人进行处罚。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;俄罗斯国防部未对该请求置评。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 08:14:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russia-opens-investigation-after-video-military-police-beating-soldiers-is-2025-01-20/</guid></item><item><title>特朗普重返白宫之际，中国既充满希望又紧张不安</title><link>https://www.reuters.com/world/us/china-vice-president-meets-with-elon-musk-ahead-trump-inauguration-2025-01-20/</link><description>&lt;p&gt;中国政府官员和普通民众在特朗普重返白宫之际，既充满希望又有所警惕，希望能避免重蹈上任期间引发美中经济大国之间贸易摩擦的覆辙。&lt;/p&gt;
+&lt;p&gt;在特朗普举行就职典礼之前，中国副总理韩正与特斯拉CEO埃隆·马斯克及其他美国企业界人士在华盛顿会面。据官方新华社报道，韩正表示希望美国企业能在华扎根，帮助稳定双边关系。&lt;/p&gt;
+&lt;p&gt;当特朗普上任时，他对超过3000亿美元的中国进口商品加征关税。最近几个月，特朗普表示将在此基础上再加征至少10%的关税，这将对中国经济构成冲击。当前中国经济正努力寻找新的增长点。&lt;/p&gt;
+&lt;p&gt;与此同时，美国当选总统邀请中国国家主席习近平出席了他的就职典礼。习近平派韩正代替出席，这是中国在前两次美国总统就职典礼上仅以大使身份参与后的善意回应。&lt;/p&gt;
+&lt;p&gt;在上周日的会议上，韩正告诉马斯克——被特朗普任命为旨在提高美国政府效率的政府部门负责人——欢迎特斯拉（TSLA.O）及其他美国企业在华发展，为中美关系作出贡献。&lt;/p&gt;
+&lt;p&gt;此次与美国企业的会议由联邦快递（FDX.N）首席执行官拉杰什·苏布拉马尼亚姆主持，包括来自科技、银行和物流行业的八位美国企业高管。一位在场的美国执行人员表示，会议超出了预定时间，非常友好。&lt;/p&gt;
+&lt;p&gt;“由于他在上海的工作经历，韩正被认为是一名理解外国商业界关注点的人，他了解经济情况，”北京的美国商会会长迈克尔·哈特在接受路透社采访时说。&lt;/p&gt;
+&lt;p&gt;“这是一个积极的象征，是一种姿态，无论你怎么称呼它。”&lt;/p&gt;
+&lt;p&gt;特朗普和习近平在本周五的电话交谈中均表示乐观。特朗普称这是一个“非常好的电话”，而习近平则称他和特朗普都希望美国-中国关系能有一个积极的开端。&lt;/p&gt;
+&lt;p&gt;中国外交部发言人毛宁在周一举行的例行记者会上提到了中美关系的新起点。&lt;/p&gt;
+&lt;p&gt;周一，中国大陆和香港股市上涨。&lt;/p&gt;
+&lt;p&gt;尽管中美双方表现得友好，但许多人仍然记得特朗普上任期间中美关系迅速恶化的情景。&lt;/p&gt;
+&lt;p&gt;“从现在起，直到情况变得稍微明朗，我们所有美国客户都必须提前支付货款，”位于苏州的Lira Solutions首席解决方案官达蒙·德马瑞斯说，Lira Solutions是将中国制造商与全球买家相连的公司，这些买家从玩具到家具、钛制品等一切产品不一而足。&lt;/p&gt;
+&lt;p&gt;“如果特朗普实际对进口到美国的中国产品加征40%，或任何关税，并且我对专门客户定制的货物没有订单，我不希望陷于困境。”他补充道。&lt;/p&gt;
+&lt;p&gt;“这种事情七、八年前就发生了，当时特朗普对85%来自中国的商品加征25%的关税。”&lt;/p&gt;
+&lt;p&gt;如果再发生贸易战，这一次的中国可能会比2018年刚开始征收关税时显得更加脆弱，因为中国正面对着严重的房产危机、巨大的地方政府债务以及16%的年轻失业率等问题等多重挑战。&lt;/p&gt;
+&lt;p&gt;对于中国经济的困境，北京的一名36岁的居民王先生表示：“现在我能看到的是，中国经济受到疫情的影响不太好，而且特朗普本人本身就是个狂躁的人，这让事情变得更复杂。”&lt;/p&gt;
+&lt;p&gt;“我们仍面临很大的压力。”&lt;/p&gt;
+&lt;p&gt;上一次的贸易战还在影响着中国经济第二大的经济体，外国公司在国际合作和多元化供应链方面持谨慎态度，将更多资金投入到替代邻近市场，如越南。&lt;/p&gt;
+&lt;p&gt;一位在新加坡拥有的北京数字基础设施公司的财务总监克里斯托弗·耶表示，他预计特朗普将继续对跨境投资和美国及其他西方国家的融资施加压力。&lt;/p&gt;
+&lt;p&gt;“目前我们公司的资金来源来自非美国股东，所以我不认为特朗普重返白宫对中国产生影响，”他说。&lt;/p&gt;
+&lt;p&gt;“但我可以想象美国机构投资者继续削减对中国市场的暴露，”他说，“以前有一些美国公司在参与中国基础设施项目投资，现在这已经不存在了。”&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="柏林竞选宣传海报" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HC5UEH3ORZIMJEJKAFKCY56QSI.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年德国联邦选举中，德国社会民主党（SPD）候选人奥拉夫·朔尔茨的竞选海报在柏林展出。REUTERS/Annegret Hilse/资料图片&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 08:06:11 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russian-disinformation-targets-german-election-campaign-says-think-tank-2025-01-20/</guid></item><item><title>英国少年承认谋杀绍斯波特女孩和 ricin 毒案及恐怖主义指控</title><link>https://www.reuters.com/world/uk/uk-teenager-changes-pleas-guilty-over-murder-southport-girls-2025-01-20/</link><description>&lt;p&gt;一名英国少年于周一因在英格兰北部对三位小女孩实施刀杀而被指控谋杀，认罪，这一事件震惊了全国，并引发了多日的全国性骚乱。&lt;/p&gt;
-&lt;p&gt;18岁的阿克塞尔·卢达库班纳在利物浦刑事法庭的首次开庭当天，从无罪抗辩改为认罪。&lt;/p&gt;
-&lt;p&gt;卢达库班纳承认杀死了贝比·金（6岁）、艾尔斯·多特·斯坦科姆（7岁）和艾丽斯·达西尔瓦·阿吉亚尔（9岁），这三名小女孩当时正在南伯乐举办的泰勒·斯威夫特主题舞会上。&lt;/p&gt;
-&lt;p&gt;他同时认罪，涉及这起事件中的10项企图谋杀指控，还承认制造致命毒素蓖麻毒素以及持有基地组织培训手册。&lt;/p&gt;
-&lt;p&gt;法官朱利安·古斯宣布将于周四对卢达库班纳判处刑罚。&lt;/p&gt;
-
-&lt;figure&gt;&lt;img alt="被认为载有嫌犯卢达库班纳的囚车在利物浦刑事法庭受警卫护送抵达" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RUS2RGCP4ZO23P4WLYHZJB6YIU.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月20日，英国利物浦，一辆被认为载有嫌犯阿克塞尔·卢达库班纳的囚车在利物浦刑事法庭抵达时受警卫护送。路透社/菲尔·诺布尔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="在卢达库班纳试审开始时，示威者在利物浦刑事法庭后面举起横幅" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/CGXOSFMNRJOYBJHEUY72Q5OZWA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月20日，英国利物浦，示威者在利物浦刑事法庭前举起横幅，卢达库班纳 trials 开始。路透社/菲尔·诺布尔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="南伯乐舞会上发生的刺杀事件的花环悼念品" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/IDG2JLLA7RKG7BKCLRHBV7E47U.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2024年8月4日，英国南伯乐，作为对南伯乐举办的泰勒·斯威夫特主题舞会上发生的刀杀事件中三位儿童受害者——贝比·金、艾尔斯·多特·斯坦科姆和艾丽斯·达西尔瓦·阿吉亚尔——悼念品的照片视角。路透社/贝琳达·焦亚/资料照片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="警察在卢达库班纳试审开始时站在利物浦刑事法庭前方" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K3LDYEQ3ZBI7HAFV3R26RZDXNM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月20日，英国利物浦，警察和其他人在卢达库班纳试审开始时站在利物浦刑事法庭前。路透社/菲尔·诺布尔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:41:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/uk/uk-teenager-changes-pleas-guilty-over-murder-southport-girls-2025-01-20/</guid></item><item><title>韩国尹锡悦在法院暴行事件后加强安保，回避提问</title><link>https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/</link><description>&lt;p&gt;韩国弹劾总统尹锡悦拒绝在周一接受调查人员质询，这起调查是否涉及叛乱的案件正进行之中，与此同时，数十名支持者面临因一起暴力袭击法院建筑事件而被起诉的风险。&lt;/p&gt;
-&lt;p&gt;当局表示，为了确保正在首尔拘留所接受审判的尹锡悦以及审理弹劾案的宪法法院的安全，已加强了安保措施。&lt;/p&gt;
-&lt;p&gt;尹锡悦成为第一位因短暂宣布军事戒严而被逮捕的在职韩国总统，这一事件发生在上月底。&lt;/p&gt;
-&lt;p&gt;周日，法院批准逮捕令后，尹锡悦正式被剥夺了人身自由，包括被拍摄了通缉照片。&lt;/p&gt;
-&lt;p&gt;午夜裁定之后，愤怒的尹锡悦支持者冲入首尔西部地方法院大楼，破坏财产并与警察发生冲突，有时警察人数处于下风，警察被数人操控的散落路障攻击。&lt;/p&gt;
-&lt;p&gt;据韩联社报道，在冲突中被拘留的90人中，警方计划对66人维持拘留，指控其未经许可进入法院、妨碍公务和袭击警察。&lt;/p&gt;
-&lt;p&gt;其他犯罪人员仍在被识别中，警方也将对其他人采取法律行动，代理司法部长金석우告知国会议员司法委员会。&lt;/p&gt;
-&lt;p&gt;代理总统兆相陌对上周日在法院发生的“非法暴力”表示遗憾，并呼吁警方严格执法，防止类似事件重演。&lt;/p&gt;
-&lt;p&gt;这一动乱发生在韩国近几十年来最严重的政治危机之中，正动摇这个亚洲第四大经济体。&lt;/p&gt;
-&lt;p&gt;韩国央行周一将2025年的经济增长预测下调至1.6%至1.7%，低于此前11月预测的1.9%，理由是政治不确定性加剧。&lt;/p&gt;
-&lt;p&gt;数百名抗议者在周一凌晨三点裁定在法院关押尹锡悦之后，冲破路障进入法院建筑，其中有些人向警察喷水枪。&lt;/p&gt;
-&lt;p&gt;在视频画面中，部分抗议者在法官办公室所在的走廊徘徊，呼喊着裁定逮捕令的法官的姓名。&lt;/p&gt;
-&lt;p&gt;据最高法院管理局长陈台雨透露，至少一名法官的办公室被强行入侵。&lt;/p&gt;
-&lt;p&gt;数名参与者通过YouTube直播了入侵的画面，画面显示抗议者破坏法院，并高呼尹锡悦的名字。在直播过程中，一些内容制作者被警察取缔。&lt;/p&gt;
-&lt;p&gt;尹锡悦周一拒绝接受调查高官腐败调查局（CIO）的质询，这是主持刑事调查的机构，此前他曾多次拒绝与调查合作。&lt;/p&gt;
-&lt;p&gt;尹锡悦的律师认为，他在星期三被拘捕及其被拘留令执行是非法的，因为执行令的法院在其司法管辖区之外，而CIO本身没有法律权力进行调查。&lt;/p&gt;
-&lt;p&gt;尹锡悦可能被起诉的叛乱罪是少数他没有豁免权的罪行之一，理论上可判处死刑。然而，韩国已近30年未执行过死刑。&lt;/p&gt;
-&lt;p&gt;尹锡悦通过律师表示，上周日法院大楼发生的“袭击”事件令人震惊且不幸，并呼吁人们和平表达意见。他在声明中还表示，他理解很多人感到“愤怒和不公平”，并要求警察采取宽容态度。&lt;/p&gt;  
-&lt;figure&gt;&lt;img alt="抗议者在判决将弹劾下台总统尹锡悦的拘留期延长之后，冲进法院大楼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/324ZFUFEQZJAHJKSGVTWBQ3HIQ.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;法院在一审判决将弹劾下台总统尹锡悦的拘留期延长至20天后，遭到反尹锡悦支持者的冲击，这是2025年1月19日在韩国首尔拍摄的受损墙面。Yonhap via REUTERS/File Photo&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 07:24:50 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/south-koreas-yoon-shuns-questioning-security-tightened-after-court-rampage-2025-01-20/</guid></item><item><title>特朗普重返白宫之际，中国既充满希望又紧张不安</title><link>https://www.reuters.com/world/us/china-vice-president-meets-with-elon-musk-ahead-trump-inauguration-2025-01-20/</link><description>&lt;p&gt;中国官员和普通民众对唐纳德·特朗普重返白宫既满怀希望又略感紧张，希望避免重演首届任期中引发中美之间经济巨人关系紧张的贸易争端。&lt;/p&gt;
-&lt;p&gt;中国副总理韩正在北京与特斯拉首席执行官埃隆·马斯克及其他美国商界人士会面时，在特朗普就职典礼前表达了对未来中美关系的信心。据官方新华社报道，韩正表示希望美国公司在中国扎根，为两国关系稳定做出贡献。&lt;/p&gt;
-&lt;p&gt;在特朗普任内，他曾对逾3000亿美元的中国进口商品加征关税。最近几个月，他表示将在此基础上对至少10%的中国商品加征关税，这在经济增速放缓、经济增长基础尚不牢固的中国带来严峻挑战。&lt;/p&gt;
-&lt;p&gt;另一方面，美国当选总统邀请中国国家主席习近平参加其1月20日的就职典礼，展示了缓和的姿态，习近平则派代表汉正前往。对于中国仅在前两次美国总统就职典礼上以大使身份代表，这次派高官做法被视为善意。&lt;/p&gt;
-&lt;p&gt;周日的会议上，汉正向马斯克透露，鉴于马斯克被任命为重塑更高效美国政府的负责人，她欢迎特斯拉（TSLA.O）及其他美国公司在经济的发展中获益，从而为中美关系作出贡献。&lt;/p&gt;
-&lt;p&gt;此次活动由美国联邦快递首席执行官拉杰什·苏布拉马尼亚姆主持，来自八个不同行业的美国企业负责人参与会议。据一位与会的美国高管称，会议比预定时间长得多，并且气氛友好。&lt;/p&gt;
-&lt;p&gt;“韩正因其在上海的经历，被认为理解外国商界社区的关切，理解经济问题，”北京的美国商会会长迈克尔·哈特在接受路透社采访时表示。“这是一种积极的做法。”&lt;/p&gt;
-&lt;p&gt;1月17日电话交谈后，中美两国元首就贸易、芬太尼与TikTok问题进行了交流，都表示其中一个非常好，并希望为双方关系树立积极的开端。同样在周一的例行记者会上，中国外交部发言人毛宁也提及中美关系的新起点。&lt;/p&gt;
-&lt;p&gt;周一，中国和香港股市上涨。&lt;/p&gt;
-&lt;p&gt;尽管中美两国表现得亲善融洽，但那些记得特朗普第一任期中美关系迅速恶化的人仍无法忘怀这种似曾相识的感觉。 “自现在起，直到情况变得明朗之前，所有美国客户都必须预先支付款项，”来自苏州的Lira Solutions首席解决方案官、将中国制造商与海外买家（从玩具到家具、钛产品）接轨的公司 Dominic Desmarais 表示。 “如果唐纳德·特朗普真的对中国商品征收40%或其他任何关税，我不希望我在特定客户那里定制的产品在还未出售时就消失。”&lt;/p&gt;
-&lt;p&gt;他补充道：“这种状况几年前发生过，当时唐纳德·特想起来中国商品征收25%关税的85%商品。”&lt;/p&gt;
-&lt;p&gt;与2018年初首次征收关税时相比，中美贸易战遭遇更脆弱的中国，加之正面临的房地产危机、地方政府债务问题和16%的青年人口失业率等问题，更加脆弱不堪。这些挑战使得中国的情况更加不稳定。&lt;/p&gt;
-&lt;p&gt;这种不稳的状况在上海的街头显得尤为明显。 “我看到的是，由于疫情的影响以及特朗普本人是一名疯狂的人，中国经济正处于不利境地，”65岁的王先生表示。“我们这边的压力依然很大。”&lt;/p&gt;
-&lt;p&gt;上一届贸易战继续影响着世界第二大经济体，外资企业目前正持观望态度，将更多资金投向越南等替代市场，而不是投资中国，以避免多元化供应链耗费更多资金。&lt;/p&gt;
-&lt;p&gt;北京一家新加坡数字基础设施公司的首席财务官克里斯托弗·叶表示，他预计特朗普的关税威胁将继续影响跨境投资和融资，尤其是来自美国及其他西方国家的投资方。他公司的资金来源目前是非美国股东，因此特朗普重返白宫不会对其在中国的生活产生影响。 “但我想美国机构投资者会继续减少对中国市场的投资。”&lt;/p&gt;
-&lt;p&gt;曾有数家美国企业投资中国基础设施，这种情况如今已不复存在。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 03:14:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/china-vice-president-meets-with-elon-musk-ahead-trump-inauguration-2025-01-20/</guid></item><item><title>俄罗斯调查网上发布的军警殴打士兵视频</title><link>https://www.reuters.com/world/europe/russia-opens-investigation-after-video-military-police-beating-soldiers-is-2025-01-20/</link><description>俄罗斯有关部门在社交媒体上发布的一段视频显示，一名身穿俄罗斯军事警察制服的人员对前往乌克兰的合同兵施以暴力并使用电击枪。俄罗斯就此展开了调查。
-
-视频中，一名身穿俄军事警察制服的人员走过去，用警棍猛烈地将一名士兵打倒在地，并对其进行咒骂，同时用电击枪使之致晕。
-
-随后，另一名手持拐杖的士兵也被使用电击枪殴打，而穿制服的人员则命令他们脱衣。
-
-这段视频时间戳为1月16日，在电报平台上由俄罗斯战地记者发布。当地官员称，事件发生在位于西伯利亚南部图瓦地区的图瓦单位的驻地。
-
-关于士兵遭受如此殴打的原因，尚不明晰。俄罗斯战地记者称，这些士兵是从医院出院，返回乌克兰前线作战的伤员。
-
-图瓦地区政府在其官网发布声明称，在视频出现后，已展开调查。
-
-“在2025年1月16日，在军事单位第55115号发生了一系列对合同兵的虐待行为，包括殴打和电击枪使用，随后他们被送往SVO前线。”图瓦政府说。
-
-SVO是俄罗斯官方用于描述其在乌克兰开展的“特别军事行动”的缩写。
-
-“已确定了AB的行为主体，并对相关方进行了初步调查，相关情况将依照俄罗斯联邦刑法进行评估，并将对行为主体进行处罚。”地区政府补充道。
-
-俄罗斯国防部未回应置评请求。</description><pubDate>Mon, 20 Jan 2025 08:14:08 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/russia-opens-investigation-after-video-military-police-beating-soldiers-is-2025-01-20/</guid></item><item><title>特朗普将在就职演说中呼吁进行“常识革命”，《华尔街日报》报道</title><link>https://www.reuters.com/world/us/trump-call-revolution-common-sense-inaugural-address-wsj-reports-2025-01-20/</link><description>&lt;p&gt;美国当选总统唐纳德·特朗普将在就职演说中呼吁进行“常识革命”，《华尔街日报》周一援引其准备好的讲话片段报道。&lt;/p&gt;
-&lt;p&gt;特朗普预计会说：“我充满信心和乐观，相信我们正站在充满激动人心的新时期的开端。变革的潮水正在席卷全国。今天我对美国人民说，是时候再次展现出勇气、活力和历史上最伟大文明的热情了。”&lt;/p&gt;
-&lt;p&gt;特朗普将于周一上午宣誓就任美国总统，开启其第二个任期，结束美国历史上最令人震惊的政治逆袭。&lt;/p&gt;
-&lt;p&gt;他将在东部时间上午12点（格林尼治标准时间17点）由美国最高法院首席大法官约翰·罗伯茨主持宣誓就职仪式。原定在国会大厦举行的仪式因严寒天气改为在国会综合体内部举行。&lt;/p&gt;
-&lt;p&gt;特朗普计划在就任总统后的当天签署多道行政命令，以此在其新政府的事务上留下他的印记，包括能源和移民等问题。&lt;/p&gt;
-&lt;p&gt;两位参与规划的消息人士表示，从第一天起就将发布超过100项行政命令和指示，这在内部被称为“震撼与敬畏”行动。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="特朗普在就职日前一天在华盛顿举行集会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z24GQVHXMZJE5J62M5FQP4MQ7I.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;2025年1月19日，美国当选总统唐纳德·特朗普在美国华盛顿举行集会前的一天发表演讲。路透社/卡洛斯·巴里亚&lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 10:13:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/trump-call-revolution-common-sense-inaugural-address-wsj-reports-2025-01-20/</guid></item><item><title>菲律宾逮捕一名涉嫌间谍活动的中国公民</title><link>https://www.reuters.com/world/asia-pacific/philippines-arrests-chinese-national-suspicion-espionage-2025-01-20/</link><description>&lt;p&gt;菲律宾执法机关逮捕了一名涉嫌间谍活动的中国公民，并在其随身物品中发现了可用于窃取军事设施情报的设备。&lt;/p&gt;
-&lt;p&gt;这名嫌疑人被辨识为邓远青，于周一在媒体面前亮相，同时还有一名其他涉嫌的菲律宾同伙。&lt;/p&gt;
-&lt;p&gt;调查人员称，邓远青与中国东部江苏省南京市的中国人民解放军陆军工程大学有关联。&lt;/p&gt;
-&lt;p&gt;菲律宾国家调查局负责人贾米·萨蒂亚尼哥表示，邓远青是菲律宾当局已跟踪监视的一个团伙的一部分，据情报显示，他们入境菲律宾是为了对包括军事设施在内的关键基础设施进行监视活动。&lt;/p&gt;
-&lt;p&gt;菲律宾武装部队负责人莱蒙·布罗纳尔称，该团伙访问的部分地点包括美国军队根据军事协议获得准入的地方。&lt;/p&gt;
-&lt;p&gt;布罗纳尔在新闻发布会上表示：“我们正在调查中国整体的间谍活动。”&lt;/p&gt;
-&lt;p&gt;中国驻马尼拉大使馆暂未就此事进行回应。&lt;/p&gt;
-&lt;p&gt;此次逮捕正值菲律宾对中国活动的疑虑日益增加之际，这些疑虑包括中国海岸警卫队和捕鱼民兵在马尼拉专属经济区的行动。&lt;/p&gt;
-&lt;p&gt;两国在多个有争议的地点上存在重叠的主权声索，并在海上发生过激烈的对峙，互相指责对方侵犯领海。&lt;/p&gt;
-&lt;p&gt;萨蒂亚尼哥在新闻发布会上表示：“我们没收了他的车辆，车上装有间谍设备。”他还补充说：“收集的某些信息可能已经被传回中国。”&lt;/p&gt;
-&lt;p&gt;NBI网络犯罪部门负责人杰里米·洛托克表示，根据护照复印件，邓远青至少已经进入菲律宾五年。&lt;/p&gt;
-&lt;p&gt;他表示，他们称邓远青为“卧底”。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 10:39:46 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-arrests-chinese-national-suspicion-espionage-2025-01-20/</guid></item><item><title>具有历史意义的泰国法律承认同性婚姻，但并非所有家庭都平等</title><link>https://www.reuters.com/world/asia-pacific/historic-thai-law-recognises-same-sex-marriages-not-all-families-are-equal-2025-01-20/</link><description>&lt;p&gt;美国商人雅各布·霍尔在2021年遇到了他的泰国丈夫苏拉庞·库邦佩，两年后在美结婚，随后返回泰国生活和工作。&lt;/p&gt;
-
-&lt;p&gt;本周，这对夫妻的结合将得到泰国法律的认可，因为去年议会通过的《婚姻平权法案》将于1月22日生效，这标志着数十年来活动倡导者的努力达到了顶点。&lt;/p&gt;
-
-&lt;p&gt;泰国将成为东南亚第一个，并且是亚洲第三个承认同性婚姻的国家。&lt;/p&gt;
-
-&lt;p&gt;然而，对于霍尔和苏拉庞这样的夫妻来说，《婚姻平权法案》虽然具有历史意义和进步性，仍给他们构建合法认定的家庭带来了一些障碍。&lt;/p&gt;
-
-&lt;p&gt;在婚礼后不久，这对夫妻通过合法代孕生下了一个儿子，伊莱亚斯·布林·霍尔·库邦佩。由于这个选项在泰国对同性伴侣不开放，他们选择了在哥伦比亚进行代孕。&lt;/p&gt;
-
-&lt;p&gt;贾克波说，伊莱亚斯·布林在美国出生证明上有两个家长的名字，但也只能在泰国以游客身份生活。&lt;/p&gt;
-
-&lt;p&gt;由于泰国缺乏对同性伴侣代孕的法律规定，且家长的定义严格，伊莱亚斯·布林在泰国与苏拉庞之间没有法律关系。&lt;/p&gt;
-
-&lt;p&gt;尽管婚姻平权法通过，但泰国传统的家庭定义——父亲须为男性，母亲须为女性——仍然保留在法律条款中。&lt;/p&gt;
-
-&lt;p&gt;“从法律上讲，他们之间没有任何联系，”雅各布说，他的丈夫苏拉庞也是泰国公务员，并使用昵称“肯格”。他补充道：“如果发生任何意外，我们确实担心，按照泰国法律，肯格和我们的儿子之间会发生什么。”&lt;/p&gt;
-
-&lt;p&gt;泰国卫生部正在起草一份草案，以允许同性伴侣进行代孕，但尚不清楚这一过程会持续多久，以及是否能成功。&lt;/p&gt;
-
-&lt;p&gt;泰国的新婚姻平权法现在将允许同性伴侣收养孩子。&lt;/p&gt;
-
-&lt;p&gt;但由于父权的法律定义，同性伴侣作为养父母的“资格”实际上取决于官方的考虑，这可能会导致歧视。&lt;/p&gt;
-
-&lt;p&gt;去年在讨论婚姻平权法案时，一些议员试图将父权的定义改为一种更为性别中立的术语，但这一努力最终被众议员多数投票否决。&lt;/p&gt;
-
-&lt;p&gt;“这是许多立法者心中根深蒂固的想法，这也体现在法律文本中，”人权倡导组织“扶持正义”专家莫库达帕·扬尤恩普拉德贡表示。&lt;/p&gt;
-
-&lt;p&gt;“这对我们试图争取包括性别包容性的父母一词变得相当困难。”&lt;/p&gt;
-
-&lt;p&gt;新的同性婚姻法将为泰国进一步包容LGBTQ群体创造更多动力，尽管该国已经有接纳这种群体的良好声誉，分析人士指出。&lt;/p&gt;
-
-&lt;p&gt;“我们在改变立法方面取得了很大进展，但我们还有很多工作要做，”梅奥呼朗大学法学院讲师纳达·柴亚吉特说道。&lt;/p&gt;
-
-&lt;p&gt;“我们仍需争取社会的认可，而这也不仅仅是改变法律的问题。”&lt;/p&gt;
-
-&lt;p&gt;雅各布和苏拉庞计划不久后再要一个孩子，并希望泰国是一个适合抚养家庭的好地方。&lt;/p&gt;
-
-&lt;p&gt;“我们希望这些立法者能认识到，我们也可以拥有一个正常运作的家庭，就像其他人一样，”苏拉庞说。&lt;/p&gt;
-
-&lt;figure&gt;&lt;img alt="尽管同性婚姻合法化，但同性伴侣依然努力构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/G3OENQ4UHFPTFE3JCSSTN2FRPY.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;同性伴侣雅各布·霍尔，45岁，与他们的儿子伊莱亚斯·布林·霍尔·库邦佩，以及48岁的苏拉庞“肯格”库邦佩在泰国曼谷公园行走。2025年1月11日，路透社/阿提·佩拉旺勐塔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="尽管同性婚姻合法化，但同性伴侣依然努力构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3Z7TKKZ37ZNKXMJOU6DBYU45PA.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;同性伴侣48岁的苏拉庞“肯格”库邦佩和45岁的雅各布·霍尔与儿子伊莱亚斯·布林·霍尔·库邦佩在泰国曼谷公园拍照。2025年1月11日，路透社/阿提·佩拉旺勐塔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="尽管同性婚姻合法化，但同性伴侣依然努力构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y2E62CXNHNIMVFSCWEGZ4QRAIU.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;同性伴侣48岁的苏拉庞“肯格”库邦佩和45岁的雅各布·霍尔与儿子伊莱亚斯·布林·霍尔·库邦佩在曼谷公园散步。2025年1月11日，路透社/阿提·佩拉旺勐塔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img alt="尽管同性婚姻合法化，但同性伴侣依然努力构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BHWGMCRHAROM5DC24VX5MALYOU.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;同性伴侣45岁的雅各布·霍尔举着他的儿子伊莱亚斯·布林·霍尔·库邦佩，而48岁的苏拉庞“肯格”库邦佩在一旁，他们一同走在泰国曼谷公园里。2025年1月11日，路透社/阿提·佩拉旺勐塔&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 09:15:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/historic-thai-law-recognises-same-sex-marriages-not-all-families-are-equal-2025-01-20/</guid></item><item><title>教皇方济各在信中为特朗普祈祷“智慧和力量”</title><link>https://www.reuters.com/world/pope-francis-message-offers-trump-prayers-wisdom-strength-2025-01-20/</link><description>&lt;p&gt;教宗方济各周一在华盛顿总统就职典礼前，向当选美国总统唐纳德·特朗普致以祝福。典礼将于1月20日举行。&lt;/p&gt;
-&lt;p&gt;教宗此前曾公开批评特朗普的反移民言论，并表示与特朗普持有深刻的分歧。此次他祈祷上帝赐予特朗普“智慧、力量和保护”。&lt;/p&gt;
-&lt;p&gt;“我衷心希望，在您的领导下，美国人民能够繁荣昌盛，并致力于构建一个更加公正的社会，其中没有仇恨、歧视或排斥的空间。”教宗说。&lt;/p&gt;
-&lt;p&gt;自2013年担任拥有14亿成员的天主教会领袖以来，教宗最近几年使用了异常激烈的言辞批评特朗普。&lt;/p&gt;
-&lt;p&gt;教宗的祝贺信发表于他于1月19日称特朗普计划加强移民执法行动是一个“耻辱”之后一天。当天早些时候，教宗还表示，特朗普准备针对移民采取大规模执法行动的计划会“让那些一无所有的人为签证欠款买单”。 &lt;/p&gt;
-&lt;p&gt;1月18日，特朗普即将上任的政府官员表示，他们正在考虑改变芝加哥等地的移民执法行动计划，并且正在与边境czar就这一计划进行磋商。&lt;/p&gt;
-&lt;p&gt;在2016年总统选举期间，教宗曾称特朗普“不是基督徒”，因其在移民问题上的观点。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="教宗方济各出席在梵蒂冈保罗六世大厅举行的赦罪群众集会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MCHGTBRVI5P47ITEY6S4WSCNGY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月11日，教宗方济各出席在梵蒂冈保罗六世大厅举行的赦罪群众集会。路透社/古杰列莫·曼贾帕内/文件照&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:21:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/pope-francis-message-offers-trump-prayers-wisdom-strength-2025-01-20/</guid></item><item><title>奥斯汀·泰斯的母亲希望美国和叙利亚新政府能够帮助找到他</title><link>https://www.reuters.com/world/austin-tices-mother-hopeful-new-us-syria-administrations-will-help-find-him-2025-01-20/</link><description>&lt;p&gt;美国记者奥斯汀·泰斯的母亲戴布·泰斯周一表示，她希望通过新任的美国和叙利亚政府帮助找回她的失踪儿子。泰斯的儿子是在大约12年前的一次在大马士革附近的报道任务中被劫持的。&lt;/p&gt;
-&lt;p&gt;“今天，1月20日，唐纳德·特朗普将宣誓就任总统，我对新政府能帮助将奥斯汀带回家充满希望。”戴布·泰斯在由国际非政府组织全球人质援助组织在大马士革组织的一场记者会上如此表示。&lt;/p&gt;
-&lt;p&gt;她还说，由于新上任的美国政府官员已经向她表达了对她的儿子的关注，她对此感到鼓舞。&lt;/p&gt;
-&lt;p&gt;泰斯曾批评即将离任的美国政府乔·拜登政府，认为他们在为释放她的儿子进行谈判时不够强硬。即便是最近几个月也是这样。&lt;/p&gt;
-&lt;p&gt;泰斯曾是一名自由职业记者，为《华盛顿邮报》和其他几家出版物工作。她是2011年叙利亚内战爆发后，首批进入叙利亚的美国记者之一。&lt;/p&gt;
-&lt;p&gt;她在2015年前往叙利亚与政府当局会面，商谈她儿子的事宜，之后他们停止了向她发放签证。&lt;/p&gt;
-&lt;p&gt;叙利亚叛军于去年12月推翻了贝沙尔·阿萨德这位资深领导人，她得以从得克萨斯州的家中再次访问叙利亚。&lt;/p&gt;
-&lt;p&gt;泰斯表示，上周日，她与叙利亚的新领导人会面，后者向她展示了带回她儿子的决心。“新政府决心帮助我们，他们会确保对我们这样的家庭做出正确的决定。”她说。&lt;/p&gt;
-&lt;p&gt;然而，泰斯表示，阿萨德的倒台让寻找她儿子变得更加复杂，因为这使得识别她儿子被关押在何处和由谁关押变得更加困难。&lt;/p&gt;
-&lt;p&gt;“我们好像重新开始了一样。”她说。&lt;/p&gt;
-&lt;p&gt;“我已经超过12年没有见过他，也没有和他交谈过，但我知道他还在。奥斯汀，如果你能听到我，我爱着你。我知道你不会放弃，我也不愿放弃。”她补充道。&lt;/p&gt;
-&lt;p&gt;美国国务院上周表示，目前没有任何美国政府组织在叙利亚地面参与搜寻泰斯。&lt;/p&gt;
-&lt;p&gt;泰斯在阿萨德政权倒台后，经过13年的内战，曾引起了大规模搜寻。美国官员表示曾担心泰斯可能被最近以色列的空袭杀死，或在阿萨德军队切断大马士革监狱电力供应出逃后窒息而死。&lt;/p&gt;
-&lt;p&gt;泰斯是在大马士革郊区达拉亚被捕的。路透社此前报道，2013年，这位前海军陆战队员曾从牢房逃脱，并曾在大马士革高端马泽赫区的街道上一家家移动。&lt;/p&gt;
-&lt;p&gt;他不久后被再度捕获，很可能是直接听命于阿萨德的部队。叙利亚当局从未确认泰斯在其旗下的说法。《纽约时报》首先报道了这次短暂的逃跑和重新被捕。&lt;/p&gt;
-&lt;p&gt;大约有数万名叙利亚囚犯在阿萨德压迫性的统治结束时从其监狱中释放。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="戴布·泰斯，记者奥斯汀·泰斯的母亲在大马士革出席新闻发布会前身姿旁立" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZXFSCJQO2VNY7LJ5AEEVIXGSCI.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;戴布·泰斯，记者奥斯汀·泰斯的母亲，出席大马士革新闻发布会前身姿旁立，2025年1月20日。路透社/亚玛曼·阿尔沙尔&lt;/i&gt;
-&lt;/figcaption&gt;
+  &lt;img alt="人们在上海浦东的金融区背景下的黄浦江边步行" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3P7JFISXFKQDOZ4S57QYYNKY4.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;上海，2024年9月28日。REUTERS/Tingshu Wang&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="戴布·泰斯，记者奥斯汀·泰斯的母亲前往新闻发布会演讲路途中" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NL7K7E2LFZLQDCQVZZVXBAYZ6E.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;戴布·泰斯，记者奥斯汀·泰斯的母亲前往新闻发布会演讲路途中，2025年1月20日，大马士革。路透社/亚玛曼·阿尔沙尔&lt;/i&gt;
-&lt;/figcaption&gt;
+  &lt;img alt="中国副总理韩正出席特朗普就职典礼" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z4KIPZIXM5I7PON7L6VYA4DCC4.jpg" /&gt;
+  &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;中国副总理韩正出席英国财政大臣里查德·莱维斯与其在中国北京人民大会堂的会面（照片未显示），2025年1月11日。REUTERS/Florence Lo/Pool/资料图&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 03:14:33 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/china-vice-president-meets-with-elon-musk-ahead-trump-inauguration-2025-01-20/</guid></item><item><title>特朗普将在就职演说中呼吁进行“常识革命”，《华尔街日报》报道</title><link>https://www.reuters.com/world/us/trump-call-revolution-common-sense-inaugural-address-wsj-reports-2025-01-20/</link><description>&lt;p&gt;美国当选总统唐纳德·特朗普将在就职演说中呼吁进行“常识革命”，据《华尔街日报》周一援引其准备好的发言内容报道。&lt;/p&gt;
+&lt;p&gt;特朗普预计将表示：“怀着自信与乐观，我们正处于国家成功的新时代的起点。变革的浪潮正在席卷全国。今天，我要告诉美国人民，是时候再次以勇气、活力和历史上最伟大文明的生机来行动了。”&lt;/p&gt;
+&lt;p&gt;特朗普将于周一宣誓就任美国总统，正式开启其第二届任期，完成美国历史上最令人震惊的政治反击之一。&lt;/p&gt;
+&lt;p&gt;当地时间上午12时（格林尼治标准时间1700时），美国首席大法官约翰·罗伯茨将为他主持宣誓仪式，地点因寒冷天气改为国会大厦内的国会广场。原先计划在国会大厦前举行。&lt;/p&gt;
+&lt;p&gt;据弗吉尼亚大学和菲尼克斯顾问公司的一位知情人士透露，他计划在周一就任总统后发布一系列行政命令，旨在在其新的政府中留下印记，涉及能源和移民等多个方面。&lt;/p&gt;
+&lt;p&gt;知情人士表示，预计将有超过100个此类命令和指示自就职典礼第一天开始陆续发布，这种做法内部被称为“震撼和震慑”努力。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="特朗普就职日前日在DC举行集会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Z24GQVHXMZJE5J62M5FQP4MQ7I.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2025年1月19日，美国当选总统唐纳德·特朗普在华盛顿举行了就职前一天的集会。路透社/卡洛斯·巴里亚&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 10:13:22 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/trump-call-revolution-common-sense-inaugural-address-wsj-reports-2025-01-20/</guid></item><item><title>具有历史意义的泰国法律承认同性婚姻，但并非所有家庭都平等</title><link>https://www.reuters.com/world/asia-pacific/historic-thai-law-recognises-same-sex-marriages-not-all-families-are-equal-2025-01-20/</link><description>&lt;p&gt;美国商人雅各布·霍尔在2021年遇见了他的泰国丈夫苏拉蓬·库农帕伊，两年后在美国完婚，随后返回泰国生活和工作。&lt;/p&gt;
+&lt;p&gt;本周，这对夫妇的婚姻将受到泰国法律的认可，因为该国去年通过的婚姻平等法案自1月22日起生效，这标志着活动家们历经数十年努力后的重要成果。&lt;/p&gt;
+&lt;p&gt;泰国将成为东南亚首个、亚洲第三个国家，正式承认同性恋夫妇的婚姻。&lt;/p&gt;
+&lt;p&gt;但对霍尔和苏拉蓬这样的夫妇而言，即使这是一项历史性的进步法案，仍给他们建立合法家庭带来了障碍。&lt;/p&gt;
+&lt;p&gt;这对夫妇在婚礼过后不久便有了他们的儿子，伊莱亚斯·布林·霍尔·库农帕伊，他通过哥伦比亚合法代孕而出生，而泰国尚未向同性伴侣提供代孕服务。&lt;/p&gt;
+&lt;p&gt;霍尔表示，伊莱亚斯·布林的姓名登载在美国出生证明上，但这个18个月大的孩子还必须持有旅游签证，在泰国生活。&lt;/p&gt;
+&lt;p&gt;由于泰国缺少同性伴侣代孕法及严格的亲权定义，伊莱亚斯·布林在泰国法律上并无亲子关系。&lt;/p&gt;
+&lt;p&gt;尽管泰国法律已作修订，传统的家庭定义——父亲为男性，母亲为女性，仍然在泰国的法律条文中占有一席之地。&lt;/p&gt;
+&lt;p&gt;“从法律上来说，他和我丈夫苏拉蓬毫无关系，苏拉蓬是一位公务员，也被称为‘肯格’。”霍尔说道。&lt;/p&gt;
+&lt;p&gt;“如果明天不幸发生什么，我和肯格之间以及我和儿子的关系在泰国法律下将受到怎样的处理，我确实深感担忧。”&lt;/p&gt;
+&lt;p&gt;泰国卫生部正在草拟一项有关同性恋伴侣代孕的法案，但目前尚不清楚法案制定及通过的过程将历时多久，能否最终成功实施。&lt;/p&gt;
+&lt;p&gt;新婚姻平等法案将允许同性恋夫妇收养孩子。&lt;/p&gt;
+&lt;p&gt;但由于对“父母”的法律定义，同性恋夫妇作为收养父母的资格，实际上将取决于官方的考虑和评价，专家认为这可能导致歧视问题。&lt;/p&gt;
+&lt;p&gt;在去年辩论婚姻平等法案时，一些立法者试图将“父母”定义为更加中立的术语，但他们的努力因多数立法者反对而遭到否决。&lt;/p&gt;
+&lt;p&gt;“法律与政策中固化的心态仍然存在，”人权组织“扶权 Rights”的专家播库达帕·洋布鲁德蓬说道。&lt;/p&gt;
+&lt;p&gt;“这对我们争取将包容性更强的‘父母’定义纳入法律提出了很大的障碍。”&lt;/p&gt;
+&lt;p&gt;婚姻平等法案新法将为推动泰国有色情少数群体的更多包容性提供更大的动力，分析家认为，泰国已被认为对这个群体持宽容态度。&lt;/p&gt;
+&lt;p&gt;“我们在改变法律方面已取得了进展，但仍需更多包容性，”梅·乍扬大学法学院讲师纳达·查伊雅吉特说道。&lt;/p&gt;
+&lt;p&gt;“我们仍需争取社会的接纳，这仅靠法律变革是远远不够的。”&lt;/p&gt;
+&lt;p&gt;霍尔和苏拉蓬计划不久后再次生育，并希望泰国将成为一个可以养育家庭的好地方。&lt;/p&gt;
+&lt;p&gt;“我们希望立法者能认识到，我们也可以有一个如同普通人家一样的正常运作的家庭。”苏拉蓬表示。&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="尽管婚姻合法化，同性恋伴侣在泰国仍旧难以构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/G3OENQ4UHFPTFE3JCSSTN2FRPY.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt; &lt;i&gt;泰国曼谷一家公园内，45岁的同性恋夫妇雅各布·霍尔手捧他的儿子伊莱亚斯·布林·霍尔·库农帕伊，同48岁的苏拉蓬“肯格”·库农帕伊一同出行，2025年1月11日。路透社/阿狄特·佩拉翁朋&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="尽管婚姻合法化，同性恋伴侣在泰国仍旧难以构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3Z7TKKZ37ZNKXMJOU6DBYU45PA.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt; &lt;i&gt;泰国曼谷一间公园内，48岁的苏拉蓬“肯格”·库农帕伊和45岁的雅各布·霍尔手持他们的儿子伊莱亚斯·布林·霍尔·库农帕伊，2025年1月11日。路透社/阿狄特·佩拉翁朋&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="尽管婚姻合法化，同性恋伴侣在泰国仍旧难以构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y2E62CXNHNIMVFSCWEGZ4QRAIU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt; &lt;i&gt;泰国曼谷一家公园内，48岁的苏拉蓬“肯格”·库农帕伊和45岁的雅各布·霍尔携其18个月大的儿子伊莱亚斯·布林·霍尔·库农帕伊，伊莱亚斯坐在婴儿车里，2025年1月11日。路透社/阿狄特·佩拉翁朋&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="尽管婚姻合法化，同性恋伴侣在泰国仍旧难以构建家庭" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BHWGMCRHAROM5DC24VX5MALYOU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt; &lt;i&gt;泰国曼谷一家公园内，45岁的雅各布·霍尔手举其18个月大的儿子伊莱亚斯·布林·霍尔·库农帕伊，他站在苏拉蓬“肯格”·库农帕伊旁边，正在享受二人时光，2025年1月11日。路透社/阿狄特·佩拉翁朋&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 09:15:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/historic-thai-law-recognises-same-sex-marriages-not-all-families-are-equal-2025-01-20/</guid></item><item><title>奥斯汀·泰斯的母亲希望美国和叙利亚新政府能够帮助找到他</title><link>https://www.reuters.com/world/austin-tices-mother-hopeful-new-us-syria-administrations-will-help-find-him-2025-01-20/</link><description>&lt;p&gt;美国记者奥斯汀·泰西的母亲戴布·泰西周一表示，她对美国新政府和叙利亚新政府希望帮助她找回失踪的儿子充满希望。泰西的儿子在距大马士革不远的地方进行报道时于约12年前被绑架。&lt;/p&gt;
+&lt;p&gt;“今天1月20日，唐纳德·特朗普将宣誓就任总统，我满怀希望地认为，他的政府将致力于将奥斯汀带回家。”泰西在由全球人权援助组织在大马士革组织的一场新闻发布会上说。&lt;/p&gt;
+&lt;p&gt;她还表示，由于美国新政府官员已经与她联系，她对此感到鼓舞。&lt;/p&gt;
+&lt;p&gt;泰西曾批评即将卸任的美国总统乔·拜登的政府，认为他们未能在近期为释放她儿子进行有力谈判。&lt;/p&gt;
+&lt;p&gt;泰西曾自由职业记者的身份为《华盛顿邮报》及其他出版物撰稿，是2011年叙利亚内战爆发后首批进入叙利亚的美国记者之一。&lt;/p&gt;
+&lt;p&gt;她在2015年曾访问大马士革，商谈她的儿子的事宜，但随后叙利亚当局不再发放签证。&lt;/p&gt;
+&lt;p&gt;萨拉士反对派在去年12月推翻叙利亚领导人巴沙尔·阿萨德后，她从德克萨斯州返回大马士革再次访问。&lt;/p&gt;
+&lt;p&gt;泰西表示，她在周日会见了叙利亚新领导层，并说他们展示了带来她儿子回归的“承诺”。“新政府懂得我们所经历的痛苦，并且正在努力让像我们这样的人得到公正对待。”她说。&lt;/p&gt;
+&lt;p&gt;然而，泰西表示，阿萨德于去年12月8日被推翻使得寻找她儿子的任务复杂化了，因为这使得了解她的儿子被扣押的地点及其所处情况变得更加困难。&lt;/p&gt;
+&lt;p&gt;“我们仿佛又回到了起点。”她说。&lt;/p&gt;
+&lt;p&gt;“我已经超过12年没有见过他也没有跟他通电话，但我确信他还在。奥斯汀，如果你能听到我，我要告诉你我多么爱你。你也永不放弃，我亦然。”她说。&lt;/p&gt;
+&lt;p&gt;美国国务院上周表示，目前没有美国政府机构在叙参与寻找泰西。&lt;/p&gt;
+&lt;p&gt;泰西曾因阿萨德政权13年统治结束后的大规模搜索备受关注。&lt;/p&gt;
+&lt;p&gt;美国官员表示，担心泰西可能在最近以色列的空袭中丧生，或者在阿萨德政权在离开大马士革前切断大马士革监狱的电力后窒息。&lt;/p&gt;
+&lt;p&gt;美国和前政府官员表示，泰西在大马士革郊区达拉亚被捕。路透社此前报道，2013年，前海军陆战队员泰西曾从牢房逃脱，被看到在大马士革高档中心马泽赫区的街道上移动至不同的房屋之间。&lt;/p&gt;
+&lt;p&gt;随后不久，他再次被捕，很可能被归阿萨德直接指挥的部队。叙利亚当局从未确认泰西在其羁押之下。这一短暂的逃脱和再被抓获首次由《纽约时报》报道。&lt;/p&gt;
+&lt;p&gt;阿萨德统治期间，数以万计的叙利亚囚犯从他的监狱中获释。&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img alt="戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的一场新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZXFSCJQO2VNY7LJ5AEEVIXGSCI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的新闻发布会，2025年1月20日。路透社/亚玛姆·沙尔&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="戴布·泰斯，记者奥斯汀·泰斯的母亲出席大马士革新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TZWOGDWPOJKBRLMTX4MLM7OHLM.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;戴布·泰斯，记者奥斯汀·泰斯的母亲出席大马士革新闻发布会，2025年1月20日。路透社/亚玛曼·阿尔沙尔&lt;/i&gt;
-&lt;/figcaption&gt;
+    &lt;img alt="戴布·泰西，奥斯汀·泰西的母亲前往在大马士革举行的一场新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NL7K7E2LFZLQDCQVZZVXBAYZ6E.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;戴布·泰西，奥斯汀·泰西的母亲前往在大马士革的新闻发布会，2025年1月20日。路透社/亚玛姆·沙尔&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="戴布·泰斯，记者奥斯汀·泰斯的母亲与媒体工作者相邻前出席大马士革新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OIL7YUHMHVLPZAW34M4Y6DTSV4.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;戴布·泰斯，记者奥斯汀·泰斯的母亲与媒体工作者相邻前出席大马士革新闻发布会，2025年1月20日。路透社/亚玛曼·阿尔沙尔&lt;/i&gt;
-&lt;/figcaption&gt;
+    &lt;img alt="戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的一场新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TZWOGDWPOJKBRLMTX4MLM7OHLM.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的新闻发布会，2025年1月20日。路透社/亚玛姆·沙尔&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="戴布·泰斯，记者奥斯汀·泰斯的母亲出席大马士革新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HLFA7Q3UNNOPHEJOZRRQFTPLF4.jpg"&gt;
-&lt;figcaption style="text-align: center;"&gt;
-&lt;i&gt;戴布·泰斯，记者奥斯汀·泰斯的母亲出席大马士革新闻发布会，2025年1月20日。路透社/亚玛曼·阿尔沙尔&lt;/i&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:37:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/austin-tices-mother-hopeful-new-us-syria-administrations-will-help-find-him-2025-01-20/</guid></item><item><title>菲律宾 Mindoro 地区发生里氏 5.6 级地震，GFZ 报道</title><link>https://www.reuters.com/business/environment/magnitude-56-earthquake-strikes-mindoro-philippines-region-gfz-says-2025-01-20/</link><description>&lt;p&gt;德国研究地质科学院（GFZ）报道，菲律宾 Mindoro 岛发生里氏 5.6 级地震。&lt;/p&gt;
-&lt;p&gt;该地震深度约为 10 公里（6.21 英里），GFZ 表示。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 10:56:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/environment/magnitude-56-earthquake-strikes-mindoro-philippines-region-gfz-says-2025-01-20/</guid></item><item><title>特朗普凯旋重返白宫，开启新时代的剧变</title><link>https://www.reuters.com/world/us/triumphant-trump-returns-white-house-launching-new-era-upheaval-2025-01-20/</link><description>&lt;p&gt;唐纳德·特朗普将于周一就任美国总统，开启他任内第四年的执政生涯。特朗普承诺将极力扩大总统权力边界，驱逐数百万移民，为政治对手复仇，并重塑美国在国际舞台上的角色。&lt;/p&gt;
-&lt;p&gt;特朗普的复出成功完成了一次精彩的逆转。这位政治改革者历经两次弹劾审判、一项重罪定罪、两次刺杀事件以及试图推翻2020年大选结果的指控，最终完成就职。&lt;/p&gt;
-&lt;p&gt;就职典礼将于当地时间中午（格林尼治标准时间1700时）在国会大厦穹顶举行，距离四年前特朗普支持者闯入美国民主象征的宪法广场事件已有四年。因极端寒冷天气，典礼首次移至室内举行，这是40年来首次。&lt;/p&gt;
-&lt;p&gt;特朗普是自19世纪以来首位成功连任的美国总统。他在“1·6”袭击事件中曾表示如果有人在第一天被赦免，将赦免超过1,500名涉及此案的人。&lt;/p&gt;
-&lt;p&gt;唐纳德·特朗普计划在就职典礼后立即签署多项行政命令，涉及移民、能源和关税等问题。在华盛顿的一场竞选风格集会上，特朗普承诺将在上任第一天实施严厉的移民限制。&lt;/p&gt;
-&lt;p&gt;类似于2017年，特朗普再次以一种混乱和破坏性的身份进入白宫，再度声明要彻底改造联邦政府，并对美国领导的联盟以及战后全球政治格局持有深深的怀疑态度。&lt;/p&gt;
-&lt;p&gt;前总统竞选胜利超过准副总统乔·拜登超过2百万人的选民，尽管仍未达到50%的多数比例，但获得了全国普选的胜利。相比之下，2016年，特朗普凭借选举人团制赢得了大选，却输了普选，以约300万张选票之差落败于希拉里·克林顿。&lt;/p&gt;
-&lt;p&gt;德克萨斯大学奥斯汀分校的历史学家杰里米·斯库里将当前时代比作19世纪末时代。当时只有另一位非连任当选总统格罗弗·考克·林能够当选非连任总统，而后者也处于经济巨变、财富差距扩大以及美国移民人口达到历史高峰的时代。&lt;/p&gt;
-&lt;p&gt;“我们所谈论的，是一位各方面都截然不同的经济和社会结构，美国正在努力理解这意味着什么。这是一次根本性的转变。”斯库里说。&lt;/p&gt;
-&lt;p&gt;共和党在国会两院均拥有绝对多数席位，完全排除了党内异议的支持者。特朗普的顾问提出了用忠诚追随者替换非党派官员的计划。&lt;/p&gt;
-&lt;p&gt;刚胜选后不久，特朗普就建立了一个与自己抗衡的权力核心，与世界领导会面，并且考虑接管巴拿马运河、控制北约盟国丹麦领土格陵兰、以及对美国最大的贸易伙伴实施关税。&lt;/p&gt;
-&lt;p&gt;这些行动的影响力已经在最近以色列和哈马斯之间的停火协议上显现。特朗普的特使在卡塔尔加入谈判，并警告如果哈马斯在就职典礼前未释放人质，将会遭遇“地狱般的惩罚”。&lt;/p&gt;
-&lt;p&gt;特朗普在竞选期间声称自己将在第一天结束与俄罗斯和乌克兰的战争，但他的顾问已承认和平协议恐怕需要几个月时间才能达成。&lt;/p&gt;
-&lt;p&gt;不同2017年，特朗普现在更看重忠诚而非经验。他在提名一系列争议性的内阁成员，其中一些人指责将领导他们所负责的部门的专业人士。&lt;/p&gt;
-&lt;p&gt;贾里德·乔克，世界上最富有的人，花费超2.5亿美元帮助特朗普竞选成功。其他寻求与特朗普新一届过渡政府建立良好关系的亿万富翁科技领袖，如亚马逊的杰夫·贝佐斯、Meta的马克·扎克伯格、谷歌的桑德尔·皮查伊以及苹果的蒂姆·库克，将出席周一的典礼。&lt;/p&gt;
-&lt;p&gt;特朗普表示，周日将前往加州访问火灾肆虐的洛杉矶县。&lt;/p&gt;
-&lt;p&gt;考虑周日前竞选活动期间凸显的政治暴力事件增加，以及马刺袭击者想效仿新奥尔良攻击事件，就职典礼将在高度安全的情况下进行。&lt;/p&gt;
-&lt;p&gt;正如2017年一样，特朗普将在就职典礼前一天宣布多项行政命令，内容可能包括宣分类毒品帮派为外国恐怖组织，以及在美墨边境宣布紧急状态等。&lt;/p&gt;
-&lt;p&gt;据知情消息，另一项命令可能旨在废除拜登上台后实施的环保法规，并退出巴黎气候协定。&lt;/p&gt;
-&lt;p&gt;许多行政命令很可能会面临法律上的挑战。&lt;/p&gt;
-&lt;p&gt;特朗普将会成为美国历史上首位入主白宫的罪犯。纽约陪审团裁定，在向色情明星支付封口费的案件中，特朗普伪造商业记录以掩盖事实。他在宣判时未被判处任何刑罚，部分是因为法官承认对他即将成为的总统难以实施刑罚。&lt;/p&gt;
-&lt;p&gt;由于司法部对于在职总统不能被起诉的原则，特朗普已经免于受到两项联邦指控——图谋推翻2020年大选结果以及保留机密文件。&lt;/p&gt;
-&lt;p&gt;联邦特别检察官杰克·史密斯在上周发布的报告中指出，如果特朗普赢得审判的话，有足够的证据定责他在选举案件中的罪责。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img alt="美国当选总统唐纳德·特朗普在阿灵顿国家公墓参加花圈仪式" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C76F3MIOZFKZXL4LF2GCUIHZCQ.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-美国当选总统唐纳德·特朗普在阿灵顿国家公墓参加花圈仪式，位于美国弗吉尼亚州阿灵顿，2025年1月19日。REUTERS/Carlos Barria/文件照片
-&lt;/figcaption&gt;
+    &lt;img alt="戴布·泰西，奥斯汀·泰西的母亲坐在记者旁准备出席在大马士革的一场新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OIL7YUHMHVLPZAW34M4Y6DTSV4.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;戴布·泰西，奥斯汀·泰西的母亲坐在记者旁准备出席在大马士革的新闻发布会，2025年1月20日。路透社/亚玛姆·沙尔&lt;/i&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img alt="华盛顿特朗普就职典礼前的准备" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MX5XQLKALJM6FCASMOIJWTS7TA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-人们在华盛顿，美国即将出发担任总统的唐纳德·特朗普就职典礼前排队拍照。2025年1月18日。REUTERS/Marko Djurica
-&lt;/figcaption&gt;
-&lt;/figure&gt;
+    &lt;img alt="戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的一场新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HLFA7Q3UNNOPHEJOZRRQFTPLF4.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;戴布·泰西，奥斯汀·泰西的母亲出席在大马士革的新闻发布会，2025年1月20日。路透社/亚玛姆·沙尔&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:37:10 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/austin-tices-mother-hopeful-new-us-syria-administrations-will-help-find-him-2025-01-20/</guid></item><item><title>教宗方济各在信息中为特朗普祈求“智慧和力量”</title><link>https://www.reuters.com/world/pope-francis-message-offers-trump-prayers-wisdom-strength-2025-01-20/</link><description>&lt;p&gt;教宗方济各在周一向当选美国总统唐纳德·特朗普致以祝福，传统地在华盛顿举行的总统就职典礼前表达了他的良好祝愿。&lt;/p&gt;&lt;p&gt;教宗此前曾与特朗普的反移民言论公开对立，他祈祷上帝赐予特朗普“智慧、力量和保护”。教宗表示：“希望在美国人民的领导下，美国会繁荣发展，不断致力于构建一个更加公正的社会，在那里没有仇恨、歧视或排斥的空间。”&lt;/p&gt;&lt;p&gt;作为自2013年以来领导拥有14亿成员的天主教会的教宗，他近年来批评特朗普时语气异常强烈。&lt;/p&gt;&lt;p&gt;教宗的贺信出现在他周一早些时候明确表示特朗普计划加强移民执法行动将是“耻辱”的一天之后。&lt;/p&gt;&lt;p&gt;周日，教宗在接受意大利电视采访时指出，该计划将让没有资源的移民“偿还未付账单”。 &lt;/p&gt;&lt;p&gt;特朗普政府即将上任的官员在周六表示，美国总统当选人正重新考虑在上海等城市开展移民执法行动的计划，此前有媒体报道了该计划。&lt;/p&gt;&lt;p&gt;在2016年的竞选活动中，教宗曾表示特朗普因其移民政策“并非基督徒”。 &lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="华盛顿特区特朗普就职典礼前一天美国内阁集合展示西边”美国国会大厦建筑的照片" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H6NVXMSRCRKP5AP2Z5NVFKTYQQ.jpg" /&gt;
+&lt;img alt="教宗方济各在梵蒂冈保罗六世厅举行禧年集会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MCHGTBRVI5P47ITEY6S4WSCNGY.jpg" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-已经以白色为主调而照其实这些天有一天，在华盛顿，美国即将前往就职典礼就职的总统特朗普就职典礼前一天，展示的是美国国会大厦西边的景色，2025年1月19日。REUTERS/法比里兹·博恩斯
+&lt;i&gt;教宗方济各在梵蒂冈保罗六世厅举行禧年集会，2025年1月11日。路透社/Guglielmo Mangiapane/文件照&lt;/i&gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:21:54 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/pope-francis-message-offers-trump-prayers-wisdom-strength-2025-01-20/</guid></item><item><title>菲律宾逮捕一名涉嫌间谍活动的中国公民</title><link>https://www.reuters.com/world/asia-pacific/philippines-arrests-chinese-national-suspicion-espionage-2025-01-20/</link><description>&lt;p&gt;菲律宾执法部门逮捕了一名疑似从事间谍活动的中国公民，并在其 possession 中查获了被认为可用于军事实设施侦察的设备。&lt;/p&gt;
+&lt;p&gt;该嫌疑人名为邓远青，嫌疑人于周一与另外两名据称的菲律宾同伙一同被媒体公开。&lt;/p&gt;
+&lt;p&gt;调查人员表示，邓远青与位于中国东部江苏省南京市的中国人民解放军工程兵学院有关联。&lt;/p&gt;
+&lt;p&gt;菲律宾国家调查局局长杰米·萨 Little 安蒂表示，基于相关情报显示，该嫌疑人组是由菲律宾执法部门追踪的一伙人的一部分，他们抵达该国目的是对关键基础设施，包括军事设施进行监视。&lt;/p&gt;
+&lt;p&gt;菲律宾武装部队负责人罗马欧·布劳纳表示，该团伙访问的部分地点包括美军根据军事协议进入的站点。&lt;/p&gt;
+&lt;p&gt;“我们正在调查中国的整体间谍活动。”布劳纳在同一次新闻发布会上说。&lt;/p&gt;
+&lt;p&gt;在马尼拉的中国大使馆暂未对相关评论作出回复。&lt;/p&gt;
+&lt;p&gt;此次逮捕正值菲律宾对中国的活动产生越来越大的怀疑之际，包括中国海警和渔业民兵在中国专属经济区的行动。&lt;/p&gt;
+&lt;p&gt;两国在数个争议点上存在重叠主权声索，且在海事对峙中互相指责对方越界。&lt;/p&gt;
+&lt;p&gt;“我们扣押了他的车辆，车上安装了间谍设备。”萨 Little 安蒂在新闻发布会上表示，并补充说：“收集到的信息可能已被传输到中国。”&lt;/p&gt;
+&lt;p&gt;NBI 网络犯罪部门负责人杰里米·洛托克表示，根据护照复印件，邓远青至少已经在菲律宾停留五年。&lt;/p&gt;
+&lt;p&gt;“我们称他为‘卧底’（特务）。”他说。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 10:39:46 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-arrests-chinese-national-suspicion-espionage-2025-01-20/</guid></item><item><title>GFZ称菲律宾米尼罗地区发生5.6级地震</title><link>https://www.reuters.com/business/environment/magnitude-56-earthquake-strikes-mindoro-philippines-region-gfz-says-2025-01-20/</link><description>&lt;p&gt;德国研究地球科学中心（GFZ）报道，菲律宾民达卢岛发生里氏5.6级地震。&lt;/p&gt;
+&lt;p&gt;该地震深度为10公里（6.21英里），GFZ通报。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 10:56:44 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/business/environment/magnitude-56-earthquake-strikes-mindoro-philippines-region-gfz-says-2025-01-20/</guid></item><item><title>缅甸军方与少数民族武装团体达成停火协议，中国称</title><link>https://www.reuters.com/world/asia-pacific/myanmar-military-minority-armed-group-agree-ceasefire-china-says-2025-01-20/</link><description>&lt;p&gt;缅甸军方和缅甸全国民主联盟军（MNDAA）于上周六签署了一项正式停火协议，中国外交部宣布，这一协议将使两国边境附近的敌对行动暂停。&lt;/p&gt;
+&lt;p&gt;双方在云南省昆明市举行会谈，并感谢中国政府在推动和平进程方面所做的努力，外交部发言人毛宁在周一的例行新闻发布会上表示。&lt;/p&gt;
+&lt;p&gt;毛宁表示：“缓解缅甸北部局势不仅符合缅甸各方及本地区国家共同利益，也有助于中国与缅甸边境地区的安全、稳定与发展。”&lt;/p&gt;
+&lt;p&gt;中国将继续积极推动和平进程和对话，并为缅甸北部的和平进程提供支持与协助，毛宁说。&lt;/p&gt;
+&lt;p&gt;MNDAA是几个旨在抵御军事政权的少数民族武装组织之一，他们正在争取恢复对被视为其领土的地区控制权。&lt;/p&gt;
+&lt;p&gt;MNDAA是所谓的“三兄弟联盟”之一，该联盟与掸邦民族解放军和阿克尔军在2023年10月下旬发起了针对军事 junta 的攻势，并据报占领了靠近中国边境的大片领土。&lt;/p&gt;
+&lt;p&gt;MNDAA，由少数民族中国组成，去年7月声称已经占领靠近中缅边境的一个主要军事基地。&lt;/p&gt;
+&lt;p&gt;分析人士指出，中国对反对 junta 的力量的推进感到担忧，这些力量已经将军事力量赶出了关键的边境地区，并开始向中部城市 Mandalay 推进。&lt;/p&gt;
+&lt;p&gt;2021年2月，军方从缅甸的民选政府手中夺取了政权，导致该国陷入危机。&lt;/p&gt;
+&lt;p&gt;中国担心其与缅甸长达2000多公里的边境沿线可能出现的混乱会危及投资和贸易。&lt;/p&gt;
+&lt;p&gt;北京此前于2024年1月曾促成北方边境地区的停火协议，但几个月后该协议破裂。&lt;/p&gt;
+
 &lt;figure&gt;
-&lt;img alt="华盛顿特区特朗普即将就职典礼的美国白宫附近的商品" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7URCDHRGDVL57FAN6YOROEDB3I.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-华盛顿，特朗普即将就职，就职典礼前在距离白宫不远处的一家商店出售的商品。2025年2月18日。REUTERS/Marko Djurica
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;img alt="华盛顿当日之前就职典礼的提前演讲会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/O7KW43LMRFLKHC6HJOLOSEUNVA.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;
-2025年1月19日，在华盛顿举行的就职典礼前当地人们观看特斯拉的大写字母 “就职典礼” 特斯拉也在华盛顿举行。REUTERS/珍纳·蒙
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 06:04:45 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/triumphant-trump-returns-white-house-launching-new-era-upheaval-2025-01-20/</guid></item><item><title>缅甸军方与少数民族武装组织达成停火协议，中国称</title><link>https://www.reuters.com/world/asia-pacific/myanmar-military-minority-armed-group-agree-ceasefire-china-says-2025-01-20/</link><description>&lt;p&gt;缅甸军事当局与缅甸全国民主联盟军（MNDAA）签署了正式停火协议，该协议于星期六开始生效，中国外交部表示，此举停止了两国边境附近的战斗。&lt;/p&gt;
-&lt;p&gt;双方在中国西南部城市昆明进行了会谈，感谢北京在推动和平进程方面的努力，中国外交部发言人毛宁在周一的例行新闻发布会上说道。&lt;/p&gt;
-&lt;p&gt;“缓和地区局势符合缅甸各方以及本地区所有国家的共同利益，有助于增强中缅边境地区的安全、稳定与发展。”&lt;/p&gt;
-&lt;p&gt;中国将继续积极促进和平与对话，为缅甸北部的和平进程提供支持和协助，毛宁说。&lt;/p&gt;
-&lt;p&gt;MNDAA 是几个争取保卫认为是其领土的少数民族武装团体之一。&lt;/p&gt;
-&lt;p&gt;它是所谓的“三兄弟联盟”的一部分，其中包括塔昂民族解放军和若开军，这些武装团体于2023年10月底发起了针对军事独裁政权的攻势，夺取了靠近中国的大量领土。&lt;/p&gt;
-&lt;p&gt;MNDAA，由中国人族组成，去年7月宣称占领了中国边境附近的大型军事基地。&lt;/p&gt;
-&lt;p&gt;分析人士表示，中国对反军事独裁武装力量的推进感到担忧，这些武装力量已经将军事独裁政权赶出了重要边境地区，并开始向 Mandalay 这座中部城市挺进。&lt;/p&gt;
-&lt;p&gt;缅甸军方于2021年2月从民选政府手中夺取了政权，使国家陷入了危机。&lt;/p&gt;
-&lt;p&gt;中国担心其与缅甸长达2000多公里边境沿线的混乱将危及投资和贸易。&lt;/p&gt;
-&lt;p&gt;中国此前在2024年1月曾促成北部边境地区停火协议，但几个月后该协议便告破裂。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img alt="缅甸军事独裁政权首脑敏昂莱上将" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYMPHXTEFVK3DDKEVQ4WLOSPUU.jpg" style="width: 100%; height: auto;" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;2021年3月27日，敏昂莱上将在缅甸内比都出席武装部队日阅兵。2021年2月1日，他推翻了民选政府。路透社/路透图片/档案照&lt;/i&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 08:50:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/myanmar-military-minority-armed-group-agree-ceasefire-china-says-2025-01-20/</guid></item><item><title>菲律宾总统指控前任杜特地在预算问题上散布谎言</title><link>https://www.reuters.com/world/asia-pacific/philippines-president-accuses-predecessor-duterte-peddling-lies-over-budget-barb-2025-01-20/</link><description>&lt;p&gt;菲律宾总统费迪南德·马科斯· Jr. 在周一指责其前任罗德里戈·杜特尔特散布谎言，杜特尔特此前声称今年的国家预算无效。这一指责发生在前盟友未来中期选举之前的这段时间，两国关系陷入新的争端。相关内容参见 &lt;a href="https://www.reuters.com/world/asia-pacific/marcos-duterte-battle-focus-philippines-prepares-midterm-election-2024-10-01/"&gt;相关报道&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;杜特尔特家族与马科斯家族之间的联盟是在去年因为政策分歧和言语争斗而崩溃的。这些争斗还包括现任副总统萨拉·杜特尔特（时任总统的女儿），她曾声称若自己遇刺身亡，将雇佣杀手刺杀马科斯及其家人。她并未透露具体的人身威胁信息。相关内容参见 &lt;a href="https://www.reuters.com/world/asia-pacific/philippine-police-files-formal-complaint-against-vice-president-duterte-2024-11-27/"&gt;相关报道&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;去年，杜特尔特在YouTube上的一段播客中表示，国家预算无效，声称其中一些项目未得到资金支持，赋予马科斯较大的资金分配自由度。&lt;/p&gt;&lt;p&gt;对此，马科斯回应称，提交未经具体填写资金项目的预算草案是不允许的。&lt;/p&gt;&lt;p&gt;“他撒谎，因为他很清楚这种情况从来不会发生。”马科斯对记者说。&lt;/p&gt;&lt;p&gt;马科斯的行政秘书卢卡斯·伯萨敏表示，散布不实信息的来源是“不实和恶意的”，并称这种声称不实新闻“应被谴责为犯罪行为”。&lt;/p&gt;&lt;p&gt;罗德里戈·杜特尔特的代表未立即对记者提问作出回应。&lt;/p&gt;&lt;p&gt;马科斯于上月签署了一项6.33万亿菲律宾比索（约合1081.7亿美元）的2025年预算法案，预算比上一年增加10%。尽管预算已被批准，但在预算倡导者对教育领域削减预算以及健康计划补贴取消提出投诉后，审批过程拖延了超过一个星期。&lt;/p&gt;&lt;div class="auto-img"&gt;&lt;img alt="菲律宾前总统杜特尔特参加众议院四联委员会听证会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DWJL2VOHV5NFNG52SKYLRCO5RQ.jpg" /&gt;&lt;/div&gt;&lt;p&gt;&lt;i&gt;菲律宾前总统罗德里戈·杜特尔特在马尼拉大都会的奎松市出席众议院四联委员会听证会，该听证会调查其政府的反毒行动，摄于2024年11月13日。路透社/丽莎·玛丽·大卫/文件照片&lt;/i&gt;&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 11:31:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-president-accuses-predecessor-duterte-peddling-lies-over-budget-barb-2025-01-20/</guid></item><item><title>特朗普 presidency 任期 将 帮助 欧洲 爱国者 “ 占据 ” 布鲁塞尔 ， PM  欧尔班 说</title><link>https://www.reuters.com/world/trumps-presidency-will-help-european-patriots-occupy-brussels-pm-orban-says-2025-01-20/</link><description>&lt;p&gt;匈牙利总理托克松·奥尔班在周一的一次演讲中表示，唐纳德·特朗普在美国的总统任期将推动欧洲第二次大规模右翼政治变革。“仅仅几个小时后，布鲁塞尔的情景就会大为改观。新的美国总统上任，布鲁塞尔将汇聚大量的爱国者，充满热情。”奥尔班在一次会议上发表讲话时说，“因此，伟大的攻势可以开始了。在这里，我宣布正式启动旨在占领布鲁塞尔的第二阶段攻势。”&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="欧盟理事会轮值主席国国会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7PJXCADWYVLV7HR3OBHM37OJUY.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;匈牙利总理托克松·奥尔班在布达佩斯举行的一次关于该国担任欧盟理事会轮值主席国的会议上发言，日期为2025年1月20日。新华社/马丁·蒙纳斯&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="欧盟理事会轮值主席国国会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BORSDEUJERN4JICAFOUNW5XIRQ.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;匈牙利总理托克松·奥尔班在布达佩斯举行的一次关于该国担任欧盟理事会轮值主席国的会议上发言，日期为2025年1月20日。新华社/马丁·蒙纳斯&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img alt="匈牙利总理奥尔班召开国际记者招待会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WMHLFO2HFZLA7OR7DADTBYYTVQ.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;匈牙利总理托克松·奥尔班在布达佩斯举行的一次国际记者招待会上发言，日期为2024年12月21日。新华社/贝拉德·绍博/文件照片&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 10:38:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/trumps-presidency-will-help-european-patriots-occupy-brussels-pm-orban-says-2025-01-20/</guid></item><item><title>印度消息人士称，印度在基础设施建设中将重点从道路运输转向铁路。</title><link>https://www.reuters.com/world/india/india-shift-focus-railways-road-transport-infrastructure-push-say-sources-2025-01-20/</link><description>&lt;p&gt;印度政府将在即将公布的联邦预算中增加对铁路现代化的投资，同时小幅提高公路建设的支出，两名政府消息人士表示。&lt;/p&gt;
-&lt;p&gt;由于新冠疫情，印度总理纳伦德拉·莫迪政府已加大对基础设施的投资，特别是公路网络，以推动经济增长。然而，执行挑战可能导致政府将重点转向铁路，消息人士表示。&lt;/p&gt;
-&lt;p&gt;财政部长尼尔玛拉·西塔拉曼将于2月1日公布2025/26财政年度的预算。&lt;/p&gt;
-&lt;p&gt;消息人士要求匿名，因为他们无权就预算讨论发表意见。&lt;/p&gt;
-&lt;p&gt;印度的财政、交通和铁路部门未对此作出回应。&lt;/p&gt;
-&lt;p&gt;政府消息人士称，铁路部门的预算拨款可能在2025/26财年增至2.9万亿至3万亿印度卢比（约合335亿至347亿美元），高于之前的2.55万亿印度卢比。&lt;/p&gt;
-&lt;p&gt;这笔增加的资金将用于支持国营印度铁路公司超过68,000公里铁路线的扩展，以及到2027年3月底之前增加400列高速Vande Bharat列车的目标，政府消息人士表示，还将用于提升铁路货运。&lt;/p&gt;
-&lt;p&gt;据政府消息人士透露，交通部的预算可能小幅增长至约2.9万亿印度卢比（约合347亿美元），预算增幅在3%至4%，而过去十年其总支出已增长了六倍多。&lt;/p&gt;
-&lt;p&gt;在此期间，印度的道路网络扩展了近60%，超过14.6万公里。&lt;/p&gt;
-&lt;p&gt;考虑到支出上限和新项目用地获取方面的挑战，该部对3%至4%的预算增幅感到满意。官方表示，政府也注重通过内部资源筹集资金。&lt;/p&gt;
-&lt;p&gt;政策制定者对交通部支出下降表示担忧，部分原因是去年全国和地方选举导致项目延误。&lt;/p&gt;
-&lt;p&gt;截至2022年11月，交通部在财年前八个月仅支出了全年预算的54%，而铁路部门的支出比例为76%。&lt;/p&gt;
-&lt;p&gt;政府消息人士称，交通部计划通过向私营企业出售收费权和资产证券化来筹集额外资金，旨在每年筹集1000亿印度卢比，以部分资助未来几年建设5万公里高速道路网络的计划。&lt;/p&gt;
+    &lt;img alt="缅甸junta首领敏昂莱上将" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYMPHXTEFVK3DDKEVQ4WLOSPUU.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;缅甸junta首领敏昂莱上将，在2021年3月27日在缅甸内比都举行的武装部队节阅兵仪式上主持阅兵仪式，敏昂莱上将于2月1日在政变中推翻了民选政府。图片来自路透社/商业照片文件&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 08:50:34 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/myanmar-military-minority-armed-group-agree-ceasefire-china-says-2025-01-20/</guid></item><item><title>印度将在基础设施建设重点转向铁路，消息人士称</title><link>https://www.reuters.com/world/india/india-shift-focus-railways-road-transport-infrastructure-push-say-sources-2025-01-20/</link><description>&lt;p&gt;印度将在即将发布的联邦预算中增加铁路现代化的资金支出，并小幅提高道路建设的资金分配，两位政府消息人士如是说。&lt;/p&gt;
+&lt;p&gt;自新冠疫情以来，印度总理 Narendra Modi 的政府已经大幅增加了基础设施支出，特别是在道路网络方面，以推动经济增长，但由于实施挑战的存在，政府可能会将重点转向铁路建设。&lt;/p&gt;
+&lt;p&gt;财政部长 Nirmala Sitharaman 将于2月1日宣布2025/26年的预算。&lt;/p&gt;
+&lt;p&gt;上述消息人士要求匿名，因为他们未经授权可向媒体披露预算讨论的信息。&lt;/p&gt;
+&lt;p&gt;印度的财政、交通和铁路部均未对寻求评论的电子邮件作出回应。&lt;/p&gt;
+&lt;p&gt;一位政府消息人士透露，铁路部的预算分配可能在2025/26财政年度增加至2.9万亿至3万亿卢比（约335亿至347亿美元）之间，高于2024/25财政年度的2.55万亿卢比。&lt;/p&gt;
+&lt;p&gt;这笔增加的资金将用于资助国营印度铁路公司超过6.8万公里线路的扩建，并实现到2027年3月底前新增400列高速普铁 Vande Bharat 列车的目标，以及提升铁路货运能力。&lt;/p&gt;
+&lt;p&gt;交通部预计在其预算中增加3%至4%的资金至约2.9万亿卢比（约347亿美元），有参与预算讨论的消息人士指出，尽管过去十年其总支出大幅增加了六倍。&lt;/p&gt;
+&lt;p&gt;自该时期以来，印度已将其道路网络扩展了近60%，超过14.6万公里。&lt;/p&gt;
+&lt;p&gt;鉴于支出限制和新项目开发的土地征用挑战，该部对3%至4%的预算增长感到满意，业内人士表示，重点也会放在通过内部资源筹集资金上。&lt;/p&gt;
+&lt;p&gt;政策制定者表示，对交通部减少支出的担忧部分是因为上一年度全国和各州选举造成的项目延期。&lt;/p&gt;
+&lt;p&gt;政府支出数据显示，截至2022年11月的前八个月，交通部只花费了其全年预算的54%，而铁路部的这一比例为76%。&lt;/p&gt;
+&lt;p&gt;交通部计划通过出售费用收取权给私营企业，并将道路资产资本化来筹措额外资金。该部门预计每年能够筹集高达1万亿卢比，以部分资助未来几年建造5万公里高速公路网络的计划，据一位消息人士透露。&lt;/p&gt;
 &lt;p&gt;（1美元约合86.5170印度卢比）&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="The Wider Image: The Indian children who take a train to collect water" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XWAMZQR7QJMUBN23CH7BOTKLCI.jpg"/&gt;
+    &lt;img alt="印度儿童乘火车收集水源" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XWAMZQR7QJMUBN23CH7BOTKLCI.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;2019年8月2日，印度奥兰加巴德市穆库姆瓦迪火车站的一列火车。路透社/弗朗西斯·马卡瑞纳斯/资料照片&lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:13:26 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/india-shift-focus-railways-road-transport-infrastructure-push-say-sources-2025-01-20/</guid></item><item><title>特朗普凯旋重返白宫，开启剧变新时代</title><link>https://www.reuters.com/world/us/triumphant-trump-returns-white-house-launching-new-era-upheaval-2025-01-20/</link><description>&lt;p&gt;&lt;a href="https://www.reuters.com/world/us/donald-trump/"&gt;唐纳德·特朗普&lt;/a&gt;将于周一宣誓就任美国总统，开启其另一段动荡的四年任期，承诺将扩大行政权力、遣返数百万移民、为政治对手复仇，并重新定义美国在全球舞台的角色。&lt;/p&gt;
+
+&lt;p&gt;特朗普的就职典礼标志着一名政治搅局者完成了令人惊叹的东山再起，这一进程持续了两次弹劾案、一项重罪指控、两次行刺企图和两次针对他2020年总统选举失利的起诉。&lt;/p&gt;
+
+&lt;p&gt;就职典礼将于中午（格林尼治标准时间1700时）在美利坚国会大楼圆形大厅举行。这个地点在四年前曾被特朗普支持者突破，当时他们试图延缓共和党总统特朗普在与民主党乔·拜登的总统选举中失利。由于极端低温，宣誓仪式首次在室内举行，距特朗普上次的就职典礼已有四年之久。&lt;/p&gt;
+
+&lt;p&gt;作为自19世纪以来首位连任失败再获胜的美国总统，特朗普曾表示将在就任首日赦免超过1,500名与2021年1月6日袭击事件相关的嫌疑人。&lt;/p&gt;
+
+&lt;p&gt;这一承诺是他计划签署的一系列涉及移民、能源和关税等行政命令中的一部分。上周日，他在华盛顿的一次竞选集会上誓言他将在就任首日实施严厉的移民限制措施。&lt;/p&gt;
+
+&lt;p&gt;特朗普再次以混乱和破坏性的方式进入白宫，承诺重塑联邦政府，并对塑造二战后全球政治格局的以美国为主导的联盟持有深深的怀疑态度。&lt;/p&gt;
+
+&lt;p&gt;作为胜选美国总统的唯一一位在任期内非连续当选的总统，此前特朗普并未经历众多分歧，并且他赢得的全国普选票数比副总统卡玛拉·哈里斯多出超200万票。尽管他并未获得50%以上的选民支持。2016年，尽管特朗普获得了近300万张选民票，但他在选举人团中胜出并当选总统。&lt;/p&gt;
+
+&lt;p&gt;德里米·苏里，得克萨斯大学奥斯汀分校的历史学家将当前时期比作19世纪末，当时虽然格罗弗·克利夫兰成为唯一一位非连任成功的总统。他说，那是一个动荡的时代，当时的工业化进步改变了经济，财富不平等迅速激增，美国移民人口占比达到历史高峰。&lt;/p&gt;
+
+&lt;p&gt;“我们实际要讨论的是一种全新经济模式，是一种在种族、性别和社会构成方面的全新国家，我们国家正试图理解这意味着什么，”他说道。“这是一个决定性时刻。”&lt;/p&gt;
+
+&lt;p&gt;特朗普将继续享有在国会中占据绝对优势的共和党成员，这些成员几乎已经清除了党内所有不一致的声音。他的顾问们已经提出了计划，将中立的公务员替换为他们亲自挑选的忠实追随者。&lt;/p&gt;
+
+&lt;p&gt;就在上任之前，特朗普在胜选后不久便建立起一个与其对立的力量中心，会见世界领导人，并以尝试掠夺巴拿马运河、控制北约盟友丹麦的格陵兰岛领土和对包括中国在内的美国最大贸易伙伴征收关税为由，在国际舆论中引起一片震惊。&lt;/p&gt;
+
+&lt;p&gt;他的影响力已经在上周以色列和哈马斯在多哈签署停火协议时得到了体现。特朗普的特使参加了谈判，当时他威胁称，如果哈马斯在就职典礼前不释放人质，就会面临“地狱般的后果”。&lt;/p&gt;
+
+&lt;p&gt;特朗普曾在竞选中声称他会结束俄罗斯与乌克兰之间的战争，在上任首日就会。但他的顾问们已经公开承认，任何和平协议可能需要数月时间才能达成。&lt;/p&gt;
+
+&lt;p&gt;特朗普并没有像2017年那样选择让多名高官进入政府机构，而是优先考虑忠诚度而非经验，提名了一大批充满争议的内阁成员，其中一些人对所领导的机构持有强烈的批评态度。&lt;/p&gt;
+
+&lt;p&gt;他高级顾问中的其中一位，世界首富埃隆·马斯克，花钱超过250亿美元帮助特朗普2024年赢得大选。亚马逊创始人杰夫·贝佐斯、社交媒体平台Meta的马克·扎克伯格、谷歌母公司Alphabet的桑达尔·皮查伊和苹果公司的蒂姆·库克等亿万富翁企业家也将在周一的仪式上出席。&lt;/p&gt;
+
+&lt;p&gt;特朗普周日表示，他将于周五访问受灾的洛杉矶县。&lt;/p&gt;
+
+&lt;p&gt;出于安全考虑，尽管此前的竞选活动强调政治暴力有所增加，包括特朗普两次行刺企图，上任就职礼仍将严格保持安全防护措施。2025年1月1日，美国军事 veterans 纳入极伊斯兰主义组织的行刺者驱车冲撞庆祝游行的人群，造成14人死亡。此前，联邦调查局警告可能存在模仿攻击。 &lt;/p&gt;
+
+&lt;p&gt;八年前，特朗普在其就职演说中明确表示想要终结“美国的劫难”——犯罪猖獗的城市和宽松的边境。他当时改变了大多新当选总统乐观的谈话风格。&lt;/p&gt;
+
+&lt;p&gt;特朗普在竞选期间使用了具有煽动性的语言，因此，外国政府也将密切关注他本周一的就职演说基调。&lt;/p&gt;
+
+&lt;p&gt;传统的沿宾夕法尼亚大道游行将移至国会穹顶校区的卡普兰资本航空中心举行，特朗普上周日在此举办了他的竞选集会。晚饭时特朗普还将参加三场就职舞会。&lt;/p&gt;
+
+&lt;p&gt;就在这一天的喧嚣盛事中，特朗普将开始签署一系列可能会有数十项的行政命令。&lt;/p&gt;
+
+&lt;p&gt;一些措施将收紧移民规则，其中包括将毒品走私团伙列为“外国恐怖组织”、宣布美墨边境的紧急状态等，知情人士透露。其他可能的命令包括取消拜登的环境保护规定，退出巴黎气候协议等。&lt;/p&gt;
+
+&lt;p&gt;许多行政命令可能面临法律挑战。&lt;/p&gt;
+
+&lt;p&gt;特朗普将成为首位入住白宫的有罪犯，此前他曾因恶性虚假商业记录案被纽约陪审团裁定有罪。然而他在随后宣判时获免受处罚，部分原因是法官认为对即将就职的总统进行处罚在实践中不可能实现。&lt;/p&gt;
+
+&lt;p&gt;赢得选举使特朗普摆脱了两项联邦起诉——企图推翻2020年总统选举结果和保留机密文件——因为司法部政策规定，总统在任期间不得被起诉。&lt;/p&gt;
+
+&lt;p&gt;前特别检察官杰克·史密斯上周发布的一份报告显示，如果特朗普能够在审判中被传唤，有足够的证据使其在选举案中受到审判。&lt;/p&gt;
+
+&lt;figure&gt;&lt;img alt="美国当选总统唐纳德·特朗普参加阿灵顿国家公墓的敬献花圈仪式" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C76F3MIOZFKZXL4LF2GCUIHZCQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;美国当选总统唐纳德·特朗普参加阿灵顿国家公墓的敬献花圈仪式，此仪式为其即将举行的总统就职典礼做准备。该仪式于2025年1月19日在美国弗吉尼亚州阿灵顿举行，路透社/卡尔洛斯·巴利亚/档案照&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="特朗普即将成为美国总统的就职典礼前的准备工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MX5XQLKALJM6FCASMOIJWTS7TA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;一张照片展示的是华盛顿，为美国当选总统唐纳德·特朗普即将举行的总统就职典礼，华盛顿民众在白宫前合影留念。该仪式于2025年1月18日举行，路透社/玛尔科·杜吉卡&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="冬季来临的华盛顿，美国国会大厦西面的全景" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/H6NVXMSRCRKP5AP2Z5NVFKTYQQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;美国华盛顿特区，就在美国总统唐纳德·特朗普即将宣誓就职的前一天，美国国会大厦西面有灯光照明，照片摄于2025年1月19日。路透社/法比里兹奥·本斯&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="特朗普即将成为美国总统的就职典礼前的准备工作" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7URCDHRGDVL57FAN6YOROEDB3I.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;华盛顿，距离白宫不远的一家店铺中，即将出售的纪念品，这都是为特朗普即将进行的总统就职典礼准备的。照片摄于2025年1月18日，路透社/玛尔科·杜吉卡&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img alt="特朗普即将进行的第二次总统就职典礼前夜，民众关注屏幕上的画像" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/O7KW43LMRFLKHC6HJOLOSEUNVA.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;华盛顿，距离特朗普因此进行的第二次总统就职典礼19日的前一天，民众正在观看屏幕上的人物画像。路透社/珍娜·沐恩&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 06:04:45 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/us/triumphant-trump-returns-white-house-launching-new-era-upheaval-2025-01-20/</guid></item><item><title>菲律宾总统指责前总统杜特尔特在预算问题上散布谎言</title><link>https://www.reuters.com/world/asia-pacific/philippines-president-accuses-predecessor-duterte-peddling-lies-over-budget-barb-2025-01-20/</link><description>菲律宾总统费迪南德·马科斯·JR周一指责其前任罗德里戈·杜特尔特散布谎言。杜特尔特此前宣称当年的国家预算无效，这使得这对昔日盟友之间的争端再次升级，正值即将举行的中期选举。&lt;a href="https://www.reuters.com/world/asia-pacific/marcos-duterte-battle-focus-philippines-prepares-midterm-election-2024-10-01/"&gt;中期选举临近之际&lt;/a&gt;，他们之间的矛盾再次尖锐。
+
+马克索斯家族和杜特尔特家族之间的联盟因政策分歧和言语之争 &lt;a href="https://www.reuters.com/world/asia-pacific/open-warfare-philippines-marcos-duterte-alliance-crumbles-2024-02-02/"&gt;于去年瓦解&lt;/a&gt;。杜特尔特的前总统女儿莎拉·杜特尔特曾声称自己雇用了一名刺客，如果她自己被杀，就将刺杀马克索斯及其妻子和堂表兄弟。但她并未透露具体威胁。
+
+不久前，在一段播出的YouTube视频中，年长的杜特尔特声称当下的国家预算无效，声称部分项目未获得资金支持，以便让马克索斯轻松分配资金。
+
+对此，马克索斯回应说，有空白条目的预算案是不被允许的。
+
+“他撒谎是因为他心里很清楚预算案中不能有空白条目，”马克索斯对记者说。
+
+他的行政秘书卢卡斯·贝萨明表示，“这些不实信息来自误导和恶意来源，应当予以谴责，被视为犯罪行为。”
+
+据报道，杜特尔特方面未能立即回应评论请求。
+
+马克索斯上月签署了一项6.33万亿菲律宾比索（约1081.7亿美元）的2025年预算案，比上一年度的支出计划提高了10%。&lt;a href="https://www.reuters.com/world/asia-pacific/philippines-marcos-signs-into-law-record-109-bln-budget-2025-2024-12-30/"&gt;此前，该预算案因教育领域的开支削减和政府健康项目补贴的取消，其批准被推迟了超过一周&lt;/a&gt;。
+
+(1美元 = 58.5170菲律宾比索)
+
+&lt;figure&gt;
+&lt;img alt="前菲律宾总统罗德里戈·杜特尔特出席众议院四委员会听证会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DWJL2VOHV5NFNG52SKYLRCO5RQ.jpg" /&gt;
 &lt;figcaption style="text-align: center;"&gt;
-&lt;em&gt;2019年8月2日，印度奥兰加巴德，一趟火车驶过穆科纽迪亚铁路站。路透社/弗朗西斯·马萨雷纳斯/文件照片&lt;/em&gt;
+&lt;em&gt;
+前菲律宾总统罗德里戈·杜特尔特出席众议院四委员会听证会，调查其政府的反毒战争，地点在菲律宾马尼拉大都会区的奎松城众议院。Reuters/Lisa Marie David/档案照
+&lt;/em&gt;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:13:26 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/india/india-shift-focus-railways-road-transport-infrastructure-push-say-sources-2025-01-20/</guid></item><item><title>民意调查显示，德国 TikTokers 更喜欢中国和俄罗斯</title><link>https://www.reuters.com/world/europe/german-tiktokers-like-china-russia-more-poll-shows-2025-01-20/</link><description>&lt;p&gt;通过抖音获取新闻的德国人更不认为中国是独裁国家，对俄罗斯入侵乌克兰的批评较少，更怀疑气候变化和疫苗的有效性，相比之下，其他媒体的消费者则不然。&lt;/p&gt;
-&lt;p&gt;一项由德国自由民主党（一个亲商自由派基金会）委托的艾伦萨布赫（Allensbach）民意调查显示，唯一与抖音用户相近的相信阴谋论倾向的平台用户是推特（X平台）。这一发现正值美国关于是否应执行因国家安全原因关闭中国拥有的应用的法律的辩论进行时，民意调查为那些认为该平台传播虚假信息、可能削弱多元化民主的人提供了支持。&lt;/p&gt;
-&lt;p&gt;最近的地方和欧洲议会选举表明，作为视频分享平台的最大用户，年轻人特别可能支持极右翼政党“德国选项党”（AfD），该党目前在德国2月23日的选举民调中居于第二。&lt;/p&gt;
-&lt;p&gt;2024年底进行的这项针对2000人的调查显示，传统媒体消费者更有可能认为俄罗斯入侵乌克兰是非法的，并相信德国应支持基辅（Kyiv），这是“德国选项党”反对的观点。&lt;/p&gt;
-&lt;p&gt;抖音的母公司字节跳动（ByteDance）暂未对此次调查作出回应。&lt;/p&gt;
-&lt;p&gt;研究人员认为，外国势力，尤其是俄罗斯，正在积极在受欢迎的社交媒体平台上散播虚假信息，以推进其议程，这一现象最近在罗马尼亚最明显，一项社交媒体活动帮助一名亲俄的候选人赢得总统选举，该选举后来被取消。&lt;/p&gt;
-&lt;p&gt;虽然57%的德国报纸读者和56.5%的公共电视台观众完全同意中国是独裁国家的看法，但只有28.1%的从抖音获取新闻的用户同意此观点。推特（X）、YouTube用户和播客居于二者之间。&lt;/p&gt;
-&lt;p&gt;相对于40.2%的全国性报纸读者完全同意西方应支持乌克兰抗击俄罗斯入侵的观点，只有13.6%的抖音用户和29.8%的推特用户同意这一观点。调查没有探讨这些观点差异是由于平台提供的信息差异，还是因为用户本身在公共事务上有不同的看法。&lt;/p&gt;
-&lt;p&gt;但29岁以下的年轻用户，作为抖音的最大用户，更可能受到其信息环境的影响：只有71%的29岁以下的人相信疫苗拯救了数百万人的生命，这一比例在抖音用户中跌至69%。&lt;/p&gt;
-&lt;p&gt;相较传统媒体的消费者，抖音用户更不相信中国和俄罗斯散播虚假信息，更相信德国政府在散布虚假信息。&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;“年轻人对信息的脆弱性更大，而抖音起着决定性作用。”负责此次调查的基金会副主席萨宾娜· 雷斯勒-施奈伦贝格尔表示，“我们不能允许中国和俄罗斯的虚假信息在我们中间传播。”&lt;/i&gt;&lt;/p&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:31:27 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-president-accuses-predecessor-duterte-peddling-lies-over-budget-barb-2025-01-20/</guid></item><item><title>特朗普政府将帮助欧洲爱国者“入驻”布鲁塞尔，奥班总理表示</title><link>https://www.reuters.com/world/trumps-presidency-will-help-european-patriots-occupy-brussels-pm-orban-says-2025-01-20/</link><description>&lt;p&gt;匈牙利总理维克托·奥班周一表示，唐纳德·特朗普在美国担任总统将有助于引发欧洲右翼政治变革的第二波浪潮，并声称将发起“占领布鲁塞尔”的攻势。&lt;/p&gt;
+&lt;p&gt;“仅几个小时后，布鲁塞尔的情势就会大为改观。美国新一任总统就任、布鲁塞尔推行爱国者政策的派别不断壮大，人们对前景充满期待。因此，伟大的攻势可以开始了。在此，我宣布第二阶段的攻势，旨在‘占领’布鲁塞尔。”奥托认为。&lt;/p&gt;
+    
+&lt;figure&gt;&lt;img alt="关于该国担任欧洲理事会主席国的会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7PJXCADWYVLV7HR3OBHM37OJUY.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;匈牙利总理维克托·奥托认为该国担任欧洲理事会主席国的会议在布达佩斯举行，2025年1月20日。路透社/马尔通·门努斯&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="关于该国担任欧洲理事会主席国的会议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BORSDEUJERN4JICAFOUNW5XIRQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;匈牙利总理维克托·奥托认为该国担任欧洲理事会主席国的会议在布达佩斯举行，2025年1月20日。路透社/马尔通·门努斯&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt="匈牙利总理维克托·奥托尔举行国际新闻发布会" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WMHLFO2HFZLA7OR7DADTBYYTVQ.jpg" /&gt; 	 &lt;figcaption style="text-align: center;"&gt;匈牙利总理维克托·奥托认为在布达佩斯举行的国际新闻发布会，2024年12月21日。路透社/伯纳德特·萨博（文件照）&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 10:38:16 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/trumps-presidency-will-help-european-patriots-occupy-brussels-pm-orban-says-2025-01-20/</guid></item><item><title>民意调查显示，德国TikTokers更喜欢中国和俄罗斯</title><link>https://www.reuters.com/world/europe/german-tiktokers-like-china-russia-more-poll-shows-2025-01-20/</link><description>&lt;p&gt;通过TikTok获取新闻的德国人更少认为中国是独裁国家，对俄罗斯入侵乌克兰持批评态度的概率更低，而且更怀疑气候变化和疫苗的有效性，这与通过其他媒体获取新闻的消费者相比。&lt;/p&gt;
+&lt;p&gt;根据德国自由民主党所属基金会与Allensbach联合进行的民调显示，仅有特斯拉创始人推特平台X的用户与TikTok用户在相信阴谋论的态度上相近。这项民调进行于2024年底，恰逢美国关于是否应执行基于国家安全理由关闭中国拥有的应用程序的相关法律的争论而备受关注。&lt;/p&gt;
+&lt;p&gt;民调显示了平台传播虚假信息的风险，这可能削弱民主的多样性。近期的地方和欧洲议会选举表明，作为视频分享平台的重度用户，许多年轻人特别倾向于支持德国另类选择党（AfD），该党现已成为2023年2月23日德国大选前多项民调中的第二大党。&lt;/p&gt;
+&lt;p&gt;该民调显示，在2024年底结束时进行的调查中，传统媒体的使用者更有可能认为俄罗斯入侵乌克兰是非法的，且相信德国应当支持基辅，而AfD反对这种看法。&lt;/p&gt;
+&lt;p&gt;属于中国字节跳牙的TikTok的母公司未立即对该调查做出回应。&lt;/p&gt;
+&lt;p&gt;研究人员警告称，外国势力，尤其是俄罗斯，正在积极在其受欢迎的社交媒体平台上散播虚假信息，以追求其议程，这种情况此前还出现在罗马尼亚，一个社交媒体运动帮助一名亲俄派候选人以令人震惊的胜利赢得了总统大选，该次大选结果随后被否决。&lt;/p&gt;
+&lt;p&gt;在阅读报纸和公共电视台观看者中，支持中国是独裁国家的受访者比例分别为57%和56.5%，而来自TikTok的用户这一比例仅为28.1%。来自X平台、YouTube和播客的用户则在两者之间。&lt;/p&gt;
+&lt;p&gt;认为重要的是西方对俄罗斯入侵乌克兰采取支持态度的支持者中，报纸读者的比例为40.2%，而来自TikTok的用户这一比例仅为13.6%，X平台用户为29.8%。调查并未涉及这些截然不同的观点是否是因为平台上提供的信息本身，还是由于其用户已经持有不同的公共事务观点。&lt;/p&gt;
+&lt;p&gt;但据TikTok用户群体——29岁以下人群而言，他们更易受到其信息环境的影响：29岁以下人群中有71%相信疫苗拯救了数百万人的生命，而TikTok用户这一比例则降至69%。&lt;/p&gt;
+&lt;p&gt;相比传统媒体的消费者，TikTok用户更少认为中国和俄罗斯传播虚假信息，更可能相信德国政府在传播虚假信息。&lt;/p&gt;
+&lt;p&gt;“年轻人更容易受到信息影响，TikTok起到了决定性作用，”基金会联合主席Sabine Leutheusser-Schnarrenberger表示，“我们必须防止来自中国和俄罗斯的虚假信息在我们中间扩散。”&lt;/p&gt;
+&lt;figure&gt;&lt;img alt="Illustration shows TikTok app logo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ODSRO4VF5ZONNKRWJH33LTNJFM.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;TikTok应用标识图，图片来源于2022年8月22日的路透社，由Dado Ruvic/Illustration/File Photo提供。&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:08:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/german-tiktokers-like-china-russia-more-poll-shows-2025-01-20/</guid></item><item><title>也门胡塞武装表示，他们只会在加沙停火后针对与以色列有关的船只</title><link>https://www.reuters.com/world/middle-east/yemens-houthis-will-target-only-israel-linked-vessels-after-gaza-ceasefire-says-2025-01-20/</link><description>&lt;p&gt;也门胡塞组织在加沙停火生效后，将仅针对以色列关联船只发动袭击，根据也门红十字会协调中心的说法。&lt;/p&gt;
+&lt;p&gt;该协调中心负责与胡塞武装力量和商业航运运营商联络，其在1月19日发送给航运业官员的电子邮件中表示，他们将停止对美国或英国个人及实体所有船只，以及悬挂其船旗船只的“制裁”。&lt;/p&gt;
+&lt;p&gt;该邮件还声明：“如果美英等国对共和国也门发起进攻，我们将重新对进攻方实施‘制裁’。有关措施将第一时间通知各方。”&lt;/p&gt;
+&lt;p&gt;胡塞武装表示，将在所有协议条款全面执行后停止针对以色列关联船只的袭击。&lt;/p&gt;
+&lt;p&gt;许多全球顶级航运公司已暂停通过红海的运输业务，并将船只绕道非洲南部以避免袭击。&lt;/p&gt;
+&lt;p&gt;自2023年11月以来，伊朗支持的胡塞武装已对红海中的商船发动了超过100次袭击，击沉了两艘船只，扣押了另一艘，并导致至少四名船员丧生。&lt;/p&gt;
+&lt;p&gt;胡塞武装将红海南部和索马尔湾作为袭击目标，这两片海域通过狭窄的曼德海峡相连，是非洲之角和中东之间的咽喉要道。&lt;/p&gt;
+&lt;p&gt;哈马斯在加沙地区释放了三名以色列人质，以色列则在周日释放了90名巴勒斯坦囚犯，这是为期15个月战争停战的第一天，战争已使加沙地带陷入一片废墟，并加剧了中东地区的紧张局势。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img alt="Illustration shows TikTok app logo" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ODSRO4VF5ZONNKRWJH33LTNJFM.jpg" /&gt;
-&lt;figcaption style="text-align: center;"&gt;抖音app标志的插图，图源：2022年8月22日，路透社/Dado Ruvic/插图/文件照片&lt;/figcaption&gt;
-&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 11:08:37 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/europe/german-tiktokers-like-china-russia-more-poll-shows-2025-01-20/</guid></item><item><title>也门胡塞武装表示，他们只会在加沙停火后针对与以色列有关的船只</title><link>https://www.reuters.com/world/middle-east/yemens-houthis-will-target-only-israel-linked-vessels-after-gaza-ceasefire-says-2025-01-20/</link><description>&lt;p&gt;也门胡塞武装将在驶往加沙停火生效后的以色列相关船只以外的商业船只上限制其攻击行为，据也门的人道主义操作协调中心（HOCC）报道。&lt;/p&gt;
-&lt;p&gt;该协调中心负责胡塞武装力量与商业航运运营商之间的沟通，通过电子邮件于1月19日向航运业官员发送的邮件中表示，将停止对美国或英国公民或实体拥有或运营的船只实施“制裁”措施。&lt;/p&gt;
-&lt;p&gt;邮件中指出：“我们重申，在美国或英国对也门共和国发动任何形式的侵略行动时，我们将恢复对侵略者的制裁措施。任何此类措施的实施都会立即通知您。”&lt;/p&gt;
-&lt;p&gt;该协调中心表示，将在停火协议的全部实施阶段后停止针对以色列相关船只的攻击活动。&lt;/p&gt;
-&lt;p&gt;许多全球主要的航运公司已暂停经红海的航线，并绕行非洲南部以避开攻击。&lt;/p&gt;
-&lt;p&gt;伊朗支持的胡塞武装自2023年11月以来已对船只进行了超过100次攻击，其中包括击沉两艘船只、扣押另一艘船只，并造成至少四名海员丧生。&lt;/p&gt;
-&lt;p&gt;胡塞武装还针对亚丁湾南部和霍尔木兹海峡周边的海域，这些海域通过狭窄的曼德海峡相连，这里是非洲之角和中东之间的咽喉要道。&lt;/p&gt;
-&lt;p&gt;哈马斯在加沙释放了三名以色列人质，以色列放出了90名巴勒斯坦囚犯，这是长达一年半的战争停火的第一天。该停火结束了对加沙地带的破坏，也激化了中东地区的紧张局势。&lt;/p&gt;</description><pubDate>Mon, 20 Jan 2025 10:29:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/yemens-houthis-will-target-only-israel-linked-vessels-after-gaza-ceasefire-says-2025-01-20/</guid></item><item><title>中国节俭的年轻人加速储蓄，加剧经济风险</title><link>https://www.reuters.com/world/china/chinas-frugal-young-adults-accelerate-saving-raising-economic-risks-2025-01-20/</link><description>&lt;p&gt;节俭风潮始于中国疫情期间的经济动荡，并在房地产市场危机期间进一步加深。随着Z世代无视政府鼓励消费的呼吁，而是加倍储蓄，这一趋势正在加剧。&lt;/p&gt;
-&lt;p&gt;在中国的Instagram类似平台小红书上，许多不到30岁的用户分享了如何在工作午餐上节省开支及廉价购物的心得。&lt;/p&gt;
-&lt;p&gt;影响力人物也分享了将财务管理转变为生活方式的技巧。在小红书上，关于如何节省开支的帖子总数超过150万篇，浏览量超过1.3亿。&lt;/p&gt;
-&lt;p&gt;“感觉经济状况不太好，大家赚钱都不容易，所以我觉得保护好自己的钱包很重要。”新近加入阿里巴巴（09988.HK）的26岁求职者苏涵说，她在毕业后的六个月内入职，月薪相对可观。&lt;/p&gt;
-&lt;p&gt;苏涵认为互联网行业不稳定，因此她减少了冲动消费，制定长期计划，目标是积蓄200万元人民币——相当于她月薪的100倍。&lt;/p&gt;
-&lt;p&gt;根据支付宝理财产品余额宝的数据，截至2024年底，2000年后出生的用户平均每月进行20次存款，是五月份的两倍。五月份的数据相比去年同期增长了10%。当月每个人的账户余额接近3000元人民币，比上年同期增长50%。&lt;/p&gt;
-&lt;p&gt;一些经济学家警告说，这种深深的节俭态度可能削弱内需，而这正是政策制定者希望利用国内消费来促进中国经济增长的关键时期。持续的悲观情绪不仅已导致从汽车到珍珠奶茶的价格下跌，也将削弱世界第一大经济体的长期潜能。&lt;/p&gt;
-&lt;p&gt;这种现状与所谓的“月光族”一代形成了鲜明对比，后者的消费态度是自由挥霍的。这些1980年代和1990年代出生的人只看到工作机会的增加、收入的增长，以及生活质量的持续改善，因此每月的工资基本花光。&lt;/p&gt;
-&lt;p&gt;但冠状病毒大流行、经济放缓以及政府对科技公司和其他私营部门的打压，让今天的年轻人感到必须为最糟糕的情况做准备，政治经济学家霍丰·hung教授补充说。&lt;/p&gt;
-&lt;p&gt;“这种乐观情绪的消失是自1978年市场改革以来的首次。”hung教授说。&lt;/p&gt;
-&lt;p&gt;这种悲观情绪意味着许多年轻人正在寻求政府机关或国有企业的工作，他们认为这些工作提供了更稳定的工作保障——所谓的“铁饭碗”。&lt;/p&gt;
-&lt;p&gt;苏涵表示，她计划在未来某个时候参加公务人员考试。&lt;/p&gt;
-&lt;p&gt;截至2024年，约1亿16-24岁的中国青年失业率居高不下。&lt;/p&gt;
-&lt;p&gt;青年失业率在2023年6月达到历史最高点21.3%，促使官方暂停发布该数据系列，并重新评估统计数据编制方法。调整后，2024年12月的青年失业率降至15.7%。&lt;/p&gt;
-&lt;p&gt;26岁的深圳高中英语老师李莉从9月份开始她的新工作，每月工资超过1.0000元人民币，只保留了80%的收入，大幅减少了非必需品，如服装或音乐会门票的支出。&lt;/p&gt;
-&lt;p&gt;她原本想在大企业工作，但为了稳定，选择了教师职业。李莉说她计划在接下来的两到三年内寻找另一份工作，但她不确定是否能找到。&lt;/p&gt;
-&lt;p&gt;与千禧一代追求最大限度享受生活的理念不同，中国的Z世代的生存焦虑随着国家经济状况恶化而日益加深。&lt;/p&gt;
-&lt;p&gt;近期，他们使用中文描述“躺平”，并对深受“内卷”（指在竞争激烈的环境下的过度劳动和无效竞争）困扰的社会状况表达遗憾。&lt;/p&gt;
-&lt;p&gt;这些流行词汇紧随“丧文化”的兴起而来，后者庆祝消极态度，而“佛系青年”则指年轻一代漠然的生活态度。&lt;/p&gt;
-&lt;p&gt;莉雅·ng，香港耐利塞金融公司高级经济学家表示，“内卷化”趋势可能会加剧价格竞争，推动通缩，因为企业争夺较弱的需求。&lt;/p&gt;
-&lt;p&gt;“这种消费降级可能会削弱中等价位产品和服务。中国的长期潜在增长率将因此减缓。”&lt;/p&gt;
-&lt;p&gt;2024年中国国内生产总值的增长率为5.0%，但预计未来两年内增长率将放缓，数据如是公布。&lt;/p&gt;
+    &lt;img alt="Ships are docked at the Red Sea port of Hodeidah" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HNEHXQVMYNKD5I5D6RTVKTRVEU.jpg" /&gt;
+    &lt;figcaption style="text-align: center;"&gt;
+        &lt;i&gt;船只停泊在也门荷台达的红海港口，2024年7月31日。路透社/Khaled Abdullah/资料图片&lt;/i&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 10:29:20 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/yemens-houthis-will-target-only-israel-linked-vessels-after-gaza-ceasefire-says-2025-01-20/</guid></item><item><title>中国节俭的年轻人加速储蓄，增加经济风险</title><link>https://www.reuters.com/world/china/chinas-frugal-young-adults-accelerate-saving-raising-economic-risks-2025-01-20/</link><description>&lt;p&gt;节俭之风从疫情经济动荡起始，深化至房地产市场的危机，并因受政府促消费呼吁的影响，正不断加剧。Z世代的选择与政府的消费号召背道而驰，更注重储蓄。&lt;/p&gt;
+&lt;p&gt;在中国类似Instagram的Xiaohongshu平台上，很多30岁以下的年轻人正在分享如何在办公室午餐上节省开支和寻找廉价购物的信息。&lt;/p&gt;
+&lt;p&gt;同时，影响者们也在分享如何将财务自律生活方式化的建议。这类话题的帖子总数超过150万篇，共有超过1.3亿次浏览量。&lt;/p&gt;
+&lt;p&gt;苏艾娃（Ava Su）表示：“经济形势不太好，无论对于谁赚钱都显得困难，所以我认为保护好自己的钱包很重要。”她在毕业不到半年后加入阿里巴巴（9988.HK）并获得了相对舒适的薪水。&lt;/p&gt;
+&lt;p&gt;26岁的苏艾娃认为互联网行业不稳定，因此她减少了冲动消费，制定了长期计划，打算存够200万元（约273,512美元），约为其月收入的100倍。&lt;/p&gt;
+&lt;p&gt;据支付宝支付应用旗下的Yu'e Bao报告显示，截至2024年底，2000年以后出生的用户每月平均进行20次存款，比5月份的数量翻了一番。5月份的数据比去年同期上升了10%。人均账户余额约为3000元，相比去年同期增加了50%。&lt;/p&gt;
+&lt;p&gt;部分经济学家警告，这种情况会削弱国内消费需求，因为决策者正依赖内需促进中国经济增长。持续的悲观情绪已经开始导致汽车到泡泡牛奶茶等商品的价格下降，这会打击世界第二大经济体的长期潜力。&lt;/p&gt;
+&lt;p&gt;相比于所谓的“月光族”一代，即出生于1980年代和1990年代的人，他们见到的是就业机会和收入的不断增加，生活质量不断提高，这代人每月几乎所有工资都花光了。&lt;/p&gt;
+&lt;p&gt;但新冠肺炎、经济放缓以及政府对科技公司和其他私营部门的打击，使今天的年轻人感到需要为最坏的情况做准备。&lt;/p&gt;
+&lt;p&gt;约翰霍普金斯大学政治经济学教授霍 functor 左谓：“这种乐观主义的失去在北京市场改革开始的1978年以来是首次。”&lt;/p&gt;
+&lt;p&gt;悲观情绪促使许多年轻人寻求政府机构或国有企业的铁饭碗工作，因为他们认为这些职位更安全。苏艾娃计划在未来参加公务员考试。&lt;/p&gt;
+&lt;p&gt;在过去两年中，大约1亿6至24岁的中国人的失业率仍然较高。&lt;/p&gt;
+&lt;p&gt;2023年6月，失业率达到21.3%的历史新高，促使官员暂停该系列数据的发布并重新评估数据编制方法。2023年12月，校准后的青年人失业率下降至15.7%。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reuters.com/world/china/chinese-youth-flock-civil-service-slow-economy-puts-iron-rice-bowl-jobs-risk-2024-12-30/"&gt;李莉（Lily Li）&lt;/a&gt; 是深圳的一名26岁高中英语教师，最近一份工资超过1万元（约1364美元），她储蓄了80%，并大幅减少了衣服或演唱会门票等非必需品的开支。&lt;/p&gt;
+&lt;p&gt;她原本希望进入大公司工作，但为了稳定选择了成为一名教师。李莉表示计划在未来两到三年寻找其他职位，但是否能找到仍未确定。&lt;/p&gt;
+&lt;p&gt;不同于千禧一代享受生活的哲学，中国的Z世代的生存焦虑伴随着经济的恶化而加深。&lt;/p&gt;
+&lt;p&gt;近期，他们以“躺平等”形容现状，并哀叹一个“内卷”的社会，指的是陷入无意义的竞赛中。&lt;/p&gt;
+&lt;p&gt;这些新词汇随着“丧文化”的兴起而涌现，“丧文化”庆祝消极态度，“佛系青年”则指年轻人对待生活的无所谓。&lt;/p&gt;
+&lt;p&gt;有利斯基香港高级经济学家Ng Gary指出：“‘内卷’趋势可能会加剧价格竞争和通缩，因为企业为争夺较弱的需求而战。”&lt;/p&gt;
+&lt;p&gt;“这种消费下降可能导致中端产品和服务的空心化，从而减缓中国经济的长期增长潜力。”&lt;/p&gt;
+&lt;p&gt;据周五的数据，2024年中国国内生产总值（GDP）增长5.0%，但未来两年GDP增长预期将放缓。&lt;/p&gt;
 &lt;p&gt;(1美元=7.3123人民币)&lt;/p&gt;
-&lt;figure&gt;&lt;img alt="中国发布第四季度和2024全年经济增长数据" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HGFSX7PJBZMFPIYAL3NUYN7ULE.jpg" /&gt;&lt;figcaption style="text-align: center;"&gt;&lt;i&gt;上海外滩和浦东金融区背景下的春节景象，2025年1月16日，摄于中国，路透社/古川崇/资料图片&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 09:02:06 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-frugal-young-adults-accelerate-saving-raising-economic-risks-2025-01-20/</guid></item><item><title>哈马斯在停火首日释放人质，以色列释放巴勒斯坦囚犯</title><link>https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/</link><description>&lt;p&gt;哈马斯释放了三名以色列人质，而以色列释放了90名巴勒斯坦囚犯，这是为期15个月的冲突暂时停火的第一天，该冲突摧毁了加沙地带，引发了中东地区的动荡。&lt;/p&gt;
-&lt;p&gt;停火使巴勒斯坦人得以返回被轰炸的社区开始重建生活，同时救援车队运送了急需的援助物资。在加沙其他地方，人群庆祝哈马斯战士从藏身处现身。&lt;/p&gt;
-&lt;p&gt;在庆祝活动中，载有巴勒斯坦囚犯的巴士抵达约旦河西岸的拉姆安拉，并有数千人在场欢迎他们。据哈马斯称，从以色列监狱获释的囚犯包括来自约旦河西岸和耶路撒冷的69名妇女和21名少年。&lt;/p&gt;
-&lt;p&gt;在特拉维夫，数百名以色列人在国防部附近的广场上欢呼和流泪，正在观看加沙人质回家的直播画面。被哈马斯释放的三名女性人质乘坐红十字会车辆抵达现场，周围是哈马斯战士。&lt;/p&gt;
-&lt;p&gt;以色列武装部队表示，罗米·古恩、多伦·斯坦布雷彻和伊丽莎白·达玛里已经与她们的母亲团聚，并发布了她们看起来健健康康的视频片段。达玛里在被绑架时被枪击失去两根手指，她微笑着拥抱母亲，母亲则举着包扎好的手。&lt;/p&gt;
-&lt;p&gt;“我想告诉你们，罗米、多伦和伊丽莎白——整个国家拥抱你们。欢迎回家，”总理本雅明·内塔尼亚胡在电话中这样对一位指挥官说。&lt;/p&gt;
-&lt;p&gt;在希伯来大学医疗中心，这些妇女与家人进行了长时间的拥抱，从悲伤转向欢笑。微笑的达玛里身上围着一面以色列国旗。他们中的许多人是在2023年10月7日哈马斯对以色列发动袭击中被绑架的，约有250多人被绑架，1200多人死亡。&lt;/p&gt;
-&lt;p&gt;根据加沙医疗官员的说法，自那以后，近4.7万名巴勒斯坦人在以色列袭击中丧生。加沙人口约为230万，几乎全部人无家可归。约400名以色列士兵也在此次冲突中死亡。&lt;/p&gt;
-&lt;p&gt;停火协定规定，战斗暂停，援助物资送入加沙地带，以色列和外国的约2000名囚犯将被释放，作为换取哈马斯扣押的近100名以色列和外国囚犯中近33人获释的协定。许多被扣押者被认为已经死亡。&lt;/p&gt;
-&lt;p&gt;在加沙北部，巴勒斯坦人在被轰炸成废墟且扭曲的金属构成的惨烈战场中艰难前行。&lt;/p&gt;
-&lt;p&gt;“我感觉自己在沙漠中迷失了15个月后，终于找到了可以喝水的地方，”阿亚说，她已有一年多没有住在加沙城的家。&lt;/p&gt;
-&lt;p&gt;停火第一阶段于前夜生效，此前以色列空军和大炮进行了长达三小时的轰炸。&lt;/p&gt;
-&lt;p&gt;据巴勒斯坦卫生当局报道，停工最后阶段造成了13人死亡。以色列指责哈马斯在提供释放人质名单上迟缓，但称其打击了恐怖分子。哈马斯表示，提供名单的延迟是技术问题。&lt;/p&gt;
-&lt;p&gt;“今天加沙的枪声已经停止，”美国总统乔·拜登在离任的最后一天说，欢迎这场已经持续了超过一年的停火。“我们今天能达成这个协议，是因为以色列对哈马斯施压，得到了美国的支持。”&lt;/p&gt;
-&lt;p&gt;对哈马斯而言，停火提供了一个从长达15个月的藏匿中脱颖而出的机会。哈马斯警察身穿蓝色制服迅速展开部署，武装战士驾车驶过南部城市汗尤尼斯，人群欢呼：“哈萨姆·巴尔塞姆旅向你们致敬，”该组织的武装部队。&lt;/p&gt;
-&lt;p&gt;“所有抵抗派别都坚守立场，尽管是内塔尼亚胡这样的人，”一名战士告诉路透社。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特朗普盟友：哈马斯永不会管理加沙&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;重建加沙的具体计划尚未到位。哈马斯的回归将考验以色列的耐性和以色列发誓，要么全部摧毁哈马斯，要么继续战斗。&lt;/p&gt;
-&lt;p&gt;强硬的国家安全部长伊塔马尔·本格维尔因停火辞职，尽管其政党表示将不试图推翻内塔尼亚胡政府。另一名最著名的强硬派人物，财政部长本扎莱尔·斯莫特里奇仍然留任政府，但表示如果战争结束而不摧毁哈马斯，则宣布辞职。&lt;/p&gt;
-&lt;p&gt;停火在即将迎来美国总统当选人唐纳德·特朗普就职典礼的周末生效。特朗普国家安全顾问候选人迈克·沃尔茨表示，如果哈马斯违反该协议，美国将支持以色列“采取必要措施。”&lt;/p&gt;
-&lt;p&gt;“哈马斯永远不会管理加沙，对此完全不可接受。”&lt;/p&gt;
-&lt;p&gt;被摧毁的加沙城街上已经挤满了挥动巴勒斯坦国旗、用手机拍摄场景的人群。几辆满载家用用品的手推车在散落着残骸和废墟的路上行驶。&lt;/p&gt;
-&lt;p&gt;40岁的加沙城居民艾哈迈德·阿布·亚姆姆说，虽然停火可能避免了人员伤亡，但伤亡和破坏使得庆祝并不适宜。&lt;/p&gt;
-&lt;p&gt;“我们在巨大的痛苦中，是时候相互拥抱并哭泣了，”他说。&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J2Z5IX7FPRPK7OQDXJYGQ23Z3Y.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            站在刚从以色列监狱获释到达拉瓦的巴勒斯坦囚犯之中的一名释放者，摄影者：默萨·夸萨斯玛，2025年1月20日，拉姆安拉，以色列占领的约旦河西岸。路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZT6JIJN3IFPOPIDRXP66DO3OI4.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            一名刚从以色列监狱获释到达拉瓦的巴勒斯坦囚犯拍照留念，摄影者：阿马尔·阿瓦德，2025年1月20日，拉姆安拉，以色列占领的约旦河西岸。路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WRM45WX6MJJC5HF54ISCF2KF4U.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            谢拉达·贾拉尔，一名从以色列监狱获释到达拉瓦的巴勒斯坦囚犯，2025年1月19日，摄影者：马亚南·托夫/政府报道/路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WIDYONH2VBJH3KXLRT5JTPBHYI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            人们聚集在一辆载有获释巴勒斯坦囚犯的巴士附近，巴士是从以色列监狱释放这些囚犯的一部分，并作为加沙地带以哈马斯和以色列之间的停火协议的一部分，在达拉瓦，以色列占领的约旦河西岸，2025年1月20日。路透社/阿马尔·阿瓦德
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WCV37AJBSZIILJTLESHVQWDSYA.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            罗莎·赫维斯，从以色列监狱获释的一名刚从以色列监狱获释到达拉瓦的巴勒斯坦囚犯，在达拉瓦，2025年1月20日。路透社/贾马尔·阿瓦德
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DBUEWVHCNFLQVI3UOWMENB42JU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            质伦特·斯坦布雷彻，2025年1月19日，摄影者：马亚南·托夫/政府报道/路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L2OC5WGJBFPUVKKQMGKDAMMYLU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月20日，加沙地带拉姆安拉附近，以色列占领的约旦河西岸，在加沙地带加沙地带以哈马斯和以色列之间的停火协议下，一名获释的巴勒斯坦囚犯被释放后被相逢的群众欢呼，摄影者：阿马尔·阿瓦德，路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="加沙地带加沙停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DRGW26ZQWBMKFBX6GUUK4KWBBY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            人们聚集在一辆载有获释巴勒斯坦囚犯的巴士附近，巴士是从以色列监狱释放这些囚犯的一部分，并作为加沙地带以哈马斯和以色列之间的停火协议的一部分，在达拉瓦，以色列占领的约旦河西岸，2025年1月20日。路透社/阿马尔·阿瓦德
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="一场停火和以哈马斯之间的交换人质和交换囚犯协议的一部分，以色列被释放的人质" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FBBNZTM3H5PXBE5NESVEOWH6P4.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            被哈马斯在2023年10月7日袭击以色列期间绑架的被释放的英籍以色列人质伊莉莎白·达玛里，2025年1月19日，以色列拉马特甘的舍巴医学中心。路透社/托默·阿佩尔鲍姆
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="一场停火和以哈马斯之间的交换人质和交换囚犯协议的一部分，以色列被释放的人质" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/COZADV3QEZPFHONJV4H6RKLNTY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            哈马斯武装分子将被绑架者移交给国际红十字会（ICRC）的成员，作为2025年1月19日，加沙城加沙地带加沙地带以哈马斯和以色列之间的停火协议和交换人质和交换囚犯协议的一部分。路透社/达乌德·阿巴斯
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="电话观看预计释放的三名人质的报导，在特拉维夫" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EPKLB5M6OVNM7FXPXK3IDT6DAI.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月19日，特拉维夫，人们在观看报导的释放战争期间在加沙被绑架的罗米·古恩、多伦·斯坦布雷彻和伊莉莎白·达玛里，摄影者：希洛特，路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="一场停火和以哈马斯之间的停火和交换人质和交换囚犯协议的一部分，以色列被释放的人质" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GP24NNRXSZK2VHH6UZAJQFK5KY.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            战后加沙北部被摧毁房屋和建筑物俯瞰画面，摄影者：穆罕默德·阿巴斯，2025年1月19日，路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="特拉维夫电话观看预计释放的三名人质的报导" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7JFNQP6QZZJDBONYICNGVU6BOQ.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月19日，特拉维夫，人们观看报导的释放战争期间在加沙被绑架的罗米·古恩、多伦·斯坦布雷彻和伊莉莎白·达玛里，摄影者：希洛特，路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="以色列人质多伦·斯坦布雷彻，罗米·古恩，和一个手持被绑架的英国人质伊莉莎白·达玛里的照片的人" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UI7ZIWEIIVOX5EUVBP5A4AD4C4.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2023年3月14日，英国特拉维夫，一个手持英国人质伊莉莎白·达玛里照片的人。2023年10月7日，哈马斯袭击以色列期间，罗米·古恩和多伦·斯坦布雷彻被绑架的未修订手稿图片。路透社/托莫·阿佩尔鲍姆，Bring Them Home Now/路透社，罗米·古恩家庭/路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="一场停火和以哈马斯之间的交换人质和交换囚犯协议的一部分，以色列被释放的人质" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EM5GZWGOMFKKBAZAQVZ47VAN2A.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            哈马斯武装分子将被绑架者移交给国际红十字会（ICRC）的成员，加沙城，2025年1月19日。路透社/达乌德·阿巴斯
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="以色列释放巴勒斯坦囚犯作为停火和交换人质和交换囚犯协议的一部分，在拉姆安拉附近的西岸" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7OU2V5Y3VZPBFCCTSXJXNED3XM.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月19日，一名巴勒斯坦家庭在拉姆安拉附近的西岸站在以色列军事监狱奥弗附近，就在以色列释放巴勒斯坦囚犯作为停火和交换人质和交换囚犯协议的一部分。路透社/阿马尔·阿瓦德
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="在交火延迟被囚名单造成的影响下，穿着埃及胡袍款式的哈马斯战士庆祝" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LIGQLEQFIVPWVLF4Z4RYHXE6VU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月19日，汗尤尼斯，加沙地带南部，哈马斯战士庆祝。路透社/穆罕默德·萨勒姆
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="在战争推迟后，试图回到家园的被如何看待为逃难的巴勒斯坦人穿着，这发生在战后的北部加沙地带" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A24KSVFRO5IOLO4A2JENAFQYMU.jpg" /&gt;
-    &lt;figcaption style="text-align: center;"&gt;
-        &lt;i&gt;
-            2025年1月19日，在加沙的北部，在战后的一次因囚名单推迟而造成的各方延误后，试图回到家园的被看待为逃难的巴勒斯坦人，摄影者：达乌德·阿巴斯，路透社
-        &lt;/i&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img alt="以色列因囚名单延误造成的各方推迟，在拉姆安拉周围的以色列占领的约旦河西岸，以色列军事监狱附近，以色列部队" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/65NYEAT7QBPPDIN35NOI2HDCYE.jpg" /&gt;
-    &lt;figcaption style="text-align:</description><pubDate>Sun, 19 Jan 2025 00:08:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/</guid></item></channel></rss>
+&lt;img alt="中国发布第四季度及2024年全年GDP数据" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HGFSX7PJBZMFPIYAL3NUYN7ULE.jpg" /&gt;
+&lt;figcaption style="text-align: center;"&gt;
+&lt;p&gt;上海黄浦江畔，外滩与浦东金融区背景下的聚会人群，2025年1月16日。路透社/河野广志 文件照片&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description><pubDate>Mon, 20 Jan 2025 09:02:06 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/china/chinas-frugal-young-adults-accelerate-saving-raising-economic-risks-2025-01-20/</guid></item><item><title>哈马斯在停火第一天释放人质，以色列释放巴勒斯坦囚犯</title><link>https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/</link><description>&lt;p&gt;哈马斯释放了三名以色列人质，以色列释放了90名巴勒斯坦囚犯，此举标志着为期15个月的战争暂停，该战争摧毁了加沙地带，加剧了中东地区的紧张局势。&lt;/p&gt;
+&lt;p&gt;停火让巴勒斯坦人得以返回被轰炸的地区，开始重建他们的生活，而救援车辆运送了急需的援助物资。在加沙地带的其他地方，人群欢呼哈马斯武装人员从中神秘失踪。 &lt;/p&gt;
+&lt;p&gt;随着装有巴勒斯坦囚犯的巴士抵达被占领的西岸拉姆安拉，数千人迎接他们归来，哈马斯表示，从以色列监狱释放的囚犯中包括来自西岸和耶路撒冷的69名妇女和21名青少年。&lt;/p&gt;
+&lt;p&gt;在特拉维夫，数百名以色列人在军事情报总部附近的广场上欢呼并哭泣，观看加沙人质归来。现场直播的镜头中，三名女性人质被哈马斯武装人员包围，登上红十字会车辆。&lt;/p&gt;
+&lt;p&gt;以色列军队表示，罗米·戈南、多伦·斯坦布雷切尔和艾米莉·达马里已与她们的母亲团聚，并发布了一段显示她们看来健康良好的视频。达马里在被绑架当天被射中，失去两指，她露出微笑，紧紧拥抱她母亲的手上缠着绷带。&lt;/p&gt;
+&lt;p&gt;“我希望你们告诉她们，罗米、多伦和艾米莉——整个国家都在拥抱你们。欢迎回家。”总理本雅明·内塔尼亚胡通过电话向一名指挥官认真地说道。&lt;/p&gt;
+&lt;p&gt;在施巴医疗中心，妇女们在长时间的拥抱中与家人重逢，从泪光中透露出欢笑。笑容满面的达马里身披以色列国旗。按以色列的说法，他们当中有许多人在2023年10月7日哈马斯袭击以色列活动中被劫持，并有1,200人被击毙。&lt;/p&gt;
+&lt;p&gt;自那以来，据加沙的医务人员统计，已有超过4.7万名巴勒斯坦人在以色列袭击中丧生。近230万加沙人口中，几乎所有人都无家可归。约400名以色列士兵也在战争中丧生。&lt;/p&gt;
+&lt;p&gt;该停火协议要求交战双方停火，向加沙运送援助物资并释放近2000名在以色列监狱中的巴勒斯坦囚犯，作为交换，将释放大约近100名以色列和外国人质中的33人。许多人质被认为已死亡。&lt;/p&gt;
+&lt;p&gt;在加沙地带北部，巴勒斯坦人正艰难地走过被轰炸摧毁的废墟，这场战争中的一些地区被描述为被炸毁殆尽。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“我感觉就像在沙漠中走了15个月后终于找到了水，”来自加沙市的阿姨说，她已有超过一年没有自己的家。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;停火第一阶段在以色列战飞机群和炮火猛烈轰炸加沙地带后几个小时生效。&lt;/p&gt;
+&lt;p&gt;在停火前不久的突击中，有13人遇难，据巴勒斯坦卫生部门称。以色列指责哈马斯未能及时提供被释放人质名单，并称轰炸了恐怖分子。哈马斯表示理由是技术问题。&lt;/p&gt;
+&lt;p&gt;“今天，加沙地带的枪声已经平息，”美国当选总统乔·拜登在其任内的最后一天说，欢迎停火，这争取了一年多的和平谈判未能实现。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“我们今天达到了这一点，是因为以色列对哈马斯施加了压力，得到了美国的支持。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;对于哈马斯来说，停火提供了其在潜伏15个月后重登舞台的机会。在一些地区，着蓝色警服的哈马斯警察迅速部署，武装分子驾驶着南部城市凯恩尤尼斯的警车行进，人群欢呼，“致阿克萨旅”，这是其武装部门的名字。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“所有抵抗派别都坚持战斗，即便面对内塔尼亚胡。”一名武装分子告诉路透社记者。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;TRUMP AIDE: 'MORE NERVES THAN BRAINS'&lt;/p&gt;
+&lt;p&gt;战后如何治理加沙以及如何重建加沙的具体计划尚不明确，恢复哈马斯统治将考验以色列的决心，其宣称除非哈马斯完全解体，否则将持续战斗。&lt;/p&gt;
+&lt;p&gt;以色列内政部长伊塔马尔·本-格维尔因支持这项停火协议而辞去了内阁职务，尽管其政党表示不会试图推翻内塔尼亚胡政府。另一名顽固派，财政部长本齐瓦尔·斯莫特里奇则继续留在内阁，但他表示如果战争结束而哈马斯尚未完全被摧毁，他将辞职。&lt;/p&gt;
+&lt;p&gt;停火协议在周一就职典礼前夕生效，美国总统当选人唐纳德·特朗普就职前，他的国家安全顾问迈克·沃尔夫表示，如果哈马斯违背协议，美国将支持以色列“所必须采取的行动”。 &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“哈马斯永远无法统治加沙，这是完全不可接受的。”他说道。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在被摧毁的加沙城街头，人们已经逐渐变多，手持巴勒斯坦国旗并拍摄这些场景。几辆车上装满了家具，行驶在充满碎片和废墟的道路上。&lt;/p&gt;
+&lt;p&gt;40岁的加沙市民亚亚·阿卜·艾伊汉说，虽然停火或许保全了生命，但损失和破坏使得庆祝成为了奢望。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“我们处在深痛之中，需要拥抱哭泣，”他说。&lt;/p&gt;
+&lt;/blockquote&gt;
+::&lt;figure&gt;&lt;img alt="加沙地带停火下的巴勒斯坦囚犯释放" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/J2Z5IX7FPRPK7OQDXJYGQ23Z3Y.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名被释放的巴勒斯坦囚犯在抵达拉姆安拉的巴士上做出反应，该巴士是他们从以色列监狱释放的作为人质与其囚犯交换和加沙地带停火的一部分，2025年1月20日。路透社/马苏萨&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZT6JIJN3IFPOPIDRXP66DO3OI4.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一名被释放的巴勒斯坦囚犯在拉姆安拉被释放后在自己的车上拍照，作为人质与其囚犯交换和加沙地带停火的一部分，2025年1月20日。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="释放的被困者到达拉马特甘施巴医疗中心" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WRM45WX6MJJC5HF54ISCF2KF4U.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;罗米·戈南，拉马特甘，2025年1月19日。马阿雅南·托厄夫/GPO/路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WIDYONH2VBJH3KXLRT5JTPBHYI.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们聚集在被释放的巴勒斯坦囚犯从以色列监狱释放后释放出来的巴士旁边，作为人质与其囚犯交换和加沙地带停火的一部分，在靠近拉姆安拉的以色列军事监狱Ofer，2025年1月20日，路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被释放的哈马斯囚犯" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WCV37AJBSZIILJTLESHVQWDSYA.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;一位被释放的巴勒斯坦囚犯罗斯·阿维斯在与家人团聚后拥抱一个孩子，作为人质与其囚犯交换和加沙地带停火的一部分，在耶路撒冷，2025年1月20日。路透社/贾马勒·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="释放的被扣押者抵达拉马特甘施巴医疗中心" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DBUEWVHCNFLQVI3UOWMENB42JU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;多伦·斯坦布雷切尔，拉马特甘，2025年1月19日。马阿雅南·托厄夫/GPO/路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L2OC5WGJBFPUVKKQMGKDAMMYLU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;凯拉德·贾拉尔，一位被释放的巴勒斯坦囚犯，在与家人团聚后被一名被释放的巴勒斯坦囚犯在加沙市加沙地带，作为人质与其囚犯交换和加沙地带停火的一部分，2025年1月20日。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DRGW26ZQWBMKFBX6GUUK4KWBBY.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们聚集在一辆装着被释放的巴勒斯坦囚犯的巴士旁边，作为人质与其囚犯交换和加沙地带停火的一部分，在靠近拉姆安拉的以色列军事监狱Ofer，2025年1月20日。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="人质释放：哈马斯和以色列之间的停火协议和人质囚犯交换协议" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/FBBNZTM3H5PXBE5NESVEOWH6P4.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;哈马斯武装分子将劫持者移交给国际红十字会成员，作为人质与其囚犯交换和加沙地带停火协议的一部分，在加沙市，2025年1月19日。路透社/达乌德·阿布·卡尔萨&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EDA4DB7AP5MMBNOSBFX3YQXX3Q.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;释放的巴勒斯坦囚犯乘巴士出发，作为人质与其囚犯交换和加沙地带停火协议的一部分，2025年1月20日，靠近拉姆安拉的以色列军事监狱Ofer，被占领的西岸。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被释放的囚犯乘坐的巴士，这些囚犯在人质与囚犯交换和加沙地带停火协议中从以色列监狱中释放出，2025年1月20日，靠近拉姆安拉的以色列军事监狱Ofer，被占领的西岸。路透社/阿马尔·阿瓦德" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ODH4YUNMPZI2TH7CMEAKF2DEDE.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;人们聚集在一辆装着被释放的巴勒斯坦囚犯的巴士旁边，作为人质与其囚犯交换和加沙地带停火的一部分，在靠近拉姆安拉的以色列军事监狱Ofer，2025年1月20日。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被释放的哈马斯人质被第三代武装力量（红十字会）成员在加沙城的停火和人质与囚犯交换协议中交付" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/44I2A4UTCRMFZOUY2X42LWUXQI.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被释放的巴勒斯坦人质在加沙市，作为人质与其囚犯交换和加沙地带停火的一部分被移交第三代武装力量（红十字会）成员。2025年1月19日，路透社/达乌德·阿布·卡尔萨&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="人们观看新闻报道中即将释放的三名女子人质的新闻报道，2025年1月19日，特拉维夫。" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EPKLB5M6OVNM7FXPXK3IDT6DAI.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;新闻报道中显示的释放的罗米·戈南、多伦·斯坦布雷切尔和艾米莉·达马里三名女子，她们在2023年10月7日的哈马斯袭击中被劫持，特拉维夫，2025年1月19日。路透社/希洛特&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="以色列和哈马斯停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GP24NNRXSZK2VHH6UZAJQFK5KY.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;航拍显示北部加沙地带的房屋和建筑物倒塌成废墟，2025年1月19日。路透社/马哈茂德·阿巴斯索斯&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="人们观看新闻报道中即将释放的三名女子人质的新闻报道，2025年1月19日，特拉维夫。" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7JFNQP6QZZJDBONYICNGVU6BOQ.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;新闻报道中显示的释放的罗米·戈南、多伦·斯坦布雷切尔和艾米莉·达马里三名女子，她们在2023年10月7日的哈马斯袭击中被劫持，特拉维夫，2025年1月19日。路透社/希洛特&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UI7ZIWEIIVOX5EUVBP5A4AD4C4.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;特拉维夫，以色列3月14日（左）和无日期的手持艾米莉·达马里照片，她是2023年10月7日被哈马斯劫持的女子人质之一。路透社/塔莫尔·阿佩尔鲍姆，Bring Them Home Now/路透社，戈恩家庭/路透社&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被释放的囚犯被释放，作为人质与其囚犯交换和加沙地带停火协议的一部分，2025年1月19日，加沙市。路透社/达乌德·阿布·卡尔萨" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EM5GZWGOMFKKBAZAQVZ47VAN2A.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;被释放的巴勒斯坦囚犯在靠近拉姆安拉的被占领的西岸，作为人质与其囚犯交换和加沙地带停火协议的一部分，2025年1月19日，在若夫。路透社/阿马尔·阿瓦德&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="尽管在人质名单方面发生延误，哈马斯武装分子在哥尼斯堡庆祝停火" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LIGQLEQFIVPWVLF4Z4RYHXE6VU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;哥尼斯堡，2025年1月19日。路透社/穆罕默德·赛勒姆&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被炸弹摧毁的房屋和建筑物，被释放的巴勒斯坦人回返家园，2025年1月19日，加沙市。路透社/达乌德·阿布·卡尔萨" src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/A24KSVFRO5IOLO4A2JENAFQYMU.jpg" /&gt; &lt;figcaption style="text-align: center;"&gt;&lt;i&gt;加沙北部街区，2025年1月19日。路透社/达乌德·阿布·卡尔萨&lt;/i&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+::&lt;figure&gt;&lt;img alt="被释放的巴勒斯坦囚犯乘坐的巴士，作为人质与其囚犯交换和加沙地带停火协议的一部分，2025年1月19日，在靠近拉姆安拉的被占领的西岸的若夫。路透社/阿马尔</description><pubDate>Sun, 19 Jan 2025 00:08:17 GMT</pubDate><guid isPermaLink="true">https://www.reuters.com/world/middle-east/gaza-ceasefire-hostage-release-set-begin-2025-01-19/</guid></item></channel></rss>
