@@ -18,7 +18,7 @@ README_FILE = "README.md"
 BASE_DIR = "rss"
 MODEL = os.getenv("MODEL")
 OPENAI_API_KEY = os.getenv("API_KEY")
-OPENAI_BASE_URL = s.getenv("BASE_URL")
+OPENAI_BASE_URL = os.getenv("BASE_URL")
 
 
 # Prompts
