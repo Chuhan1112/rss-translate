@@ -53,12 +53,12 @@ jobs:
       - name: ls_show
         env:
           API_KEY: ${{ secrets.API_KEY }}
-          # BASE_URL: "https://api.siliconflow.cn/v1"
-          BASE_URL: "https://ai.gitee.com/v1"
+          BASE_URL: "https://api.siliconflow.cn/v1"
+          # BASE_URL: "https://ai.gitee.com/v1"
           # MODEL: "THUDM/glm-4-9b-chat"
-          # MODEL: "Qwen/Qwen2.5-7B-Instruct"
+          MODEL: "Qwen/Qwen2.5-7B-Instruct"
           # MODEL: "deepseek-ai/DeepSeek-V3"
-          MODEL: "DeepSeek-R1-Distill-Qwen-32B"
+          # MODEL: "DeepSeek-R1-Distill-Qwen-32B"
         run: |
           python main3.py
           python .github/cron_random.py
