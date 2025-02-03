@@ -56,7 +56,8 @@ jobs:
           
           # MODEL: "Vendor-A/Qwen/Qwen2-72B-Instruct"
           #MODEL: "THUDM/glm-4-9b-chat"
-          MODEL: "Qwen/Qwen2.5-7B-Instruct"
+          # MODEL: "Qwen/Qwen2.5-7B-Instruct"
+          MODEL: "deepseek-ai/DeepSeek-V3"
         run: |
           python main3.py
           python .github/cron_random.py
