@@ -3,10 +3,10 @@ import re
 import time
 import hashlib
 import configparser
+from configparser import ConfigParser, NoSectionError, NoOptionError
 from urllib import parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
-
 import feedparser
 from pygtrans import Translate
 from openai import OpenAI
@@ -136,11 +136,17 @@ def save_config(config, file_path):
     with open(file_path, "w") as configfile:
         config.write(configfile)
 
-def get_config_value(config, section, key):
-    return config.get(section, key).strip('"')
+def get_config_value(config: ConfigParser, section: str, key: str) -> str:
+    try:
+        return config.get(section, key).strip('"')
+    except (NoSectionError, NoOptionError) as e:
+        print(f"Error: {e}")
+        return ""
 
-def set_config_value(config, section, key, value):
-    config[section][key] = f'"{value}"'
+def set_config_value(config: ConfigParser, section: str, key: str, value: str) -> None:
+    if not config.has_section(section):
+        config.add_section(section)
+    config.set(section, key, f'"{value}"')
 
 def get_trans_config(config, section):
     action = get_config_value(config, section, "action")
