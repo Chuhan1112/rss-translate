@@ -2,8 +2,8 @@
 
 rss translate any to any
 
-![](https://github.com/talengu/rss-translate/workflows/circle_translate/badge.svg)
-![](https://github.com/talengu/rss-translate/workflows/Deploy/badge.svg)
+![](https://github.com/Chuhan1112/rss-translate/workflows/circle_translate/badge.svg)
+![](https://github.com/Chuhan1112/rss-translate/workflows/Deploy/badge.svg)
 
 you can edit [test.ini](https://github.com/talengu/rss-translate/edit/main/test.ini) to add orginal rss url. [help](https://github.com/talengu/rss-translate/issues/2)
 
