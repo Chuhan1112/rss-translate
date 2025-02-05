@@ -31,13 +31,31 @@ SYSTEM_PROMPT = """
 TITLE_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，希望你将以下新闻标题全部翻译成专业、准确的中文,直接返回翻译结果，不要添加任何额外信息"
 TITLE_PICK_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，根据新闻标题的英文原文和已翻译的两个备选结果，进行挑选和优化，直接返回翻译结果，不要添加任何额外信息"
 class RSSTranslator:
-    def __init__(self, url, source="auto", target="zh-CN"):
+    def __init__(self, url, source="auto", target="zh-CN", section=None, config=None):
         self.url = url
         self.source = source
         self.target = target
-        self.feed = feedparser.parse(url)
+        etag = get_config_value(config, section, "etag")
+        last_modified  = get_config_value(config, section, "last_modified")
         self.google_translator = Translate()
         self.openai_translator = OpenAI(api_key=OPENAI_API_KEY, base_url=OPENAI_BASE_URL)
+
+        feed = feedparser.parse(url,etag=etag, modified=last_modified)
+        # 如果服务器返回 304 Not Modified，跳过翻译
+        if feed.status == 304:
+            print(f"未更新: {self.url}")
+            self.feed = None
+            return  # 直接返回，避免修改 etag 和 last_modified
+
+        self.feed = feed
+
+        # 记录新的 ETag 和 Last-Modified
+        new_etag = feed.get("etag", "")
+        new_last_modified = feed.get("modified", "")
+
+        set_config_value(config, section, "etag", new_etag)
+        set_config_value(config, section, "last_modified", new_last_modified)
+
 
     def tran_with_google(self, content):
         if not content:
@@ -80,7 +98,7 @@ class RSSTranslator:
         )
 
     def get_translated_feed(self, max_items=2):
-        with ThreadPoolExecutor() as executor:
+        with ThreadPoolExecutor(max_workers=5) as executor:
             futures = {executor.submit(self.process_entry, entry): i for i, entry in enumerate(self.feed.entries[:max_items])}
             items = [future.result() for future in as_completed(futures) if future.result()]
 
@@ -140,7 +158,9 @@ def translate_feed(config, section):
     max_items = int(get_config_value(config, section, "max"))
     source, target = get_trans_config(config, section)
 
-    translator = RSSTranslator(url, source=source, target=target)
+    translator = RSSTranslator(url, source=source, target=target, section=section, config=config)
+    if not translator.feed:
+        return f" - {section} [{url}]({url}) -> [no update]\n"
     translated_feed = translator.get_translated_feed(max_items=max_items)
 
     output_path = os.path.join(BASE_DIR, name)
