@@ -29,7 +29,7 @@ SYSTEM_PROMPT = """
 确保返回格式符合html规范,但不要返回html代码，直接返回翻译结果，不要添加任何额外信息;
 """
 TITLE_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，希望你将以下新闻标题全部翻译成专业、准确的中文,直接返回翻译结果，不要添加任何额外信息"
-TITLE_PICK_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，根据新闻标题的英文原文和已翻译的两个备选结果，进行挑选和优化，直接返回翻译结果，不要添加任何额外信息"
+TITLE_PICK_PROMPT = "下面你将扮演一位有着 20 年经验的英语政经新闻翻译员，根据新闻标题的英文原文和已翻译的两个中文标题，给出你的翻译结果，直接返回翻译结果，不要添加任何额外信息"
 class RSSTranslator:
     def __init__(self, url, source="auto", target="zh-CN", section=None, config=None):
         self.url = url
