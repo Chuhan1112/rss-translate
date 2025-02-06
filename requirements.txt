@@ -1,6 +1,6 @@
-beautifulsoup4==4.11.1
-pygtrans==1.5.2
-feedparser==6.0.11
-rfeed==1.1.1
-configparser==7.1.0
-openai==1.35.10
+beautifulsoup4
+pygtrans
+feedparser
+rfeed
+configparser
+openai
