@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       logLevel:
+        description: 'Log level for the workflow'
         options:
         - info
         - warning

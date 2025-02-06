@@ -20,6 +20,9 @@ MODEL = os.getenv("MODEL")
 OPENAI_API_KEY = os.getenv("API_KEY")
 OPENAI_BASE_URL = os.getenv("BASE_URL")
 
+print("MODEL:", MODEL)
+print("OPENAI_BASE_URL:", OPENAI_BASE_URL)
+
 
 # Prompts
 SYSTEM_PROMPT = """
