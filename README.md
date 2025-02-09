@@ -12,5 +12,5 @@ next find the translated link in [https://chuhan1112.github.io/rss-translate/](h
 
 ## rss translate links
  - source004 [https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom) -> [Reuters_rss.xml](rss/Reuters_rss.xml)
- - source004 [https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom) -> [no update]
  - source005 [https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=china&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=china&format=Atom) -> [no update]
+ - source004 [https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom) -> [Reuters_rss.xml](rss/Reuters_rss.xml)
