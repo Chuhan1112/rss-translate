@@ -26,8 +26,8 @@ on:
    - cron: '27 18 * * *'
    - cron: '27 19 * * *'
    - cron: '27 20 * * *'
-   - cron: '27 5 * * *'
-   - cron: '27 2 * * *'
+   - cron: '27 3 * * *'
+   - cron: '27 4 * * *'
    - cron: '49 1 * * *'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
